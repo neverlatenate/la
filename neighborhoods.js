@@ -766,6 +766,27 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "11446 Artesia Blvd, Artesia, CA 90701",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=11446+Artesia+Blvd,+Artesia,+CA+90701"
+      },
+      {
+        "name": "Karishma Beauty Salon",
+        "description": "South Asian beauty salon on 187th St in the heart of Artesia.",
+        "type": "landmark",
+        "address": "11738 187th St, Artesia, CA 90701",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11738+187th+St,+Artesia,+CA+90701"
+      },
+      {
+        "name": "Ambala Cash and Carry",
+        "description": "Known for pickles and an enormous spices section; an anchor of the Artesia South Asian grocery scene.",
+        "type": "landmark",
+        "address": "18411 Pioneer Blvd, Artesia, CA 90701",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=18411+Pioneer+Blvd,+Artesia,+CA+90701"
+      },
+      {
+        "name": "Pak Halal Kitchen",
+        "description": "Halal Pakistani restaurant on Pioneer Blvd in the heart of Artesia Little India.",
+        "type": "landmark",
+        "address": "18743 Pioneer Blvd #101, Artesia, CA 90701",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=18743+Pioneer+Blvd+%23101,+Artesia,+CA+90701"
       }
     ]
   },
@@ -976,6 +997,13 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Drury House (Raphael Soriano, 1941)",
+        "description": "A 1941 International Style residence designed by Raphael Soriano, one of the earliest all-steel frame homes in California. Located in the View Park area of Baldwin Hills.",
+        "type": "landmark",
+        "address": "3852 Olympiad Dr, Los Angeles, CA 90043",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3852+Olympiad+Dr,+Los+Angeles,+CA+90043"
       }
     ]
   },
@@ -1198,6 +1226,20 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "",
         "mapUrl": "https://www.google.com/maps?q=34.0811,-118.438819"
+      },
+      {
+        "name": "Lauren Bacall Residence (former)",
+        "description": "Former residence of Hollywood legend Lauren Bacall.",
+        "type": "landmark",
+        "address": "10430 Bellagio Rd, Los Angeles, CA 90077",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=10430+Bellagio+Rd,+Los+Angeles,+CA+90077"
+      },
+      {
+        "name": "Beverly Hillbillies Mansion (rumored exterior)",
+        "description": "Mansion rumored to have been used for exterior shots of the classic TV series The Beverly Hillbillies.",
+        "type": "landmark",
+        "address": "417 Amapola Lane, Los Angeles, CA 90077",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=417+Amapola+Lane,+Los+Angeles,+CA+90077"
       }
     ]
   },
@@ -1213,6 +1255,13 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "4401 E Gage Ave, Bell, CA 90201",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=4401+E+Gage+Ave,+Bell,+CA+90201"
+      },
+      {
+        "name": "Alpha Theatre (Site of)",
+        "description": "Site of the former Alpha Theatre, a historic movie house that once served the Bell community.",
+        "type": "landmark",
+        "address": "4065 Gage Ave, Bell, CA 90201",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4065+Gage+Ave,+Bell,+CA+90201"
       }
     ]
   },
@@ -1250,6 +1299,27 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "16600 Civic Center Dr, Bellflower, CA 90706",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=16600+Civic+Center+Dr,+Bellflower,+CA+90706"
+      },
+      {
+        "name": "Bellflower Bagels (Big Donut location)",
+        "description": "One of the five remaining Big Donut Drive-In locations, housed in the iconic giant donut-shaped building.",
+        "type": "landmark",
+        "address": "17025 Bellflower Blvd, Bellflower, CA 90706",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=17025+Bellflower+Blvd,+Bellflower,+CA+90706"
+      },
+      {
+        "name": "B & D Wheel Alignment",
+        "description": "Long-standing auto shop on Lakewood Boulevard in Bellflower.",
+        "type": "landmark",
+        "address": "15812 Lakewood Blvd, Bellflower, CA 90706",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=15812+Lakewood+Blvd,+Bellflower,+CA+90706"
+      },
+      {
+        "name": "Coin-Op Laundry (Hanger Clip Architecture)",
+        "description": "Notable laundromat building featuring unique hanger clip architectural design on Artesia Blvd.",
+        "type": "landmark",
+        "address": "8702 Artesia Blvd, Bellflower, CA 90706",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8702+Artesia+Blvd,+Bellflower,+CA+90706"
       }
     ]
   },
@@ -1988,6 +2058,34 @@ const neighborhoodData = [
         "type": "sub-neighborhood",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Ramona Gardens Murals",
+        "description": "Vibrant public murals within the Ramona Gardens housing project.",
+        "type": "landmark",
+        "address": "2871 Lancaster Ave, Los Angeles, CA 90033",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2871+Lancaster+Ave,+Los+Angeles,+CA+90033"
+      },
+      {
+        "name": "Canters Deli Former Site",
+        "description": "Former site of Canters Deli on Cesar Chavez Ave.",
+        "type": "landmark",
+        "address": "2323 E Cesar E Chavez Ave, Los Angeles, CA 90033",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2323+E+Cesar+E+Chavez+Ave,+Los+Angeles,+CA+90033"
+      },
+      {
+        "name": "Ramona Gardens Housing Development",
+        "description": "Public housing development associated with the Big Hazard gang; subject of sociological studies on gang culture in LA.",
+        "type": "landmark",
+        "address": "2830 Lancaster Ave, Los Angeles, CA 90033",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2830+Lancaster+Ave,+Los+Angeles,+CA+90033"
+      },
+      {
+        "name": "Brittania St Neighborhood Mural",
+        "description": "Local neighborhood mural on Brittania St in Boyle Heights.",
+        "type": "landmark",
+        "address": "631 Brittania St, Los Angeles, CA 90033",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=631+Brittania+St,+Los+Angeles,+CA+90033"
       }
     ]
   },
@@ -2450,7 +2548,113 @@ const neighborhoodData = [
     "name": "Canoga Park",
     "region": "San Fernando Valley",
     "description": "A diverse neighborhood in the western San Fernando Valley, designated as an All-America City in 2005.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Rocket Liquor",
+        "description": "Local liquor store in Canoga Park.",
+        "type": "landmark",
+        "address": "21413 Vanowen St, Canoga Park, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=21413+Vanowen+St,+Canoga+Park,+CA"
+      },
+      {
+        "name": "da Vinci Studios",
+        "description": "Creative studio space on Roscoe Blvd.",
+        "type": "landmark",
+        "address": "22135 Roscoe Blvd, Canoga Park, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=22135+Roscoe+Blvd,+Canoga+Park,+CA"
+      },
+      {
+        "name": "Orcutt Ranch Horticultural Center Park",
+        "description": "A 24-acre park featuring an oak grove and heritage citrus orchard, originally part of the Orcutt Ranch estate.",
+        "type": "landmark",
+        "address": "23600 Roscoe Blvd, Canoga Park, CA 91304",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=23600+Roscoe+Blvd,+Canoga+Park,+CA+91304"
+      },
+      {
+        "name": "Orcutt Ranch Closed Entrance (West Hills)",
+        "description": "Closed secondary entrance to Orcutt Ranch Horticultural Center Park on Justice St.",
+        "type": "landmark",
+        "address": "23555 Justice St, West Hills, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=23555+Justice+St,+West+Hills,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Topanga Canyon Blvd Residential/Commercial Area",
+        "description": "Mixed residential and commercial strip along Topanga Canyon Blvd.",
+        "type": "landmark",
+        "address": "7222 Topanga Canyon Blvd, Canoga Park, CA 91303",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=7222+Topanga+Canyon+Blvd,+Canoga+Park,+CA+91303"
+      },
+      {
+        "name": "Robbins Bros. Engagement Ring Store",
+        "description": "Bills itself as the World's Biggest Engagement Ring Store.",
+        "type": "landmark",
+        "address": "6645 Topanga Canyon Blvd, Canoga Park, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6645+Topanga+Canyon+Blvd,+Canoga+Park,+CA"
+      },
+      {
+        "name": "West Valley Rubber Stamp",
+        "description": "Local rubber stamp and stationery shop on Sherman Way.",
+        "type": "landmark",
+        "address": "21519 Sherman Way, Canoga Park, CA 91303",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=21519+Sherman+Way,+Canoga+Park,+CA+91303"
+      },
+      {
+        "name": "Rockwell International Rocketdyne Division (F-1 Engine)",
+        "description": "Former Rocketdyne facility featuring a large F-1 rocket engine on display; F-1 engines powered the Saturn V moon rockets.",
+        "type": "landmark",
+        "address": "6633 Canoga Ave, Canoga Park, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6633+Canoga+Ave,+Canoga+Park,+CA"
+      },
+      {
+        "name": "Rainbo Records",
+        "description": "Historic record pressing plant that pressed records for artists including The Beatles and Tupac Shakur.",
+        "type": "landmark",
+        "address": "8960 Eton Ave, Canoga Park, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8960+Eton+Ave,+Canoga+Park,+CA"
+      },
+      {
+        "name": "Longhorn Saloon",
+        "description": "Local saloon on Sherman Way in Canoga Park.",
+        "type": "landmark",
+        "address": "21211 Sherman Way, Canoga Park, CA 91303",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=21211+Sherman+Way,+Canoga+Park,+CA+91303"
+      },
+      {
+        "name": "DeSoto Pharmacy (Old-Fashioned Malt Shop)",
+        "description": "Classic pharmacy still featuring an old-fashioned malt shop counter.",
+        "type": "landmark",
+        "address": "20914 Roscoe Blvd, Canoga Park, CA 91304",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=20914+Roscoe+Blvd,+Canoga+Park,+CA+91304"
+      },
+      {
+        "name": "Funny Guitar Building",
+        "description": "Notable commercial building with a distinctive guitar-shaped design on Topanga Canyon Blvd.",
+        "type": "landmark",
+        "address": "7500 Topanga Canyon Blvd, Canoga Park, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=7500+Topanga+Canyon+Blvd,+Canoga+Park,+CA"
+      },
+      {
+        "name": "Canoga Park Bowl",
+        "description": "Local bowling alley on Vanowen Street.",
+        "type": "landmark",
+        "address": "20122 Vanowen St, Canoga Park, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=20122+Vanowen+St,+Canoga+Park,+CA"
+      },
+      {
+        "name": "Owen Piano Co.",
+        "description": "Local piano dealer and service shop on Topanga Canyon Blvd.",
+        "type": "landmark",
+        "address": "7503 Topanga Canyon Blvd, Canoga Park, CA 91303",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=7503+Topanga+Canyon+Blvd,+Canoga+Park,+CA+91303"
+      },
+      {
+        "name": "Canoga Park Hand Car Wash",
+        "description": "Hand car wash on Sherman Way.",
+        "type": "landmark",
+        "address": "21004 Sherman Way, Canoga Park, CA 91303",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=21004+Sherman+Way,+Canoga+Park,+CA+91303"
+      }
+    ]
   },
   {
     "id": "canterbury-knolls",
@@ -2499,6 +2703,20 @@ const neighborhoodData = [
         "description": "",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Olympic Castle",
+        "description": "Known locally as the Olympic Castle for its distinctive castle-like architecture on West Olympic Blvd.",
+        "type": "landmark",
+        "address": "6542 W Olympic Blvd, Los Angeles, CA 90048",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6542+W+Olympic+Blvd,+Los+Angeles,+CA+90048"
+      },
+      {
+        "name": "Carthay Center Elementary School Garden",
+        "description": "School garden at Carthay Center Elementary School on West Olympic Blvd.",
+        "type": "landmark",
+        "address": "6351 W Olympic Blvd, Los Angeles, CA 90048",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6351+W+Olympic+Blvd,+Los+Angeles,+CA+90048"
       }
     ]
   },
@@ -2579,7 +2797,15 @@ const neighborhoodData = [
     "name": "Century City",
     "region": "Westside",
     "description": "A 176-acre district developed on the former backlot of 20th Century Fox.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Modern Family House",
+        "description": "The house used as the exterior of the Dunphy family home in the television show Modern Family.",
+        "type": "landmark",
+        "address": "2211 Fox Hills Dr, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2211+Fox+Hills+Dr,+Los+Angeles,+CA+90064"
+      }
+    ]
   },
   {
     "id": "century-cove",
@@ -3060,6 +3286,41 @@ const neighborhoodData = [
         "address": "10207 Lakewood Blvd, Downey, CA 90240",
         "description": "Oldest surviving McDonalds in the world; features the original single-arch design.",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=10207+Lakewood+Blvd,+Downey,+CA+90240"
+      },
+      {
+        "name": "Close To You Apartments (Carpenter Siblings)",
+        "description": "Formerly owned by musical siblings Richard and Karen Carpenter (The Carpenters). Named after their breakthrough hit.",
+        "type": "landmark",
+        "address": "8356 5th St, Downey, CA 90241",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8356+5th+St,+Downey,+CA+90241"
+      },
+      {
+        "name": "Johnie's Broiler (Historic Bob's Big Boy Site)",
+        "description": "Historic Googie-style drive-in, formerly a Bob's Big Boy; later operating as Johnie's Broiler. A preserved example of mid-century roadside architecture.",
+        "type": "landmark",
+        "address": "7447 Firestone Blvd, Downey, CA 90241",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=7447+Firestone+Blvd,+Downey,+CA+90241"
+      },
+      {
+        "name": "Original Taco Bell Site",
+        "description": "Site of the very first original Taco Bell, opened by Glen Bell in 1962.",
+        "type": "landmark",
+        "address": "7112 Firestone Blvd, Downey, CA 90241",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=7112+Firestone+Blvd,+Downey,+CA+90241"
+      },
+      {
+        "name": "Exotical Hawaiian Clothing Store",
+        "description": "Hawaiian clothing store on Firestone Blvd.",
+        "type": "landmark",
+        "address": "8136 Firestone Blvd, Downey, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8136+Firestone+Blvd,+Downey,+CA"
+      },
+      {
+        "name": "Downey Studios (former NASA/Boeing site)",
+        "description": "Major film and TV production studio complex located on a former NASA/Boeing manufacturing facility.",
+        "type": "landmark",
+        "address": "12214 Lakewood Blvd, Downey, CA 90242",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=12214+Lakewood+Blvd,+Downey,+CA+90242"
       }
     ]
   },
@@ -3356,7 +3617,365 @@ const neighborhoodData = [
     "name": "Eagle Rock",
     "region": "Northeast L.A.",
     "description": "An eclectic neighborhood with small-town charm, anchored by Occidental College and the iconic Eagle Rock sandstone formation.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Ernie Jr.'s (Mexican Restaurant)",
+        "description": "Mexican restaurant with Henry's Tacos-style font signage.",
+        "type": "landmark",
+        "address": "2803 W Broadway, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2803+W+Broadway,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Jay Duplass Residence",
+        "description": "Residence of writer, director, and actor Jay Duplass.",
+        "type": "landmark",
+        "address": "1674 Hill Dr, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1674+Hill+Dr,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Stained Glass Supplies",
+        "description": "Stained glass supply shop that has been in business for decades.",
+        "type": "landmark",
+        "address": "2104 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2104+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Queen's Arms",
+        "description": "Local bar and neighborhood gathering spot on York Blvd.",
+        "type": "landmark",
+        "address": "4375 York Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4375+York+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Pete's Blue Chip Burgers",
+        "description": "Classic burger joint on Colorado Blvd.",
+        "type": "landmark",
+        "address": "1701 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1701+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Merton Ave Apartment (Notable Architecture)",
+        "description": "Notably architecturally distinctive apartment building.",
+        "type": "landmark",
+        "address": "2317 Merton Ave, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2317+Merton+Ave,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Hal's Eagle Rock Pet Shop",
+        "description": "Long-standing local pet shop on Eagle Rock Blvd.",
+        "type": "landmark",
+        "address": "4374 Eagle Rock Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4374+Eagle+Rock+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Not Not Fun Records",
+        "description": "Influential indie/experimental music label on Loleta Ave.",
+        "type": "landmark",
+        "address": "5109 Loleta Ave, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5109+Loleta+Ave,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Brad Spence Studio",
+        "description": "Artist studio on Eagle Vista Drive.",
+        "type": "landmark",
+        "address": "1264 Eagle Vista Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1264+Eagle+Vista+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Casa Lu-An Motel",
+        "description": "Classic mid-century motel on Colorado Blvd.",
+        "type": "landmark",
+        "address": "1045 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1045+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Cindy's Coffee Shop",
+        "description": "Local coffee shop and neighborhood gathering spot.",
+        "type": "landmark",
+        "address": "1500 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1500+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Excessive Satellite Dishes Residence",
+        "description": "Residential property noted for an unusually excessive number of satellite dishes.",
+        "type": "landmark",
+        "address": "1502 El Paso Dr, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1502+El+Paso+Dr,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Pat & Lorraine's Coffee Shop",
+        "description": "Classic Eagle Rock coffee shop; a neighborhood institution.",
+        "type": "landmark",
+        "address": "4720 Eagle Rock Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4720+Eagle+Rock+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Yosemite Studios (former location)",
+        "description": "Former location of Yosemite Studios, used by artists including Souther Salazar.",
+        "type": "landmark",
+        "address": "1302 Yosemite Dr, Eagle Rock, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1302+Yosemite+Dr,+Eagle+Rock,+CA"
+      },
+      {
+        "name": "The Coffee Table Bistro",
+        "description": "Beloved neighborhood bistro and coffee spot on Colorado Blvd.",
+        "type": "landmark",
+        "address": "1958 Colorado Blvd, Eagle Rock, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1958+Colorado+Blvd,+Eagle+Rock,+CA+90041"
+      },
+      {
+        "name": "Renaissance Arts Academy (Pillers Building)",
+        "description": "Arts academy housed in the historic Pillers building on Argus Dr.",
+        "type": "landmark",
+        "address": "5088 Argus Dr, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5088+Argus+Dr,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Laser Coin Car Wash",
+        "description": "Local car wash on Colorado Blvd.",
+        "type": "landmark",
+        "address": "1707 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1707+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Leaving Records",
+        "description": "Independent record label and music shop on El Paso Dr.",
+        "type": "landmark",
+        "address": "1068 El Paso Dr, Los Angeles, CA 90042",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1068+El+Paso+Dr,+Los+Angeles,+CA+90042"
+      },
+      {
+        "name": "Women's Twentieth Century Club",
+        "description": "Historic women's club and social institution on Hermosa Ave.",
+        "type": "landmark",
+        "address": "5105 Hermosa Ave, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5105+Hermosa+Ave,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "The Islander Motel",
+        "description": "Classic motel on Colorado Blvd.",
+        "type": "landmark",
+        "address": "1460 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1460+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Old Googie Sign at Nese Realty",
+        "description": "Surviving Googie-era sign at a local realty office on Eagle Rock Blvd.",
+        "type": "landmark",
+        "address": "5033 Eagle Rock Blvd N, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5033+Eagle+Rock+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Eagle Rock Mall (Fil-Mart & Goldilocks)",
+        "description": "Strip mall featuring Fil-Mart and Goldilocks Bake Shop, a hub of the Filipino community.",
+        "type": "landmark",
+        "address": "2700 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2700+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Bon Temps Cottages (True Blood filming location)",
+        "description": "Residential cottages featured as the exterior of Merlotte's Bar in the television show True Blood.",
+        "type": "landmark",
+        "address": "5038 Ellenwood Dr, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5038+Ellenwood+Dr,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Hanson Puthuff House",
+        "description": "One of the oldest homes in the Eagle Rock area.",
+        "type": "landmark",
+        "address": "5261 College View Ave, Eagle Rock, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5261+College+View+Ave,+Eagle+Rock,+CA"
+      },
+      {
+        "name": "Dave's Chillin' and Grillin'",
+        "description": "Local grill on Colorado Blvd.",
+        "type": "landmark",
+        "address": "2152 Colorado Blvd, Eagle Rock, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2152+Colorado+Blvd,+Eagle+Rock,+CA+90041"
+      },
+      {
+        "name": "Living Faith Evangelical Church (former Yosemite/Pussycat Theatre)",
+        "description": "Former site of the Yosemite and Pussycat Theatre, now a church.",
+        "type": "landmark",
+        "address": "4884 Eagle Rock Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4884+Eagle+Rock+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "The Bucket Burger Stand (est. 1935)",
+        "description": "Historic 'rickety old shack' burger stand in continuous operation since 1935.",
+        "type": "landmark",
+        "address": "4541 Eagle Rock Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4541+Eagle+Rock+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Azteca Tire & Auto Repair",
+        "description": "Local auto repair shop on Eagle Rock Blvd.",
+        "type": "landmark",
+        "address": "4400 Eagle Rock Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4400+Eagle+Rock+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Philippine Village Center",
+        "description": "Filipino community commercial center on Eagle Rock Blvd.",
+        "type": "landmark",
+        "address": "4515 Eagle Rock Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4515+Eagle+Rock+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Siglio Press",
+        "description": "Publisher at the intersection of art and literature, based in Eagle Rock.",
+        "type": "landmark",
+        "address": "2432 Medlow Ave, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2432+Medlow+Ave,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Video Drive-In (VHS Club)",
+        "description": "Club dedicated to screening 'insane' and obscure VHS films.",
+        "type": "landmark",
+        "address": "4307 Mont Eagle Place, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4307+Mont+Eagle+Place,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Music Friends Recording Studio",
+        "description": "Local music recording studio and sound design service.",
+        "type": "landmark",
+        "address": "5242 Argus Dr, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5242+Argus+Dr,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Renaissance Arts Academy (historic Pillers Store neon)",
+        "description": "Historic Pillers Store location with preserved neon lettering, now housing Renaissance Arts Academy.",
+        "type": "landmark",
+        "address": "1800 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1800+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "The Oinkster",
+        "description": "Popular local burger and pastrami restaurant on Colorado Blvd.",
+        "type": "landmark",
+        "address": "2005 Colorado Blvd, Eagle Rock, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2005+Colorado+Blvd,+Eagle+Rock,+CA+90041"
+      },
+      {
+        "name": "Rock Row Green Condominiums",
+        "description": "Modern eco-conscious condominiums on Yosemite Drive.",
+        "type": "landmark",
+        "address": "1546 Yosemite Dr, Eagle Rock, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1546+Yosemite+Dr,+Eagle+Rock,+CA+90041"
+      },
+      {
+        "name": "Rose Bowl Motel",
+        "description": "Classic motel on Colorado Blvd.",
+        "type": "landmark",
+        "address": "1529 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1529+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Arbor Dell Road Vantage Point",
+        "description": "Vantage point for viewing Arbor Dell Road, a closed-off road running under the 134 Freeway.",
+        "type": "landmark",
+        "address": "1278 Blue Hill Rd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1278+Blue+Hill+Rd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Rambo's Taco Truck",
+        "description": "Popular local taco truck on Eagle Rock Blvd.",
+        "type": "landmark",
+        "address": "4250 Eagle Rock Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4250+Eagle+Rock+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "In The Red Records - Larry Hardy Home",
+        "description": "Home of In The Red Records owner Larry Hardy, an influential independent punk and garage rock label.",
+        "type": "landmark",
+        "address": "1726 N Ave 45, Eagle Rock, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1726+N+Ave+45,+Eagle+Rock,+CA"
+      },
+      {
+        "name": "Edwards & Wildey Building",
+        "description": "Historic commercial building on Colorado Blvd.",
+        "type": "landmark",
+        "address": "2160 Colorado Blvd, Eagle Rock, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2160+Colorado+Blvd,+Eagle+Rock,+CA+90041"
+      },
+      {
+        "name": "Conex Development Co (Giant Chess Piece)",
+        "description": "Commercial office featuring a giant chess piece sculpture.",
+        "type": "landmark",
+        "address": "2369 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2369+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "El Bioston / Sight Waves Autosound",
+        "description": "Local commercial address on Colorado Blvd.",
+        "type": "landmark",
+        "address": "1351 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1351+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Welcome Inn (Art Festival Site)",
+        "description": "Motel known as a regular site for community art festivals.",
+        "type": "landmark",
+        "address": "1840 W Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1840+W+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Hubert Barber Shop",
+        "description": "Local barbershop on Eagle Rock Blvd.",
+        "type": "landmark",
+        "address": "4908 Eagle Rock Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4908+Eagle+Rock+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Super A Foods",
+        "description": "Local grocery on Yosemite Dr.",
+        "type": "landmark",
+        "address": "2245 Yosemite Dr, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2245+Yosemite+Dr,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Unique Architecture Residence (Norwalk Ave)",
+        "description": "Notable residential building with unusual and distinctive architecture.",
+        "type": "landmark",
+        "address": "2235 Norwalk Ave, Eagle Rock, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2235+Norwalk+Ave,+Eagle+Rock,+CA+90041"
+      },
+      {
+        "name": "Garden of Believing",
+        "description": "Unique community garden and public art installation on Colorado Blvd.",
+        "type": "landmark",
+        "address": "2116 Colorado Blvd, Eagle Rock, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2116+Colorado+Blvd,+Eagle+Rock,+CA"
+      },
+      {
+        "name": "Life In A Tipi Residence",
+        "description": "Residential curiosity \u2014 a property where the occupants notably lived in a tipi.",
+        "type": "landmark",
+        "address": "1442 Hepner Ave, Eagle Rock, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1442+Hepner+Ave,+Eagle+Rock,+CA+90041"
+      },
+      {
+        "name": "The Farley Building (Mike Kelley's Studio)",
+        "description": "Site of artist Mike Kelley's studio, a significant location in the LA art world.",
+        "type": "landmark",
+        "address": "1669 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1669+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Tritch Hardware",
+        "description": "Long-standing local hardware store on Colorado Blvd.",
+        "type": "landmark",
+        "address": "1620 Colorado Blvd, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1620+Colorado+Blvd,+Los+Angeles,+CA+90041"
+      },
+      {
+        "name": "Eagle Rock Yacht Club",
+        "description": "Local watering hole humorously named the Eagle Rock Yacht Club \u2014 despite being landlocked.",
+        "type": "landmark",
+        "address": "1100 Eagle Vista Dr, Los Angeles, CA 90041",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1100+Eagle+Vista+Dr,+Los+Angeles,+CA+90041"
+      }
+    ]
   },
   {
     "id": "east-azusa",
@@ -3426,6 +4045,20 @@ const neighborhoodData = [
         "type": "sub-neighborhood",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Latin Playboy Nightclub (Former Site)",
+        "description": "Site of the former Latin Playboy Nightclub, a legendary East LA music and entertainment venue.",
+        "type": "landmark",
+        "address": "3555 E Cesar E Chavez Ave, Los Angeles, CA 90063",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3555+E+Cesar+E+Chavez+Ave,+Los+Angeles,+CA+90063"
+      },
+      {
+        "name": "The Tamale (Programmatic Architecture)",
+        "description": "Iconic programmatic building shaped like a giant tamale on Whittier Blvd.",
+        "type": "landmark",
+        "address": "6421 Whittier Blvd, Los Angeles, CA 90022",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6421+Whittier+Blvd,+Los+Angeles,+CA+90022"
       }
     ]
   },
@@ -3605,7 +4238,36 @@ const neighborhoodData = [
     "name": "Encino",
     "region": "San Fernando Valley",
     "description": "An affluent central Valley neighborhood featuring large residential estates, vibrant Ventura Boulevard shopping, and the historic Los Encinos State Historic Park. Its commercial corridors are dotted with eclectic local landmarks like the Encino Park Liquor neon sign, Mulberry Street Pizzeria, and the White Rabbit Smoke Shop.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Encino Park Liquor (Neon Sign)",
+        "description": "Local liquor store notable for its classic neon sign.",
+        "type": "landmark",
+        "address": "18001 Ventura Blvd, Encino, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=18001+Ventura+Blvd,+Encino,+CA"
+      },
+      {
+        "name": "Mulberry Street Pizzeria",
+        "description": "Well-regarded pizzeria on Ventura Blvd.",
+        "type": "landmark",
+        "address": "17040 Ventura Blvd, Encino, CA 91316",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=17040+Ventura+Blvd,+Encino,+CA+91316"
+      },
+      {
+        "name": "Old Nike Station LA-96C Radar Tower (Beneath Encino)",
+        "description": "Abandoned Nike missile radar station hidden in the Santa Monica Mountains above Encino.",
+        "type": "landmark",
+        "address": "4078 W Mandeville Fire Rd, Encino, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4078+W+Mandeville+Fire+Rd,+Encino,+CA"
+      },
+      {
+        "name": "La La Land Pool Party Filming Location",
+        "description": "Residential property used for the pool party scene in the 2016 film La La Land.",
+        "type": "landmark",
+        "address": "4533 Estrondo Dr, Encino, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4533+Estrondo+Dr,+Encino,+CA"
+      }
+    ]
   },
   {
     "id": "los-angeles-exposition-park",
@@ -3690,7 +4352,15 @@ const neighborhoodData = [
     "name": "Glassell Park",
     "region": "Los Angeles",
     "description": "A hilly northeast neighborhood experiencing a modern creative resurgence.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Urban Homestead (3053 Carlyle St)",
+        "description": "Urban homestead focused on self-reliance, permaculture, and sustainable living practices.",
+        "type": "landmark",
+        "address": "3053 Carlyle St, Los Angeles, CA 90065",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3053+Carlyle+St,+Los+Angeles,+CA+90065"
+      }
+    ]
   },
   {
     "id": "glendale",
@@ -3810,7 +4480,15 @@ const neighborhoodData = [
     "name": "Glendora",
     "region": "San Gabriel Valley",
     "description": "Known as the 'Pride of the Foothills', a residential community with a preserved downtown village.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Rubel Castle",
+        "description": "Handbuilt folk art castle by Michael Clarke Rubel, often called the San Gabriel Valley version of the Watts Towers. Built from salvaged materials over decades.",
+        "type": "landmark",
+        "address": "844 N Live Oak Ave, Glendora, CA 91741",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=844+N+Live+Oak+Ave,+Glendora,+CA+91741"
+      }
+    ]
   },
   {
     "id": "gorman",
@@ -3972,7 +4650,106 @@ const neighborhoodData = [
     "name": "Harvard Heights",
     "region": "Los Angeles",
     "description": "A historic central neighborhood noted for its large Craftsman-style homes. This area is a designated Historic Preservation Overlay Zone (HPOZ).",
-    "locations": []
+    "locations": [
+      {
+        "name": "Chabelita Mariscos",
+        "description": "Local seafood restaurant on South Western Ave.",
+        "type": "landmark",
+        "address": "1927 S Western Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1927+S+Western+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Historic Mansions near Harvard Heights Border",
+        "description": "Row of historic mansions near the border of Harvard Heights on S Manhattan Pl.",
+        "type": "landmark",
+        "address": "1376 S Manhattan Pl, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1376+S+Manhattan+Pl,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Elite Check Cashing",
+        "description": "Local check cashing business on W Washington Blvd.",
+        "type": "landmark",
+        "address": "1910 W Washington Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1910+W+Washington+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Iglesia De Restauracion Pentecoste Elohim",
+        "description": "Local Pentecostal church on S Western Ave.",
+        "type": "landmark",
+        "address": "1414 S Western Ave, Los Angeles, CA 90006",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1414+S+Western+Ave,+Los+Angeles,+CA+90006"
+      },
+      {
+        "name": "California District Communist Party USA",
+        "description": "Office of the California District of the Communist Party USA.",
+        "type": "landmark",
+        "address": "1251 S St Andrews Pl, Los Angeles, CA 90019",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1251+S+St+Andrews+Pl,+Los+Angeles,+CA+90019"
+      },
+      {
+        "name": "Former Lewinsky Mural Site",
+        "description": "Site of the former Lewinsky mural, a noted piece of political street art.",
+        "type": "landmark",
+        "address": "1912 S Western Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1912+S+Western+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Harvard Heights Peet House",
+        "description": "A two-story Victorian modest dwelling; a rare surviving example of late 19th-century residential architecture in Harvard Heights.",
+        "type": "landmark",
+        "address": "1139 S Harvard Blvd, Los Angeles, CA 90006",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1139+S+Harvard+Blvd,+Los+Angeles,+CA+90006"
+      },
+      {
+        "name": "SUV on Stilts Property",
+        "description": "Notable local property featuring an SUV mounted dramatically on stilts.",
+        "type": "landmark",
+        "address": "1409 S Western Ave, Los Angeles, CA 90006",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1409+S+Western+Ave,+Los+Angeles,+CA+90006"
+      },
+      {
+        "name": "G.O.5 Market",
+        "description": "Local market known for oxtail and Koreatown-adjacent murals.",
+        "type": "landmark",
+        "address": "1233 S Western Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1233+S+Western+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "United Magyar House",
+        "description": "Hungarian community center serving the local Magyar diaspora in Los Angeles.",
+        "type": "landmark",
+        "address": "1975 W Washington Blvd, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1975+W+Washington+Blvd,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "Maqueos Music Academy",
+        "description": "Local music academy on W Washington Blvd.",
+        "type": "landmark",
+        "address": "2142 W Washington Blvd, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2142+W+Washington+Blvd,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "Lucy Wheeler House (Greene & Greene)",
+        "description": "The only Greene and Greene-designed home in the City of Los Angeles proper; a Craftsman masterwork.",
+        "type": "landmark",
+        "address": "2175 Cambridge St, Los Angeles, CA 90006",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2175+Cambridge+St,+Los+Angeles,+CA+90006"
+      },
+      {
+        "name": "Stone Gatepost Remains (Former Historic House)",
+        "description": "Surviving stone gatepost remnants from a former historic residence on S Hobart Blvd.",
+        "type": "landmark",
+        "address": "1906 S Hobart Blvd, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1906+S+Hobart+Blvd,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "Egyptian Revival Residence",
+        "description": "Rare Egyptian Revival-style residential building on Westmoreland Blvd.",
+        "type": "landmark",
+        "address": "1816 Westmoreland Blvd, Los Angeles, CA 90006",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1816+Westmoreland+Blvd,+Los+Angeles,+CA+90006"
+      }
+    ]
   },
   {
     "id": "harvard-park",
@@ -4099,6 +4876,13 @@ const neighborhoodData = [
         "type": "sub-neighborhood",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Marc Maron Residence (WTF Podcast Garage)",
+        "description": "Home and garage studio of comedian and podcaster Marc Maron, where he records the legendary WTF with Marc Maron podcast. President Obama famously visited here for an episode in 2015.",
+        "type": "landmark",
+        "address": "1854 Phillips Way, Los Angeles, CA 90042",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1854+Phillips+Way,+Los+Angeles,+CA+90042"
       }
     ]
   },
@@ -4128,6 +4912,111 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Gilbert Lindsay Recreation Center Mural",
+        "description": "Public mural at the Gilbert Lindsay Recreation Center.",
+        "type": "landmark",
+        "address": "425 E 42nd Pl, Los Angeles, CA 90011",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=425+E+42nd+Pl,+Los+Angeles,+CA+90011"
+      },
+      {
+        "name": "Friday Filming Street (126th St)",
+        "description": "The residential street used for filming the 1995 Ice Cube comedy classic Friday.",
+        "type": "landmark",
+        "address": "1418 W 126th St, Los Angeles, CA 90047",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1418+W+126th+St,+Los+Angeles,+CA+90047"
+      },
+      {
+        "name": "Angelus Funeral Home (Paul R. Williams, 1934)",
+        "description": "Elegant 1934 Spanish/Georgian Revival funeral home designed by legendary Black architect Paul R. Williams.",
+        "type": "landmark",
+        "address": "1010 E Jefferson Blvd, Los Angeles, CA 90011",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1010+E+Jefferson+Blvd,+Los+Angeles,+CA+90011"
+      },
+      {
+        "name": "Perfect Paint & Body (former Roadside Bear site)",
+        "description": "Auto body shop on the former site of the Roadside Bear, a beloved neighborhood folk art landmark.",
+        "type": "landmark",
+        "address": "9640 S Vermont Ave, Los Angeles, CA 90044",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=9640+S+Vermont+Ave,+Los+Angeles,+CA+90044"
+      },
+      {
+        "name": "Southwest Bowl",
+        "description": "Classic neighborhood bowling alley on South Western Ave.",
+        "type": "landmark",
+        "address": "11633 S Western Ave, Los Angeles, CA 90047",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11633+S+Western+Ave,+Los+Angeles,+CA+90047"
+      },
+      {
+        "name": "Jessica's Crafts",
+        "description": "Local craft and party supply store known for famously unofficial and surreal Mickey Mouse party decorations.",
+        "type": "landmark",
+        "address": "6616 S Vermont Ave, Los Angeles, CA 90044",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6616+S+Vermont+Ave,+Los+Angeles,+CA+90044"
+      },
+      {
+        "name": "Jesucristo Religious Site",
+        "description": "Local religious site on S Hoover St.",
+        "type": "landmark",
+        "address": "4300 S Hoover St, Los Angeles, CA 90037",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4300+S+Hoover+St,+Los+Angeles,+CA+90037"
+      },
+      {
+        "name": "The Original Bill's Taco House",
+        "description": "Classic taco stand on MLK Blvd.",
+        "type": "landmark",
+        "address": "219 E Martin Luther King Jr Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=219+E+Martin+Luther+King+Jr+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "The Pelican (Belizean Restaurant)",
+        "description": "Restaurant specializing in Belizean cuisine.",
+        "type": "landmark",
+        "address": "4254 S Vermont Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4254+S+Vermont+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Earth Angel Producer House Studio",
+        "description": "Home studio of the producer behind the Penguins 1954 doo-wop classic Earth Angel, one of the first R&B crossover hits.",
+        "type": "landmark",
+        "address": "2190 W 30th St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2190+W+30th+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Eagle Wings of Enlightenment Center",
+        "description": "Local spiritual and community center.",
+        "type": "landmark",
+        "address": "1439 W 99th St, Los Angeles, CA 90047",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1439+W+99th+St,+Los+Angeles,+CA+90047"
+      },
+      {
+        "name": "South Central Neighborhood Mural (50th Pl)",
+        "description": "Community mural in the South Central area.",
+        "type": "landmark",
+        "address": "984 W 50th Pl, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=984+W+50th+Pl,+Los+Angeles,+CA"
+      },
+      {
+        "name": "New Creation Christian Faith Center (former Aldo Theatre)",
+        "description": "Church occupying the former Aldo Theatre building on S Western Ave.",
+        "type": "landmark",
+        "address": "8862 S Western Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8862+S+Western+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Dolphins of Hollywood (Former Site)",
+        "description": "Former location of Dolphins of Hollywood, the legendary R&B record store that broke countless hits and was a cornerstone of LA Black music culture.",
+        "type": "landmark",
+        "address": "1065 E Vernon Ave, Los Angeles, CA 90011",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1065+E+Vernon+Ave,+Los+Angeles,+CA+90011"
+      },
+      {
+        "name": "Bethlehem Baptist Church",
+        "description": "Historic Black Baptist church on S Compton Ave.",
+        "type": "landmark",
+        "address": "4901 S Compton Ave, Los Angeles, CA 90011",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4901+S+Compton+Ave,+Los+Angeles,+CA+90011"
       }
     ]
   },
@@ -4760,6 +5649,13 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "",
         "mapUrl": "https://www.google.com/maps?q=34.12447,-118.418417"
+      },
+      {
+        "name": "Bird Streets Residential Property (9344 Nightingale Dr)",
+        "description": "Residential property with incredible views in the prestigious Bird Streets area of the Hollywood Hills, a neighborhood known for ultra-luxury homes along avenues named after birds.",
+        "type": "landmark",
+        "address": "9344 Nightingale Dr, Los Angeles, CA 90069",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=9344+Nightingale+Dr,+Los+Angeles,+CA+90069"
       }
     ]
   },
@@ -5029,7 +5925,15 @@ const neighborhoodData = [
     "name": "Huntington Park",
     "region": "Southeast",
     "description": "A commercial hub for the Southeast LA area, centered on the bustling Pacific Boulevard.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Elias Pet Shop (G-Force filming location)",
+        "description": "Local pet shop featured in the 2009 Disney movie G-Force.",
+        "type": "landmark",
+        "address": "1808 E Florence Ave, Los Angeles, CA 90001",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1808+E+Florence+Ave,+Los+Angeles,+CA+90001"
+      }
+    ]
   },
   {
     "id": "hyde-park",
@@ -5100,7 +6004,15 @@ const neighborhoodData = [
     "name": "Kagel Canyon",
     "region": "South L.A.",
     "description": "Angeles National Forest - Unincorporated King Estates",
-    "locations": []
+    "locations": [
+      {
+        "name": "Don and Cyn Hideaway Country Bar & Grill",
+        "description": "A classic country bar and grill in the remote Kagel Canyon area of the Angeles Forest.",
+        "type": "landmark",
+        "address": "12122 Kagel Canyon Rd, Sylmar, CA 91342",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=12122+Kagel+Canyon+Rd,+Sylmar,+CA+91342"
+      }
+    ]
   },
   {
     "id": "king-estates",
@@ -5325,7 +6237,22 @@ const neighborhoodData = [
     "name": "Lake View Terrace",
     "region": "San Fernando Valley",
     "description": "San Fernando Valley",
-    "locations": []
+    "locations": [
+      {
+        "name": "Rodney King Incident Location",
+        "description": "Site of the March 3, 1991 beating of Rodney King by LAPD officers, filmed by George Holliday. The footage and subsequent acquittals sparked the 1992 LA Riots.",
+        "type": "landmark",
+        "address": "11777 Foothill Blvd, Lake View Terrace, CA 91342",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11777+Foothill+Blvd,+Lake+View+Terrace,+CA+91342"
+      },
+      {
+        "name": "Villa di Fontani (Fred Joerger)",
+        "description": "Residential property designed by Disney Imagineer Fred Joerger, known for designing environments for Disneyland attractions.",
+        "type": "landmark",
+        "address": "11414 Ruggiero Ave, Sylmar, CA 91342",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11414+Ruggiero+Ave,+Sylmar,+CA+91342"
+      }
+    ]
   },
   {
     "id": "lakeview",
@@ -5437,6 +6364,48 @@ const neighborhoodData = [
         "type": "sub-neighborhood",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Ptomaine Tommy's (Historic Restaurant Site)",
+        "description": "Site of Ptomaine Tommy's, one of LA's earliest and most famous chili parlors, operating from the 1910s through the 1950s.",
+        "type": "landmark",
+        "address": "2420 N Broadway, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2420+N+Broadway,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Mi Barra Deportes Bar",
+        "description": "Local sports bar on N San Fernando Rd.",
+        "type": "landmark",
+        "address": "138 N San Fernando Rd, Los Angeles, CA 90031",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=138+N+San+Fernando+Rd,+Los+Angeles,+CA+90031"
+      },
+      {
+        "name": "Lincoln Heights Urban Settlement",
+        "description": "Historic urban settlement area in Lincoln Heights on Johnston St.",
+        "type": "landmark",
+        "address": "2939 Johnston St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2939+Johnston+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "La Mano Press",
+        "description": "Independent letterpress print shop and community arts space.",
+        "type": "landmark",
+        "address": "1749 N Main St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1749+N+Main+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Broadway Social Center Pool Hall",
+        "description": "Local pool hall and social gathering spot on N Broadway.",
+        "type": "landmark",
+        "address": "2205 N Broadway, Los Angeles, CA 90031",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2205+N+Broadway,+Los+Angeles,+CA+90031"
+      },
+      {
+        "name": "Big Art Labs",
+        "description": "Artist studio and fabrication space on Clover St.",
+        "type": "landmark",
+        "address": "651 Clover St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=651+Clover+St,+Los+Angeles,+CA"
       }
     ]
   },
@@ -5459,7 +6428,15 @@ const neighborhoodData = [
     "name": "Little Bangladesh",
     "region": "Central L.A.",
     "description": "Koreatown, Central L.A.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Meghna Restaurant",
+        "description": "Bangladeshi restaurant on W 3rd St in the Little Bangladesh corridor.",
+        "type": "landmark",
+        "address": "4205 W 3rd St, Los Angeles, CA 90020",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4205+W+3rd+St,+Los+Angeles,+CA+90020"
+      }
+    ]
   },
   {
     "id": "little-belize",
@@ -5587,6 +6564,342 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "5771 Valley Oak Dr, Los Angeles, CA 90068",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=5771+Valley+Oak+Dr,+Los+Angeles,+CA+90068"
+      },
+      {
+        "name": "University of Philosophical Research",
+        "description": "Founded by Manly P. Hall in 1934; a non-profit dedicated to the study of philosophy, religion, and psychology.",
+        "type": "landmark",
+        "address": "3910 Los Feliz Blvd, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3910+Los+Feliz+Blvd,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Vermont Gurdwara Sikh Temple",
+        "description": "Sikh temple serving the local community on N Vermont Ave.",
+        "type": "landmark",
+        "address": "1966 N Vermont Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1966+N+Vermont+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Griffith Park Merry-Go-Round",
+        "description": "Classic 1926 Spillman Engineering carousel inside Griffith Park, still in operation.",
+        "type": "landmark",
+        "address": "4730 Crystal Springs Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4730+Crystal+Springs+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Vacation Records",
+        "description": "Independent record store on Hollywood Blvd in Los Feliz.",
+        "type": "landmark",
+        "address": "4679 Hollywood Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4679+Hollywood+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "The Autry Museum of the American West",
+        "description": "Major museum dedicated to the history and culture of the American West.",
+        "type": "landmark",
+        "address": "4700 Western Heritage Way, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4700+Western+Heritage+Way,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Villa de Liones (Beaux-Arts Tuscan Villa)",
+        "description": "Ornate Beaux-Arts Tuscan-style villa residence on Dundee Dr.",
+        "type": "landmark",
+        "address": "4601 Dundee Dr, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4601+Dundee+Dr,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Riverside Rancho (Former Honky Tonk)",
+        "description": "Site of the historic Riverside Rancho, one of LA's legendary country and western dance halls.",
+        "type": "landmark",
+        "address": "3213 Riverside Dr, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3213+Riverside+Dr,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Disney Brothers Studio (Original Location)",
+        "description": "The original location of the Disney Brothers Cartoon Studio, founded by Walt and Roy in 1923.",
+        "type": "landmark",
+        "address": "4649 Kingswell Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4649+Kingswell+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Snow White Cottages",
+        "description": "A cluster of fairy-tale cottages on Griffith Park Blvd said to have inspired the cottage design in Disney's Snow White and the Seven Dwarfs (1937).",
+        "type": "landmark",
+        "address": "2906-2910 Griffith Park Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2906+Griffith+Park+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Walt Disney's First Los Angeles Home",
+        "description": "The first home Walt Disney lived in upon arriving in Los Angeles in 1923.",
+        "type": "landmark",
+        "address": "2495 Lyric Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2495+Lyric+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Walt Disney's Home (1932-1949)",
+        "description": "Walt Disney's family home where he lived from 1932 until 1949; home during the creation of Snow White, Fantasia, and Bambi.",
+        "type": "landmark",
+        "address": "4053 Woking Way, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4053+Woking+Way,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Walt & Lillian Disney First Apartment",
+        "description": "The first apartment shared by Walt Disney and his wife Lillian after their marriage.",
+        "type": "landmark",
+        "address": "4637 N Melbourne Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4637+N+Melbourne+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Former Walt Disney Studio Lot (Hyperion Ave)",
+        "description": "Former site of the Walt Disney Studio on Hyperion Ave where Silly Symphonies, Snow White, and other early Disney classics were produced.",
+        "type": "landmark",
+        "address": "2719 Hyperion Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2719+Hyperion+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Walt Disney Early Residence (Uncle's House)",
+        "description": "Early residence of Walt Disney while staying with his uncle Robert, soon after arriving in Los Angeles.",
+        "type": "landmark",
+        "address": "4406 Kingswell Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4406+Kingswell+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Sister Mary Corita Studio",
+        "description": "Studio of celebrated pop artist and former nun Sister Mary Corita Kent, known for her vibrant graphic works.",
+        "type": "landmark",
+        "address": "5518 Franklin Ave, Hollywood, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5518+Franklin+Ave,+Hollywood,+CA"
+      },
+      {
+        "name": "Forrest Ackerman Estate (Former Sci-Fi Museum)",
+        "description": "Former residence of Famous Monsters of Filmland editor Forrest Ackerman, where he housed his legendary collection of science fiction and horror memorabilia.",
+        "type": "landmark",
+        "address": "2495 Glendower Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2495+Glendower+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Former Cinema Theatre",
+        "description": "Former movie theater on N Western Ave in the Los Feliz area.",
+        "type": "landmark",
+        "address": "1122 N Western Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1122+N+Western+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Lovell Health House (Richard Neutra)",
+        "description": "The Lovell Health House (1929), one of Richard Neutra's most celebrated works and a seminal International Style residence.",
+        "type": "landmark",
+        "address": "4616 Dundee Dr, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4616+Dundee+Dr,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Cecil B. DeMille Estate (Laughlin Park)",
+        "description": "Estate of Hollywood director Cecil B. DeMille, located within the historic Laughlin Park gated community.",
+        "type": "landmark",
+        "address": "2010 De Mille Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2010+De+Mille+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Laughlin Park Estates",
+        "description": "Historic private gated community; one of LA's earliest planned residential enclaves, home to many film luminaries.",
+        "type": "landmark",
+        "address": "2000 De Mille Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2000+De+Mille+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Trails Cafe",
+        "description": "Popular hiking cafe at the entrance to Griffith Park on Fern Dell Dr.",
+        "type": "landmark",
+        "address": "2333 N Fern Dell Dr, Los Angeles, CA 90068",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2333+N+Fern+Dell+Dr,+Los+Angeles,+CA+90068"
+      },
+      {
+        "name": "Ruby Sparks Filming Location",
+        "description": "Home featured in the 2012 film Ruby Sparks, designed by architect Fitzgibbons.",
+        "type": "landmark",
+        "address": "4822 Glencairn Rd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4822+Glencairn+Rd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "LaBianca Murder Site (Manson Family)",
+        "description": "Site of the Manson Family murders of Leno and Rosemary LaBianca on August 10, 1969, the night after the Tate murders.",
+        "type": "landmark",
+        "address": "3311 Waverly Dr, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3311+Waverly+Dr,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "The Prospect Studios",
+        "description": "Historic film and TV production studio complex.",
+        "type": "landmark",
+        "address": "4151 Prospect Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4151+Prospect+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Mt. Hollywood Drive ToonTown Tunnel (Who Framed Roger Rabbit)",
+        "description": "The tunnel on Mt. Hollywood Drive used as a filming location in Who Framed Roger Rabbit (1988).",
+        "type": "landmark",
+        "address": "Mt. Hollywood Dr, Los Angeles, CA 90068",
+        "mapUrl": "https://www.google.com/maps?q=34.123698,-118.301661"
+      },
+      {
+        "name": "Sarno's Pizza Di Napoli",
+        "description": "Local pizza restaurant on N Vermont Ave.",
+        "type": "landmark",
+        "address": "1712 N Vermont Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1712+N+Vermont+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Zachary Quinto Residence",
+        "description": "Home of actor Zachary Quinto in Los Feliz.",
+        "type": "landmark",
+        "address": "4019 Cumberland Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4019+Cumberland+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Hillhurst Liquor",
+        "description": "Local liquor store on Hillhurst Ave.",
+        "type": "landmark",
+        "address": "2060 Hillhurst Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2060+Hillhurst+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Clifford Clinton Home (Founder of Clifton's Cafeteria)",
+        "description": "Former home of Clifford Clinton, philanthropist and founder of the legendary Clifton's Cafeteria chain.",
+        "type": "landmark",
+        "address": "5470 Los Feliz Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5470+Los+Feliz+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Dingbat Apartment (Russell Ave)",
+        "description": "Classic example of the Los Angeles 'dingbat' apartment typology.",
+        "type": "landmark",
+        "address": "5447 Russell Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5447+Russell+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Harry Chandler & Father Yod Estate (Former)",
+        "description": "Former estate associated with LA Times publisher Harry Chandler and later Source Family leader Father Yod.",
+        "type": "landmark",
+        "address": "2411 N Inverness Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2411+N+Inverness+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Ghost Sign - Hollymont Apt Hotel",
+        "description": "Surviving ghost sign advertising the former Hollymont Apartment Hotel, painted on the building facade.",
+        "type": "landmark",
+        "address": "1771 N Vermont Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1771+N+Vermont+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Hollymont Cleaners & Laundry (Neon Sign)",
+        "description": "Local dry cleaner featuring a notable surviving vintage neon sign.",
+        "type": "landmark",
+        "address": "1759 N Vermont Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1759+N+Vermont+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Glenn Danzig Residence (Former)",
+        "description": "Former residence of Misfits and Danzig frontman Glenn Danzig in Los Feliz.",
+        "type": "landmark",
+        "address": "4544 Franklin Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4544+Franklin+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Yuca's Restaurant",
+        "description": "Beloved taqueria on Hillhurst, a James Beard Award-winning neighborhood institution.",
+        "type": "landmark",
+        "address": "2056 Hillhurst Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2056+Hillhurst+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "John Marshall High School",
+        "description": "Historic Los Feliz high school on Tracy St; notable alumni include Carol Burnett and Phil Silvers.",
+        "type": "landmark",
+        "address": "3939 Tracy St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3939+Tracy+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Broadway Smart Bridal Shop",
+        "description": "Local bridal shop on Fountain Ave.",
+        "type": "landmark",
+        "address": "4534 Fountain Ave, Los Angeles, CA 90029",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4534+Fountain+Ave,+Los+Angeles,+CA+90029"
+      },
+      {
+        "name": "Cary Grant Residence",
+        "description": "Former residence of Hollywood legend Cary Grant.",
+        "type": "landmark",
+        "address": "2177 W Live Oak Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2177+W+Live+Oak+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "The Ennis House (LA's Machu Picchu)",
+        "description": "Frank Lloyd Wright's 1924 textile-block masterpiece, nicknamed 'LA's Machu Picchu' for its monumental Mayan Revival facade. Featured in Blade Runner and other films.",
+        "type": "landmark",
+        "address": "2601 Glendower Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2601+Glendower+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Former Campus Movie Theatre",
+        "description": "Former movie theater on N Vermont Ave.",
+        "type": "landmark",
+        "address": "1020 N Vermont Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1020+N+Vermont+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Victor M. Carter Residence (Milton J. Black)",
+        "description": "Residential property designed by architect Milton J. Black.",
+        "type": "landmark",
+        "address": "4241 Newdale Dr, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4241+Newdale+Dr,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Notable Lettering Apartment (Melbourne Ave)",
+        "description": "Apartment building featuring distinctive and notable lettering on its facade.",
+        "type": "landmark",
+        "address": "4411 Melbourne Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4411+Melbourne+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Brad Pitt Residence (Former)",
+        "description": "Former residence of actor Brad Pitt in the Los Feliz hills.",
+        "type": "landmark",
+        "address": "5769 Briarcliff Rd, Los Angeles, CA 90068",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5769+Briarcliff+Rd,+Los+Angeles,+CA+90068"
+      },
+      {
+        "name": "Historic Craftsman Home (Russell Ave)",
+        "description": "Well-preserved historic craftsman bungalow on Russell Ave.",
+        "type": "landmark",
+        "address": "4344 Russell Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4344+Russell+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Kate Mara and Jamie Bell Residence",
+        "description": "Residence of actors Kate Mara and Jamie Bell.",
+        "type": "landmark",
+        "address": "2475 Park Oak Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2475+Park+Oak+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Craig Ellwood's Moore House",
+        "description": "Modernist residential design by architect Craig Ellwood.",
+        "type": "landmark",
+        "address": "4971 Bonvue Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4971+Bonvue+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Melbourne at Hillhurst Junction",
+        "description": "Notable neighborhood junction point.",
+        "type": "landmark",
+        "address": "4500 Melbourne Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4500+Melbourne+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Notable Ugly Fancy House (Cadman Dr)",
+        "description": "Locally noted residential property known for its unusual and divisive architectural character.",
+        "type": "landmark",
+        "address": "3636 Cadman Dr, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3636+Cadman+Dr,+Los+Angeles,+CA+90027"
       }
     ]
   },
@@ -5701,6 +7014,62 @@ const neighborhoodData = [
         "description": "A groundbreaking 1948 post-war housing tract designed by architect Gregory Ain. It stands as a premier example of mid-century modern 'social architecture,' featuring innovatively staggered lots and seamlessly integrated indoor-outdoor living spaces.",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Matchstick Men Filming Location",
+        "description": "Residential property associated with the 2003 Ridley Scott film Matchstick Men starring Nicolas Cage.",
+        "type": "landmark",
+        "address": "3508 Meier St, Los Angeles, CA 90066",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3508+Meier+St,+Los+Angeles,+CA+90066"
+      },
+      {
+        "name": "Venice Blvd Alley Mural",
+        "description": "Alley behind Venice Boulevard featuring a large mural that overtakes the entire building facade.",
+        "type": "landmark",
+        "address": "Alley behind Venice Blvd, Los Angeles, CA 90066",
+        "mapUrl": "https://www.google.com/maps?q=34.003368,-118.432842"
+      },
+      {
+        "name": "Mariscos Chente",
+        "description": "Popular seafood restaurant on S Centinela Ave.",
+        "type": "landmark",
+        "address": "4532 S Centinela Ave, Los Angeles, CA 90066",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4532+S+Centinela+Ave,+Los+Angeles,+CA+90066"
+      },
+      {
+        "name": "M&S Pharmacy",
+        "description": "Local pharmacy on S Centinela Ave.",
+        "type": "landmark",
+        "address": "4561 S Centinela Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4561+S+Centinela+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Gelner Residence (Tighe Architecture)",
+        "description": "Residential project by Tighe Architecture, representing contemporary modernist design in Mar Vista.",
+        "type": "landmark",
+        "address": "3672 Inglewood Blvd, Los Angeles, CA 90066",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3672+Inglewood+Blvd,+Los+Angeles,+CA+90066"
+      },
+      {
+        "name": "The Surplus Store (Earthquake Supplies)",
+        "description": "Specialty surplus and emergency preparedness store on Venice Blvd.",
+        "type": "landmark",
+        "address": "10341 Venice Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=10341+Venice+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Trash & Treasure",
+        "description": "Local vintage and thrift shop on Venice Blvd.",
+        "type": "landmark",
+        "address": "12316 Venice Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=12316+Venice+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Gregory Ain Modernique Homes - Main Model Home",
+        "description": "The main model home of Gregory Ain's landmark 1948 'Modernique Homes' tract, an early experiment in mass-produced modernist housing designed to be affordable.",
+        "type": "landmark",
+        "address": "3508 Moore St, Los Angeles, CA 90066",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3508+Moore+St,+Los+Angeles,+CA+90066"
       }
     ]
   },
@@ -6060,6 +7429,13 @@ const neighborhoodData = [
         "type": "sub-neighborhood",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Brookledge Theater (Precursor to the Magic Castle)",
+        "description": "Located in the Brookside area of Mid-City, the Brookledge Theater at 929 S. Longwood was an intimate private magic theater founded by Milt Larsen, which directly inspired and preceded the creation of the Magic Castle in Hollywood.",
+        "type": "landmark",
+        "address": "929 S Longwood Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=929+S+Longwood+Ave,+Los+Angeles,+CA"
       }
     ]
   },
@@ -6734,6 +8110,13 @@ const neighborhoodData = [
         "type": "sub-neighborhood",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Colby Poster Printing Co. (Former Site)",
+        "description": "Former site of Colby Poster Printing Company, a legendary LA poster printing operation that produced movie and concert posters for decades.",
+        "type": "landmark",
+        "address": "1332 W 12th St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1332+W+12th+St,+Los+Angeles,+CA"
       }
     ]
   },
@@ -6749,14 +8132,30 @@ const neighborhoodData = [
     "name": "Playa Vista",
     "region": "Westside",
     "description": "Including:",
-    "locations": []
+    "locations": [
+      {
+        "name": "SCI-Arc (Former Site)",
+        "description": "Former location of the Southern California Institute of Architecture before its move to the Arts District.",
+        "type": "landmark",
+        "address": "5454 Beethoven St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5454+Beethoven+St,+Los+Angeles,+CA"
+      }
+    ]
   },
   {
     "id": "playa-del-rey",
     "name": "Playa del Rey",
     "region": "South Bay",
     "description": "A quiet, laid-back beach community south of Marina del Rey.",
-    "locations": []
+    "locations": [
+      {
+        "name": "The Shack",
+        "description": "Classic beachside dude-food restaurant and bar in Playa del Rey.",
+        "type": "landmark",
+        "address": "185 Culver Blvd, Playa del Rey, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=185+Culver+Blvd,+Playa+del+Rey,+CA"
+      }
+    ]
   },
   {
     "id": "pomona",
@@ -6819,7 +8218,15 @@ const neighborhoodData = [
     "name": "Rancho Palos Verdes",
     "region": "South Bay",
     "description": "Known for its dramatic coastal cliffs, resorts, and Trump National Golf Club.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Marineland of the Pacific (Ruins)",
+        "description": "Modern-day ruins of Marineland of the Pacific in Portuguese Bend, one of California's first oceanariums, which closed in 1987.",
+        "type": "landmark",
+        "address": "Portuguese Bend, Rancho Palos Verdes, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Portuguese+Bend,+Rancho+Palos+Verdes,+CA"
+      }
+    ]
   },
   {
     "id": "rancho-park",
@@ -7118,6 +8525,104 @@ const neighborhoodData = [
         "address": "5043 Van Nuys Blvd, Sherman Oaks, CA 91403",
         "description": "Armet & Davis design featuring a massive stone fireplace and dramatic roofline.",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=5043+Van+Nuys+Blvd,+Sherman+Oaks,+CA+91403"
+      },
+      {
+        "name": "Vered Castle (formerly Bond Castle)",
+        "description": "Distinctive castle-style residential property on Chandler Blvd.",
+        "type": "landmark",
+        "address": "13307 Chandler Blvd, Sherman Oaks, CA 91401",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=13307+Chandler+Blvd,+Sherman+Oaks,+CA+91401"
+      },
+      {
+        "name": "Dingbat Apartment (Moorpark St)",
+        "description": "Classic Los Angeles dingbat-style stucco apartment building.",
+        "type": "landmark",
+        "address": "14025 Moorpark St, Sherman Oaks, CA 91423",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=14025+Moorpark+St,+Sherman+Oaks,+CA+91423"
+      },
+      {
+        "name": "La Frite Restaurant",
+        "description": "Long-running French bistro on Ventura Blvd.",
+        "type": "landmark",
+        "address": "15013 Ventura Blvd, Sherman Oaks, CA 91403",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=15013+Ventura+Blvd,+Sherman+Oaks,+CA+91403"
+      },
+      {
+        "name": "Casa de Cadillac Building",
+        "description": "Landmark automotive dealership building on Ventura Blvd.",
+        "type": "landmark",
+        "address": "14401 Ventura Blvd, Sherman Oaks, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=14401+Ventura+Blvd,+Sherman+Oaks,+CA"
+      },
+      {
+        "name": "Raising Hope Filming House",
+        "description": "Residential property featured as the main house in the TV show Raising Hope.",
+        "type": "landmark",
+        "address": "5511 Ethel Ave, Sherman Oaks, CA 91401",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5511+Ethel+Ave,+Sherman+Oaks,+CA+91401"
+      },
+      {
+        "name": "Sherman Oaks Castle Park",
+        "description": "Classic miniature golf and arcade destination on Sepulveda Blvd.",
+        "type": "landmark",
+        "address": "4989 Sepulveda Blvd, Sherman Oaks, CA 91403",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4989+Sepulveda+Blvd,+Sherman+Oaks,+CA+91403"
+      },
+      {
+        "name": "Pets Naturally Homeopathic Pet Store",
+        "description": "Specialty homeopathic and natural pet care store on Ventura Blvd.",
+        "type": "landmark",
+        "address": "13459 Ventura Blvd, Sherman Oaks, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=13459+Ventura+Blvd,+Sherman+Oaks,+CA"
+      },
+      {
+        "name": "La Reina Theatre (Adaptive Reuse)",
+        "description": "Historic La Reina Theatre building given new life through adaptive reuse.",
+        "type": "landmark",
+        "address": "14626 Ventura Blvd, Sherman Oaks, CA 91403",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=14626+Ventura+Blvd,+Sherman+Oaks,+CA+91403"
+      },
+      {
+        "name": "The Valley Inn",
+        "description": "Classic neighborhood bar and lounge on Sherman Oaks Ave.",
+        "type": "landmark",
+        "address": "4557 Sherman Oaks Ave, Sherman Oaks, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4557+Sherman+Oaks+Ave,+Sherman+Oaks,+CA"
+      },
+      {
+        "name": "Armet & Davis Building (1958)",
+        "description": "Commercial building designed by the renowned Googie architecture firm Armet and Davis in 1958.",
+        "type": "landmark",
+        "address": "5043 Van Nuys Blvd, Sherman Oaks, CA 91403",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5043+Van+Nuys+Blvd,+Sherman+Oaks,+CA+91403"
+      },
+      {
+        "name": "Mulberry Street Pizzeria",
+        "description": "Well-regarded New York-style pizzeria on Ventura Blvd.",
+        "type": "landmark",
+        "address": "15136 Ventura Blvd, Sherman Oaks, CA 91403",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=15136+Ventura+Blvd,+Sherman+Oaks,+CA+91403"
+      },
+      {
+        "name": "The Wiener Factory (Former Site)",
+        "description": "Former site of The Wiener Factory, a beloved Valley hot dog stand.",
+        "type": "landmark",
+        "address": "14917 Ventura Blvd, Sherman Oaks, CA 91403",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=14917+Ventura+Blvd,+Sherman+Oaks,+CA+91403"
+      },
+      {
+        "name": "AIM Healthcare",
+        "description": "Healthcare facility on Van Nuys Blvd.",
+        "type": "landmark",
+        "address": "4630 Van Nuys Blvd, Sherman Oaks, CA 91403",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4630+Van+Nuys+Blvd,+Sherman+Oaks,+CA+91403"
+      },
+      {
+        "name": "Antonio's Pizza",
+        "description": "Local pizza restaurant on Ventura Blvd.",
+        "type": "landmark",
+        "address": "13619 Ventura Blvd, Sherman Oaks, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=13619+Ventura+Blvd,+Sherman+Oaks,+CA"
       }
     ]
   },
@@ -7252,6 +8757,664 @@ const neighborhoodData = [
         "address": "2226 N Silver Lake Blvd, Los Angeles, CA 90039",
         "description": "The final official entry in the protected colony cluster along the Boulevard.",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=2226+N+Silver+Lake+Blvd,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Elliott Smith Memorial Wall / Solutions Audio-Video",
+        "description": "The wall outside Solutions Audio-Video became an impromptu memorial to singer-songwriter Elliott Smith after his death in 2003, covered in fan art and tributes.",
+        "type": "landmark",
+        "address": "4334 Sunset Blvd, Los Angeles, CA 90029",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4334+Sunset+Blvd,+Los+Angeles,+CA+90029"
+      },
+      {
+        "name": "Maltzan Architecture",
+        "description": "Studio of architect Michael Maltzan, known for innovative social housing and cultural projects in LA.",
+        "type": "landmark",
+        "address": "2801 Hyperion Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2801+Hyperion+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Silver Lake Art House (Mermaid and Cow)",
+        "description": "Residential art house featuring distinctive mermaid and cow sculptures and folk art exterior.",
+        "type": "landmark",
+        "address": "2007 Rosebud Ave, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2007+Rosebud+Ave,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Lexan MacCarthy Residence (Lorcan O'Herlihy)",
+        "description": "Residential design by architect Lorcan O'Herlihy.",
+        "type": "landmark",
+        "address": "3228 Fernwood Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3228+Fernwood+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Harmony Terrace / Silverlake Dingbat",
+        "description": "Classic Silver Lake dingbat-style apartment complex on Hyperion Ave.",
+        "type": "landmark",
+        "address": "2962 Hyperion Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2962+Hyperion+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Mack Sennett Stage (Mabel Normand Feature Film Co.)",
+        "description": "Historic silent film studio stage associated with Mack Sennett and the Mabel Normand Feature Film Company.",
+        "type": "landmark",
+        "address": "1215 Bates Ave, Los Angeles, CA 90029",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1215+Bates+Ave,+Los+Angeles,+CA+90029"
+      },
+      {
+        "name": "Latin Evangelical Immigration Services",
+        "description": "Community immigration services organization on Sunset Blvd.",
+        "type": "landmark",
+        "address": "3321 W Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3321+W+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Elevado de Castillo (Fantasy Architecture)",
+        "description": "Whimsical castle-inspired fantasy residential architecture.",
+        "type": "landmark",
+        "address": "1515 Elevado St, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1515+Elevado+St,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Burrows Residence (Gaudi-Influenced)",
+        "description": "Residential building with organic, Gaudi-influenced architectural detailing.",
+        "type": "landmark",
+        "address": "2384 Loma Vista Pl, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2384+Loma+Vista+Pl,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Haven of Rest Radio Ministry",
+        "description": "Historic Christian radio ministry on Hyperion Ave.",
+        "type": "landmark",
+        "address": "2432 Hyperion Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2432+Hyperion+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "The Foot Clinic",
+        "description": "Local podiatry clinic on Sunset Blvd.",
+        "type": "landmark",
+        "address": "2711 W Sunset Blvd, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2711+W+Sunset+Blvd,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Harry Koblick House (Richard Neutra)",
+        "description": "Residential design by modernist master Richard Neutra.",
+        "type": "landmark",
+        "address": "1818 Silverwood Terrace, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1818+Silverwood+Terrace,+Los+Angeles,+CA"
+      },
+      {
+        "name": "St. Teresa of Avila Church",
+        "description": "Catholic church on Fargo St in Silver Lake.",
+        "type": "landmark",
+        "address": "2216 Fargo St, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2216+Fargo+St,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Maria Rasputin Residence",
+        "description": "Former Silver Lake residence of Maria Rasputin, daughter of the infamous Russian mystic Grigori Rasputin.",
+        "type": "landmark",
+        "address": "3458 Larissa Dr, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3458+Larissa+Dr,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Black Cat Tavern (Early Gay Rights Demonstration)",
+        "description": "Site of one of the first documented gay rights demonstrations in the US, on New Year's Eve 1966-67, predating Stonewall.",
+        "type": "landmark",
+        "address": "3909 W Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3909+W+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Rene Faron Residence (Paul R. Williams)",
+        "description": "Residential design by legendary Black architect Paul R. Williams.",
+        "type": "landmark",
+        "address": "2081 Redcliff St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2081+Redcliff+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Silver Lake Residents Association Mural",
+        "description": "Community mural on Silver Lake Blvd.",
+        "type": "landmark",
+        "address": "396 Silver Lake Blvd, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=396+Silver+Lake+Blvd,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "La Founderie (Sculpture Casting Atelier)",
+        "description": "Professional sculpture casting atelier and fine art foundry.",
+        "type": "landmark",
+        "address": "1755 Glendale Blvd, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1755+Glendale+Blvd,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Julian Eltinge Home (Baxter St)",
+        "description": "Former home of Julian Eltinge, one of the most celebrated female impersonators of the early 20th century.",
+        "type": "landmark",
+        "address": "2328 Baxter St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2328+Baxter+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Gaudi-Influenced House (Loma Vista)",
+        "description": "Another Gaudi-influenced residential structure on Loma Vista Pl.",
+        "type": "landmark",
+        "address": "2348 Loma Vista Pl, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2348+Loma+Vista+Pl,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Schindler's How House",
+        "description": "Residential design by R.M. Schindler on Silver Ridge Ave.",
+        "type": "landmark",
+        "address": "2422 Silver Ridge Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2422+Silver+Ridge+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "The Manual Archives (Puppetry)",
+        "description": "Archive and workshop dedicated to the art of puppetry.",
+        "type": "landmark",
+        "address": "3320 W Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3320+W+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Julian Eltinge Residence (Fargo St)",
+        "description": "Residence of Julian Eltinge, famous early cross-dresser and vaudeville star.",
+        "type": "landmark",
+        "address": "2327 Fargo St, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2327+Fargo+St,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Harry Hay Residence (First Gay Organization Site)",
+        "description": "Home of Harry Hay, founder of the Mattachine Society in 1950, America's first sustained gay rights organization.",
+        "type": "landmark",
+        "address": "2328 Cove Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2328+Cove+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Muhammad Ali Mural",
+        "description": "Large-scale mural tribute to Muhammad Ali on Hyperion Ave.",
+        "type": "landmark",
+        "address": "2060 Hyperion Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2060+Hyperion+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Corralitas Drive Viewpoint (Silver Lake's Stonehenge)",
+        "description": "Notable viewpoint near the unofficial landmark known as Silver Lake's Stonehenge.",
+        "type": "landmark",
+        "address": "2500 Corralitas Dr, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2500+Corralitas+Dr,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Day Genik Artist's Studio",
+        "description": "Studio of the architecture and art practice Day Genik.",
+        "type": "landmark",
+        "address": "2416 Hidalgo Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2416+Hidalgo+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Park Imperial (Fake Japanese Style)",
+        "description": "Apartment complex with faux Japanese architectural styling.",
+        "type": "landmark",
+        "address": "3320 Griffith Park Blvd, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3320+Griffith+Park+Blvd,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Abaya Alterations",
+        "description": "Local tailoring and alterations shop on Sunset Blvd.",
+        "type": "landmark",
+        "address": "3235 Sunset Blvd, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3235+Sunset+Blvd,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Broken Art Tattoo",
+        "description": "Local tattoo parlor on Hyperion Ave.",
+        "type": "landmark",
+        "address": "2400 Hyperion Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2400+Hyperion+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Former Haymarket Church",
+        "description": "Former church building on N Hoover St.",
+        "type": "landmark",
+        "address": "507 N Hoover St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=507+N+Hoover+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Modernist Residence (Corralitas Dr)",
+        "description": "Modernist residential structure near the Corralitas hillside.",
+        "type": "landmark",
+        "address": "2586 Corralitas Dr, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2586+Corralitas+Dr,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Former Auto Bar / Watusi Bikini Mural",
+        "description": "Former auto bar site now notable for the Watusi Bikini mural on its facade.",
+        "type": "landmark",
+        "address": "2742 Rowena Ave, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2742+Rowena+Ave,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Mikron Liquor (Marlboro Pack Mural)",
+        "description": "Local liquor store distinguished by a giant Marlboro cigarette pack mural on the exterior.",
+        "type": "landmark",
+        "address": "631 Silver Lake Blvd, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=631+Silver+Lake+Blvd,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Geometric Concrete Art Yard",
+        "description": "Residential yard featuring striking geometric concrete art installations.",
+        "type": "landmark",
+        "address": "2677 Glendale Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2677+Glendale+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Leon Jewelry & Diamonds (Notable Neon)",
+        "description": "Jewelry shop on Sunset Blvd featuring a notable vintage neon sign.",
+        "type": "landmark",
+        "address": "3116 W Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3116+W+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Holy Virgin Mary Russian Orthodox Cathedral",
+        "description": "Russian Orthodox cathedral serving the local Eastern European community.",
+        "type": "landmark",
+        "address": "650 Micheltorena St, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=650+Micheltorena+St,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Russian Orthodox Cathedral Viewpoint",
+        "description": "Elevated viewpoint on Ellsworth St offering views of the Holy Virgin Mary Russian Orthodox Cathedral.",
+        "type": "landmark",
+        "address": "3346 Ellsworth St, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3346+Ellsworth+St,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Charlie White's Studio",
+        "description": "Studio of artist Charlie White on Hidalgo Ave.",
+        "type": "landmark",
+        "address": "2476 Hidalgo Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2476+Hidalgo+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Blackburn Lodge (Former Blackburn Sanitarium)",
+        "description": "Historic building that served as the Blackburn Sanitarium, now known as Blackburn Lodge.",
+        "type": "landmark",
+        "address": "2920 Rowena Ave, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2920+Rowena+Ave,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Moorish Fantasy Architecture (Parkman Ave)",
+        "description": "Distinctive residential building with Moorish-inspired fantasy architectural detailing.",
+        "type": "landmark",
+        "address": "933 Parkman Ave, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=933+Parkman+Ave,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Circle H Markets & Liquor",
+        "description": "Local market and liquor store on W Sunset Blvd.",
+        "type": "landmark",
+        "address": "2511 W Sunset Blvd, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2511+W+Sunset+Blvd,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Sun Lake Drugs (Historic Neon)",
+        "description": "Pharmacy with a notable surviving vintage neon sign on Sunset Blvd.",
+        "type": "landmark",
+        "address": "2860 W Sunset Blvd, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2860+W+Sunset+Blvd,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Edendale Farm",
+        "description": "Urban farm and community space in the Edendale area of Silver Lake.",
+        "type": "landmark",
+        "address": "2131 Moreno Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2131+Moreno+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Club Los Globos (formerly Satan's)",
+        "description": "Nightclub on Sunset Blvd, formerly known as Satan's.",
+        "type": "landmark",
+        "address": "3040 W Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3040+W+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "McIntosh House (Richard Neutra)",
+        "description": "Residential design by Richard Neutra on Maltman Ave.",
+        "type": "landmark",
+        "address": "1317 Maltman Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1317+Maltman+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Avenel Cooperative Housing Project",
+        "description": "R.M. Schindler-designed cooperative housing complex built for an artists and intellectuals community.",
+        "type": "landmark",
+        "address": "2849 Avenel St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2849+Avenel+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Site LA (Former Arts Residency)",
+        "description": "Former arts residency and exhibition space on Sunset Blvd.",
+        "type": "landmark",
+        "address": "2522 Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2522+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Former Andie MacDowell Residence",
+        "description": "Former Silver Lake residence of actress Andie MacDowell.",
+        "type": "landmark",
+        "address": "2157 Moreno Dr, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2157+Moreno+Dr,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Laurel & Hardy 'The Music Box' Steps",
+        "description": "The famous staircase on Vendome St used in the 1932 Oscar-winning Laurel & Hardy short film The Music Box.",
+        "type": "landmark",
+        "address": "935 N Vendome St, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=935+N+Vendome+St,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Baller Hardware / Art Ware",
+        "description": "Local hardware and art supply store on Tracy St.",
+        "type": "landmark",
+        "address": "3714 Tracy St, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3714+Tracy+St,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Droste House (R.M. Schindler)",
+        "description": "Residential design by Viennese modernist architect R.M. Schindler.",
+        "type": "landmark",
+        "address": "2025 Kenilworth Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2025+Kenilworth+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Silverlake Palms",
+        "description": "Residential complex on Silver Lake Blvd.",
+        "type": "landmark",
+        "address": "920 Silver Lake Blvd, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=920+Silver+Lake+Blvd,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Silverlake Car Wash (Googie Architecture)",
+        "description": "Car wash featuring Googie-style mid-century modern architecture on Beverly Blvd.",
+        "type": "landmark",
+        "address": "3595 Beverly Blvd, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3595+Beverly+Blvd,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "Silver Lake Community Church",
+        "description": "Local community church on Hyperion Ave.",
+        "type": "landmark",
+        "address": "2930 Hyperion Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2930+Hyperion+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Olive Motel",
+        "description": "Classic motel on Sunset Blvd.",
+        "type": "landmark",
+        "address": "2751 Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2751+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "El Criollo Market Mural",
+        "description": "Vibrant mural on the exterior of El Criollo Market on Bellevue Ave.",
+        "type": "landmark",
+        "address": "2906 Bellevue Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2906+Bellevue+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Fallen Fruit",
+        "description": "Public art collective project site on Talmadge St.",
+        "type": "landmark",
+        "address": "1405 Talmadge St, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1405+Talmadge+St,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "T.V. Graveyard Site",
+        "description": "Former site of the T.V. Graveyard, a legendary outdoor art installation.",
+        "type": "landmark",
+        "address": "2380 Fletcher Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2380+Fletcher+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Bates Motel (Sunset Pacific Motel)",
+        "description": "Quirky motel on Sunset Blvd nicknamed the Bates Motel by locals.",
+        "type": "landmark",
+        "address": "4301 Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4301+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Disney-Inspired Cottages (Silverado Dr)",
+        "description": "Cluster of whimsical Disney-inspired storybook cottages on Silverado Dr.",
+        "type": "landmark",
+        "address": "3212 Silverado Dr, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3212+Silverado+Dr,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Hallelujah Prayer Center",
+        "description": "Local church and prayer center on Glendale Blvd.",
+        "type": "landmark",
+        "address": "2828 Glendale Blvd, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2828+Glendale+Blvd,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Space Invader Mural (Sunset Coin-Op Laundry)",
+        "description": "Street art Space Invader mosaic mural on the exterior of Sunset Coin-Op Laundry.",
+        "type": "landmark",
+        "address": "1108 Hyperion Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1108+Hyperion+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "ON Klub (Former Mod Scene Club)",
+        "description": "Former site of the ON Klub, a legendary Mod scene nightclub.",
+        "type": "landmark",
+        "address": "3037 W Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3037+W+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Former Mack Sennett Keystone Studio",
+        "description": "Site of the original Mack Sennett Keystone Studio where the Keystone Kops and Charlie Chaplin early films were produced.",
+        "type": "landmark",
+        "address": "1717 Glendale Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1717+Glendale+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "La Parrilla Restaurant (Mexican Elvis)",
+        "description": "Mexican restaurant famous locally for its Mexican Elvis impersonator performances.",
+        "type": "landmark",
+        "address": "3129 Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3129+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "All American Korean Kung Fu Association",
+        "description": "Martial arts school and community institution on Tularosa Dr.",
+        "type": "landmark",
+        "address": "716 Tularosa Dr, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=716+Tularosa+Dr,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "El Figurin Barber Shop",
+        "description": "Local barbershop on Sunset Blvd.",
+        "type": "landmark",
+        "address": "2858 W Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2858+W+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "VietSoy",
+        "description": "Vietnamese-soy fusion restaurant on Hyperion Ave.",
+        "type": "landmark",
+        "address": "1997 Hyperion Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1997+Hyperion+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Frog Pond",
+        "description": "Local neighborhood spot on Hyperion Ave.",
+        "type": "landmark",
+        "address": "2106 Hyperion Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2106+Hyperion+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Mom's Donut & Chinese Food To Go",
+        "description": "Classic Silver Lake combo shop \u2014 donuts and Chinese food.",
+        "type": "landmark",
+        "address": "601 Silver Lake Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=601+Silver+Lake+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Philip Lumbang Mural (Controversy Site)",
+        "description": "Site of the Philip Lumbang mural that sparked a neighborhood controversy over public art and gentrification.",
+        "type": "landmark",
+        "address": "2359 Lake View Ave, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2359+Lake+View+Ave,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Ohara House (Richard Neutra)",
+        "description": "Residential design by Richard Neutra on Neutra Place.",
+        "type": "landmark",
+        "address": "2210 Neutra Pl, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2210+Neutra+Pl,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Sachs Apartments / Manola Court (R.M. Schindler)",
+        "description": "Multi-unit residential complex designed by R.M. Schindler.",
+        "type": "landmark",
+        "address": "1811 Edgecliff Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1811+Edgecliff+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Skinner House (William Kesling)",
+        "description": "Residential design by Silver Lake modernist architect William Kesling.",
+        "type": "landmark",
+        "address": "1530 N Easterly Terrace, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1530+N+Easterly+Terrace,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Snow White Cottages (Griffith Park Blvd)",
+        "description": "Storybook cottages on Griffith Park Blvd, said to have inspired the cottage design in Walt Disney's Snow White.",
+        "type": "landmark",
+        "address": "2906 Griffith Park Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2906+Griffith+Park+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Perling Mural",
+        "description": "Local public mural on Hyperion Ave.",
+        "type": "landmark",
+        "address": "1062 Hyperion Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1062+Hyperion+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Landmark Worldwide",
+        "description": "Self-development organization on Sunset Blvd.",
+        "type": "landmark",
+        "address": "3216 Sunset Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3216+Sunset+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Kala Wai",
+        "description": "Local business on Glendale Blvd.",
+        "type": "landmark",
+        "address": "2345 Glendale Blvd, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2345+Glendale+Blvd,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Schrage Hallauer House (Raphael Soriano)",
+        "description": "Residential design by influential modernist architect Raphael Soriano.",
+        "type": "landmark",
+        "address": "2648 Commonwealth Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2648+Commonwealth+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Bubeshko Apartments (R.M. Schindler)",
+        "description": "Multi-unit residential complex designed by R.M. Schindler on Griffith Park Blvd.",
+        "type": "landmark",
+        "address": "2036-2046 Griffith Park Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2036+Griffith+Park+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Static Medium Building (Dabs Myla Mural)",
+        "description": "Building featuring a large-scale mural by renowned street artists Dabs Myla.",
+        "type": "landmark",
+        "address": "650 N Hoover St, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=650+N+Hoover+St,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "Ellett Place Residential Property",
+        "description": "Local residential property in Silver Lake.",
+        "type": "landmark",
+        "address": "998 Ellett Pl, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=998+Ellett+Pl,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Westerly Terrace Viewpoint",
+        "description": "Notable hillside viewpoint in Silver Lake.",
+        "type": "landmark",
+        "address": "1257 Westerly Terrace, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1257+Westerly+Terrace,+Los+Angeles,+CA"
+      },
+      {
+        "name": "N-HN House",
+        "description": "Modernist residential design on Berkeley Circle.",
+        "type": "landmark",
+        "address": "3052 Berkeley Circle, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3052+Berkeley+Circle,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Gubel Residence",
+        "description": "Residential property on Elevado St in Silver Lake.",
+        "type": "landmark",
+        "address": "1661 Elevado St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1661+Elevado+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Corralitas Drive Viewpoint (2467)",
+        "description": "Local hillside viewpoint on Corralitas Dr.",
+        "type": "landmark",
+        "address": "2467 Corralitas Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2467+Corralitas+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Micheltorena St Residential (1923)",
+        "description": "Local residential property on Micheltorena St.",
+        "type": "landmark",
+        "address": "1923 Micheltorena St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1923+Micheltorena+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Silverlake Car Wash (Googie Architecture) 2",
+        "description": "Additional Googie-style car wash on Beverly Blvd.",
+        "type": "landmark",
+        "address": "3595 Beverly Blvd, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3595+Beverly+Blvd,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "Leo Jimenez Realty",
+        "description": "Local real estate office on Sunset Blvd.",
+        "type": "landmark",
+        "address": "2514 W Sunset Blvd, Los Angeles, CA 90026",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2514+W+Sunset+Blvd,+Los+Angeles,+CA+90026"
+      },
+      {
+        "name": "Griffith Park Blvd Residential (1525)",
+        "description": "Local residential address on Griffith Park Blvd.",
+        "type": "landmark",
+        "address": "1525 Griffith Park Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1525+Griffith+Park+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Dental Office of Dr. G. Theresa Stehura",
+        "description": "Local dental practice on Hyperion Ave.",
+        "type": "landmark",
+        "address": "1824 Hyperion Ave, Los Angeles, CA 90027",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1824+Hyperion+Ave,+Los+Angeles,+CA+90027"
+      },
+      {
+        "name": "Modernist Architecture near Corralitas Graffiti",
+        "description": "Modernist residential structure near Corralitas Dr graffiti wall.",
+        "type": "landmark",
+        "address": "2558 Corralitas Dr, Los Angeles, CA 90039",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2558+Corralitas+Dr,+Los+Angeles,+CA+90039"
+      },
+      {
+        "name": "Waverly Drive Apartment Complex",
+        "description": "Apartment complex on Waverly Dr.",
+        "type": "landmark",
+        "address": "2860 Waverly Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2860+Waverly+Dr,+Los+Angeles,+CA"
       }
     ]
   },
@@ -7764,6 +9927,13 @@ const neighborhoodData = [
         "type": "sub-neighborhood",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Ballerina Clown Sculpture (Jonathan Borofsky)",
+        "description": "Iconic 30-foot Ballerina Clown sculpture by Jonathan Borofsky mounted above the CVS on Main Street, one of Venice's most recognized public artworks.",
+        "type": "landmark",
+        "address": "255 Main St, Venice, CA 90291",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=255+Main+St,+Venice,+CA+90291"
       }
     ]
   },
@@ -7975,6 +10145,251 @@ const neighborhoodData = [
         "address": "8 Chester Pl, Los Angeles, CA 90007",
         "description": "The opulent estate of oil tycoon Edward L. Doheny.",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=8+Chester+Pl,+Los+Angeles,+CA+90007"
+      },
+      {
+        "name": "The Lyfe (Graphic Design & Designer Clothes)",
+        "description": "Local graphic design studio and designer clothing shop on Jefferson Blvd.",
+        "type": "landmark",
+        "address": "3612 Jefferson Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3612+Jefferson+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Cozy Castle",
+        "description": "Local establishment on Exposition Blvd.",
+        "type": "landmark",
+        "address": "4625 Exposition Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4625+Exposition+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "A. Partamian Armenian Bakery",
+        "description": "Long-running Armenian bakery on W Adams Blvd.",
+        "type": "landmark",
+        "address": "5410 W Adams Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5410+W+Adams+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "Old Janitor Supply Ghost Sign",
+        "description": "Surviving ghost sign for the 'Old Janitor Supply' painted on the building facade.",
+        "type": "landmark",
+        "address": "5281 W Adams Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5281+W+Adams+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "Redeemer Baptist Church",
+        "description": "Historic Baptist church on W Jefferson Blvd.",
+        "type": "landmark",
+        "address": "2003 W Jefferson Blvd, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2003+W+Jefferson+Blvd,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "The House Bunny Sorority House Filming Location",
+        "description": "The house used as the sorority house in the 2008 film The House Bunny.",
+        "type": "landmark",
+        "address": "2151 W 20th St, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2151+W+20th+St,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "Rindge Estate",
+        "description": "Historic estate associated with the Rindge family on S Harvard Blvd.",
+        "type": "landmark",
+        "address": "2263 S Harvard Blvd, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2263+S+Harvard+Blvd,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "Dandelion Ranch",
+        "description": "Community garden and urban farm on W Jefferson Blvd.",
+        "type": "landmark",
+        "address": "4701 W Jefferson Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4701+W+Jefferson+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "Pete's Louisiana Style Hot Links",
+        "description": "Classic Louisiana-style hot links restaurant on W Jefferson Blvd.",
+        "type": "landmark",
+        "address": "3701 W Jefferson Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3701+W+Jefferson+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "Kobbler King",
+        "description": "Local cobbler and shoe repair on W Jefferson Blvd.",
+        "type": "landmark",
+        "address": "3622 W Jefferson Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3622+W+Jefferson+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Synchronicity Intentional Community",
+        "description": "Cooperative intentional community on Westmoreland Blvd.",
+        "type": "landmark",
+        "address": "1666 Westmoreland Blvd, Los Angeles, CA 90006",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1666+Westmoreland+Blvd,+Los+Angeles,+CA+90006"
+      },
+      {
+        "name": "Adams Bargain Inc.",
+        "description": "Local bargain shop on W Adams Blvd.",
+        "type": "landmark",
+        "address": "4350 W Adams Blvd, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4350+W+Adams+Blvd,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "NTBA Gallery",
+        "description": "Local art gallery on W 25th St.",
+        "type": "landmark",
+        "address": "3511 W 25th St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3511+W+25th+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Golden State Mutual Life Building (Paul R. Williams)",
+        "description": "A landmark 1949 building designed by Paul R. Williams for Golden State Mutual Life Insurance, one of the largest Black-owned insurance companies in the US.",
+        "type": "landmark",
+        "address": "1999 W Adams Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1999+W+Adams+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "McWorld (Art Venue)",
+        "description": "Art venue and gathering space on W Adams Blvd.",
+        "type": "landmark",
+        "address": "5011 W Adams Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5011+W+Adams+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Washington Carburetors",
+        "description": "Local auto parts and carburetor shop on W Adams Blvd.",
+        "type": "landmark",
+        "address": "4863 W Adams Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4863+W+Adams+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "Masjid Abu Bakr As-Siddiq",
+        "description": "Local mosque on Crenshaw Blvd.",
+        "type": "landmark",
+        "address": "3611 Crenshaw Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3611+Crenshaw+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Phillips BBQ",
+        "description": "Legendary West Adams BBQ institution on Crenshaw Blvd.",
+        "type": "landmark",
+        "address": "2619 Crenshaw Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2619+Crenshaw+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "London Shop Barber Shop",
+        "description": "Long-standing local barbershop on W Adams Blvd.",
+        "type": "landmark",
+        "address": "4874 W Adams Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4874+W+Adams+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "Nick Metropolis (Collectibles & Antiques)",
+        "description": "Eclectic antiques and collectibles shop on W Adams Blvd.",
+        "type": "landmark",
+        "address": "1848 W Adams Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1848+W+Adams+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Johnny's Pastrami on Adams",
+        "description": "Classic LA pastrami stand on W Adams Blvd.",
+        "type": "landmark",
+        "address": "4331 W Adams Blvd, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4331+W+Adams+Blvd,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "Hauerwaas Residence",
+        "description": "Notable historic residence on W 27th St in West Adams.",
+        "type": "landmark",
+        "address": "3741 W 27th St, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3741+W+27th+St,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "Congregational Church of Christian Fellowship UCC",
+        "description": "Historic congregational church on S Hobart Blvd.",
+        "type": "landmark",
+        "address": "2085 S Hobart Blvd, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2085+S+Hobart+Blvd,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "J-N-J Burger & Bar-b-que",
+        "description": "Local burger and BBQ joint on W Adams Blvd.",
+        "type": "landmark",
+        "address": "5754 W Adams Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5754+W+Adams+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "Mariscos Maria's Restaurant",
+        "description": "Seafood restaurant on W Adams Blvd.",
+        "type": "landmark",
+        "address": "5640 W Adams Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5640+W+Adams+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "Braids By Sabrina",
+        "description": "Local hair braiding salon on W Adams Blvd.",
+        "type": "landmark",
+        "address": "5372 W Adams Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5372+W+Adams+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Marvin Gaye Former Residence",
+        "description": "Former residence of soul legend Marvin Gaye in West Adams.",
+        "type": "landmark",
+        "address": "2101 S Gramercy Pl, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2101+S+Gramercy+Pl,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Kinney Heights (West Adams)",
+        "description": "Historic residential enclave known as Kinney Heights.",
+        "type": "landmark",
+        "address": "2400 S Gramercy Pl, Los Angeles, CA 90018",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2400+S+Gramercy+Pl,+Los+Angeles,+CA+90018"
+      },
+      {
+        "name": "Pineapple Express Red's House Filming Location",
+        "description": "The house used as Red's home in the 2008 film Pineapple Express.",
+        "type": "landmark",
+        "address": "2817 Dalton Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2817+Dalton+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "The Giraffe House",
+        "description": "Residential property named for its distinctive giraffe-themed exterior decor.",
+        "type": "landmark",
+        "address": "2648 S Harcourt Ave, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2648+S+Harcourt+Ave,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "Club Fais Do-Do",
+        "description": "Historic West Adams music venue on W Adams Blvd.",
+        "type": "landmark",
+        "address": "5257 W Adams Blvd, Los Angeles, CA 90016",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5257+W+Adams+Blvd,+Los+Angeles,+CA+90016"
+      },
+      {
+        "name": "South Seas House",
+        "description": "Distinctive Polynesian Revival residential property on W 24th St.",
+        "type": "landmark",
+        "address": "2301 W 24th St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2301+W+24th+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "The Witwicky House (Transformers Filming Location)",
+        "description": "The house used as the Witwicky family home in the 2007 film Transformers.",
+        "type": "landmark",
+        "address": "2187 W 24th St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2187+W+24th+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Loyola High School (Donnie Darko Filming Location)",
+        "description": "Loyola High School, used as the high school filming location in the 2001 cult film Donnie Darko.",
+        "type": "landmark",
+        "address": "1901 Venice Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1901+Venice+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Avatar Meher Baba Center",
+        "description": "Spiritual center dedicated to Avatar Meher Baba on S Van Ness Ave.",
+        "type": "landmark",
+        "address": "1214 S Van Ness Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1214+S+Van+Ness+Ave,+Los+Angeles,+CA"
       }
     ]
   },
@@ -8117,7 +10532,246 @@ const neighborhoodData = [
     "name": "West Los Angeles",
     "region": "Westside",
     "description": "Commercial and residential mix, centered around Sawtelle Japantown.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Whitt's Woodyard",
+        "description": "Local firewood and kindling yard on Sepulveda Blvd.",
+        "type": "landmark",
+        "address": "2356 Sepulveda Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2356+Sepulveda+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Howard's Bacon & Avocado Burgers",
+        "description": "Classic burger joint on Venice Blvd known for bacon and avocado burgers.",
+        "type": "landmark",
+        "address": "11127 Venice Blvd, Los Angeles, CA 90034",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11127+Venice+Blvd,+Los+Angeles,+CA+90034"
+      },
+      {
+        "name": "Garden of Allah Hotel (Former Site)",
+        "description": "Former site of the legendary Garden of Allah Hotel on Sunset Blvd, a famous gathering place for Hollywood writers and film stars from the 1920s-50s.",
+        "type": "landmark",
+        "address": "8152 Sunset Blvd, West Hollywood, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8152+Sunset+Blvd,+West+Hollywood,+CA"
+      },
+      {
+        "name": "Record Surplus (Knocked Up Filming Location)",
+        "description": "Massive used record store featured in the 2007 Judd Apatow film Knocked Up.",
+        "type": "landmark",
+        "address": "11609 W Pico Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11609+W+Pico+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Don Antonio's Cantina",
+        "description": "Mexican restaurant on W Pico Blvd.",
+        "type": "landmark",
+        "address": "11755 W Pico Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11755+W+Pico+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "The Talpa Mexican Food",
+        "description": "Classic Mexican restaurant on W Pico Blvd.",
+        "type": "landmark",
+        "address": "11751 W Pico Blvd, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11751+W+Pico+Blvd,+Los+Angeles,+CA+90064"
+      },
+      {
+        "name": "Bikram Yoga World Headquarters",
+        "description": "Former world headquarters of Bikram Yoga on S La Cienega Blvd.",
+        "type": "landmark",
+        "address": "1862 S La Cienega Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1862+S+La+Cienega+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Medusa LA",
+        "description": "Local establishment on W Pico Blvd.",
+        "type": "landmark",
+        "address": "12003 W Pico Blvd, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=12003+W+Pico+Blvd,+Los+Angeles,+CA+90064"
+      },
+      {
+        "name": "Knocked Up Filming Location (Santa Monica Blvd)",
+        "description": "Filming location used in Judd Apatow's 2007 film Knocked Up.",
+        "type": "landmark",
+        "address": "12238 Santa Monica Blvd, Los Angeles, CA 90025",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=12238+Santa+Monica+Blvd,+Los+Angeles,+CA+90025"
+      },
+      {
+        "name": "Nick's Coffee Shop & Deli",
+        "description": "Classic diner and deli on W Pico Blvd.",
+        "type": "landmark",
+        "address": "8536 W Pico Blvd, Los Angeles, CA 90035",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8536+W+Pico+Blvd,+Los+Angeles,+CA+90035"
+      },
+      {
+        "name": "Baseball Central",
+        "description": "Baseball batting cages and sports facility on S La Cienega Blvd.",
+        "type": "landmark",
+        "address": "1858 S La Cienega Blvd, Los Angeles, CA 90035",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1858+S+La+Cienega+Blvd,+Los+Angeles,+CA+90035"
+      },
+      {
+        "name": "C.G. Jung Institute of Los Angeles",
+        "description": "Institute dedicated to Jungian psychology, education, and analysis.",
+        "type": "landmark",
+        "address": "10349 W Pico Blvd, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=10349+W+Pico+Blvd,+Los+Angeles,+CA+90064"
+      },
+      {
+        "name": "Paul's Tailoring",
+        "description": "Local tailoring shop on W Pico Blvd.",
+        "type": "landmark",
+        "address": "9417 W Pico Blvd, Los Angeles, CA 90035",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=9417+W+Pico+Blvd,+Los+Angeles,+CA+90035"
+      },
+      {
+        "name": "Fantasy Island",
+        "description": "Local establishment on W Pico Blvd.",
+        "type": "landmark",
+        "address": "11434 W Pico Blvd, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11434+W+Pico+Blvd,+Los+Angeles,+CA+90064"
+      },
+      {
+        "name": "Stone Apartments",
+        "description": "Classic apartment complex on Stoner Ave.",
+        "type": "landmark",
+        "address": "1519 Stoner Ave, Los Angeles, CA 90025",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1519+Stoner+Ave,+Los+Angeles,+CA+90025"
+      },
+      {
+        "name": "Rancho Park Veterinary Clinic Mural",
+        "description": "Large mural on the exterior of the Rancho Park Veterinary Clinic on W Pico Blvd.",
+        "type": "landmark",
+        "address": "10585 W Pico Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=10585+W+Pico+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Mr. Cecil's California Ribs",
+        "description": "Beloved BBQ rib restaurant on W Pico Blvd.",
+        "type": "landmark",
+        "address": "12244 W Pico Blvd, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=12244+W+Pico+Blvd,+Los+Angeles,+CA+90064"
+      },
+      {
+        "name": "Crown Car Wash",
+        "description": "Local car wash on W Pico Blvd.",
+        "type": "landmark",
+        "address": "10399 W Pico Blvd, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=10399+W+Pico+Blvd,+Los+Angeles,+CA+90064"
+      },
+      {
+        "name": "Royal Santa Monica Motel",
+        "description": "Classic motel on Santa Monica Blvd.",
+        "type": "landmark",
+        "address": "10811 Santa Monica Blvd, Los Angeles, CA 90025",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=10811+Santa+Monica+Blvd,+Los+Angeles,+CA+90025"
+      },
+      {
+        "name": "Jan's Liquor",
+        "description": "Local liquor store on W Pico Blvd.",
+        "type": "landmark",
+        "address": "12300 W Pico Blvd, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=12300+W+Pico+Blvd,+Los+Angeles,+CA+90064"
+      },
+      {
+        "name": "Sepulveda West Car Wash and Smog Center",
+        "description": "Local car wash and smog check on S Sepulveda Blvd.",
+        "type": "landmark",
+        "address": "2001 S Sepulveda Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=2001+S+Sepulveda+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Monte Alban Restaurant",
+        "description": "Oaxacan restaurant on Santa Monica Blvd.",
+        "type": "landmark",
+        "address": "11927 Santa Monica Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11927+Santa+Monica+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Panda Cave",
+        "description": "Local establishment on Westwood Blvd.",
+        "type": "landmark",
+        "address": "1767 Westwood Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1767+Westwood+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Warhol Art Collection Theft Residence",
+        "description": "Westside home where an Andy Warhol art collection was stolen in a notable art heist.",
+        "type": "landmark",
+        "address": "1140 Angelo Dr, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1140+Angelo+Dr,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Mariner Center Mini-Mall",
+        "description": "Local mini-mall on W Pico Blvd.",
+        "type": "landmark",
+        "address": "9301 W Pico Blvd, Los Angeles, CA 90035",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=9301+W+Pico+Blvd,+Los+Angeles,+CA+90035"
+      },
+      {
+        "name": "King Fu Restaurant",
+        "description": "Local Chinese restaurant on W Pico Blvd.",
+        "type": "landmark",
+        "address": "8681 W Pico Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8681+W+Pico+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Mattress King",
+        "description": "Local mattress store on W Pico Blvd.",
+        "type": "landmark",
+        "address": "11731 W Pico Blvd, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=11731+W+Pico+Blvd,+Los+Angeles,+CA+90064"
+      },
+      {
+        "name": "The Apple Pan",
+        "description": "Legendary burger and pie diner open since 1947, a West LA institution.",
+        "type": "landmark",
+        "address": "10801 W Pico Blvd, Los Angeles, CA 90064",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=10801+W+Pico+Blvd,+Los+Angeles,+CA+90064"
+      },
+      {
+        "name": "The Merchant of Tennis",
+        "description": "Classic tennis equipment and apparel shop on S La Cienega Blvd.",
+        "type": "landmark",
+        "address": "1118 S La Cienega Blvd, Los Angeles, CA 90035",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1118+S+La+Cienega+Blvd,+Los+Angeles,+CA+90035"
+      },
+      {
+        "name": "Dingbat Apartment (S Westgate Ave)",
+        "description": "Classic dingbat-style stucco apartment building.",
+        "type": "landmark",
+        "address": "1642 S Westgate Ave, Los Angeles, CA 90025",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1642+S+Westgate+Ave,+Los+Angeles,+CA+90025"
+      },
+      {
+        "name": "Helios House (BP Gas Station)",
+        "description": "An architecturally distinctive green-design BP gas station designed by Johnston Marklee architects.",
+        "type": "landmark",
+        "address": "8770 W Olympic Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8770+W+Olympic+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Dingbat Apartment (S Sherbourne Dr)",
+        "description": "Classic dingbat-style stucco apartment building on S Sherbourne Dr.",
+        "type": "landmark",
+        "address": "1928 S Sherbourne Dr, Los Angeles, CA 90034",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1928+S+Sherbourne+Dr,+Los+Angeles,+CA+90034"
+      },
+      {
+        "name": "Roll Inn Sandwich (Closed)",
+        "description": "Former sandwich shop on Gayley Ave near UCLA, now closed.",
+        "type": "landmark",
+        "address": "950 Gayley Ave, Los Angeles, CA 90024",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=950+Gayley+Ave,+Los+Angeles,+CA+90024"
+      },
+      {
+        "name": "S Hamel Rd Residential Address",
+        "description": "Notable residential address on S Hamel Rd.",
+        "type": "landmark",
+        "address": "428 S Hamel Rd, Los Angeles, CA 90048",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=428+S+Hamel+Rd,+Los+Angeles,+CA+90048"
+      }
+    ]
   },
   {
     "id": "west-palos-verdes",
@@ -8188,6 +10842,13 @@ const neighborhoodData = [
         "address": "201 World Wy, Los Angeles, CA 90045",
         "description": "Space-age centerpiece of LAX; designed by Pereira & Luckman, Paul R. Williams, and Welton Becket.",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=201+World+Wy,+Los+Angeles,+CA+90045"
+      },
+      {
+        "name": "Dinah's Restaurant",
+        "description": "Classic family restaurant on S Sepulveda Blvd, a Westchester institution since 1959.",
+        "type": "landmark",
+        "address": "6521 S Sepulveda Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6521+S+Sepulveda+Blvd,+Los+Angeles,+CA"
       }
     ]
   },
@@ -8328,7 +10989,169 @@ const neighborhoodData = [
     "name": "Wilshire Center",
     "region": "Central L.A.",
     "description": "The dense, high-rise commercial core of Koreatown, characterized by historic Art Deco structures and modern towers.",
-    "locations": []
+    "locations": [
+      {
+        "name": "Oliver Cromwell Apartments",
+        "description": "Historic apartment building on S Normandie Ave.",
+        "type": "landmark",
+        "address": "418 S Normandie Ave, Los Angeles, CA 90020",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=418+S+Normandie+Ave,+Los+Angeles,+CA+90020"
+      },
+      {
+        "name": "Jollibee",
+        "description": "Filipino fast food chain location on Beverly Blvd, serving the local Filipino community.",
+        "type": "landmark",
+        "address": "3831 Beverly Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3831+Beverly+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Caribbean Apartments Sign",
+        "description": "Vintage script sign for the Caribbean Apartments on S Normandie Ave.",
+        "type": "landmark",
+        "address": "141 S Normandie Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=141+S+Normandie+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Normandie First Plaza",
+        "description": "Local commercial plaza at Normandie and First.",
+        "type": "landmark",
+        "address": "4100 W First St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4100+W+First+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Don's Fountain of Health",
+        "description": "Local health food and supplement shop on W 6th St.",
+        "type": "landmark",
+        "address": "3606 W 6th St, Los Angeles, CA 90020",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3606+W+6th+St,+Los+Angeles,+CA+90020"
+      },
+      {
+        "name": "Mi Oaxaca Market",
+        "description": "Oaxacan grocery and specialty market on Beverly Blvd.",
+        "type": "landmark",
+        "address": "3824 Beverly Blvd, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3824+Beverly+Blvd,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "El Chipilin Restaurant",
+        "description": "Central American restaurant on Beverly Blvd.",
+        "type": "landmark",
+        "address": "4170 Beverly Blvd, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4170+Beverly+Blvd,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "Villa Serrano (Dingbat with Script Lettering)",
+        "description": "Noted dingbat-style apartment building featuring distinctive script lettering on the facade.",
+        "type": "landmark",
+        "address": "351 S Serrano Ave, Los Angeles, CA 90020",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=351+S+Serrano+Ave,+Los+Angeles,+CA+90020"
+      },
+      {
+        "name": "Swadesh Market and Bangladeshi DVDs",
+        "description": "South Asian grocery market also selling Bangladeshi DVDs.",
+        "type": "landmark",
+        "address": "4153 W 3rd St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4153+W+3rd+St,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Quinceanera Store",
+        "description": "Specialty quincea\u00f1era dress and accessories shop on N Vermont Ave.",
+        "type": "landmark",
+        "address": "249 N Vermont Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=249+N+Vermont+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Monticello Apartment",
+        "description": "Historic apartment building on S Mariposa Ave.",
+        "type": "landmark",
+        "address": "320 S Mariposa Ave, Los Angeles, CA 90020",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=320+S+Mariposa+Ave,+Los+Angeles,+CA+90020"
+      },
+      {
+        "name": "Classic Collision Inc. (1926 Automotive Garage)",
+        "description": "Historic 1926 automotive garage building, one of the oldest surviving auto garages in the area.",
+        "type": "landmark",
+        "address": "248 S Berendo St, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=248+S+Berendo+St,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "Mecko Restaurant Wood Burning Rotisserie",
+        "description": "Restaurant featuring wood-burning rotisserie cooking on W Beverly Blvd.",
+        "type": "landmark",
+        "address": "3909 W Beverly Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3909+W+Beverly+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Brynmoor Apartments",
+        "description": "Historic apartment complex on S New Hampshire Ave.",
+        "type": "landmark",
+        "address": "432 S New Hampshire Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=432+S+New+Hampshire+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Dingbat Apartment (S Oxford Ave 130)",
+        "description": "Classic dingbat-style apartment building on S Oxford Ave.",
+        "type": "landmark",
+        "address": "130 S Oxford Ave, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=130+S+Oxford+Ave,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "Cote D'Azur Apartment",
+        "description": "French Riviera-named apartment complex on W 5th St.",
+        "type": "landmark",
+        "address": "3725 W 5th St, Los Angeles, CA 90020",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=3725+W+5th+St,+Los+Angeles,+CA+90020"
+      },
+      {
+        "name": "Carol Manor Apts",
+        "description": "Classic apartment complex on Normandie Ave.",
+        "type": "landmark",
+        "address": "400 Normandie Ave, Los Angeles, CA 90020",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=400+Normandie+Ave,+Los+Angeles,+CA+90020"
+      },
+      {
+        "name": "Kipling Hotel",
+        "description": "Historic hotel building on W 3rd St.",
+        "type": "landmark",
+        "address": "4077 W 3rd St, Los Angeles, CA 90020",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4077+W+3rd+St,+Los+Angeles,+CA+90020"
+      },
+      {
+        "name": "Dingbat Apartment (S Oxford Ave 150)",
+        "description": "Classic dingbat-style apartment building on S Oxford Ave.",
+        "type": "landmark",
+        "address": "150 S Oxford Ave, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=150+S+Oxford+Ave,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "La Nueva Flor Blanca",
+        "description": "Local restaurant on Beverly Blvd.",
+        "type": "landmark",
+        "address": "4271 Beverly Blvd, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4271+Beverly+Blvd,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "S Oxford Ave Residential Property (140)",
+        "description": "Local residential property on S Oxford Ave.",
+        "type": "landmark",
+        "address": "140 S Oxford Ave, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=140+S+Oxford+Ave,+Los+Angeles,+CA+90004"
+      },
+      {
+        "name": "The Hobart Riviera",
+        "description": "Classic apartment building named the Hobart Riviera on S Hobart Blvd.",
+        "type": "landmark",
+        "address": "334 S Hobart Blvd, Los Angeles, CA 90020",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=334+S+Hobart+Blvd,+Los+Angeles,+CA+90020"
+      },
+      {
+        "name": "Beverly Blvd Local Property (4025)",
+        "description": "Local residential/commercial property on Beverly Blvd.",
+        "type": "landmark",
+        "address": "4025 Beverly Blvd, Los Angeles, CA 90004",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=4025+Beverly+Blvd,+Los+Angeles,+CA+90004"
+      }
+    ]
   },
   {
     "id": "wilshire-park",
@@ -8407,5 +11230,140 @@ const neighborhoodData = [
     "region": "Long Beach",
     "description": "A historic Eastside district with a burgeoning arts and design scene.",
     "locations": []
+  },
+  {
+    "id": "east-hollywood",
+    "name": "East Hollywood",
+    "region": "Central L.A.",
+    "description": "East Hollywood, sometimes called Virgil Village in its western section, stretches east of Hollywood proper and is known for its eclectic mix of Thai Town, Little Armenia, and the arts-forward Virgil Village corridor.",
+    "locations": [
+      {
+        "name": "Virgil Village Residential (137 N Virgil)",
+        "description": "Residential address in the Virgil Village area of East Hollywood.",
+        "type": "landmark",
+        "address": "137 N Virgil Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=137+N+Virgil+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Smog Cutter",
+        "description": "Beloved dive bar on N Virgil Ave; featured in Elliott Smiths music video for Miss Misery.",
+        "type": "landmark",
+        "address": "864 N Virgil Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=864+N+Virgil+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "LA Fresh Poultry",
+        "description": "Local fresh poultry market on N Virgil Ave.",
+        "type": "landmark",
+        "address": "121 N Virgil Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=121+N+Virgil+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "El Potrillo (Horse on the Roof)",
+        "description": "Mexican restaurant on N Virgil Ave featuring a distinctive horse sculpture on the roof.",
+        "type": "landmark",
+        "address": "210 N Virgil Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=210+N+Virgil+Ave,+Los+Angeles,+CA"
+      }
+    ]
+  },
+  {
+    "id": "mid-city-west",
+    "name": "Mid-City West",
+    "region": "Central L.A.",
+    "description": "Mid-City West encompasses the commercial corridors of Melrose Ave, Beverly Blvd, and La Brea Ave, known for design studios, independent shops, and a mix of classic and contemporary architecture.",
+    "locations": [
+      {
+        "name": "Heinsbergen Decorating Company Building",
+        "description": "Home of the Heinsbergen Decorating Company, whose ornate painted interiors graced countless movie palaces and landmark buildings across LA.",
+        "type": "landmark",
+        "address": "7415 Beverly Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=7415+Beverly+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Anchor on the Roof Residential Building",
+        "description": "Distinctive residential building with a ship's anchor mounted on top of the roof.",
+        "type": "landmark",
+        "address": "359 S Cochran Ave, Los Angeles, CA 90036",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=359+S+Cochran+Ave,+Los+Angeles,+CA+90036"
+      },
+      {
+        "name": "Grateful Meds Flower Mural (Hollywood Medical Marijuana)",
+        "description": "Large-scale flower mural on the exterior of a medical marijuana dispensary on N La Brea Ave.",
+        "type": "landmark",
+        "address": "744 N La Brea Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=744+N+La+Brea+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Church of Scientology Mission of Melrose",
+        "description": "Scientology mission on Melrose Ave.",
+        "type": "landmark",
+        "address": "6710 Melrose Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6710+Melrose+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Patsy D'Amore's Pizza",
+        "description": "Legendary Italian pizza institution, once the preferred pie of Frank Sinatra and the Rat Pack.",
+        "type": "landmark",
+        "address": "6333 W 3rd St Ste 448, Los Angeles, CA 90036",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6333+W+3rd+St,+Los+Angeles,+CA+90036"
+      },
+      {
+        "name": "Rocket Video",
+        "description": "Beloved independent video rental store on N La Brea Ave.",
+        "type": "landmark",
+        "address": "726 N La Brea Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=726+N+La+Brea+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Lee's Liquors",
+        "description": "Local liquor store on W 3rd St.",
+        "type": "landmark",
+        "address": "8572 W 3rd St, Los Angeles, CA 90048",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8572+W+3rd+St,+Los+Angeles,+CA+90048"
+      },
+      {
+        "name": "Beverly Chevron Gas Station",
+        "description": "Classic gas station on Beverly Blvd.",
+        "type": "landmark",
+        "address": "7020 Beverly Blvd, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=7020+Beverly+Blvd,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Dingbat Apartment (S Holt Ave)",
+        "description": "Classic example of the Los Angeles 'dingbat' stucco apartment typology.",
+        "type": "landmark",
+        "address": "1016 S Holt Ave, Los Angeles, CA 90035",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=1016+S+Holt+Ave,+Los+Angeles,+CA+90035"
+      },
+      {
+        "name": "Classic Style Gas Station (Willoughby Ave)",
+        "description": "Well-preserved classic-era gas station on Willoughby Ave.",
+        "type": "landmark",
+        "address": "6794 Willoughby Ave, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6794+Willoughby+Ave,+Los+Angeles,+CA"
+      },
+      {
+        "name": "Danziger Studio (Frank Gehry)",
+        "description": "A 1965 studio building designed by Frank Gehry for graphic designer Lou Danziger; one of Gehry's earliest completed works.",
+        "type": "landmark",
+        "address": "7001 Melrose Ave, Los Angeles, CA 90038",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=7001+Melrose+Ave,+Los+Angeles,+CA+90038"
+      },
+      {
+        "name": "Melrose Automatic Laundry",
+        "description": "Local laundromat on N La Brea Ave.",
+        "type": "landmark",
+        "address": "619 N La Brea Ave, Los Angeles, CA 90036",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=619+N+La+Brea+Ave,+Los+Angeles,+CA+90036"
+      },
+      {
+        "name": "China Club (April Greiman Design)",
+        "description": "Former club space designed by postmodern graphic design pioneer April Greiman.",
+        "type": "landmark",
+        "address": "8338 W Third St, Los Angeles, CA",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=8338+W+Third+St,+Los+Angeles,+CA"
+      }
+    ]
   }
 ];
