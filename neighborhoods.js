@@ -1142,6 +1142,62 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "1001 Bel Air Rd, Los Angeles, CA 90077",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=1001+Bel+Air+Rd,+Los+Angeles,+CA+90077"
+      },
+      {
+        "name": "Ronald Reagan Residence",
+        "description": "Notable Bel Air residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.0869,-118.440502"
+      },
+      {
+        "name": "Johnny Carson Residence",
+        "description": "Notable Bel Air residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.085736,-118.437583"
+      },
+      {
+        "name": "Sonny and Cher Residence",
+        "description": "Notable Bel Air residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.084907,-118.437665"
+      },
+      {
+        "name": "Rupert Murdoch Estate",
+        "description": "Notable Bel Air residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.09507,-118.43737"
+      },
+      {
+        "name": "Elizabeth Taylor Residence",
+        "description": "Notable Bel Air residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.089938,-118.439987"
+      },
+      {
+        "name": "Kim Novak Residence",
+        "description": "Notable Bel Air residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.08674,-118.44437"
+      },
+      {
+        "name": "Nicolas Cage Residence",
+        "description": "Notable Bel Air residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.082547,-118.441115"
+      },
+      {
+        "name": "Brian Wilson (Beach Boys) Residence",
+        "description": "Notable Bel Air residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.0811,-118.438819"
       }
     ]
   },
@@ -1368,6 +1424,356 @@ const neighborhoodData = [
         "address": "427 N Crescent Dr, Beverly Hills, CA 90210",
         "description": "Features a dramatic swooping boomerang canopy; originally intended for LAX.",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=427+N+Crescent+Dr,+Beverly+Hills,+CA+90210"
+      },
+      {
+        "name": "Gene Hackman Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.078065,-118.420999"
+      },
+      {
+        "name": "George & Ira Gershwin Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.08287,-118.42226"
+      },
+      {
+        "name": "Diane Keaton Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.082193,-118.422294"
+      },
+      {
+        "name": "W.C. Fields Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.08368,-118.41844"
+      },
+      {
+        "name": "Buster Keaton Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.084967,-118.419697"
+      },
+      {
+        "name": "Sidney Poitier Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.084187,-118.419203"
+      },
+      {
+        "name": "Charlie Chaplin Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.087889,-118.420108"
+      },
+      {
+        "name": "Ingrid Bergman Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.089665,-118.424167"
+      },
+      {
+        "name": "Fred Astaire Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.09191,-118.42096"
+      },
+      {
+        "name": "Laurence Olivier Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.087438,-118.421616"
+      },
+      {
+        "name": "Sammy Davis Jr. Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.09132,-118.419767"
+      },
+      {
+        "name": "Samuel Goldwyn Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.08789,-118.41429"
+      },
+      {
+        "name": "RuPaul Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.091315,-118.416545"
+      },
+      {
+        "name": "Faye Dunaway Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.097565,-118.405033"
+      },
+      {
+        "name": "James Woods Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.098764,-118.402237"
+      },
+      {
+        "name": "Groucho Marx Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.099048,-118.3959"
+      },
+      {
+        "name": "Frank Sinatra Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.087831,-118.407173"
+      },
+      {
+        "name": "Mickey Rooney Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.084559,-118.411155"
+      },
+      {
+        "name": "Will Rogers Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.084316,-118.412803"
+      },
+      {
+        "name": "Milton Berle Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.082104,-118.412657"
+      },
+      {
+        "name": "Kirk Douglas Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.081768,-118.409255"
+      },
+      {
+        "name": "Marlene Dietrich Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.0827366,-118.4098489"
+      },
+      {
+        "name": "Ivan Reitman Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.082813,-118.401513"
+      },
+      {
+        "name": "George Burns Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.085428,-118.401363"
+      },
+      {
+        "name": "Barbara Stanwyck Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.079068,-118.404821"
+      },
+      {
+        "name": "Spike Jones Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.085952,-118.390709"
+      },
+      {
+        "name": "Oliver Hardy Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.082762,-118.39346"
+      },
+      {
+        "name": "Jean Harlow Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.078639,-118.396392"
+      },
+      {
+        "name": "Dean Martin Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.077413,-118.397911"
+      },
+      {
+        "name": "Walter Matthau Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.07624,-118.400773"
+      },
+      {
+        "name": "Boris Karloff Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.079335,-118.405331"
+      },
+      {
+        "name": "Jimmy Durante Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.072915,-118.405468"
+      },
+      {
+        "name": "Carl Reiner Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.076932,-118.411804"
+      },
+      {
+        "name": "Gene Kelly Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.07747,-118.413416"
+      },
+      {
+        "name": "Lana Turner Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.076161,-118.415107"
+      },
+      {
+        "name": "Mia Farrow Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.075394,-118.417447"
+      },
+      {
+        "name": "Elvis Presley Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.0978,-118.39518"
+      },
+      {
+        "name": "Steve Martin Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.074739,-118.414938"
+      },
+      {
+        "name": "Stan Laurel Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.074999,-118.414119"
+      },
+      {
+        "name": "Jack Benny Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.081343,-118.420668"
+      },
+      {
+        "name": "Clara Bow Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.071003,-118.407725"
+      },
+      {
+        "name": "Theda Bara Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.08072,-118.40347"
+      },
+      {
+        "name": "Lucille Ball Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.081107,-118.420409"
+      },
+      {
+        "name": "Ella Fitzgerald Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.087715,-118.39277"
+      },
+      {
+        "name": "Rita Hayworth Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.07864,-118.3964"
+      },
+      {
+        "name": "Marilyn Monroe Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.079967,-118.424337"
+      },
+      {
+        "name": "Keanu Reeves Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.097205,-118.387116"
+      },
+      {
+        "name": "Richard Simmons Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.095244,-118.381549"
+      },
+      {
+        "name": "Bugsy Siegel Residence",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.07486,-118.41796"
+      },
+      {
+        "name": "Emma Stone Residence (former)",
+        "description": "Notable Beverly Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.061239,-118.421683"
       }
     ]
   },
@@ -1689,6 +2095,27 @@ const neighborhoodData = [
         "type": "sub-neighborhood",
         "address": "",
         "mapUrl": ""
+      },
+      {
+        "name": "Arnold Schwarzenegger Residence",
+        "description": "Notable Brentwood residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.079818,-118.499677"
+      },
+      {
+        "name": "Jim Carrey Residence",
+        "description": "Notable Brentwood residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.071645,-118.480627"
+      },
+      {
+        "name": "Dr. Dre Residence",
+        "description": "Notable Brentwood residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.082649,-118.497775"
       }
     ]
   },
@@ -4095,6 +4522,244 @@ const neighborhoodData = [
         "address": "8530 Hedges Pl, Los Angeles, CA 90069",
         "description": "Dramatic John Lautner cliffside home featuring 16-foot glass walls and copper accents.",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=8530+Hedges+Pl,+Los+Angeles,+CA+90069"
+      },
+      {
+        "name": "Rudolph Valentino Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.09603,-118.43268"
+      },
+      {
+        "name": "David Geffen Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.08614,-118.425781"
+      },
+      {
+        "name": "Harold Lloyd Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.087994,-118.426966"
+      },
+      {
+        "name": "George Reeves Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.099495,-118.434088"
+      },
+      {
+        "name": "Carrie Fisher Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.101925,-118.405645"
+      },
+      {
+        "name": "Melanie Griffith Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.103559,-118.404937"
+      },
+      {
+        "name": "Farrah Fawcett Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.10347,-118.40268"
+      },
+      {
+        "name": "Dean Martin Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.112123,-118.39614"
+      },
+      {
+        "name": "Alfred Hitchcock Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.079796,-118.456123"
+      },
+      {
+        "name": "Cary Grant Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.09402,-118.426697"
+      },
+      {
+        "name": "Rod Stewart Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.08631,-118.430107"
+      },
+      {
+        "name": "Angela Lansbury Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.105383,-118.371662"
+      },
+      {
+        "name": "Stevie Wonder Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.108905,-118.395932"
+      },
+      {
+        "name": "Claudette Colbert Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.087409,-118.434536"
+      },
+      {
+        "name": "Ginger Rogers Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.100669,-118.402376"
+      },
+      {
+        "name": "Elon Musk Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.07559,-118.50488"
+      },
+      {
+        "name": "The Weeknd Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.0791515,-118.4544568"
+      },
+      {
+        "name": "Eames House (Case Study House #8)",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.029985,-118.518645"
+      },
+      {
+        "name": "Ashton Kutcher & Mila Kunis Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.122127,-118.404694"
+      },
+      {
+        "name": "Zoe Saldana Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.121596,-118.4038955"
+      },
+      {
+        "name": "Nicole Kidman Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.123337,-118.403783"
+      },
+      {
+        "name": "Adele Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.121748,-118.404226"
+      },
+      {
+        "name": "Jennifer Lawrence Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.12198,-118.40385"
+      },
+      {
+        "name": "Alex Trebek Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.132895,-118.392003"
+      },
+      {
+        "name": "Dennis Hopper Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.102152,-118.369153"
+      },
+      {
+        "name": "Brittany Murphy Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.105153,-118.385276"
+      },
+      {
+        "name": "Harry Houdini Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.114328,-118.37337"
+      },
+      {
+        "name": "Jason Bateman Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.113907,-118.387303"
+      },
+      {
+        "name": "Julius Shulman Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.12312,-118.367857"
+      },
+      {
+        "name": "Britney Spears Residence (former)",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.126799,-118.402411"
+      },
+      {
+        "name": "Joni Mitchell Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.114338,-118.375452"
+      },
+      {
+        "name": "Frank Zappa & Lady Gaga Residence",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.122722,-118.368263"
+      },
+      {
+        "name": "John Krasinski, Emily Blunt & Kendall Jenner Residence (former)",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.100786,-118.37143"
+      },
+      {
+        "name": "Mark Wahlberg Residence (former)",
+        "description": "Notable Hollywood Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.12447,-118.418417"
       }
     ]
   },
@@ -4279,6 +4944,83 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "10231 Charing Cross Rd, Los Angeles, CA 90024",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=10231+Charing+Cross+Rd,+Los+Angeles,+CA+90024"
+      },
+      {
+        "name": "Aaron Spelling Estate (The Manor)",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.073277,-118.428226"
+      },
+      {
+        "name": "Playboy Mansion",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.076593,-118.42971"
+      },
+      {
+        "name": "Walt Disney Residence",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.084798,-118.429006"
+      },
+      {
+        "name": "Gregory Peck Residence",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.085467,-118.429914"
+      },
+      {
+        "name": "Humphrey Bogart Residence",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.084402,-118.433776"
+      },
+      {
+        "name": "Barbra Streisand Residence",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.083757,-118.428564"
+      },
+      {
+        "name": "Carrie Fisher Residence",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.084411,-118.431201"
+      },
+      {
+        "name": "Jayne Mansfield Estate (Pink Palace)",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.076112,-118.431005"
+      },
+      {
+        "name": "Frank Sinatra Residence",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.075422,-118.43312"
+      },
+      {
+        "name": "Michael Jackson Estate (Carolwood)",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.074815,-118.42711"
+      },
+      {
+        "name": "Bing Crosby Residence",
+        "description": "Notable Holmby Hills residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.077215,-118.43441"
       }
     ]
   },
@@ -5685,6 +6427,139 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "14209 Evans Rd, Pacific Palisades, CA 90272",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=14209+Evans+Rd,+Pacific+Palisades,+CA+90272"
+      },
+      {
+        "name": "Adam Sandler Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.0553,-118.502434"
+      },
+      {
+        "name": "Conan O Brien Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.052994,-118.505552"
+      },
+      {
+        "name": "Tom Hanks Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.045137,-118.507893"
+      },
+      {
+        "name": "Michelle Pfeiffer Residence (former)",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.047908,-118.504046"
+      },
+      {
+        "name": "Ben Affleck Residence (former)",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.049642,-118.503002"
+      },
+      {
+        "name": "Steven Spielberg Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.058026,-118.503884"
+      },
+      {
+        "name": "Matt Damon Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.05526,-118.499527"
+      },
+      {
+        "name": "Jennifer Garner Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.035117,-118.514417"
+      },
+      {
+        "name": "Greta Garbo Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.062536,-118.486767"
+      },
+      {
+        "name": "Joan Crawford Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.063275,-118.488286"
+      },
+      {
+        "name": "Shirley Temple Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.05915,-118.491916"
+      },
+      {
+        "name": "Marilyn Monroe Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.053455,-118.478325"
+      },
+      {
+        "name": "Judy Garland Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.05706,-118.493601"
+      },
+      {
+        "name": "O.J. Simpson Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.06159,-118.49047"
+      },
+      {
+        "name": "Nicole Brown Simpson Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.048476,-118.471545"
+      },
+      {
+        "name": "Kamala Harris Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.066948,-118.485477"
+      },
+      {
+        "name": "Betty White Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.06508,-118.48718"
+      },
+      {
+        "name": "Schnabel House by Frank Gehry",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.06558,-118.4872"
+      },
+      {
+        "name": "Rita Moreno Residence",
+        "description": "Notable Pacific Palisades residence.",
+        "type": "landmark",
+        "address": "",
+        "mapUrl": "https://www.google.com/maps?q=34.060545,-118.502052"
       }
     ]
   },
