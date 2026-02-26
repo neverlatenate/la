@@ -46,7 +46,7 @@ const neighborhoodData = [
         "description": "A \"rental reality\" hidden in the dust. This active movie ranch features a standing ghost town set used in Westworld and Agents of S.H.I.E.L.D.. Unlike polished studio tours, it feels like a forgotten settlement left to rot in the sun, blurring the line between prop and ruin.",
         "type": "landmark",
         "address": "5726 Soledad Canyon Rd, Acton, CA 93510",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=5726+Soledad+Canyon+Rd,+Acton,+CA+93510"
+        "mapUrl": "https://www.google.com/maps/place/Polsa+Rosa+Ranch/@34.436563,-118.2327236,19.52z/data=!4m15!1m8!3m7!1s0x80c2f38a567e7bb3:0xcfb3c9e246956dd1!2s5726+Soledad+Canyon+Rd,+Acton,+CA+93510!3b1!8m2!3d34.4366625!4d-118.232358!16s%2Fg%2F11f40lzfts!3m5!1s0x80c2f48371e00109:0x4ec16124f58e0c91!8m2!3d34.4366592!4d-118.2324425!16s%2Fg%2F11f2wkrn4w?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       {
         "name": "The 49er Saloon",
@@ -60,7 +60,7 @@ const neighborhoodData = [
         "description": "The Shambala Preserve is a 40-acre animal sanctuary established in 1972. Maintained by the Roar Foundation, founded by actress Tippi Hedren in 1983 to rescue and provide lifelong care for exotic wildlife, especially big cats. Shambala Preserve rose to prominence when Michael Jackson\u2019s two Bengal tigers, \u2018Sabu\u2019 and \u2018Thriller,\u2019 were relocated there in 2000.",
         "type": "landmark",
         "address": "6867 Soledad Canyon Rd, Acton, CA 93510",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=6867+Soledad+Canyon+Rd,+Acton,+CA+93510"
+        "mapUrl": "https://www.google.com/maps/place/The+Roar+Foundation%2FShambala+Preserve/@34.440474,-118.2556076,17z/data=!3m1!4b1!4m6!3m5!1s0x80c2f47d8b16aeef:0x8782f08d9bc5f781!8m2!3d34.440474!4d-118.253325!16s%2Fm%2F02x3_8l?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D"
       }
     ]
   },
@@ -101,7 +101,7 @@ const neighborhoodData = [
       },
       {
         "name": "First African Methodist Episcopal Zion Cathedral & Community Center",
-        "description": "Historic Cultural Monument #341 and a spiritual anchor for the community. This church stands as a testament to the neighborhood's shifting demographics and enduring faith, serving as a cornerstone of local African American history and cultural resilience.",
+        "description": "Historic Cultural Monument #341 and a spiritual anchor for the community.  It is the oldest church founded by African Americans in Los Angeles, dating to 1872. This church stands as a testament to the neighborhood's shifting demographics and enduring faith, serving as a cornerstone of local African American history and cultural resilience.",
         "type": "landmark",
         "address": "1449 W Adams Blvd, Los Angeles, CA 90007",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=1449+W+Adams+Blvd,+Los+Angeles,+CA+90007"
