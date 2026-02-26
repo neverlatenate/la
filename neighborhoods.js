@@ -24,7 +24,7 @@ const neighborhoodData = [
         "description": "Founded in 1937, this prestigious independent school sits atop the Palos Verdes Peninsula, offering sprawling views of the LA Basin. While a private campus, its rolling, wooded grounds define much of the bucolic character of the surrounding Academy Hill community.",
         "type": "landmark",
         "address": "26800 S Academy Dr, Palos Verdes Peninsula, CA 90274",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=26800+S+Academy+Dr,+Palos+Verdes+Peninsula,+CA+90274"
+        "mapUrl": "https://www.google.com/maps/place/Chadwick+School/data=!4m2!3m1!1s0x0:0xed28d85b170e5f78?sa=X&ved=1t:2428&ictx=111"
       }
     ]
   },
