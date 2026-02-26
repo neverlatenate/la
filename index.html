@@ -645,8 +645,25 @@
         });
 
         searchInput.addEventListener('input', () => {
-            const query = searchInput.value.toLowerCase();
-            const filtered = neighborhoodData.filter(h => h.name.toLowerCase().includes(query) || h.description.toLowerCase().includes(query) || h.region.toLowerCase().includes(query));
+            const query = searchInput.value.trim().toLowerCase();
+            if (!query) {
+                render(neighborhoodData);
+                return;
+            }
+            const filtered = neighborhoodData.filter(h => {
+                // Search neighborhood name, region, description
+                if ((h.name || '').toLowerCase().includes(query)) return true;
+                if ((h.region || '').toLowerCase().includes(query)) return true;
+                if ((h.description || '').toLowerCase().includes(query)) return true;
+                // Also search inside landmark names, types, addresses, and descriptions
+                if (h.locations && h.locations.some(loc =>
+                    (loc.name || '').toLowerCase().includes(query) ||
+                    (loc.type || '').toLowerCase().includes(query) ||
+                    (loc.address || '').toLowerCase().includes(query) ||
+                    (loc.description || '').toLowerCase().includes(query)
+                )) return true;
+                return false;
+            });
             render(filtered);
         });
 
