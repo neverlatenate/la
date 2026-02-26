@@ -122,7 +122,7 @@ const neighborhoodData = [
       },
       {
         "name": "Hung Sa Dahn",
-        "description": "Local cultural or historic site on W Jefferson Blvd.",
+        "description": "The Hung Sa Dahn (Young Korean Academy) building at 1368 W Jefferson Blvd in Los Angeles is a, 1910 Craftsman-style landmark crucial to Korean independence, founded by Dosan Ahn Chang Ho. Purchased by the South Korean government in 2023, it is undergoing rehabilitation to become a community and education center.",
         "type": "landmark",
         "address": "1368 W Jefferson Blvd, Los Angeles, CA 90007",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=1368+W+Jefferson+Blvd,+Los+Angeles,+CA+90007"
@@ -157,11 +157,11 @@ const neighborhoodData = [
     "description": "A rustic enclave serving as a gateway to the Santa Monica Mountains.",
     "locations": [
       {
-        "name": "Morrison Ranch",
-        "description": "Originally a massive cattle ranch established in the late 19th century, this area transitioned into the master-planned equestrian community that defines much of modern Agoura. Though developed, the subtle rolling geography and remaining equestrian trails whisper of the grand ranching days.",
+        "name": "Morrison Park",
+        "description": "Morrison Park was originally part of Morrison Ranch, a massive cattle ranch established in the late 19th century, this area transitioned into the master-planned equestrian community that defines much of modern Agoura. Though developed, the subtle rolling geography and remaining equestrian trails whisper of the grand ranching days.",
         "type": "sub-neighborhood",
-        "address": "Morrison Ranch",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Morrison%20Ranch"
+        "address": "29909 Forest Cove Ln, Agoura Hills, CA 91301",
+        "mapUrl": "https://www.google.com/maps/place/morrison+ranch+agoura+hills/data=!4m2!3m1!1s0x80e824191150142d:0x20820db47d3e43fd?sa=X&ved=1t:242&ictx=111"
       },
       {
         "name": "Independence Acres",
@@ -182,12 +182,12 @@ const neighborhoodData = [
         "name": "Old Agoura (Historic Name)",
         "description": "An equestrian-friendly enclave where rustic ranch homes sit on large lots, preserving the area's rural, pioneering spirit. Complete with unpaved roads, hitching posts, and extensive horse trails, it serves as a living remnant of the Santa Monica Mountains' ranching past.",
         "type": "sub-neighborhood",
-        "address": "Agoura Hills, CA",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Agoura%20Hills%2C%20CA"
+        "address": "Old Agoura, CA",
+        "mapUrl": "https://www.google.com/maps/place/Old+Agoura,+Agoura+Hills,+CA+91301/@34.154231,-118.7625571,16z/data=!3m1!4b1!4m6!3m5!1s0x80e8213403734069:0x45f19af4a974904!8m2!3d34.1541205!4d-118.7573324!16zL20vMGMzaDRz?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       {
-        "name": "Mel Gibson's $37 million church",
-        "description": "Mel Gibson's $37 million church in the Malibu HillsChurch of the Holy Family",
+        "name": "Mel Gibson's $37 Million Church",
+        "description": "Mel Gibson's Church of the Holy Family in the Malibu Hills ",
         "type": "landmark",
         "address": "30188 Mulholland Hwy Agoura Hills, CA 91301",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=30188+Mulholland+Hwy+Agoura+Hills,+CA+91301"
@@ -197,21 +197,21 @@ const neighborhoodData = [
         "description": "Originally a simple 1850s homestead, this site represents the \"Last Stand\" of the rancho lifestyle before the 101 Freeway and suburban sprawl transformed the Conejo Valley. It serves as a physical baseline for the area's agricultural past, standing in sharp contrast to the high-tech corridors that now surround it.",
         "type": "Rancho Heritage / Pioneer Homestead",
         "address": "Reyes Adobe Historical Site",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Reyes%20Adobe%20Historical%20Site"
+        "mapUrl": "https://www.google.com/maps/place/Reyes+Adobe+Historical+Site/@34.1516944,-118.784334,17z/data=!3m1!4b1!4m6!3m5!1s0x80e82416d702f89f:0x86b798385cc6c436!8m2!3d34.1516944!4d-118.7817644!16s%2Fm%2F04fgfjd?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       {
         "name": "The Old Place",
         "description": "In a small town in the Santa Monica Mountains, the Old Place, is reminiscent of another time. It's no wonder, since the rustic wood building served as a post office and general store from 1908 to 1940; although it was transformed into a restaurant in 1970, it still retains an Old Western feel with its dark-wood booths, original wood bar, and dim chandeliers.",
         "type": "landmark",
         "address": "29983 Mulholland Hwy., Cornell, CA 91301",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=29983+Mulholland+Hwy.,+Cornell,+CA+91301"
+        "mapUrl": "https://www.google.com/maps/place/Old+Place/@34.114617,-118.7807546,17z/data=!3m1!4b1!4m6!3m5!1s0x80e823c2d556fcc3:0x5164624eb6941e8b!8m2!3d34.114617!4d-118.778185!16s%2Fg%2F1tlkcpg2?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D"
       },
       {
         "name": "The Rock Store",
         "description": "The \"Sunday Mass\" for Southern California's motorcycle culture. Nestled in the twisties of Mulholland, this stone-walled former stagecoach stop erupts every weekend into a chrome-plated spectacle. It\u2019s the only place where outlaw bikers and A-list celebrities share picnic tables over tri-tip sandwiches and engine noise.",
         "type": "landmark",
         "address": "30354 Mulholland Hwy Agoura Hills, CA 91301",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=30354+Mulholland+Hwy+Agoura+Hills,+CA+91301"
+        "mapUrl": "https://www.google.com/maps/place/Rock+Store/@34.1095555,-118.7907019,17z/data=!3m1!4b1!4m6!3m5!1s0x80e823c0b577cae3:0xfb85751bf82a757b!8m2!3d34.1095555!4d-118.7881323!16s%2Fm%2F064ktt4?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D"
       }
     ]
   },
