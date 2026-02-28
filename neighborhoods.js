@@ -7759,9 +7759,9 @@ const neighborhoodData = [
       {
         "name": "Workman & Temple Family Homestead",
         "type": "Rancho-Era Secularized Mission Land",
-        "address": "360 Parriott Pl W, Hacienda Heights, CA, 91745",
+        "address": "15415 Don Julian Rd, City of Industry, CA 91745",
         "description": "This 6-acre site features the Workman House (an 1840s adobe remodeled into a gabled manor) and La Casa Nueva, a 1920s Spanish Colonial Revival mansion. It captures the rise and fall of two of L.A.'s most prominent pioneer families. The site also contains El Campo Santo, one of the county's oldest private cemeteries, where P\u00edo Pico, the last governor of Mexican California, is interred.",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=360%20Parriott%20Pl%20W%2C%20Hacienda%20Heights%2C%20CA%2C%2091745"
+        "mapUrl": "https://www.google.com/maps/place/Workman+and+Temple+Family+Homestead+Museum/@34.0266288,-117.9841073,15z/data=!4m10!1m2!2m1!1sWorkman+and+Temple+Family+Homestead%0D%0ARANCHO+ERA+ADOBE+%2F+VICTORIAN+TRANSITION%0D%0A345+S+6th+Ave,+La+Puente,+CA,+91746!3m6!1s0x80c2d67be1092d19:0xe9d568f0037a3723!8m2!3d34.0193605!4d-117.9652235!15sCnFXb3JrbWFuIGFuZCBUZW1wbGUgRmFtaWx5IEhvbWVzdGVhZA0KUkFOQ0hPIEVSQSBBRE9CRSAvIFZJQ1RPUklBTiBUUkFOU0lUSU9ODQozNDUgUyA2dGggQXZlLCBMYSBQdWVudGUsIENBLCA5MTc0NiIDiAEBkgEGbXVzZXVt4AEA!16s%2Fm%2F06_p3km?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D"
       }
     ]
   },
@@ -14974,21 +14974,6 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "4510 Saltillo St, Los Angeles, CA 91364",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=4510+Saltillo+St,+Los+Angeles,+CA+91364"
-      }
-    ]
-  },
-  {
-    "id": "industry-workman-temple-homestead",
-    "name": "Workman and Temple Family Homestead",
-    "region": "Industry",
-    "description": "A historic site in the City of Industry (eastern San Gabriel Valley), preserving the adobe home and estate of William Workman and Francis Temple, two of the earliest American landowners in California after the Mexican-American War. The site includes a Victorian mansion, a historic cemetery, and garden landscapes \u2014 representing a key node in Southern California's transition from Mexican rancho culture to American land speculation.",
-    "locations": [
-      {
-        "name": "Workman and Temple Family Homestead",
-        "type": "Rancho Era Adobe / Victorian Transition",
-        "address": "345 S 6th Ave, La Puente, CA, 91746",
-        "description": "This 6-acre site features the 1840s Workman Adobe and the 1870s \"La Casa Nueva\" mansion. It captures the transition of the region from Spanish land grants (Rancho La Puente) to American commercial ranching and banking. The site's private cemetery is the final resting place of P\u00edo Pico, marking the end of the Mexican era in Los Angeles history.",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=345%20S%206th%20Ave%2C%20La%20Puente%2C%20CA%2C%2091746"
       }
     ]
   },
