@@ -14956,9 +14956,9 @@ const neighborhoodData = [
       {
         "name": "The Wiseburn School District Site",
         "type": "Unincorporated Aerospace Corridor",
-        "address": "Mile 19.9 I-405 S, Hawthorne, CA, 90250",
+        "address": "201 N. Douglas Street El Segundo, CA 90245",
         "description": "This compact South Bay enclave is unique for maintaining its own independent school district despite being unincorporated. Historically, the neighborhood was home to workers in the massive aerospace plants of Hawthorne and El Segundo. It stands as a record of \"Industrial Suburbanism,\" where a small residential pocket was sustained by the high-tech manufacturing giants surrounding it.",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mile%2019.9%20I-405%20S%2C%20Hawthorne%2C%20CA%2C%2090250"
+        "mapUrl": "https://www.google.com/maps/place/Wiseburn+Unified+School+District/data=!4m2!3m1!1s0x0:0x7a46b5efd49e7f39?sa=X&ved=1t:2428&ictx=111"
       }
     ]
   },
