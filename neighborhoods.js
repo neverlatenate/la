@@ -11884,12 +11884,27 @@ const neighborhoodData = [
       }
     ]
   },
+
   {
-    "id": "los-angeles-westlake",
-    "name": "Westlake",
-    "region": "Los Angeles",
+    "id": "westlake-macarthur-park",
+    "name": "Westlake / MacArthur Park",
+    "region": "Central L.A.",
     "description": "Westlake/MacArthur Park is perhaps the most layered neighborhood in the city—a mix of Victorian opulence, mid-century industrialism, and the vibrant, often gritty energy of the Central American diaspora. A high-density central neighborhood centered on MacArthur Park, rich in late-Victorian architecture.",
     "locations": [
+      {
+        "name": "Lafayette Park",
+        "description": "",
+        "type": "sub-neighborhood",
+        "address": "",
+        "mapUrl": ""
+      },
+      {
+        "name": "Rampart Village",
+        "description": "",
+        "type": "sub-neighborhood",
+        "address": "",
+        "mapUrl": ""
+      },
       {
         "name": "McManus & Morgan",
         "description": "Historic fine paper store operating since 1923.",
@@ -12092,28 +12107,6 @@ const neighborhoodData = [
         "type": "landmark",
         "address": "600 S Little St, Los Angeles, CA 90017",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=600%20S%20Little%20St%2C%20Los%20Angeles%2C%20CA%2090017"
-      }
-    ]
-  },
-  {
-    "id": "westlake-macarthur-park",
-    "name": "Westlake / MacArthur Park",
-    "region": "Harbor",
-    "description": "",
-    "locations": [
-      {
-        "name": "Lafayette Park",
-        "description": "",
-        "type": "sub-neighborhood",
-        "address": "",
-        "mapUrl": ""
-      },
-      {
-        "name": "Rampart Village",
-        "description": "",
-        "type": "sub-neighborhood",
-        "address": "",
-        "mapUrl": ""
       }
     ]
   },
