@@ -11,6 +11,36 @@ const neighborhoodData = [
         "region": "Antelope Valley - Unincorporated",
         "locations": [
             {
+                "name": "Acton Movie Ranch",
+                "description": "113 acres of varied terrain: mountains, flat plains, and train tracks. Features one of the largest base camp staging areas in the region.",
+                "type": "landmark",
+                "address": "3840 Crown Valley Rd, Acton, CA 93510",
+                "lat": 34.4682,
+                "lng": -118.1965,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3840+Crown+Valley+Rd,+Acton,+CA+93510",
+                "original_hood": "Acton"
+            },
+            {
+                "name": "Bee Box Movie Ranch",
+                "description": "150 acres featuring a 450-foot deep granite mine, rolling hills, and unobstructed 360-degree mountain views.",
+                "type": "landmark",
+                "address": "Bee Box Canyon Rd, Acton, CA 93510",
+                "lat": 34.46,
+                "lng": -118.19,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bee+Box+Canyon+Rd,+Acton,+CA+93510",
+                "original_hood": "Acton"
+            },
+            {
+                "name": "Bloom Ranch of Acton",
+                "description": "A historic 250-acre peach orchard (est. 1891). It provides a lush, agricultural \"homestead\" look rare in the high desert.",
+                "type": "landmark",
+                "address": "31880 Aliso Canyon Rd, Acton, CA 93510",
+                "lat": 34.468,
+                "lng": -118.188,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=31880+Aliso+Canyon+Rd,+Acton,+CA+93510",
+                "original_hood": "Acton"
+            },
+            {
                 "name": "Mt. Gleason Nike Missile Site (LA-04)",
                 "description": "A concrete scar from the Atomic Age. Once the highest-altitude nuclear missile defense site in the U.S., it now sits abandoned in the Angeles National Forest. Exploring the rusting launch pads and graffiti-covered barracks offers a chilling, silent reminder of Cold War paranoia.",
                 "type": "landmark",
@@ -31,6 +61,16 @@ const neighborhoodData = [
                 "original_hood": "Acton"
             },
             {
+                "name": "Robert Ranch Estate",
+                "description": "A luxury filming estate featuring a 10,000-sq-ft main house, home theater, helipad, and expansive equestrian facilities.",
+                "type": "landmark",
+                "address": "3370 Country Way, Acton, CA 93510",
+                "lat": 34.472,
+                "lng": -118.182,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3370+Country+Way,+Acton,+CA+93510",
+                "original_hood": "Acton"
+            },
+            {
                 "name": "Soledad Canyon RV Resort",
                 "description": "The site of the Soledad Canyon RV Resort, a large-scale outdoor destination in the Pelona Mountains.",
                 "type": "landmark",
@@ -38,6 +78,16 @@ const neighborhoodData = [
                 "lat": 34.48524723504,
                 "lng": -118.142632142707,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.48524723504,-118.142632142707",
+                "original_hood": "Acton"
+            },
+            {
+                "name": "Stallion Oaks Ranch",
+                "description": "Offers a unique WWI battlefield trench replica, an 1800s-style rock jail, and a secluded olive grove.",
+                "type": "landmark",
+                "address": "32152 Aliso Canyon Rd, Acton, CA 93510",
+                "lat": 34.475,
+                "lng": -118.195,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=32152+Aliso+Canyon+Rd,+Acton,+CA+93510",
                 "original_hood": "Acton"
             },
             {
@@ -58,6 +108,16 @@ const neighborhoodData = [
                 "lat": 34.4397,
                 "lng": -118.252,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=6867+Soledad+Canyon+Rd,+Acton,+CA+93510",
+                "original_hood": "Acton"
+            },
+            {
+                "name": "The Water Ranch (Lunde)",
+                "description": "Proximity to the Agua Dulce aqueduct and train tracks; used primarily for equestrian and rural \"ranch-hand\" aesthetics.",
+                "type": "landmark",
+                "address": "3370 Country Way, Acton, CA 93510",
+                "lat": 34.4721,
+                "lng": -118.1821,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3370+Country+Way,+Acton,+CA+93510",
                 "original_hood": "Acton"
             }
         ]
@@ -267,6 +327,16 @@ const neighborhoodData = [
         "region": "Santa Clarita Valley",
         "locations": [
             {
+                "name": "Diamond V Ranch",
+                "description": "Known as \"Rene\u2019s 50s Town,\" it features a large diner, a biker tavern, and post-apocalyptic settings.",
+                "type": "landmark",
+                "address": "11777 Sierra Hwy, Agua Dulce, CA 91390",
+                "lat": 34.498,
+                "lng": -118.325,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=11777+Sierra+Hwy,+Agua+Dulce,+CA+91390",
+                "original_hood": "Agua Dulce"
+            },
+            {
                 "name": "Halfway House Caf\u00e9",
                 "description": "A lonely roadside beacon that has served as the cinematic backdrop for everything from Heroes to Waitress. Since 1931, this diner has stood frozen in time, serving simple comfort food surrounded by the dusty, high-desert silence that filmmakers crave.",
                 "type": "landmark",
@@ -277,6 +347,16 @@ const neighborhoodData = [
                 "original_hood": "Agua Dulce"
             },
             {
+                "name": "One Oak Ranch",
+                "description": "A picturesque 2-acre horse property with historic stables, a towing Oak canopy, and rustic farm props.",
+                "type": "landmark",
+                "address": "34810 Anthony Rd, Agua Dulce, CA 91390",
+                "lat": 34.491,
+                "lng": -118.33,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34810+Anthony+Rd,+Agua+Dulce,+CA+91390",
+                "original_hood": "Agua Dulce"
+            },
+            {
                 "name": "Vasquez Rocks Natural Area Park",
                 "description": "The quintessential \"alien planet\" of Hollywood. These violent, uplifted sandstone slabs jut from the earth at impossible 50-degree angles, creating a prehistoric playground that feels instantly recognizable from Star Trek and The Flintstones. A geologic hallucination.",
                 "type": "landmark",
@@ -284,6 +364,16 @@ const neighborhoodData = [
                 "lat": 34.4806,
                 "lng": -118.3167,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=10700+Escondido+Canyon+Rd,+Agua+Dulce,+CA+91390",
+                "original_hood": "Agua Dulce"
+            },
+            {
+                "name": "Veluzat Movie Ranch",
+                "description": "Massive 750-acre ranch. Features a Spanish Town, a 50s Diner, a Church, and a Western town. Home to the original \"Higgins Haven\" from Friday the 13th.",
+                "type": "landmark",
+                "address": "10100 Forest Rte 5N28, Santa Clarita, CA 91390",
+                "lat": 34.495,
+                "lng": -118.32,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=10100+Forest+Rte+5N28,+Santa+Clarita,+CA+91390",
                 "original_hood": "Agua Dulce"
             }
         ]
@@ -867,36 +957,6 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "Santa Anita Park",
-                "description": "The official address of Santa Anita Park, the world-famous thoroughbred racetrack with Art Deco architecture.",
-                "type": "landmark",
-                "address": "1031 S Baldwin Ave, Arcadia, California, 91007",
-                "lat": 34.127638993844,
-                "lng": -118.055390025515,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.127638993844,-118.055390025515",
-                "original_hood": "Arcadia"
-            },
-            {
-                "name": "The Derby Restaurant",
-                "description": "Home to The Derby, a legendary restaurant founded in 1922 by famous jockey George Woolf.",
-                "type": "landmark",
-                "address": "19 E Huntington Dr, Arcadia, California, 91006",
-                "lat": 34.140336864693,
-                "lng": -118.030514548547,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.140336864693,-118.030514548547",
-                "original_hood": "Arcadia"
-            },
-            {
-                "name": "Rod\u2019s Grill",
-                "description": "Rod's Grill has a great vintage sign.",
-                "type": "landmark",
-                "address": "41 W Huntington Dr, Arcadia, California, 91007",
-                "lat": 34.140174004315,
-                "lng": -118.033103969895,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.140174004315,-118.033103969895",
-                "original_hood": "Arcadia"
-            },
-            {
                 "name": "Alex Di Peppe\u2019s",
                 "description": "Local establishment on E Live Oak Ave.",
                 "type": "landmark",
@@ -927,6 +987,26 @@ const neighborhoodData = [
                 "original_hood": "Arcadia"
             },
             {
+                "name": "Rod\u2019s Grill",
+                "description": "Rod's Grill has a great vintage sign.",
+                "type": "landmark",
+                "address": "41 W Huntington Dr, Arcadia, California, 91007",
+                "lat": 34.140174004315,
+                "lng": -118.033103969895,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.140174004315,-118.033103969895",
+                "original_hood": "Arcadia"
+            },
+            {
+                "name": "Santa Anita Park",
+                "description": "The official address of Santa Anita Park, the world-famous thoroughbred racetrack with Art Deco architecture.",
+                "type": "landmark",
+                "address": "1031 S Baldwin Ave, Arcadia, California, 91007",
+                "lat": 34.127638993844,
+                "lng": -118.055390025515,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.127638993844,-118.055390025515",
+                "original_hood": "Arcadia"
+            },
+            {
                 "name": "Santa Anita Park Racetrack",
                 "description": "Opened in December 1934 under the leadership of Charles H. \"Doc\" Strub, this Art Deco racetrack introduced the $100,000 Santa Anita Handicap (first run in February 1935). Designed by Gordon B. Kaufmann, it became \"The World's Richest Racetrack\" and served as a WWII Japanese-American internment center in 1942, later hosting the 1984 Olympic equestrian events.",
                 "type": "landmark",
@@ -944,6 +1024,16 @@ const neighborhoodData = [
                 "lat": 34.140540167755,
                 "lng": -118.023667371843,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=233+E+Huntington+Dr,+Arcadia,+CA+91006",
+                "original_hood": "Arcadia"
+            },
+            {
+                "name": "The Derby Restaurant",
+                "description": "Home to The Derby, a legendary restaurant founded in 1922 by famous jockey George Woolf.",
+                "type": "landmark",
+                "address": "19 E Huntington Dr, Arcadia, California, 91006",
+                "lat": 34.140336864693,
+                "lng": -118.030514548547,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.140336864693,-118.030514548547",
                 "original_hood": "Arcadia"
             }
         ]
@@ -23136,6 +23226,16 @@ const neighborhoodData = [
                 "original_hood": "Palmdale"
             },
             {
+                "name": "Four Aces Diner",
+                "description": "The Four Aces Diner, located at 14499 E Avenue Q (often referenced as 14999 E Ave Q) in Palmdale, California, is not a functioning restaurant but rather one of the most famous standing film sets in the world. \n\nPart of the Four Aces Movie Ranch, it is designed to look like a \"middle-of-nowhere\" desert oasis and is frequently used for movies, television shows, and music videos. \n\nKey Features \nAesthetic: The set is a masterclass in \"faded Americana\" or \"Atomic Age\" decay. It features a 1940s-style diner, a vintage gas station with rusted pumps, a honky-tonk bar, and a 1950s-era motel with a neon sign. \n\nThe Diner Interior: The interior is fully dressed with period-accurate props, including red-and-white stools, dark wooden booths, and kitschy memorabilia. It is designed to be \"ready to shoot\" with movable walls to accommodate camera crews. \n\nAtmosphere: It is located in the Mojave Desert (specifically the Antelope Valley) and is surrounded by Joshua trees and lonely highways, giving it the classic \"Last Chance Cafe\" or \"Highway to Hell\" vibe popular in noir and horror films. \n\nNotable Appearances \nThe location has dozens of credits to its name, including: \nMovies: House of 1000 Corpses (Captain Spaulding\u2019s Museum of Monsters and Madmen), Identity, The Devil's Rejects, Palm Springs, and Torque. \nTelevision: Twin Peaks: The Return (the motel in Buckhorn, South Dakota), Buffy the Vampire Slayer (the episode \"Spiral\"), Lucifer, The O.C., and 24. \nMusic Videos: Perhaps most famously, it was the primary location for Lenny Kravitz\u2019s \"American Woman\" video. Although it looks 70 years old, the set was actually built from scratch around 1997 specifically for the film and advertising industry.",
+                "type": "landmark",
+                "address": "14999 E Ave Q, Palmdale, CA 93591",
+                "lat": 34.58775,
+                "lng": -117.8719,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=14999+E+Ave+Q,+Palmdale,+CA+93591",
+                "original_hood": "Palmdale"
+            },
+            {
                 "name": "Llano del Rio Utopian Ruins",
                 "address": "CA-138 & 165th St E, California 93544, USA",
                 "type": "landmark",
@@ -25882,26 +25982,6 @@ const neighborhoodData = [
         "region": "Santa Clarita Valley",
         "locations": [
             {
-                "name": "Virgin Mary of Guadalupe Tree",
-                "description": "A local roadside shrine south of Agua Dulce, where a tree charred by the 2007 Buckweed fire survived and is said by some to bear the image of the Virgin Mary.",
-                "type": "landmark",
-                "address": "14411 Sierra Hwy, Santa Clarita, CA 91390",
-                "lat": 34.49059349180092,
-                "lng": -118.3865274468406,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.49059349180092,-118.3865274468406",
-                "original_hood": "Santa Clarita"
-            },
-            {
-                "name": "Mentryville Park",
-                "description": "An 1880s pioneer oil town that contains the 13-room Victorian-style Mentry Mansion and the site of Pico No. 4, the world\u2019s longest-running oil well.",
-                "type": "landmark",
-                "address": "27201 Pico Canyon Rd #1804, Stevenson Ranch, CA 91381",
-                "lat": 34.37930078991196,
-                "lng": -118.61009898287946,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.37930078991196,-118.61009898287946",
-                "original_hood": "Santa Clarita"
-            },
-            {
                 "name": "\"Duel\" Filming Site",
                 "description": "The building gained fame as a key location in Steven Spielberg's directorial debut, the 1971 film Duel.",
                 "type": "landmark",
@@ -25942,6 +26022,26 @@ const neighborhoodData = [
                 "original_hood": "Santa Clarita"
             },
             {
+                "name": "Blue Cloud Ranch",
+                "description": "Movie Studio",
+                "type": "landmark",
+                "address": "20019 Blue Cloud Rd, Santa Clarita, CA 91390",
+                "lat": 34.41,
+                "lng": -118.52,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=20019+Blue+Cloud+Rd,+Santa+Clarita,+CA+91390",
+                "original_hood": "Santa Clarita"
+            },
+            {
+                "name": "Mentryville Park",
+                "description": "An 1880s pioneer oil town that contains the 13-room Victorian-style Mentry Mansion and the site of Pico No. 4, the world\u2019s longest-running oil well.",
+                "type": "landmark",
+                "address": "27201 Pico Canyon Rd #1804, Stevenson Ranch, CA 91381",
+                "lat": 34.37930078991196,
+                "lng": -118.61009898287946,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.37930078991196,-118.61009898287946",
+                "original_hood": "Santa Clarita"
+            },
+            {
                 "name": "Santa Clarita Elementary School",
                 "description": "Local elementary school.",
                 "type": "landmark",
@@ -25969,6 +26069,16 @@ const neighborhoodData = [
                 "lat": 34.63989465456292,
                 "lng": -118.72101698818055,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.63989465456292,-118.72101698818055",
+                "original_hood": "Santa Clarita"
+            },
+            {
+                "name": "Virgin Mary of Guadalupe Tree",
+                "description": "A local roadside shrine south of Agua Dulce, where a tree charred by the 2007 Buckweed fire survived and is said by some to bear the image of the Virgin Mary.",
+                "type": "landmark",
+                "address": "14411 Sierra Hwy, Santa Clarita, CA 91390",
+                "lat": 34.49059349180092,
+                "lng": -118.3865274468406,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.49059349180092,-118.3865274468406",
                 "original_hood": "Santa Clarita"
             }
         ]
@@ -31998,26 +32108,6 @@ const neighborhoodData = [
         "region": "South L.A.",
         "locations": [
             {
-                "name": "Doheny Mansion",
-                "description": "A sprawling French Chateau-style estate built in 1899 for oil magnate Edward L. Doheny, located within the Chester Place gated community near USC. The mansion and its grounds represent the opulent peak of West Adams as L.A.'s wealthiest residential district. Now part of Mount Saint Mary's University.",
-                "type": "architectural",
-                "address": "8 Chester Pl, Los Angeles, CA 90007",
-                "lat": 34.0315,
-                "lng": -118.2815,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0315,-118.2815",
-                "original_hood": "West Adams"
-            },
-            {
-                "name": "St. James Park Historic District",
-                "description": "A turn-of-the-century residential enclave surrounding a private park, once home to the city social elite.",
-                "type": "landmark",
-                "address": "St James Park, Los Angeles, CA 90007",
-                "lat": 34.0315,
-                "lng": -118.2795,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0315,-118.2795",
-                "original_hood": "West Adams"
-            },
-            {
                 "name": "A. Partamian Armenian Bakery",
                 "description": "Long-running Armenian bakery on W Adams Blvd.",
                 "type": "landmark",
@@ -32115,6 +32205,16 @@ const neighborhoodData = [
                 "lat": 34.025822004315,
                 "lng": -118.347305980673,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=4701+W+Jefferson+Blvd,+Los+Angeles,+CA+90016",
+                "original_hood": "West Adams"
+            },
+            {
+                "name": "Doheny Mansion",
+                "description": "A sprawling French Chateau-style estate built in 1899 for oil magnate Edward L. Doheny, located within the Chester Place gated community near USC. The mansion and its grounds represent the opulent peak of West Adams as L.A.'s wealthiest residential district. Now part of Mount Saint Mary's University.",
+                "type": "architectural",
+                "address": "8 Chester Pl, Los Angeles, CA 90007",
+                "lat": 34.0315,
+                "lng": -118.2815,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0315,-118.2815",
                 "original_hood": "West Adams"
             },
             {
@@ -32415,6 +32515,16 @@ const neighborhoodData = [
                 "lat": 34.035188990661,
                 "lng": -118.317873011491,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2301+W+24th+St,+Los+Angeles,+CA",
+                "original_hood": "West Adams"
+            },
+            {
+                "name": "St. James Park Historic District",
+                "description": "A turn-of-the-century residential enclave surrounding a private park, once home to the city social elite.",
+                "type": "landmark",
+                "address": "St James Park, Los Angeles, CA 90007",
+                "lat": 34.0315,
+                "lng": -118.2795,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0315,-118.2795",
                 "original_hood": "West Adams"
             },
             {
