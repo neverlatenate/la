@@ -35,6 +35,16 @@ const neighborhoodData = [
                 "original_hood": "Acton"
             },
             {
+                "name": "Middleton Ranch Movie Ranch",
+                "description": "A scenic movie ranch location in Acton.",
+                "type": "landmark",
+                "address": "Acton, CA",
+                "lat": 34.440350607634315,
+                "lng": -118.2363461909135,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.440350607634315,-118.2363461909135",
+                "original_hood": "Acton"
+            },
+            {
                 "name": "Mt. Gleason Nike Missile Site (LA-04)",
                 "description": "A concrete scar from the Atomic Age. Once the highest-altitude nuclear missile defense site in the U.S., it now sits abandoned in the Angeles National Forest. Exploring the rusting launch pads and graffiti-covered barracks offers a chilling, silent reminder of Cold War paranoia.",
                 "type": "landmark",
@@ -91,16 +101,6 @@ const neighborhoodData = [
                 "lat": 34.4397,
                 "lng": -118.252,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=6867+Soledad+Canyon+Rd,+Acton,+CA+93510",
-                "original_hood": "Acton"
-            },
-            {
-                "name": "Middleton Ranch Movie Ranch",
-                "description": "A scenic movie ranch location in Acton.",
-                "type": "landmark",
-                "address": "Acton, CA",
-                "lat": 34.440350607634315,
-                "lng": -118.2363461909135,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.440350607634315,-118.2363461909135",
                 "original_hood": "Acton"
             }
         ]
@@ -356,26 +356,6 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "Former Diner on Main (Armet & Davis Googie Diner Design)",
-                "description": "This is the former Diner on Main, one of the few remaining Googie-style restaurants designed by the architectural firm Armet & Davis. Note: the restaurant is currently closed/vacant.",
-                "type": "landmark",
-                "address": "201 E Main St, Alhambra, California, 91801",
-                "lat": 34.096496745058,
-                "lng": -118.125008856005,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.096496745058,-118.125008856005",
-                "original_hood": "Alhambra"
-            },
-            {
-                "name": "Prominent Art Colony in 30s and 40\u2019s",
-                "type": "landmark",
-                "lat": 34.1022429,
-                "lng": -118.114667,
-                "address": "27 Champion Pl, Alhambra, CA 91801, USA",
-                "description": "In the 1930s and '40s, Champion Place was home to eight of the most prominent names in American art, including Norman Rockwell, who moved west to live with cartoonist Clyde Forsythe after his first marriage failed in 1930.",
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1022429,-118.114667",
-                "original_hood": "Alhambra"
-            },
-            {
                 "name": "Alhambra City Hall",
                 "description": "A 1960 New Formalist masterpiece designed by William Allen, representing the city's mid-century civic modernization.",
                 "type": "architectural",
@@ -446,6 +426,16 @@ const neighborhoodData = [
                 "original_hood": "Alhambra"
             },
             {
+                "name": "Former Diner on Main (Armet & Davis Googie Diner Design)",
+                "description": "This is the former Diner on Main, one of the few remaining Googie-style restaurants designed by the architectural firm Armet & Davis. Note: the restaurant is currently closed/vacant.",
+                "type": "landmark",
+                "address": "201 E Main St, Alhambra, California, 91801",
+                "lat": 34.096496745058,
+                "lng": -118.125008856005,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.096496745058,-118.125008856005",
+                "original_hood": "Alhambra"
+            },
+            {
                 "name": "Fosselman\u2019s Ice Cream Company",
                 "description": "An institution since 1919. This isn't artisanal gelato; it's hard-scoop Americana with a distinct Alhambra twist (taro and corn flavors sit next to vanilla). The tiny shop feels like stepping into a simpler decade, smelling of sugar cones and freezing cream.",
                 "type": "landmark",
@@ -483,6 +473,16 @@ const neighborhoodData = [
                 "lat": 34.0786,
                 "lng": -118.1283,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=501+W+Valley+Blvd,+Alhambra,+CA+91803",
+                "original_hood": "Alhambra"
+            },
+            {
+                "name": "Prominent Art Colony in 30s and 40\u2019s",
+                "type": "landmark",
+                "lat": 34.1022429,
+                "lng": -118.114667,
+                "address": "27 Champion Pl, Alhambra, CA 91801, USA",
+                "description": "In the 1930s and '40s, Champion Place was home to eight of the most prominent names in American art, including Norman Rockwell, who moved west to live with cartoonist Clyde Forsythe after his first marriage failed in 1930.",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1022429,-118.114667",
                 "original_hood": "Alhambra"
             },
             {
@@ -579,26 +579,6 @@ const neighborhoodData = [
                 "original_hood": "Altadena"
             },
             {
-                "name": "The Cobb Estate (\"Haunted Forest\")",
-                "description": "When retired lumber magnate Charles Cobb built an estate in the foothills north of Pasadena in 1918, the only indication that the \"haunted woods\" behind his house had any ghosts was the name. Cobb lived on the property without incident until his death in 1939, when the 107-acre estate was deeded to the Pasadena Masons, as specified in his will. And still no ghosts. Eventually the property was purchased from the Masons and converted to a retreat for the Sisters of St. Joseph, and not a word about supernatural activity was heard. It was when the Marx Brothers bought the estate in 1956 that the rumors of strange noises and eerie lights at the now vacant home began to circulate amongst the townsfolk. Whether or not that had to do with the squatters and teenagers who used the house for various nocturnal activities is an open question. (Source: atlasobscura.com)",
-                "type": "landmark",
-                "address": "The Cobb Estate, Altadena, CA",
-                "lat": 34.205853046070196,
-                "lng": -118.12741395256921,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.205853046070196,-118.12741395256921",
-                "original_hood": "Altadena"
-            },
-            {
-                "name": "Mountain View Mausoleum",
-                "description": "Mountain View Mausoleum is part of Mountain View Cemetery, which opened in 1882. The Mausoleum itself was built in 1923, featuring long corridors, arched ceilings, marble surfaces, and intricate stained-glass windows. It was built by Cecil E. Bryan, who collaborated with Frank Lloyd Wright and is considered the \"master\" of mausoleums, with some 80 mausoleums to his credit.",
-                "type": "landmark",
-                "address": "2300 Marengo Ave, Altadena, California, 91001",
-                "lat": 34.184729603205,
-                "lng": -118.143910382941,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.184729603205,-118.143910382941",
-                "original_hood": "Altadena"
-            },
-            {
                 "name": "Abolitionist Owen Brown\u2019s Altadena Grave",
                 "description": "A humble granite marker atop \"Little Round Top\" honoring the son of abolitionist John Brown. The hike is a pilgrimage through chaparral to a panoramic overlook, where the history of the Civil War meets the quiet solitude of the San Gabriels. A contemplative spot for history buffs.",
                 "type": "landmark",
@@ -680,6 +660,16 @@ const neighborhoodData = [
             },
             {
                 "name": "Mountain View Mausoleum",
+                "description": "Mountain View Mausoleum is part of Mountain View Cemetery, which opened in 1882. The Mausoleum itself was built in 1923, featuring long corridors, arched ceilings, marble surfaces, and intricate stained-glass windows. It was built by Cecil E. Bryan, who collaborated with Frank Lloyd Wright and is considered the \"master\" of mausoleums, with some 80 mausoleums to his credit.",
+                "type": "landmark",
+                "address": "2300 Marengo Ave, Altadena, California, 91001",
+                "lat": 34.184729603205,
+                "lng": -118.143910382941,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.184729603205,-118.143910382941",
+                "original_hood": "Altadena"
+            },
+            {
+                "name": "Mountain View Mausoleum",
                 "description": "Built in 1923 and designed by Cecil E. Bryan (an architect who apprenticed under Frank Lloyd Wright) in the Neo-Classical/Romanesque Revival style, this structure is widely considered his undisputed masterpiece. The interior features a stunning 180-foot-long great gallery with vaulted ceilings, hand-painted fresco murals, and brilliant stained-glass windows crafted by the renowned local Judson Studios.",
                 "type": "landmark",
                 "address": "2300 N Marengo Ave, Altadena, CA 91001, USA",
@@ -696,6 +686,16 @@ const neighborhoodData = [
                 "lat": 34.1858499,
                 "lng": -118.1108483,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1858499,-118.1108483",
+                "original_hood": "Altadena"
+            },
+            {
+                "name": "The Cobb Estate (\"Haunted Forest\")",
+                "description": "When retired lumber magnate Charles Cobb built an estate in the foothills north of Pasadena in 1918, the only indication that the \"haunted woods\" behind his house had any ghosts was the name. Cobb lived on the property without incident until his death in 1939, when the 107-acre estate was deeded to the Pasadena Masons, as specified in his will. And still no ghosts. Eventually the property was purchased from the Masons and converted to a retreat for the Sisters of St. Joseph, and not a word about supernatural activity was heard. It was when the Marx Brothers bought the estate in 1956 that the rumors of strange noises and eerie lights at the now vacant home began to circulate amongst the townsfolk. Whether or not that had to do with the squatters and teenagers who used the house for various nocturnal activities is an open question. (Source: atlasobscura.com)",
+                "type": "landmark",
+                "address": "The Cobb Estate, Altadena, CA",
+                "lat": 34.205853046070196,
+                "lng": -118.12741395256921,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.205853046070196,-118.12741395256921",
                 "original_hood": "Altadena"
             },
             {
@@ -818,6 +818,24 @@ const neighborhoodData = [
                 "original_hood": "Angelino Heights"
             },
             {
+                "name": "Echo Park/Angels Point Gateway",
+                "address": "1116 W Sunset Blvd Los Angeles, CA 90012",
+                "description": "Located on the edge of Echo Park, this stretch of Sunset Boulevard is historically connected to the city's early film studios and the development of the north of downtown.",
+                "lat": 34.0685,
+                "lng": -118.2515,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0685,-118.2515"
+            },
+            {
+                "name": "Everett Park (\"Teletubby Hill\")",
+                "address": "1031 Everett Street Los Angeles, CA 90026",
+                "description": "A small park on a steep hill in Echo Park famous for offering one of the most cinematic unobstructed views of the DTLA skyline.",
+                "lat": 34.0672,
+                "lng": -118.2512,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0672,-118.2512"
+            },
+            {
                 "name": "Foy House (Carroll Avenue)",
                 "description": "One of the finest and most intact Victorian homes on Carroll Avenue in Angelino Heights, one of the oldest residential neighborhoods in Los Angeles. Carroll Avenue's collection of late 19th-century homes is the largest concentration of preserved Victorian residential architecture in Southern California.",
                 "type": "landmark",
@@ -866,6 +884,15 @@ const neighborhoodData = [
                 "lng": -118.2514882,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0688631,-118.2514882",
                 "original_hood": "Angelino Heights"
+            },
+            {
+                "name": "Vista Hermosa Natural Park",
+                "address": "100 N Toluca St Los Angeles, CA 90026",
+                "description": "A 10-acre urban park built on an old oil field, known for its sustainable landscape and iconic \"bench view\" of the DTLA skyline.",
+                "lat": 34.062,
+                "lng": -118.2565,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.062,-118.2565"
             }
         ]
     },
@@ -1047,6 +1074,15 @@ const neighborhoodData = [
                 "original_hood": "Arleta"
             },
             {
+                "name": "Laurel Canyon Retail Center",
+                "address": "10062 Laurel Canyon Boulevard Pacoima, CA 91331",
+                "description": "A prominent retail site in the heart of Pacoima, historically a hub for local small businesses in the Northeast Valley.",
+                "lat": 34.2535,
+                "lng": -118.4232,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2535,-118.4232"
+            },
+            {
                 "name": "Osborne Neighborhood Church",
                 "description": "A foundational Arleta community anchor that provides spiritual services and local outreach in the northeast San Fernando Valley.",
                 "type": "landmark",
@@ -1072,16 +1108,6 @@ const neighborhoodData = [
                 "lng": -118.082,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=18630+Pioneer+Blvd,+Artesia,+CA+90701",
                 "original_hood": "Artesia"
-            },
-            {
-                "name": "Pat Nixon Park",
-                "description": "Pat Nixon Park occupies the site of the former First Lady's childhood home and truck farm, where she lived from 1914 until 1931. The Cerritos Senior Center at Pat Nixon Park sits on the site of the home after it was destroyed by a fire in 1978. The home itself was situated on the corner of South Street and Ely Avenue.",
-                "type": "landmark",
-                "address": "12340 South St, Artesia, California, 90701",
-                "lat": 33.858116424576,
-                "lng": -118.068252139757,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.858116424576,-118.068252139757",
-                "original_hood": "Cerritos"
             },
             {
                 "name": "Ambala Cash and Carry",
@@ -1112,6 +1138,16 @@ const neighborhoodData = [
                 "lng": -118.082604640202,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=18743+Pioneer+Blvd+%23101,+Artesia,+CA+90701",
                 "original_hood": "Artesia"
+            },
+            {
+                "name": "Pat Nixon Park",
+                "description": "Pat Nixon Park occupies the site of the former First Lady's childhood home and truck farm, where she lived from 1914 until 1931. The Cerritos Senior Center at Pat Nixon Park sits on the site of the home after it was destroyed by a fire in 1978. The home itself was situated on the corner of South Street and Ely Avenue.",
+                "type": "landmark",
+                "address": "12340 South St, Artesia, California, 90701",
+                "lat": 33.858116424576,
+                "lng": -118.068252139757,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.858116424576,-118.068252139757",
+                "original_hood": "Cerritos"
             },
             {
                 "name": "The East West Ice Palace",
@@ -1159,6 +1195,24 @@ const neighborhoodData = [
                 "lng": -118.2811844,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9200153,-118.2811844",
                 "original_hood": "Athens"
+            },
+            {
+                "name": "Crenshaw/Imperial District",
+                "address": "10709 Crenshaw Blvd Inglewood, CA 90303",
+                "description": "A commercial site near the Southern Inglewood border, historically serving the employees of the nearby Hollywood Park Racetrack.",
+                "lat": 33.9382,
+                "lng": -118.3306,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9382,-118.3306"
+            },
+            {
+                "name": "Imperial/Crenshaw District",
+                "address": "11908 Crenshaw Boulevard Inglewood, CA 90303",
+                "description": "A commercial site located near the historic Hawthorne Airport, serving the South Bay's aerospace community.",
+                "lat": 33.9245,
+                "lng": -118.3305,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9245,-118.3305"
             },
             {
                 "name": "Los Angeles Southwest College",
@@ -1269,14 +1323,13 @@ const neighborhoodData = [
                 "original_hood": "Atwater Village"
             },
             {
-                "name": "The Tam O'Shanter",
-                "description": "Opened 1922; Walt Disney\u2019s favorite hangout, built in a \"Storybook\" Tudor style.",
-                "type": "neighborhood-favorite",
-                "address": "2980 Los Feliz Blvd, Los Angeles, CA 90039",
-                "lat": 34.1252,
-                "lng": -118.2635,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1252,-118.2635",
-                "original_hood": "Atwater Village"
+                "name": "The Almon House (R.M. Schindler)",
+                "address": "1935 Almon House, Los Angeles, CA 90039",
+                "description": "An experimental residential design by Rudolph Schindler, known for its interlocking spatial volumes and use of industrial materials in a domestic setting.",
+                "lat": 34.1085,
+                "lng": -118.2612,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1085,-118.2612"
             },
             {
                 "name": "The Bigfoot Lodge",
@@ -1296,6 +1349,16 @@ const neighborhoodData = [
                 "lat": 34.0992198,
                 "lng": -118.258945,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0992198,-118.258945",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "The Tam O'Shanter",
+                "description": "Opened 1922; Walt Disney\u2019s favorite hangout, built in a \"Storybook\" Tudor style.",
+                "type": "neighborhood-favorite",
+                "address": "2980 Los Feliz Blvd, Los Angeles, CA 90039",
+                "lat": 34.1252,
+                "lng": -118.2635,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1252,-118.2635",
                 "original_hood": "Atwater Village"
             }
         ]
@@ -1350,16 +1413,6 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "Route 66 vintage 1950s neon sign",
-                "description": "At 424 W Foothill is a surviving store, Canyon City Liquor, with its vintage 1950s neon sign \u2014 a classic liquor store that appears listed in the 1949 phone directory. It's a legitimate Route 66 landmark, notable for its well-preserved vintage neon signage.",
-                "type": "landmark",
-                "address": "424 E Foothill Blvd, Azusa, California, 91702",
-                "lat": 34.133176456268,
-                "lng": -117.903165779031,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.133176456268,-117.903165779031",
-                "original_hood": "Azusa"
-            },
-            {
                 "name": "Azusa Foothill Drive-In Theatre Sign (Historic)",
                 "description": "A screenless monument to the golden age of the automobile. The theater is long gone (replaced by a university parking lot), but the magnificent 1961 neon marquee remains protected. It stands as a nostalgic, glowing totem of the Route 66 era, lighting up Foothill Boulevard for no one in particular.",
                 "type": "landmark",
@@ -1377,6 +1430,16 @@ const neighborhoodData = [
                 "lat": 34.1336186,
                 "lng": -117.9075627,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1336186,-117.9075627",
+                "original_hood": "Azusa"
+            },
+            {
+                "name": "Route 66 vintage 1950s neon sign",
+                "description": "At 424 W Foothill is a surviving store, Canyon City Liquor, with its vintage 1950s neon sign \u2014 a classic liquor store that appears listed in the 1949 phone directory. It's a legitimate Route 66 landmark, notable for its well-preserved vintage neon signage.",
+                "type": "landmark",
+                "address": "424 E Foothill Blvd, Azusa, California, 91702",
+                "lat": 34.133176456268,
+                "lng": -117.903165779031,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.133176456268,-117.903165779031",
                 "original_hood": "Azusa"
             },
             {
@@ -1503,6 +1566,15 @@ const neighborhoodData = [
                 "original_hood": "Baldwin Hills"
             },
             {
+                "name": "The Village Green",
+                "address": "10006 National Blvd Los Angeles, CA 90034",
+                "description": "A National Historic Landmark garden apartment complex designed to separate pedestrian and vehicular traffic.",
+                "lat": 34.0225,
+                "lng": -118.3582,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0225,-118.3582"
+            },
+            {
                 "name": "Village Green (Baldwin Hills Village)",
                 "description": "Built in 1941\u201342 as Baldwin Hills Village, this is a pioneering Garden City\u2013style \"superblock\" of 627 apartments set amid expansive shared green courts \u2014 a radical departure from the conventional street grid. Designed by Reginald D. Johnson with consulting architect Clarence Stein (co-creator of Radburn, New Jersey), the complex was intended from the outset as a prototype for humane, community-centered urban housing. Its significance has been recognized at every major preservation level: designated Los Angeles Historic-Cultural Monument No. 174 in 1977, listed on the National Register of Historic Places in 1993, and declared a U.S. National Historic Landmark in 2001. In 1972, the complex was converted from rentals to condominiums and renamed Village Green, the name it carries today.",
                 "type": "landmark",
@@ -1594,6 +1666,15 @@ const neighborhoodData = [
                 "original_hood": "Bel Air"
             },
             {
+                "name": "Bel-Air Estate District",
+                "address": "10452 Bellagio Road Los Angeles, CA 90077",
+                "description": "A prestigious residential address in Bel-Air, known for its seclusion and housing some of the most expensive real estate in the United States.",
+                "lat": 34.0795,
+                "lng": -118.4482,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0795,-118.4482"
+            },
+            {
                 "name": "Beverly Hillbillies Mansion (rumored exterior)",
                 "description": "Mansion rumored to have been used for exterior shots of the classic TV series The Beverly Hillbillies.",
                 "type": "landmark",
@@ -1624,6 +1705,15 @@ const neighborhoodData = [
                 "original_hood": "Bel Air"
             },
             {
+                "name": "Chalon Road Estates",
+                "address": "11030 Chalon Rd Los Angeles, CA 90077",
+                "description": "A prestigious residential street in the foothills of Bel-Air, known for its gated mansions and history as a home for major figures in the entertainment industry.",
+                "lat": 34.0925,
+                "lng": -118.4612,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0925,-118.4612"
+            },
+            {
                 "name": "Elizabeth Taylor's Home",
                 "description": "Former home of Elizabeth Taylor.",
                 "type": "landmark",
@@ -1642,6 +1732,15 @@ const neighborhoodData = [
                 "lng": -118.4458814,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0861115,-118.4458814",
                 "original_hood": "Bel Air"
+            },
+            {
+                "name": "Judy Garland's Former Residence",
+                "address": "1944 Bel Air Rd, Los Angeles, CA 90077",
+                "description": "A traditional estate in the hills of Bel-Air that was home to the legendary Wizard of Oz star during the height of her career.",
+                "lat": 34.0895,
+                "lng": -118.4482,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0895,-118.4482"
             },
             {
                 "name": "Judy Garland's Home",
@@ -1672,6 +1771,24 @@ const neighborhoodData = [
                 "lng": -118.446828759483,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=801+N+Stone+Canyon+Rd,+Los+Angeles,+CA+90077",
                 "original_hood": "Bel Air"
+            },
+            {
+                "name": "Lower Bel Air Estates",
+                "address": "1161 Bel Air Road Los Angeles, CA 90077",
+                "description": "A prestigious hilltop residential address in one of the world's most exclusive zip codes, known for its extreme privacy and architectural scale.",
+                "lat": 34.0955,
+                "lng": -118.4482,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0955,-118.4482"
+            },
+            {
+                "name": "Lower Bel-Air Estates",
+                "address": "10430 Bellagio Rd Los Angeles, CA 90077",
+                "description": "A prestigious residential address in one of the most exclusive neighborhoods in the world, known for its privacy and massive estates.",
+                "lat": 34.0795,
+                "lng": -118.4482,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0795,-118.4482"
             },
             {
                 "name": "Moraga Drive Residential Historic District",
@@ -1722,6 +1839,15 @@ const neighborhoodData = [
                 "description": "Tucked away in the Santa Monica Mountains within the exclusive enclave of Bel Air, Moraga Estate is a 16-acre anomaly\u2014the first commercial winery to be established in Los Angeles since Prohibition. Concealed behind unassuming rustic wood gates, the property features a 7,500-square-foot main residence and seven acres of rolling vineyards that thrive in a unique microclimate just five miles from the Pacific. Originally built in 1937 for Gone with the Wind director Victor Fleming, the estate was purchased by Rupert Murdoch in 2013 after he famously saw the listing in a real estate column in one of his own newspapers, The Wall Street Journal. Today, it remains a working vineyard, producing high-end Bordeaux-style blends that reflect the rugged beauty of Moraga Canyon.",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0842629,-118.4690414",
                 "original_hood": "Bel Air"
+            },
+            {
+                "name": "Upper Bel-Air Residential",
+                "address": "10539 Bellagio Road Los Angeles, CA 90077",
+                "description": "Located in the hills of Bel-Air, this address is part of an enclave known for high-profile residents and architectural landmarks.",
+                "lat": 34.0815,
+                "lng": -118.4492,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0815,-118.4492"
             },
             {
                 "name": "Wilt Chamberlain's Home",
@@ -1846,16 +1972,6 @@ const neighborhoodData = [
         "region": "Southeast",
         "locations": [
             {
-                "name": "Chris' & Pitt's BBQ",
-                "description": "This is Chris' & Pitt's BBQ, a long-running Southern California institution with deep local history. The restaurant has been serving original recipes and Texas-style wood-fired barbecue since 1940, founded by Chris Pelonis. The building itself dates to 1946 per property records.",
-                "type": "landmark",
-                "address": "9839 Artesia Blvd, Bellflower, California, 90706",
-                "lat": 33.875127455161,
-                "lng": -118.123766741773,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.875127455161,-118.123766741773",
-                "original_hood": "Bellflower"
-            },
-            {
                 "name": "B & D Wheel Alignment",
                 "description": "Long-standing auto shop on Lakewood Boulevard in Bellflower.",
                 "type": "landmark",
@@ -1893,6 +2009,16 @@ const neighborhoodData = [
                 "lng": -118.125049,
                 "address": "16394-16398 Bellflower Blvd, Bellflower, CA 90706, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8855642,-118.125049",
+                "original_hood": "Bellflower"
+            },
+            {
+                "name": "Chris' & Pitt's BBQ",
+                "description": "This is Chris' & Pitt's BBQ, a long-running Southern California institution with deep local history. The restaurant has been serving original recipes and Texas-style wood-fired barbecue since 1940, founded by Chris Pelonis. The building itself dates to 1946 per property records.",
+                "type": "landmark",
+                "address": "9839 Artesia Blvd, Bellflower, California, 90706",
+                "lat": 33.875127455161,
+                "lng": -118.123766741773,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.875127455161,-118.123766741773",
                 "original_hood": "Bellflower"
             },
             {
@@ -1978,6 +2104,24 @@ const neighborhoodData = [
                 "original_hood": "Beverly Crest"
             },
             {
+                "name": "Britney Spears' Former Mansion",
+                "address": "12094 Summit Circle, Beverly Hills, CA 90210",
+                "description": "A high-profile residential estate in the gated \"The Summit\" community, famous for its association with the pop icon during the mid-2000s.",
+                "lat": 34.1185,
+                "lng": -118.4052,
+                "type": "pop-culture",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1185,-118.4052"
+            },
+            {
+                "name": "Prince Harry & Meghan Markle (Sussex) Residence",
+                "address": "Beverly Ridge Estates, Beverly Hills, CA 90210",
+                "description": "The location of the $18 million mansion where the Duke and Duchess of Sussex resided upon their initial move to Los Angeles.",
+                "lat": 34.1152,
+                "lng": -118.4085,
+                "type": "pop-culture",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1152,-118.4085"
+            },
+            {
                 "name": "The Bella Vista Estate",
                 "address": "2505 Summitridge Dr, Beverly Hills, CA 90210, USA",
                 "type": "landmark",
@@ -2024,6 +2168,15 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0997077,-118.4437106",
                 "year_built": "1926",
                 "original_hood": "Beverly Glen"
+            },
+            {
+                "name": "Site of the Tate Murders",
+                "address": "10050 Cielo Drive Beverly Hills, CA 90210",
+                "description": "The location of the former residence associated with the 1969 Manson Family crimes; the original house has since been demolished and replaced.",
+                "lat": 34.0965,
+                "lng": -118.4315,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0965,-118.4315"
             }
         ]
     },
@@ -2053,6 +2206,15 @@ const neighborhoodData = [
                 "original_hood": "Beverly Grove"
             },
             {
+                "name": "Raymond Chandler & Mickey Rourke Residence",
+                "address": "6520 Drexel Ave, Los Angeles, CA 90048",
+                "description": "A historic Beverly Grove home that was once the residence of legendary hardboiled novelist Raymond Chandler and later occupied by actor Mickey Rourke.",
+                "lat": 34.0685,
+                "lng": -118.3712,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0685,-118.3712"
+            },
+            {
                 "name": "The Grove",
                 "description": "Adjacent to the market, The Grove (189 The Grove Dr) emerged in the early 2000s as a 575,000 sq ft open-air retail and entertainment complex. Developer Rick Caruso opened it in 2002, introducing an electric streetcar link to the market and spurring additional tourism and dining traffic.",
                 "type": "landmark",
@@ -2070,16 +2232,6 @@ const neighborhoodData = [
         "region": "Westside",
         "locations": [
             {
-                "name": "Manson Family Tate Murders in 1969",
-                "description": "The former site of the Sharon Tate residence, an architectural work by Robert Byrd replaced by a modern estate. The house was completed in 1942 and was on a 3.3-acre lot above Benedict Canyon. It was the site of the Tate murders in 1969 by members of the Manson Family. Important flag: In 1994, both houses were demolished and a new house was constructed on the site. The street address was subsequently changed to 10066 Cielo Drive.",
-                "type": "landmark",
-                "address": "10050 Cielo Dr, Beverly Hills, California, 90210",
-                "lat": 34.094369966692,
-                "lng": -118.43133736143,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.094369966692,-118.43133736143",
-                "original_hood": "Beverly Hills"
-            },
-            {
                 "name": "10104 Angelo View Drive (Sheats-Goldstein Residence)",
                 "description": "This is one of the most iconic homes in Los Angeles. Designed by architect John Lautner in 1963, it is a masterpiece of Organic Architecture. The home is famous for its coffered concrete ceiling with 750 drinking glass skylights and its feature roles in films like The Big Lebowski and Charlie's Angels: Full Throttle. Current owner James Goldstein has pledged the estate to LACMA.",
                 "type": "landmark",
@@ -2087,16 +2239,6 @@ const neighborhoodData = [
                 "lat": 34.093459855809,
                 "lng": -118.434407114254,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.093459855809,-118.434407114254",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "Franklin Canyon Park",
-                "description": "Historic or notable location in Beverly Hills. A well-known historic filming location (Andy Griffith Show opening, etc.) and nature reserve.",
-                "type": "landmark",
-                "address": "2225 Franklin Canyon Dr, Beverly Hills, California, 90210",
-                "lat": 34.115471620553,
-                "lng": -118.414441992237,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.115471620553,-118.414441992237",
                 "original_hood": "Beverly Hills"
             },
             {
@@ -2120,36 +2262,6 @@ const neighborhoodData = [
                 "original_hood": "Beverly Hills"
             },
             {
-                "name": "Franklin Canyon Ranch House",
-                "description": "Upper Franklin Canyon Reservoir - Andy Griffith opening. A historic location used extensively for film and TV production.",
-                "type": "landmark",
-                "address": "2600 Franklin Canyon Dr, Beverly Hills, California, 90210",
-                "lat": 34.124524194805,
-                "lng": -118.409432311733,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.124524194805,-118.409432311733",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "Former home of many Hollywood legends",
-                "description": "A secluded estate in Benedict Canyon, a neighborhood famous for its lush topography and celebrity residents. Former home of many Hollywood legends including Cary Grant, the Beatles, and the Rolling Stones. The Beatles rented the house from Zsa Zsa Gabor in August 1965 during a few days off from their tour.",
-                "type": "landmark",
-                "address": "2850 Benedict Canyon Dr, Beverly Hills, California, 90210",
-                "lat": 34.123200943751,
-                "lng": -118.435908061655,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.123200943751,-118.435908061655",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "Trousdale Estates Mansion",
-                "description": "Located in Trousdale Estates, this property is a prime example of mid-century modern luxury architecture. Located within Trousdale Estates. Celebrity residents of Trousdale Estates have included Elvis Presley, Frank Sinatra, Dean Martin, Tony Curtis, Ray Charles, Howard Hughes, and Groucho Marx.",
-                "type": "landmark",
-                "address": "440 Trousdale Pl, Beverly Hills, California, 90210",
-                "lat": 34.10204208647,
-                "lng": -118.396801957114,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10204208647,-118.396801957114",
-                "original_hood": "Beverly Hills"
-            },
-            {
                 "name": "444 N Camden Drive (Camden Medical Arts)",
                 "description": "One of the most recognizable commercial structures in the city, this 12-story high-rise is the premier medical office building in Beverly Hills. It is known for housing world-class medical specialists and offering sweeping views of the city from its upper floors.",
                 "type": "landmark",
@@ -2167,36 +2279,6 @@ const neighborhoodData = [
                 "lat": 34.125148059859,
                 "lng": -118.419159678006,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.125148059859,-118.419159678006",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "One of first buildings created with CAD",
-                "description": "Architectural Style: Late Modern / Corporate International\n\nThe History: Located at the major intersection of Wilshire and La Cienega, this distinctive office building serves as a prominent commercial gateway to the city.\n\nKey Architectural Features: Known for its sleek, dark glass curtain walls and geometric profile, the building provides floor-to-ceiling views of the Hollywood Hills. It houses various professional suites and is a key anchor for the city's eastern business corridor. The oval-shaped Great Western Savings building was a revolutionary change from the typical boxy high-rise along Wilshire Boulevard, and was one of the first buildings created with computer-aided design (CAD), designed by architect William Pereira. LA Conservancy Now known as Flynt Publications building.",
-                "type": "landmark",
-                "address": "8484 Wilshire Blvd, Beverly Hills, CA 90211, USA",
-                "lat": 34.0646298,
-                "lng": -118.3756433,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0646298,-118.3756433",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "Greystone Mansion",
-                "description": "The 1928 Doheny estate, a 55-room Tudor Revival masterpiece designed by Gordon Kaufmann. It is the largest family estate ever built in Beverly Hills and has appeared in hundreds of films (The Big Lebowski, The Prestige). On the Beverly Hills Local Register as Landmark No. 4 \u2014 Greystone Mansion, designed by Gordon Kaufman, 1927.",
-                "type": "filming-location",
-                "address": "905 Loma Vista Dr, Beverly Hills, CA 90210",
-                "lat": 34.0920754,
-                "lng": -118.4015878,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0920754,-118.4015878",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "Union 76 Station on North Crescent Drive",
-                "description": "The Beverly Hills Local Register lists No. 37 \u2014 427 Crescent Dr \u2014 Union 76 Station, Gin Dan Wong, 1965.",
-                "type": "landmark",
-                "address": "90210-4815, Beverly Hills, California",
-                "lat": 34.072001387399,
-                "lng": -118.400592505187,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.072001387399,-118.400592505187",
                 "original_hood": "Beverly Hills"
             },
             {
@@ -2288,6 +2370,15 @@ const neighborhoodData = [
                 "lng": -118.3999508,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0729659,-118.3999508",
                 "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Beverly Hills Estates",
+                "address": "1110 Maytor Pl Beverly Hills, CA 90210",
+                "description": "A residential address in the exclusive Beverly Hills 90210 zip code, known for high-end real estate and its historical status as home to world-class celebrities.",
+                "lat": 34.0925,
+                "lng": -118.4112,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0925,-118.4112"
             },
             {
                 "name": "Beverly Hills Hotel & Polo Lounge",
@@ -2500,6 +2591,16 @@ const neighborhoodData = [
                 "original_hood": "Beverly Hills"
             },
             {
+                "name": "Former home of many Hollywood legends",
+                "description": "A secluded estate in Benedict Canyon, a neighborhood famous for its lush topography and celebrity residents. Former home of many Hollywood legends including Cary Grant, the Beatles, and the Rolling Stones. The Beatles rented the house from Zsa Zsa Gabor in August 1965 during a few days off from their tour.",
+                "type": "landmark",
+                "address": "2850 Benedict Canyon Dr, Beverly Hills, California, 90210",
+                "lat": 34.123200943751,
+                "lng": -118.435908061655,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.123200943751,-118.435908061655",
+                "original_hood": "Beverly Hills"
+            },
+            {
                 "name": "Frank Sinatra Residence",
                 "description": "Notable Beverly Hills residence.",
                 "type": "landmark",
@@ -2507,6 +2608,26 @@ const neighborhoodData = [
                 "lat": 34.087659620721,
                 "lng": -118.407198702175,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=915+Foothill+Rd%2C+Beverly+Hills%2C+CA+90210",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Franklin Canyon Park",
+                "description": "Historic or notable location in Beverly Hills. A well-known historic filming location (Andy Griffith Show opening, etc.) and nature reserve.",
+                "type": "landmark",
+                "address": "2225 Franklin Canyon Dr, Beverly Hills, California, 90210",
+                "lat": 34.115471620553,
+                "lng": -118.414441992237,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.115471620553,-118.414441992237",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Franklin Canyon Ranch House",
+                "description": "Upper Franklin Canyon Reservoir - Andy Griffith opening. A historic location used extensively for film and TV production.",
+                "type": "landmark",
+                "address": "2600 Franklin Canyon Dr, Beverly Hills, California, 90210",
+                "lat": 34.124524194805,
+                "lng": -118.409432311733,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.124524194805,-118.409432311733",
                 "original_hood": "Beverly Hills"
             },
             {
@@ -2557,6 +2678,16 @@ const neighborhoodData = [
                 "lat": 34.085432800504,
                 "lng": -118.401375207306,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=720+N+Maple+Dr%2C+Beverly+Hills%2C+CA+90210",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Greystone Mansion",
+                "description": "The 1928 Doheny estate, a 55-room Tudor Revival masterpiece designed by Gordon Kaufmann. It is the largest family estate ever built in Beverly Hills and has appeared in hundreds of films (The Big Lebowski, The Prestige). On the Beverly Hills Local Register as Landmark No. 4 \u2014 Greystone Mansion, designed by Gordon Kaufman, 1927.",
+                "type": "filming-location",
+                "address": "905 Loma Vista Dr, Beverly Hills, CA 90210",
+                "lat": 34.0920754,
+                "lng": -118.4015878,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0920754,-118.4015878",
                 "original_hood": "Beverly Hills"
             },
             {
@@ -2650,6 +2781,16 @@ const neighborhoodData = [
                 "original_hood": "Beverly Hills"
             },
             {
+                "name": "Manson Family Tate Murders in 1969",
+                "description": "The former site of the Sharon Tate residence, an architectural work by Robert Byrd replaced by a modern estate. The house was completed in 1942 and was on a 3.3-acre lot above Benedict Canyon. It was the site of the Tate murders in 1969 by members of the Manson Family. Important flag: In 1994, both houses were demolished and a new house was constructed on the site. The street address was subsequently changed to 10066 Cielo Drive.",
+                "type": "landmark",
+                "address": "10050 Cielo Dr, Beverly Hills, California, 90210",
+                "lat": 34.094369966692,
+                "lng": -118.43133736143,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.094369966692,-118.43133736143",
+                "original_hood": "Beverly Hills"
+            },
+            {
                 "name": "Marilyn Monroe Residence",
                 "description": "Notable Beverly Hills residence.",
                 "type": "landmark",
@@ -2717,6 +2858,16 @@ const neighborhoodData = [
                 "lat": 34.083613215053,
                 "lng": -118.406809446591,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=806+N+Alpine+Dr%2C+Beverly+Hills%2C+CA+90210",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "One of first buildings created with CAD",
+                "description": "Architectural Style: Late Modern / Corporate International\n\nThe History: Located at the major intersection of Wilshire and La Cienega, this distinctive office building serves as a prominent commercial gateway to the city.\n\nKey Architectural Features: Known for its sleek, dark glass curtain walls and geometric profile, the building provides floor-to-ceiling views of the Hollywood Hills. It houses various professional suites and is a key anchor for the city's eastern business corridor. The oval-shaped Great Western Savings building was a revolutionary change from the typical boxy high-rise along Wilshire Boulevard, and was one of the first buildings created with computer-aided design (CAD), designed by architect William Pereira. LA Conservancy Now known as Flynt Publications building.",
+                "type": "landmark",
+                "address": "8484 Wilshire Blvd, Beverly Hills, CA 90211, USA",
+                "lat": 34.0646298,
+                "lng": -118.3756433,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0646298,-118.3756433",
                 "original_hood": "Beverly Hills"
             },
             {
@@ -2798,6 +2949,15 @@ const neighborhoodData = [
                 "lng": -118.41442231015,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=715+N+Bedford+Dr%2C+Beverly+Hills%2C+CA+90210",
                 "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Stiles O. Clements Residence",
+                "address": "708 North Linden Avenue, Beverly Hills, CA 90210",
+                "description": "The long-time home of the architect who designed the Mayan, Wiltern, and El Capitan theaters; he lived here for over 30 years.",
+                "lat": 34.0785,
+                "lng": -118.4052,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0785,-118.4052"
             },
             {
                 "name": "The Flats",
@@ -2920,6 +3080,26 @@ const neighborhoodData = [
                 "original_hood": "Beverly Hills"
             },
             {
+                "name": "Trousdale Estates Mansion",
+                "description": "Located in Trousdale Estates, this property is a prime example of mid-century modern luxury architecture. Located within Trousdale Estates. Celebrity residents of Trousdale Estates have included Elvis Presley, Frank Sinatra, Dean Martin, Tony Curtis, Ray Charles, Howard Hughes, and Groucho Marx.",
+                "type": "landmark",
+                "address": "440 Trousdale Pl, Beverly Hills, California, 90210",
+                "lat": 34.10204208647,
+                "lng": -118.396801957114,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10204208647,-118.396801957114",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Union 76 Station on North Crescent Drive",
+                "description": "The Beverly Hills Local Register lists No. 37 \u2014 427 Crescent Dr \u2014 Union 76 Station, Gin Dan Wong, 1965.",
+                "type": "landmark",
+                "address": "90210-4815, Beverly Hills, California",
+                "lat": 34.072001387399,
+                "lng": -118.400592505187,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.072001387399,-118.400592505187",
+                "original_hood": "Beverly Hills"
+            },
+            {
                 "name": "W.C. Fields Residence",
                 "description": "Notable Beverly Hills residence.",
                 "type": "landmark",
@@ -2972,6 +3152,15 @@ const neighborhoodData = [
         "name": "Beverly Park",
         "region": "Santa Monica Mountains",
         "locations": [
+            {
+                "name": "Beverly Crest Estates",
+                "address": "10104 Angelo View Drive Beverly Hills, CA 90210",
+                "description": "A prestigious hilltop street in the hills above Beverly Hills, known for its modernist architecture and expansive views of the Los Angeles Basin.",
+                "lat": 34.1185,
+                "lng": -118.4232,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1185,-118.4232"
+            },
             {
                 "name": "North Beverly Park",
                 "description": "Often cited as the most exclusive gated community in Los Angeles. Hidden in the hills off Mulholland Drive, it is a heavily fortified enclave of massive custom estates, famous for its intense privacy and its concentration of billionaire and A-list celebrity residents.",
@@ -3443,6 +3632,15 @@ const neighborhoodData = [
         "region": "Eastside",
         "locations": [
             {
+                "name": "Boyle Hotel (Cummings Block)",
+                "address": "101 N. Boyle Avenue Los Angeles, CA 90033",
+                "description": "Built in 1889, this landmark Victorian-era building was a social hub for the early Jewish and later Mexican communities of Boyle Heights.",
+                "lat": 34.0475,
+                "lng": -118.2195,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0475,-118.2195"
+            },
+            {
                 "name": "Boyle Hotel (HCM #93)",
                 "description": "The Boyle Hotel-Cummings Block, a Queen Anne-style Victorian landmark overlooking Mariachi Plaza.",
                 "type": "historical",
@@ -3461,6 +3659,15 @@ const neighborhoodData = [
                 "lng": -118.2155,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0415,-118.2155",
                 "original_hood": "Boyle Heights & Eastside (Foundational HCMs)"
+            },
+            {
+                "name": "Romaine Grand Residence",
+                "address": "1030 East Cesar E Chavez Avenue Los Angeles, CA 90033",
+                "description": "An 1880s-era brick house that is one of the oldest residential structures in Boyle Heights and a designated Historic-Cultural Monument.",
+                "lat": 34.0492,
+                "lng": -118.2152,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0492,-118.2152"
             }
         ]
     },
@@ -3514,6 +3721,15 @@ const neighborhoodData = [
                 "address": "Brentwood Park, Los Angeles, CA 90049, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0550089,-118.4881363",
                 "original_hood": "Brentwood"
+            },
+            {
+                "name": "Brentwood Park Neighborhood",
+                "address": "11693 San Vicente Blvd Los Angeles, CA 90049",
+                "description": "Situated on the scenic corridor of San Vicente, famous for its coral trees and prestigious estate architecture.",
+                "lat": 34.0525,
+                "lng": -118.4712,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0525,-118.4712"
             },
             {
                 "name": "Brentwood Village",
@@ -3644,6 +3860,16 @@ const neighborhoodData = [
                 "original_hood": "Brentwood"
             },
             {
+                "name": "The Banks Mansion \u2014 The Fresh Prince of Bel-Air",
+                "description": "Contrary to the theme song, the house is actually in Brentwood, not Bel-Air.",
+                "type": "landmark",
+                "address": "4117 Logan Ln",
+                "lat": 34.0762,
+                "lng": -118.4485,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0762,-118.4485",
+                "original_hood": "Brentwood"
+            },
+            {
                 "name": "The Barry Building",
                 "description": "Once home to the beloved independent bookstore Dutton's Books, this commercial building is celebrated for its central, open-air courtyard and clean Mid-Century Modern lines. Built in 1951 and designed by Milton Caughey, it is officially Los Angeles Historic-Cultural Monument #887. Vacant since 2007, it has become the center of a decades-long battle between historic preservationists and developers, facing imminent threats of demolition.",
                 "type": "landmark",
@@ -3661,16 +3887,6 @@ const neighborhoodData = [
                 "lat": 34.078563244119,
                 "lng": -118.474787519534,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1200+Getty+Center+Dr%2C+Los+Angeles%2C+CA+90049",
-                "original_hood": "Brentwood"
-            },
-            {
-                "name": "The Banks Mansion \u2014 The Fresh Prince of Bel-Air",
-                "description": "Contrary to the theme song, the house is actually in Brentwood, not Bel-Air.",
-                "type": "landmark",
-                "address": "4117 Logan Ln",
-                "lat": 34.0762,
-                "lng": -118.4485,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0762,-118.4485",
                 "original_hood": "Brentwood"
             },
             {
@@ -3806,12 +4022,12 @@ const neighborhoodData = [
             },
             {
                 "name": "B & B Auto Body Works",
-                "description": "Awesome art-deco lettering -",
+                "description": "A famous retro-themed shopping area known for its vintage boutiques, costume shops, and mid-century Americana vibe.",
                 "type": "landmark",
-                "address": "1017 West Magnolia Boulevard Burbank, CA 91506-1683",
-                "lat": 34.177095826798,
-                "lng": -118.320360844173,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1017+West+Magnolia+Boulevard+Burbank,+CA+91506-1683",
+                "address": "1017 West Magnolia Boulevard Burbank, CA 91506",
+                "lat": 34.1725,
+                "lng": -118.3365,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1725,-118.3365",
                 "original_hood": "Burbank"
             },
             {
@@ -3833,6 +4049,15 @@ const neighborhoodData = [
                 "lng": -118.322016940602,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=919+Isabel+Street,+Burbank+91506",
                 "original_hood": "Burbank"
+            },
+            {
+                "name": "Burbank Empire Center Area",
+                "address": "1016 North Victory Place Burbank, CA 91502",
+                "description": "A major commercial and industrial site in Burbank\u2019s media-adjacent corridor, near major film and animation studios.",
+                "lat": 34.1852,
+                "lng": -118.3285,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1852,-118.3285"
             },
             {
                 "name": "Burbank Hills Estates",
@@ -4228,6 +4453,33 @@ const neighborhoodData = [
                 "lng": -118.4132,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0075,-118.4132",
                 "original_hood": "Burbank & Culver City (Googie)"
+            },
+            {
+                "name": "Braddock Drive Community Area",
+                "address": "11547 Braddock Dr Culver City, CA 90230",
+                "description": "Located near the Braddock Drive Elementary School, this area is a central residential hub within the Culver City/Del Rey border.",
+                "lat": 33.9965,
+                "lng": -118.4062,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9965,-118.4062"
+            },
+            {
+                "name": "Culver City Residential",
+                "address": "11155 Washington Pl Culver City, CA 90232",
+                "description": "A residential street in the \"Heart of Screenland,\" near the historic Culver Studios and the 1920s-era residential expansions.",
+                "lat": 34.0072,
+                "lng": -118.4121,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0072,-118.4121"
+            },
+            {
+                "name": "The Pink Flamingo Site",
+                "address": "11143 Washington Blvd Culver City, CA 90232",
+                "description": "A whimsical commercial site (referencing the nearby Pink Flamingo shop) located in the bustling Culver City retail corridor.",
+                "lat": 34.0045,
+                "lng": -118.4152,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0045,-118.4152"
             }
         ]
     },
@@ -4254,26 +4506,6 @@ const neighborhoodData = [
         "region": "Santa Monica Mountains",
         "description": "Calabasas occupies 14 miles along the southwest corner of the San Fernando Valley and the Santa Monica Mountains. Originally part of Rancho San Vicente and Rancho El Escorpi\u00f3n, the area hosted Chumash villages, Spanish expeditions in 1769\u20131776, and Miguel Leonis\u2019s \u201cKing of Calabasas\u201d era in the 1870s. Incorporated in 1991 after decades as a rural enclave, Calabasas now balances historic preservation with gated residential estates and open-space protections.",
         "locations": [
-            {
-                "name": "The Leonis Adobe",
-                "description": "The Leonis Adobe, located at 23537 Calabasas Road, is one of the oldest surviving private residences in Los Angeles County. In 1962, it was declared Los Angeles Historic Cultural Monument #1, and in 1975 it was listed on the National Register of Historic Places. WhichMuseum Address confirmed, landmark confirmed.",
-                "type": "landmark",
-                "address": "23537 Calabasas Rd, Calabasas, California, 91302",
-                "lat": 34.157571147269,
-                "lng": -118.640068088956,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.157571147269,-118.640068088956",
-                "original_hood": "Calabasas"
-            },
-            {
-                "name": "The Los Angeles Pet Memorial Park",
-                "description": "The Los Angeles Pet Memorial Park was founded in 1928 by veterinarian Dr. Eugene Jones and is situated on ten acres of land interring over 40,000 pets. Celebrity pets buried here belonged to Charlie Chaplin, Humphrey Bogart, Orson Welles, Diana Ross, and Steven Spielberg. California By Choice A genuinely notable historic site \u2014 the oldest pet cemetery in LA.",
-                "type": "landmark",
-                "address": "5068 Old Scandia Ln, Calabasas, California, 91302",
-                "lat": 34.156646749078,
-                "lng": -118.651339066518,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.156646749078,-118.651339066518",
-                "original_hood": "Calabasas"
-            },
             {
                 "name": "Bellagio at Calabasas",
                 "address": "The Oaks, Calabasas, CA 91302, USA",
@@ -4332,6 +4564,26 @@ const neighborhoodData = [
                 "original_hood": "Calabasas"
             },
             {
+                "name": "The Leonis Adobe",
+                "description": "The Leonis Adobe, located at 23537 Calabasas Road, is one of the oldest surviving private residences in Los Angeles County. In 1962, it was declared Los Angeles Historic Cultural Monument #1, and in 1975 it was listed on the National Register of Historic Places. WhichMuseum Address confirmed, landmark confirmed.",
+                "type": "landmark",
+                "address": "23537 Calabasas Rd, Calabasas, California, 91302",
+                "lat": 34.157571147269,
+                "lng": -118.640068088956,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.157571147269,-118.640068088956",
+                "original_hood": "Calabasas"
+            },
+            {
+                "name": "The Los Angeles Pet Memorial Park",
+                "description": "The Los Angeles Pet Memorial Park was founded in 1928 by veterinarian Dr. Eugene Jones and is situated on ten acres of land interring over 40,000 pets. Celebrity pets buried here belonged to Charlie Chaplin, Humphrey Bogart, Orson Welles, Diana Ross, and Steven Spielberg. California By Choice A genuinely notable historic site \u2014 the oldest pet cemetery in LA.",
+                "type": "landmark",
+                "address": "5068 Old Scandia Ln, Calabasas, California, 91302",
+                "lat": 34.156646749078,
+                "lng": -118.651339066518,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.156646749078,-118.651339066518",
+                "original_hood": "Calabasas"
+            },
+            {
                 "name": "The Ridge",
                 "type": "sub-neighborhood",
                 "lat": 34.1414492,
@@ -4384,26 +4636,6 @@ const neighborhoodData = [
                 "original_hood": "Canoga Park"
             },
             {
-                "name": "Shadow Ranch (Rancho Sombra del Roble)",
-                "description": "This is Shadow Ranch (Rancho Sombra del Roble). Shadow Ranch is a historic ranch house built from 1869\u20131872 using adobe and redwood lumber on the original Workman Ranch in the western San Fernando Valley. It's LA Historic-Cultural Monument #9. However, the Shadow Ranch marker notes the park's address as 22633 Vanowen St, West Hills.",
-                "type": "landmark",
-                "address": "22633 Vanowen St, West Hills, California, 91307",
-                "lat": 34.217013634842,
-                "lng": -118.639844459779,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.217013634842,-118.639844459779",
-                "original_hood": "Canoga Park"
-            },
-            {
-                "name": "Orcutt Ranch / Rancho Cienega de los Caballeros",
-                "description": "This is LA Historic-Cultural Monument #100. Built in 1926 for William Warren Orcutt (a pioneer in California oil geology), this 24-acre estate features a Spanish Colonial Revival residence and a 700-year-old oak tree. It was a filming location for the \"fantasy house\" sequence in La La Land.",
-                "type": "landmark",
-                "address": "23600 Roscoe Blvd, Canoga Park, California, 91304",
-                "lat": 34.218445557271,
-                "lng": -118.640136904381,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.218445557271,-118.640136904381",
-                "original_hood": "Canoga Park"
-            },
-            {
                 "name": "6633 Canoga Ave (Former Rocketdyne Facility)",
                 "description": "This is perhaps the most significant \"lost\" landmark in the Valley. It was the headquarters of Rocketdyne, where engines for the Saturn V rockets and the Space Shuttle were manufactured. Before its demolition in 2016\u20132017, the site was documented by the Historic American Engineering Record (HAER CA-2355-C) due to its vital role in the Apollo moon landings.",
                 "type": "landmark",
@@ -4434,6 +4666,16 @@ const neighborhoodData = [
                 "original_hood": "Canoga Park"
             },
             {
+                "name": "Crown City Pawn Shop \u2014 Pulp Fiction",
+                "description": "The site of the infamous \"Gimp\" basement scene; it is still an active pawn shop.",
+                "type": "landmark",
+                "address": "20933 Roscoe Blvd",
+                "lat": 34.2212,
+                "lng": -118.5895,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2212,-118.5895",
+                "original_hood": "Canoga Park"
+            },
+            {
                 "name": "Komal",
                 "address": "Canoga Park, CA 91303, USA",
                 "type": "landmark",
@@ -4441,6 +4683,16 @@ const neighborhoodData = [
                 "lat": 34.1989453,
                 "lng": -118.597305,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1989453,-118.597305",
+                "original_hood": "Canoga Park"
+            },
+            {
+                "name": "Orcutt Ranch / Rancho Cienega de los Caballeros",
+                "description": "This is LA Historic-Cultural Monument #100. Built in 1926 for William Warren Orcutt (a pioneer in California oil geology), this 24-acre estate features a Spanish Colonial Revival residence and a 700-year-old oak tree. It was a filming location for the \"fantasy house\" sequence in La La Land.",
+                "type": "landmark",
+                "address": "23600 Roscoe Blvd, Canoga Park, California, 91304",
+                "lat": 34.218445557271,
+                "lng": -118.640136904381,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.218445557271,-118.640136904381",
                 "original_hood": "Canoga Park"
             },
             {
@@ -4454,13 +4706,13 @@ const neighborhoodData = [
                 "original_hood": "Canoga Park"
             },
             {
-                "name": "Crown City Pawn Shop \u2014 Pulp Fiction",
-                "description": "The site of the infamous \"Gimp\" basement scene; it is still an active pawn shop.",
+                "name": "Shadow Ranch (Rancho Sombra del Roble)",
+                "description": "This is Shadow Ranch (Rancho Sombra del Roble). Shadow Ranch is a historic ranch house built from 1869\u20131872 using adobe and redwood lumber on the original Workman Ranch in the western San Fernando Valley. It's LA Historic-Cultural Monument #9. However, the Shadow Ranch marker notes the park's address as 22633 Vanowen St, West Hills.",
                 "type": "landmark",
-                "address": "20933 Roscoe Blvd",
-                "lat": 34.2212,
-                "lng": -118.5895,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2212,-118.5895",
+                "address": "22633 Vanowen St, West Hills, California, 91307",
+                "lat": 34.217013634842,
+                "lng": -118.639844459779,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.217013634842,-118.639844459779",
                 "original_hood": "Canoga Park"
             }
         ]
@@ -4651,6 +4903,24 @@ const neighborhoodData = [
                 "lng": -118.3668988,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0608796,-118.3668988",
                 "original_hood": "Carthay Circle"
+            },
+            {
+                "name": "Little Ethiopia District",
+                "address": "1047 South Fairfax Avenue Los Angeles, CA 90019",
+                "description": "Located in a vibrant cultural enclave known for its authentic Ethiopian restaurants and community-focused businesses.",
+                "lat": 34.0531,
+                "lng": -118.3615,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0531,-118.3615"
+            },
+            {
+                "name": "Spaulding Square Neighborhood",
+                "address": "1042 Genesee Avenue Los Angeles, CA 90019",
+                "description": "A residential street near the historic Spaulding Square district, famous for its early Hollywood \"Colonial\" bungalows built for silent film stars.",
+                "lat": 34.0562,
+                "lng": -118.3615,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0562,-118.3615"
             }
         ]
     },
@@ -4666,16 +4936,6 @@ const neighborhoodData = [
         "region": "Santa Clarita Valley - Unincorporated",
         "locations": [
             {
-                "name": "Castaic Star Truck Wash",
-                "description": "Commercial truck wash facility. The Castaic Truck Wash (located at 31557 Castaic Rd) is frequently marketed as the only dedicated large-scale truck wash within a 60-mile radius. Because many specialized facilities for 18-wheelers are scarce, this specific spot serves as a critical maintenance hub for drivers moving between Los Angeles and the Central Valley.\n\n2. Preparation for the Grapevine\n\nCastaic serves as the final staging area for northbound trucks before they tackle the steep, 5-mile grade of the Grapevine (Tejon Pass).\n\nWeight & Safety: Drivers often stop on Castaic Road to check their loads, fuel up, and clean their vehicles at the base of the climb.\n\nCHP Inspections: The Castaic Commercial Vehicle Enforcement Facility is nearby. Truckers often prefer to have a clean, well-maintained rig (including clean mirrors, lights, and license plates) before passing through major scales or inspection points.",
-                "type": "landmark",
-                "address": "31557 Castaic Rd, Castaic, California, 91384",
-                "lat": 34.492040138921,
-                "lng": -118.620071214912,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.492040138921,-118.620071214912",
-                "original_hood": "Castaic"
-            },
-            {
                 "name": "Castaic Junction",
                 "description": "A key transportation crossroads in the Santa Clarita Valley where the 5 and 126 highways meet.",
                 "type": "landmark",
@@ -4683,6 +4943,16 @@ const neighborhoodData = [
                 "lat": 34.495912442345,
                 "lng": -118.621999538523,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=Castaic+Junction",
+                "original_hood": "Castaic"
+            },
+            {
+                "name": "Castaic Star Truck Wash",
+                "description": "Commercial truck wash facility. The Castaic Truck Wash (located at 31557 Castaic Rd) is frequently marketed as the only dedicated large-scale truck wash within a 60-mile radius. Because many specialized facilities for 18-wheelers are scarce, this specific spot serves as a critical maintenance hub for drivers moving between Los Angeles and the Central Valley.\n\n2. Preparation for the Grapevine\n\nCastaic serves as the final staging area for northbound trucks before they tackle the steep, 5-mile grade of the Grapevine (Tejon Pass).\n\nWeight & Safety: Drivers often stop on Castaic Road to check their loads, fuel up, and clean their vehicles at the base of the climb.\n\nCHP Inspections: The Castaic Commercial Vehicle Enforcement Facility is nearby. Truckers often prefer to have a clean, well-maintained rig (including clean mirrors, lights, and license plates) before passing through major scales or inspection points.",
+                "type": "landmark",
+                "address": "31557 Castaic Rd, Castaic, California, 91384",
+                "lat": 34.492040138921,
+                "lng": -118.620071214912,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.492040138921,-118.620071214912",
                 "original_hood": "Castaic"
             }
         ]
@@ -4715,6 +4985,24 @@ const neighborhoodData = [
                 "original_hood": "Central-Alameda"
             },
             {
+                "name": "Angelus Funeral Home",
+                "address": "1010 East Jefferson Boulevard Los Angeles, CA 90011",
+                "description": "Designed by renowned architect Paul R. Williams in 1934, this building served as a cornerstone for the African American community and is a National Historic Landmark.",
+                "lat": 34.0132,
+                "lng": -118.2562,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0132,-118.2562"
+            },
+            {
+                "name": "Central Avenue Jazz District",
+                "address": "1065 E Vernon Ave Los Angeles, CA 90011",
+                "description": "Located near the historic Central Avenue corridor, the cultural heart of Los Angeles's Black community and jazz scene from the 1920s to the 1950s.",
+                "lat": 34.0042,
+                "lng": -118.2561,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0042,-118.2561"
+            },
+            {
                 "name": "Fred Roberts Recreation Center",
                 "description": "A bustling neighborhood park and facility providing essential recreational and after-school programs in South L.A.",
                 "type": "landmark",
@@ -4723,6 +5011,15 @@ const neighborhoodData = [
                 "lng": -118.243976,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=4700+Honduras+Street%2C+Los+Angeles%2C+CA+90011",
                 "original_hood": "Central-Alameda"
+            },
+            {
+                "name": "Jelly Roll Morton Residence",
+                "address": "1008 E 32nd St, Los Angeles, CA 90011",
+                "description": "The historic home of the jazz pioneer and composer, situated near the legendary Central Avenue jazz district.",
+                "lat": 34.0185,
+                "lng": -118.2582,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0185,-118.2582"
             },
             {
                 "name": "Pueblo Del Rio public housing project",
@@ -4836,13 +5133,22 @@ const neighborhoodData = [
         "region": "San Fernando Valley",
         "locations": [
             {
-                "name": "The Farralone - preferred retreat of Frank Sinatra",
-                "description": "9361 Farralone Avenue is an iconic Hollywood estate designed by acclaimed architect William Pereira, completed in 1951. Once the preferred retreat of Frank Sinatra and a destination for stars like JFK and Marilyn Monroe, The Farralone has earned its place as one of the most filmed homes in America.",
+                "name": "Birthplace of 'Mr. Ed'",
+                "address": "645 Harvester Farms, Chatsworth, CA 91311",
+                "description": "A historic ranch site in Chatsworth that was the birthplace of Bamboo Harvester, the horse that played the famous talking horse Mr. Ed.",
+                "lat": 34.2585,
+                "lng": -118.6012,
+                "type": "pop-culture",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2585,-118.6012"
+            },
+            {
+                "name": "Chatsworth Park Elementary School (22005 Devonshire St)",
+                "description": "A cornerstone of the community since the late 19th century. The original 1890 schoolhouse (then called Santa Susana School) stood at the northwest corner of Topanga and Devonshire. The current campus buildings date back to the 1930s, constructed after the Long Beach earthquake damaged the previous structures.",
                 "type": "landmark",
-                "address": "9361 Farralone Ave, Chatsworth, CA 91311, USA",
-                "lat": 34.2387449,
-                "lng": -118.6111377,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2387449,-118.6111377",
+                "address": "22005 Devonshire St, Chatsworth, CA 91311",
+                "lat": 34.257,
+                "lng": -118.6,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=22005+Devonshire+St",
                 "original_hood": "Chatsworth"
             },
             {
@@ -4854,6 +5160,35 @@ const neighborhoodData = [
                 "lng": -118.6174117,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2610421,-118.6174117",
                 "original_hood": "Chatsworth"
+            },
+            {
+                "name": "Chatsworth Transportation Center (10046 Old Depot Plaza Rd)",
+                "description": "Located just south of Devonshire near the railroad tracks, this modern depot (opened in 1996) stands near the site of the second Chatsworth Railroad Station, built around 1910 and razed in 1962. It serves as a tribute to the town's history as a railroad hub.",
+                "type": "landmark",
+                "address": "10046 Old Depot Plaza Rd, Chatsworth, CA 91311",
+                "lat": 34.257,
+                "lng": -118.6,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=10046+Old+Depot+Plaza+Rd",
+                "original_hood": "Chatsworth"
+            },
+            {
+                "name": "Cowboy Palace Saloon (21633 Devonshire St)",
+                "description": "A \"modern\" landmark identified by SurveyLA for its continuous operation as a country-western saloon since 1971. It represents the equestrian and \"Western\" identity of Chatsworth and has appeared in numerous films and music videos.",
+                "type": "landmark",
+                "address": "21633 Devonshire St, Chatsworth, CA 91311",
+                "lat": 34.257,
+                "lng": -118.6,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=21633+Devonshire+St",
+                "original_hood": "Chatsworth"
+            },
+            {
+                "name": "Eckhart Auto Body / Movie Location",
+                "address": "10101 Canoga Avenue Chatsworth, CA 91311",
+                "description": "A frequently used filming location in the San Fernando Valley, notably seen in the Fast & Furious franchise and other automotive-centric productions.",
+                "lat": 34.2541,
+                "lng": -118.5975,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2541,-118.5975"
             },
             {
                 "name": "Harvester Barn (22049 Devonshire St)",
@@ -4886,6 +5221,16 @@ const neighborhoodData = [
                 "original_hood": "Chatsworth"
             },
             {
+                "name": "Los Toros Mexican Restaurant (21743 Devonshire St)",
+                "description": "A local institution that has been serving the community for over 50 years, often cited in local guides as a \"hidden gem\" of Chatsworth\u2019s culinary history.",
+                "type": "landmark",
+                "address": "21743 Devonshire St, Chatsworth, CA 91311",
+                "lat": 34.257,
+                "lng": -118.6,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=21743+Devonshire+St",
+                "original_hood": "Chatsworth"
+            },
+            {
                 "name": "Mature Olive Trees (Lassen Street)",
                 "description": "A remnant row of mature olive trees along Lassen Street in Chatsworth, planted during the early agricultural development of the western San Fernando Valley. These trees are living evidence of the region's ambitions as an olive oil and fruit-producing area before suburbanization.",
                 "type": "landmark",
@@ -4893,16 +5238,6 @@ const neighborhoodData = [
                 "lat": 34.2500044,
                 "lng": -118.6107003,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=Lassen+Street%2C+Chatsworth%2C+CA+91311",
-                "original_hood": "Chatsworth"
-            },
-            {
-                "name": "The Homestead Acre (10385 Shadow Oak Dr)",
-                "description": "HCM #133 While the address is on Shadow Oak Drive, the property is located at the western terminus of Devonshire Street inside Chatsworth Park South. It is the last remaining 1.3-acre fragment of the original 230-acre Hill-Palmer ranch. It features the Hill-Palmer Cottage (built in 1911) and serves as the headquarters for the Chatsworth Historical Society and the Virginia Watson Chatsworth Museum.",
-                "type": "landmark",
-                "address": "10385 Shadow Oak Dr, Chatsworth, CA 91311",
-                "lat": 34.2600098,
-                "lng": -118.6153452,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2600098,-118.6153452",
                 "original_hood": "Chatsworth"
             },
             {
@@ -4916,16 +5251,6 @@ const neighborhoodData = [
                 "original_hood": "Chatsworth"
             },
             {
-                "name": "Stoney Point Park",
-                "description": "Though technically at the intersection of Topanga and the 118 Freeway, this world-famous bouldering site (HCM #132) is just north of the western end of Devonshire and dominates the skyline of that part of the street.",
-                "type": "landmark",
-                "address": "20230 Devonshire Street, 91311, Los Angeles, CA",
-                "lat": 34.2572133,
-                "lng": -118.5854556,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2572133,-118.5854556",
-                "original_hood": "Chatsworth"
-            },
-            {
                 "name": "Oakridge and Grounds (18650 Devonshire St)",
                 "description": "HCM #484 Located further east toward Northridge, this 9.5-acre estate was designed by renowned architect Paul R. Williams for actress Barbara Stanwyck in 1937. It later became the home of actor Jack Oakie and his wife Victoria.",
                 "type": "landmark",
@@ -4936,23 +5261,22 @@ const neighborhoodData = [
                 "original_hood": "Chatsworth"
             },
             {
-                "name": "Chatsworth Park Elementary School (22005 Devonshire St)",
-                "description": "A cornerstone of the community since the late 19th century. The original 1890 schoolhouse (then called Santa Susana School) stood at the northwest corner of Topanga and Devonshire. The current campus buildings date back to the 1930s, constructed after the Long Beach earthquake damaged the previous structures.",
+                "name": "Shadow Ridge/Chatsworth Oaks",
+                "address": "10385 Shadow Oak Dr Chatsworth, CA 91311",
+                "description": "A residential neighborhood adjacent to the Santa Susana Pass State Historic Park, famous for its rugged rock formations and Western film history.",
+                "lat": 34.2585,
+                "lng": -118.6182,
                 "type": "landmark",
-                "address": "22005 Devonshire St, Chatsworth, CA 91311",
-                "lat": 34.257,
-                "lng": -118.6,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=22005+Devonshire+St",
-                "original_hood": "Chatsworth"
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2585,-118.6182"
             },
             {
-                "name": "Cowboy Palace Saloon (21633 Devonshire St)",
-                "description": "A \"modern\" landmark identified by SurveyLA for its continuous operation as a country-western saloon since 1971. It represents the equestrian and \"Western\" identity of Chatsworth and has appeared in numerous films and music videos.",
+                "name": "Stoney Point Park",
+                "description": "Though technically at the intersection of Topanga and the 118 Freeway, this world-famous bouldering site (HCM #132) is just north of the western end of Devonshire and dominates the skyline of that part of the street.",
                 "type": "landmark",
-                "address": "21633 Devonshire St, Chatsworth, CA 91311",
-                "lat": 34.257,
-                "lng": -118.6,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=21633+Devonshire+St",
+                "address": "20230 Devonshire Street, 91311, Los Angeles, CA",
+                "lat": 34.2572133,
+                "lng": -118.5854556,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2572133,-118.5854556",
                 "original_hood": "Chatsworth"
             },
             {
@@ -4966,23 +5290,23 @@ const neighborhoodData = [
                 "original_hood": "Chatsworth"
             },
             {
-                "name": "Chatsworth Transportation Center (10046 Old Depot Plaza Rd)",
-                "description": "Located just south of Devonshire near the railroad tracks, this modern depot (opened in 1996) stands near the site of the second Chatsworth Railroad Station, built around 1910 and razed in 1962. It serves as a tribute to the town's history as a railroad hub.",
+                "name": "The Farralone - preferred retreat of Frank Sinatra",
+                "description": "9361 Farralone Avenue is an iconic Hollywood estate designed by acclaimed architect William Pereira, completed in 1951. Once the preferred retreat of Frank Sinatra and a destination for stars like JFK and Marilyn Monroe, The Farralone has earned its place as one of the most filmed homes in America.",
                 "type": "landmark",
-                "address": "10046 Old Depot Plaza Rd, Chatsworth, CA 91311",
-                "lat": 34.257,
-                "lng": -118.6,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=10046+Old+Depot+Plaza+Rd",
+                "address": "9361 Farralone Ave, Chatsworth, CA 91311, USA",
+                "lat": 34.2387449,
+                "lng": -118.6111377,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2387449,-118.6111377",
                 "original_hood": "Chatsworth"
             },
             {
-                "name": "Los Toros Mexican Restaurant (21743 Devonshire St)",
-                "description": "A local institution that has been serving the community for over 50 years, often cited in local guides as a \"hidden gem\" of Chatsworth\u2019s culinary history.",
+                "name": "The Homestead Acre (10385 Shadow Oak Dr)",
+                "description": "HCM #133 While the address is on Shadow Oak Drive, the property is located at the western terminus of Devonshire Street inside Chatsworth Park South. It is the last remaining 1.3-acre fragment of the original 230-acre Hill-Palmer ranch. It features the Hill-Palmer Cottage (built in 1911) and serves as the headquarters for the Chatsworth Historical Society and the Virginia Watson Chatsworth Museum.",
                 "type": "landmark",
-                "address": "21743 Devonshire St, Chatsworth, CA 91311",
-                "lat": 34.257,
-                "lng": -118.6,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=21743+Devonshire+St",
+                "address": "10385 Shadow Oak Dr, Chatsworth, CA 91311",
+                "lat": 34.2600098,
+                "lng": -118.6153452,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2600098,-118.6153452",
                 "original_hood": "Chatsworth"
             }
         ]
@@ -5010,6 +5334,15 @@ const neighborhoodData = [
         "name": "Cheviot Hills",
         "region": "Westside",
         "locations": [
+            {
+                "name": "Cheviot Hills Residential",
+                "address": "10336 Dunleer Dr Los Angeles, CA 90064",
+                "description": "A residential street in Cheviot Hills, an affluent Westside neighborhood known for its traditional-style homes and frequent use as a filming location for \"everyday\" suburban scenes.",
+                "lat": 34.0371,
+                "lng": -118.4095,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0371,-118.4095"
+            },
             {
                 "name": "Crown Car Wash",
                 "description": "A classic example of Westside service architecture and a local service staple.",
@@ -5288,6 +5621,24 @@ const neighborhoodData = [
                 "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
             },
             {
+                "name": "Old Chinatown Entrance",
+                "address": "1051 North Broadway Los Angeles, CA 90012",
+                "description": "Near the historic entrance to Chinatown, a district rich with the history of the Chinese-American community in LA.",
+                "lat": 34.0625,
+                "lng": -118.2365,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0625,-118.2365"
+            },
+            {
+                "name": "Philippe the Original",
+                "address": "1001 N Alameda St Los Angeles, CA 90012",
+                "description": "Established in 1908, this is one of LA\u2019s oldest restaurants and the self-proclaimed birthplace of the French Dip sandwich.",
+                "lat": 34.0602,
+                "lng": -118.2368,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0602,-118.2368"
+            },
+            {
                 "name": "Phoenix Bakery",
                 "description": "Founded in 1938; famous for their strawberry whipped cream cake.",
                 "type": "landmark",
@@ -5376,6 +5727,24 @@ const neighborhoodData = [
                 "lng": -118.240959997401,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=756%20Yale%20St%2C%20Los%20Angeles%2C%20CA%2090012",
                 "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+            },
+            {
+                "name": "Victorian Heights",
+                "address": "1013 Alpine Street Los Angeles, CA 90012",
+                "description": "Situated on a steep ridge near Chinatown, this street is famous for its surviving 19th-century homes and historic vistas.",
+                "lat": 34.0652,
+                "lng": -118.2452,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0652,-118.2452"
+            },
+            {
+                "name": "Victorian Heights Hilltop",
+                "address": "1033 Alpine St Los Angeles, CA 90012",
+                "description": "A residential property on one of the steepest streets in the city, offering views over Chinatown and the historic Plaza district.",
+                "lat": 34.0655,
+                "lng": -118.2448,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0655,-118.2448"
             },
             {
                 "name": "William Mead Homes (Dogtown)",
@@ -5489,36 +5858,6 @@ const neighborhoodData = [
         "region": "South Los Angeles / Gateway Cities",
         "locations": [
             {
-                "name": "Belkin International Headquarters",
-                "description": "501 West Walnut Street, Compton, CA. This remains the correct address for the global consumer electronics company's corporate offices.",
-                "type": "landmark",
-                "address": "501 West Walnut Street, Compton, CA 90220",
-                "lat": 33.877202143835,
-                "lng": -118.229926898251,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=501+West+Walnut+Street%2C+Compton%2C+CA+90220",
-                "original_hood": "Compton"
-            },
-            {
-                "name": "Serena and Venus Williams\u2019 childhood home",
-                "description": "Childhood home of tennis legends Serena and Venus Williams.",
-                "type": "landmark",
-                "address": "1117 E Stockton St, Compton, CA 90221",
-                "lat": 33.9097482,
-                "lng": -118.2028886,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1117+E+Stockton+St%2C+Compton%2C+CA",
-                "original_hood": "Compton"
-            },
-            {
-                "name": "Heritage House",
-                "description": "Built in 1869, this is the oldest house in Compton and is a designated State Historic Landmark. It was meticulously restored as a tribute to the city's early settlers and serves as a primary link to Compton's 19th-century history.",
-                "type": "landmark",
-                "address": "Willowbrook Ave & Myrrh St, Compton, CA 90220",
-                "lat": 33.8979265,
-                "lng": -118.2243044,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=Willowbrook+Ave+%26+Myrrh+St%2C+Compton%2C+CA",
-                "original_hood": "Compton"
-            },
-            {
                 "name": "Angeles Abbey Cemetery",
                 "description": "Established in 1923, this cemetery is architecturally significant for its unique blend of Byzantine, Moorish, and Spanish styles. It is a rare local example of such intricate stonework and survived the major 1933 Long Beach Earthquake.",
                 "type": "landmark",
@@ -5529,33 +5868,13 @@ const neighborhoodData = [
                 "original_hood": "Compton"
             },
             {
-                "name": "Eagle Tree",
-                "description": "This living landmark is a natural boundary marker of the historic Rancho San Pedro, dating back to at least 1858. It features an official historic marker and plaque placed by the Daughters of the Golden West in 1947 to preserve its significance as a geographical milestone.",
+                "name": "Belkin International Headquarters",
+                "description": "501 West Walnut Street, Compton, CA. This remains the correct address for the global consumer electronics company's corporate offices.",
                 "type": "landmark",
-                "address": "Poppy St & Short Ave, Compton, CA 90222",
-                "lat": 33.9079061,
-                "lng": -118.2131303,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=Poppy+St+%26+Short+Ave%2C+Compton%2C+CA",
-                "original_hood": "Compton"
-            },
-            {
-                "name": "Dr. Martin Luther King, Jr. Memorial",
-                "description": "Located within the Civic Center, this monument is dedicated to the memory and legacy of Dr. King. It is centrally positioned among other major city landmarks, including Compton City Hall, the Compton Court House, and the Compton Public Library.",
-                "type": "landmark",
-                "address": "Compton Blvd & Willowbrook Ave, Compton, CA 90220",
-                "lat": 33.8941773,
-                "lng": -118.2254137,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=Compton+Blvd+%26+Willowbrook+Ave%2C+Compton%2C+CA",
-                "original_hood": "Compton"
-            },
-            {
-                "name": "Woodlawn Cemetery",
-                "description": "Woodlawn has been a Los Angeles County Historic Landmark since 1946. It is notably the final resting place for 18 Civil War veterans, making it a site of significant national and local military history.",
-                "type": "landmark",
-                "address": "1715 W Greenleaf Blvd, Compton, CA 90220",
-                "lat": 33.8778,
-                "lng": -118.2514,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1715+W+Greenleaf+Blvd%2C+Compton%2C+CA",
+                "address": "501 West Walnut Street, Compton, CA 90220",
+                "lat": 33.877202143835,
+                "lng": -118.229926898251,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=501+West+Walnut+Street%2C+Compton%2C+CA+90220",
                 "original_hood": "Compton"
             },
             {
@@ -5596,6 +5915,36 @@ const neighborhoodData = [
                 "lat": 33.8662843,
                 "lng": -118.2168433,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8662843,-118.2168433",
+                "original_hood": "Compton"
+            },
+            {
+                "name": "Dr. Martin Luther King, Jr. Memorial",
+                "description": "Located within the Civic Center, this monument is dedicated to the memory and legacy of Dr. King. It is centrally positioned among other major city landmarks, including Compton City Hall, the Compton Court House, and the Compton Public Library.",
+                "type": "landmark",
+                "address": "Compton Blvd & Willowbrook Ave, Compton, CA 90220",
+                "lat": 33.8941773,
+                "lng": -118.2254137,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=Compton+Blvd+%26+Willowbrook+Ave%2C+Compton%2C+CA",
+                "original_hood": "Compton"
+            },
+            {
+                "name": "Eagle Tree",
+                "description": "This living landmark is a natural boundary marker of the historic Rancho San Pedro, dating back to at least 1858. It features an official historic marker and plaque placed by the Daughters of the Golden West in 1947 to preserve its significance as a geographical milestone.",
+                "type": "landmark",
+                "address": "Poppy St & Short Ave, Compton, CA 90222",
+                "lat": 33.9079061,
+                "lng": -118.2131303,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=Poppy+St+%26+Short+Ave%2C+Compton%2C+CA",
+                "original_hood": "Compton"
+            },
+            {
+                "name": "Heritage House",
+                "description": "Built in 1869, this is the oldest house in Compton and is a designated State Historic Landmark. It was meticulously restored as a tribute to the city's early settlers and serves as a primary link to Compton's 19th-century history.",
+                "type": "landmark",
+                "address": "Willowbrook Ave & Myrrh St, Compton, CA 90220",
+                "lat": 33.8979265,
+                "lng": -118.2243044,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=Willowbrook+Ave+%26+Myrrh+St%2C+Compton%2C+CA",
                 "original_hood": "Compton"
             },
             {
@@ -5719,6 +6068,16 @@ const neighborhoodData = [
                 "original_hood": "Compton"
             },
             {
+                "name": "Serena and Venus Williams\u2019 childhood home",
+                "description": "Childhood home of tennis legends Serena and Venus Williams.",
+                "type": "landmark",
+                "address": "1117 E Stockton St, Compton, CA 90221",
+                "lat": 33.9097482,
+                "lng": -118.2028886,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1117+E+Stockton+St%2C+Compton%2C+CA",
+                "original_hood": "Compton"
+            },
+            {
                 "name": "United Oil (Space-Age Googie Station)",
                 "description": "502 W Rosecrans Ave, Compton, CA 90222. This station is a notable example of Googie architecture, featuring futuristic, space-age design elements common in mid-century Southern California.",
                 "type": "landmark",
@@ -5726,6 +6085,16 @@ const neighborhoodData = [
                 "lat": 33.903140278488,
                 "lng": -118.232548589926,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=502+W+Rosecrans+Ave%2C+Compton%2C+CA+90222",
+                "original_hood": "Compton"
+            },
+            {
+                "name": "Woodlawn Cemetery",
+                "description": "Woodlawn has been a Los Angeles County Historic Landmark since 1946. It is notably the final resting place for 18 Civil War veterans, making it a site of significant national and local military history.",
+                "type": "landmark",
+                "address": "1715 W Greenleaf Blvd, Compton, CA 90220",
+                "lat": 33.8778,
+                "lng": -118.2514,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1715+W+Greenleaf+Blvd%2C+Compton%2C+CA",
                 "original_hood": "Compton"
             }
         ]
@@ -5817,6 +6186,15 @@ const neighborhoodData = [
                 "lng": -118.4714383,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2818984,-118.4714383",
                 "original_hood": "Crestview"
+            },
+            {
+                "name": "Eden Memorial Park",
+                "address": "11500 Sepulveda Blvd Mission Hills, CA 91345",
+                "description": "A major Jewish cemetery in the San Fernando Valley, the final resting place of several entertainment figures including Groucho Marx and Lenny Bruce.",
+                "lat": 34.281,
+                "lng": -118.4682,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.281,-118.4682"
             }
         ]
     },
@@ -5849,6 +6227,15 @@ const neighborhoodData = [
         "region": "Central LA",
         "locations": [
             {
+                "name": "Department of Water and Power (DWP) Building",
+                "address": "111 N. Hope St Los Angeles, CA 90012",
+                "description": "A mid-century modern masterpiece (the John Ferraro Building) designed by A.C. Martin, famous for being surrounded by a massive reflecting pool.",
+                "lat": 34.0585,
+                "lng": -118.2482,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0585,-118.2482"
+            },
+            {
                 "name": "Fugetsu-Do Bakery",
                 "description": "Oldest business in Little Tokyo (est. 1903).",
                 "type": "historical",
@@ -5857,6 +6244,15 @@ const neighborhoodData = [
                 "lng": -118.240384,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=315+E+1st+St%2C+Los+Angeles%2C+CA+90012",
                 "original_hood": "Cultural Enclaves (LT & CT)"
+            },
+            {
+                "name": "LAPD Headquarters (Police Administration Building)",
+                "address": "100 West First Street Los Angeles, CA 90012",
+                "description": "The modern headquarters of the Los Angeles Police Department, opened in 2009 to replace Parker Center.",
+                "lat": 34.0515,
+                "lng": -118.2439,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0515,-118.2439"
             },
             {
                 "name": "Little Tokyo Branch Library",
@@ -5877,6 +6273,15 @@ const neighborhoodData = [
                 "lng": -118.2365,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0562,-118.2365",
                 "original_hood": "Cultural Enclaves (LT & CT)"
+            },
+            {
+                "name": "The Clara Shortridge Foltz Criminal Justice Center",
+                "address": "100 Center St Los Angeles, CA 90012",
+                "description": "A major Los Angeles County courthouse named after the first female lawyer on the Pacific Coast.",
+                "lat": 34.0552,
+                "lng": -118.2435,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0552,-118.2435"
             }
         ]
     },
@@ -5885,16 +6290,6 @@ const neighborhoodData = [
         "name": "Culver City",
         "region": "Westside",
         "locations": [
-            {
-                "name": "Sony Pictures Studios / MGM (10202 Washington Blvd)",
-                "description": "This is the crown jewel of Culver City. Originally Inceville, then MGM, this lot is where The Wizard of Oz, Singin' in the Rain, and Gone with the Wind were filmed. The massive Beaux-Arts colonnade on Washington Blvd remains a city icon and a testament to the \"Golden Age\" of Hollywood.",
-                "type": "landmark",
-                "address": "10202 Washington Blvd, Culver City, CA 90232, USA",
-                "lat": 34.0193214,
-                "lng": -118.4005044,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0193214,-118.4005044",
-                "original_hood": "Culver City"
-            },
             {
                 "name": "2651 SSmog Shoppe. smogshoppe.com: outh La Cienega...",
                 "description": "",
@@ -5906,36 +6301,6 @@ const neighborhoodData = [
                 "original_hood": "Culver City"
             },
             {
-                "name": "Conjunctive Points / The Hayden Tract (3520 Hayden Ave)",
-                "description": "While holding no \"historic\" designation, this is an internationally recognized architectural landmark. Designed by Eric Owen Moss, the Hayden Tract transformed dilapidated warehouses into deconstructivist masterpieces. 3520 Hayden is part of the \"Stealth\" and \"Umbrella\" project series that redefined modern office design and put Culver City on the global map for architecture students.",
-                "type": "landmark",
-                "address": "3520 Hayden Ave, Culver City, California, 90232",
-                "lat": 34.026166710083,
-                "lng": -118.380672325557,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.026166710083,-118.380672325557",
-                "original_hood": "Culver City"
-            },
-            {
-                "name": "Tellefson Park / Hal Roach Studios (11057 Washington Pl)",
-                "description": "Tellefson Park was the site of the original Hal Roach Studios (the \"Laugh Factory\"). While the studio is gone, the surrounding addresses are considered culturally significant as they housed the support staff and craftspeople for Laurel & Hardy and The Little Rascals.",
-                "type": "landmark",
-                "address": "11057 Washington Pl, Culver City, CA 90232",
-                "lat": 34.0224976,
-                "lng": -118.3938933,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0224976,-118.3938933",
-                "original_hood": "Culver City"
-            },
-            {
-                "name": "Culver Center (3850 Sepulveda Blvd)",
-                "description": "This is a major commercial intersection known locally for the Culver Center, one of the first \"shopping malls\" in Southern California (opened in 1950), which changed the city's tax base from film-only to retail.",
-                "type": "landmark",
-                "address": "3850 Sepulveda Blvd, Culver City, California, 90230",
-                "lat": 34.011752309283,
-                "lng": -118.415656964488,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.011752309283,-118.415656964488",
-                "original_hood": "Culver City"
-            },
-            {
                 "name": "Allied Model Trains / Union Station Replica (4411 Sepulveda Blvd)",
                 "description": "This is a \"vernacular landmark.\" Built in 1989, it is a 1/3-scale replica of Los Angeles Union Station. Even though the famous train store moved out years ago, the building remains a protected architectural curiosity, maintaining its Mission Revival/Art Deco bell tower and arched windows.",
                 "type": "landmark",
@@ -5943,26 +6308,6 @@ const neighborhoodData = [
                 "lat": 34.00288199261,
                 "lng": -118.407362316925,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.00288199261,-118.407362316925",
-                "original_hood": "Culver City"
-            },
-            {
-                "name": "El Baron / Historic Nightlife (8641 Washington Blvd)",
-                "description": "This 1927 structure is a \"cultural landmark\" for the city's Latino history. It has operated as a social hub and nightclub for decades, representing the era when Washington Blvd was the primary \"Main Street\" for studio workers' nightlife.",
-                "type": "landmark",
-                "address": "8641 Washington Blvd, Culver City, California, 90232",
-                "lat": 34.030373922563,
-                "lng": -118.382523636512,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.030373922563,-118.382523636512",
-                "original_hood": "Culver City"
-            },
-            {
-                "name": "The \"Surplus Prophets\" Building (8918 Venice Blvd)",
-                "description": "It is a 1920s brick industrial building that served as a long-term hub for the Westside\u2019s artistic community. In the 1990s and 2000s, it was a central landmark for the \"anti-design\" and DIY art scene in Culver City before the area fully gentrified.",
-                "type": "landmark",
-                "address": "8918 Venice Blvd, Culver City, California, 90232",
-                "lat": 34.028951390344,
-                "lng": -118.388690406033,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.028951390344,-118.388690406033",
                 "original_hood": "Culver City"
             },
             {
@@ -6024,6 +6369,26 @@ const neighborhoodData = [
                 "original_hood": "Culver City"
             },
             {
+                "name": "Conjunctive Points / The Hayden Tract (3520 Hayden Ave)",
+                "description": "While holding no \"historic\" designation, this is an internationally recognized architectural landmark. Designed by Eric Owen Moss, the Hayden Tract transformed dilapidated warehouses into deconstructivist masterpieces. 3520 Hayden is part of the \"Stealth\" and \"Umbrella\" project series that redefined modern office design and put Culver City on the global map for architecture students.",
+                "type": "landmark",
+                "address": "3520 Hayden Ave, Culver City, California, 90232",
+                "lat": 34.026166710083,
+                "lng": -118.380672325557,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.026166710083,-118.380672325557",
+                "original_hood": "Culver City"
+            },
+            {
+                "name": "Culver Center (3850 Sepulveda Blvd)",
+                "description": "This is a major commercial intersection known locally for the Culver Center, one of the first \"shopping malls\" in Southern California (opened in 1950), which changed the city's tax base from film-only to retail.",
+                "type": "landmark",
+                "address": "3850 Sepulveda Blvd, Culver City, California, 90230",
+                "lat": 34.011752309283,
+                "lng": -118.415656964488,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.011752309283,-118.415656964488",
+                "original_hood": "Culver City"
+            },
+            {
                 "name": "Culver City Arts District",
                 "type": "sub-neighborhood",
                 "lat": 34.0333826,
@@ -6031,6 +6396,15 @@ const neighborhoodData = [
                 "address": "Art District, Los Angeles, CA, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0333826,-118.3768739",
                 "original_hood": "Culver City"
+            },
+            {
+                "name": "Culver City/Palms Border",
+                "address": "11127 Venice Blvd Los Angeles, CA 90034",
+                "description": "A prominent address on the historic Venice Boulevard, a key route linking the city to the coastal beach communities.",
+                "lat": 34.0152,
+                "lng": -118.4052,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0152,-118.4052"
             },
             {
                 "name": "Culver Hotel",
@@ -6058,6 +6432,16 @@ const neighborhoodData = [
                 "lng": -118.3938189,
                 "address": "9341 Culver Blvd, Culver City, CA 90232, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.02522769999999,-118.3938189",
+                "original_hood": "Culver City"
+            },
+            {
+                "name": "El Baron / Historic Nightlife (8641 Washington Blvd)",
+                "description": "This 1927 structure is a \"cultural landmark\" for the city's Latino history. It has operated as a social hub and nightclub for decades, representing the era when Washington Blvd was the primary \"Main Street\" for studio workers' nightlife.",
+                "type": "landmark",
+                "address": "8641 Washington Blvd, Culver City, California, 90232",
+                "lat": 34.030373922563,
+                "lng": -118.382523636512,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.030373922563,-118.382523636512",
                 "original_hood": "Culver City"
             },
             {
@@ -6130,6 +6514,33 @@ const neighborhoodData = [
                 "original_hood": "Culver City"
             },
             {
+                "name": "Media Park Area",
+                "address": "10406 Culver Blvd Culver City, CA 90232",
+                "description": "Located near the historic Ivy Substation and the entrance to Downtown Culver City's revitalized dining and studio district.",
+                "lat": 34.0245,
+                "lng": -118.3912,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0245,-118.3912"
+            },
+            {
+                "name": "Palms Commercial District",
+                "address": "10341 Venice Blvd Los Angeles, CA 90034",
+                "description": "Located in the heart of Palms, the oldest neighborhood annexed to the city of Los Angeles, known for its high-density residential and historic commercial storefronts.",
+                "lat": 34.0261,
+                "lng": -118.3942,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0261,-118.3942"
+            },
+            {
+                "name": "Palms/Culver City Border",
+                "address": "10352 Venice Boulevard Los Angeles, CA 90034",
+                "description": "A prominent address on the Venice Blvd corridor, which was originally a main trolley route connecting Downtown LA to the beach.",
+                "lat": 34.0258,
+                "lng": -118.3955,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0258,-118.3955"
+            },
+            {
                 "name": "Park West",
                 "type": "sub-neighborhood",
                 "lat": 34.0065579,
@@ -6146,6 +6557,34 @@ const neighborhoodData = [
                 "lat": 34.005838164131,
                 "lng": -118.402489246057,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=4401+Elenda+St,+Culver+City,+CA+90230",
+                "original_hood": "Culver City"
+            },
+            {
+                "name": "Sony Pictures Plaza Area",
+                "address": "10434 Culver Blvd Culver City, CA 90232",
+                "description": "Located near the heart of Culver City's film studio district, this area historically supported the workforce for MGM and now Sony Pictures.",
+                "lat": 34.0245,
+                "lng": -118.3912,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0245,-118.3912"
+            },
+            {
+                "name": "Sony Pictures Studios (formerly MGM Studios)",
+                "address": "10202 Washington Blvd Culver City, CA 90232",
+                "description": "One of the most famous film lots in the world, where The Wizard of Oz and Singin' in the Rain were filmed; it remains a major center of global media production.",
+                "lat": 34.0175,
+                "lng": -118.4012,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0175,-118.4012"
+            },
+            {
+                "name": "Sony Pictures Studios / MGM (10202 Washington Blvd)",
+                "description": "This is the crown jewel of Culver City. Originally Inceville, then MGM, this lot is where The Wizard of Oz, Singin' in the Rain, and Gone with the Wind were filmed. The massive Beaux-Arts colonnade on Washington Blvd remains a city icon and a testament to the \"Golden Age\" of Hollywood.",
+                "type": "landmark",
+                "address": "10202 Washington Blvd, Culver City, CA 90232, USA",
+                "lat": 34.0193214,
+                "lng": -118.4005044,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0193214,-118.4005044",
                 "original_hood": "Culver City"
             },
             {
@@ -6176,6 +6615,26 @@ const neighborhoodData = [
                 "original_hood": "Culver City"
             },
             {
+                "name": "Tellefson Park / Hal Roach Studios (11057 Washington Pl)",
+                "description": "Tellefson Park was the site of the original Hal Roach Studios (the \"Laugh Factory\"). While the studio is gone, the surrounding addresses are considered culturally significant as they housed the support staff and craftspeople for Laurel & Hardy and The Little Rascals.",
+                "type": "landmark",
+                "address": "11057 Washington Pl, Culver City, CA 90232",
+                "lat": 34.0224976,
+                "lng": -118.3938933,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0224976,-118.3938933",
+                "original_hood": "Culver City"
+            },
+            {
+                "name": "The \"Surplus Prophets\" Building (8918 Venice Blvd)",
+                "description": "It is a 1920s brick industrial building that served as a long-term hub for the Westside\u2019s artistic community. In the 1990s and 2000s, it was a central landmark for the \"anti-design\" and DIY art scene in Culver City before the area fully gentrified.",
+                "type": "landmark",
+                "address": "8918 Venice Blvd, Culver City, California, 90232",
+                "lat": 34.028951390344,
+                "lng": -118.388690406033,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.028951390344,-118.388690406033",
+                "original_hood": "Culver City"
+            },
+            {
                 "name": "The Hobbit Houses (Dunn Drive)",
                 "description": "A collection of whimsical cottages built by a Disney artist; featuring warped rooflines and hand-carved details.",
                 "type": "architectural",
@@ -6196,12 +6655,12 @@ const neighborhoodData = [
             },
             {
                 "name": "The Museum of Jurassic Technology",
-                "address": "9341 Venice Blvd., Culver City, CA 90232, USA",
+                "address": "10526 Venice Blvd Culver City, CA 90232",
                 "type": "landmark",
-                "description": "From the outside, it looks like a mundane storefront, but inside is a deeply surreal, dimly lit labyrinth that blends fact, fiction, and optical illusions into a modern cabinet of curiosities that defies traditional museum classification.",
-                "lat": 34.0258605,
-                "lng": -118.3950866,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0258605,-118.3950866",
+                "description": "A world-famous, idiosyncratic museum and artistic project that is a cornerstone of Culver City's cultural life.",
+                "lat": 34.0245,
+                "lng": -118.3982,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0245,-118.3982",
                 "original_hood": "Culver City"
             },
             {
@@ -6287,6 +6746,24 @@ const neighborhoodData = [
         "name": "Cypress Park",
         "region": "Northeast L.A.",
         "locations": [
+            {
+                "name": "Cypress Park Industrial Corridor",
+                "address": "1010 N San Fernando Road Los Angeles, CA 90065",
+                "description": "A key commercial stretch that has historically linked Downtown LA to the northeast valley neighborhoods along the rail lines.",
+                "lat": 34.0895,
+                "lng": -118.2321,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0895,-118.2321"
+            },
+            {
+                "name": "Cypress Park Residential District",
+                "address": "1157 Cypress Ave Los Angeles, CA 90065",
+                "description": "A residential street in one of Los Angeles' oldest suburban neighborhoods, developed as housing for railroad and industrial workers.",
+                "lat": 34.0945,
+                "lng": -118.2252,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0945,-118.2252"
+            },
             {
                 "name": "Cypress Recreation Center",
                 "description": "Park/Facility in Cypress Park",
@@ -6407,86 +6884,6 @@ const neighborhoodData = [
         "region": "Southeast",
         "locations": [
             {
-                "name": "The Oldest McDonald\u2019s (10207 Lakewood Blvd)",
-                "description": "This is Downey\u2019s most famous landmark and is listed on the National Register of Historic Places. Built in 1953 by Roger Williams and Richard Burdidge (the third-ever McDonald's), it still features the original \"Speedee\" chef mascot instead of Ronald McDonald. It was designed by Stanley Clark Meston and remains the only McDonald's with an original 1950s walk-up stand and a small museum on-site.",
-                "type": "landmark",
-                "address": "10207 Lakewood Blvd, Downey, California, 90241",
-                "lat": 33.945968995777,
-                "lng": -118.118591000381,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.945968995777,-118.118591000381",
-                "original_hood": "Downey"
-            },
-            {
-                "name": "Massey Cadillac (10700 Studebaker Rd)",
-                "description": "This address is part of the \"Stonewood\" area history. While the dealership itself isn't a landmark, the Studebaker/Firestone corridor was the industrial backbone of Downey. The presence of high-end dealerships like Cadillac here since the mid-century speaks to the \"Executive Class\" wealth that the aerospace industry brought to Downey in the 1960s.",
-                "type": "landmark",
-                "address": "10700 Studebaker Rd, Downey, California, 90241",
-                "lat": 33.935812308423,
-                "lng": -118.096900898077,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.935812308423,-118.096900898077",
-                "original_hood": "Downey"
-            },
-            {
-                "name": "The Civic Center Corridor (11111 Brookshire Ave)",
-                "description": "While this specific address is currently a real estate office, it sits within the Downey Civic Center district. This area is historically significant as the planned heart of the city\u2019s post-WWII expansion. The nearby Downey City Library and City Hall are considered significant examples of Mid-Century Modern civic architecture.",
-                "type": "landmark",
-                "address": "11111 Brookshire Ave, Downey, California, 90241",
-                "lat": 33.941043118919,
-                "lng": -118.128676190101,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.941043118919,-118.128676190101",
-                "original_hood": "Downey"
-            },
-            {
-                "name": "Columbia Memorial Space Center",
-                "description": "As you noted, this was missing from your list but is the city's most significant historical site. It sits on the former grounds of the North American Rockwell plant where the Apollo Command/Service Modules and the Space Shuttle orbiters were designed and built. It is a Smithsonian Affiliate and a monument to Downey\u2019s role in the Moon landing.",
-                "type": "landmark",
-                "address": "12400 Columbia Way, Downey, CA",
-                "lat": 33.9198314,
-                "lng": -118.1336569,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9198314,-118.1336569",
-                "original_hood": "Downey"
-            },
-            {
-                "name": "The Rives Mansion",
-                "description": "A stunning 1911 mansion built for James C. Rives. It is one of the few remaining examples of the \"Pre-Aerospace\" agricultural wealth of Downey when it was famous for orange and castor bean groves.",
-                "type": "landmark",
-                "address": "10921 Paramount Blvd, Downey, CA",
-                "lat": 33.94494200309,
-                "lng": -118.13612200233,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.94494200309,-118.13612200233",
-                "original_hood": "Downey"
-            },
-            {
-                "name": "The Kaiser Permanente/Aerospace Buffer (7900 Imperial Hwy)",
-                "description": "This address is located on the edge of the massive Rancho Los Amigos National Rehabilitation Center and the former Rockwell airfield. While the specific building at 7900 is commercial, this entire stretch of Imperial Highway was the \"Main Street\" for tens of thousands of aerospace workers commuting to the NASA plants daily.",
-                "type": "landmark",
-                "address": "7900 Imperial Hwy, Downey, California, 90242",
-                "lat": 33.925061008858,
-                "lng": -118.154266978686,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.925061008858,-118.154266978686",
-                "original_hood": "Downey"
-            },
-            {
-                "name": "The Gateway to the North (9414 Telegraph Rd)",
-                "description": "Telegraph Road is one of the oldest thoroughfares in the Los Angeles Basin. This address is in a commercial zone that represents the \"Automobile Row\" development of the 1950s, characterized by large lots and deep setbacks meant for the burgeoning car culture of the San Fernando and San Gabriel Valleys.",
-                "type": "landmark",
-                "address": "9414 Telegraph Rd, Downey, California, 90240",
-                "lat": 33.955373180876,
-                "lng": -118.10217648652,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.955373180876,-118.10217648652",
-                "original_hood": "Downey"
-            },
-            {
-                "name": "Hully Gully (9559 E Imperial Hwy)",
-                "description": "While not an official Historic-Cultural Monument, this is a cultural landmark for the region's nightlife. Built in the late 1950s/early 1960s, its architecture reflects the \"Polynesian/Tiki\" and Googie influences that dominated Downey during the aerospace boom. It has served as a community hub for live music and events for decades.",
-                "type": "landmark",
-                "address": "9559 Imperial Hwy, Downey, California, 90242",
-                "lat": 33.917172613527,
-                "lng": -118.123285875652,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.917172613527,-118.123285875652",
-                "original_hood": "Downey"
-            },
-            {
                 "name": "Close To You Apartments (Carpenter Siblings)",
                 "description": "Formerly owned by musical siblings Richard and Karen Carpenter (The Carpenters). Named after their breakthrough hit.",
                 "type": "landmark",
@@ -6495,6 +6892,25 @@ const neighborhoodData = [
                 "lng": -118.128827231996,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=8356+5th+St,+Downey,+CA+90241",
                 "original_hood": "Downey"
+            },
+            {
+                "name": "Columbia Memorial Space Center",
+                "description": "Built on the site where the Apollo spacecraft and Space Shuttles were designed and manufactured, serving as a tribute to Downey\u2019s aerospace legacy.",
+                "type": "landmark",
+                "address": "10311 Lakewood Boulevard Downey, CA 90241",
+                "lat": 33.9215,
+                "lng": -118.1285,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9215,-118.1285",
+                "original_hood": "Downey"
+            },
+            {
+                "name": "Downey Public Hub",
+                "address": "11111 Brookshire Avenue Downey, CA 90241",
+                "description": "Located in the historic heart of Downey, the city synonymous with the aerospace industry and the birthplace of the Apollo capsules.",
+                "lat": 33.9315,
+                "lng": -118.1285,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9315,-118.1285"
             },
             {
                 "name": "Downey Studios (former NASA/Boeing site)",
@@ -6517,13 +6933,23 @@ const neighborhoodData = [
                 "original_hood": "Downey"
             },
             {
-                "name": "The Harvey's/Johnie's Broiler (9595 Firestone Blvd)",
-                "description": "If you are researching Downey landmarks, you cannot miss this. It is a masterpiece of Googie architecture. It was nearly demolished in 2007 but was rebuilt and saved by the Downey Conservancy. It is a designated historic resource and a legendary filming location (Heat, The Game).",
+                "name": "Hully Gully (9559 E Imperial Hwy)",
+                "description": "While not an official Historic-Cultural Monument, this is a cultural landmark for the region's nightlife. Built in the late 1950s/early 1960s, its architecture reflects the \"Polynesian/Tiki\" and Googie influences that dominated Downey during the aerospace boom. It has served as a community hub for live music and events for decades.",
                 "type": "landmark",
-                "address": "9595 Firestone Blvd, Downey, CA",
-                "lat": 33.9397261,
-                "lng": -118.131939,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9397261,-118.131939",
+                "address": "9559 Imperial Hwy, Downey, California, 90242",
+                "lat": 33.917172613527,
+                "lng": -118.123285875652,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.917172613527,-118.123285875652",
+                "original_hood": "Downey"
+            },
+            {
+                "name": "Massey Cadillac (10700 Studebaker Rd)",
+                "description": "This address is part of the \"Stonewood\" area history. While the dealership itself isn't a landmark, the Studebaker/Firestone corridor was the industrial backbone of Downey. The presence of high-end dealerships like Cadillac here since the mid-century speaks to the \"Executive Class\" wealth that the aerospace industry brought to Downey in the 1960s.",
+                "type": "landmark",
+                "address": "10700 Studebaker Rd, Downey, California, 90241",
+                "lat": 33.935812308423,
+                "lng": -118.096900898077,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.935812308423,-118.096900898077",
                 "original_hood": "Downey"
             },
             {
@@ -6535,6 +6961,66 @@ const neighborhoodData = [
                 "lng": -118.156319548825,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=7112+Firestone+Blvd,+Downey,+CA+90241",
                 "original_hood": "Downey"
+            },
+            {
+                "name": "The Civic Center Corridor (11111 Brookshire Ave)",
+                "description": "While this specific address is currently a real estate office, it sits within the Downey Civic Center district. This area is historically significant as the planned heart of the city\u2019s post-WWII expansion. The nearby Downey City Library and City Hall are considered significant examples of Mid-Century Modern civic architecture.",
+                "type": "landmark",
+                "address": "11111 Brookshire Ave, Downey, California, 90241",
+                "lat": 33.941043118919,
+                "lng": -118.128676190101,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.941043118919,-118.128676190101",
+                "original_hood": "Downey"
+            },
+            {
+                "name": "The Gateway to the North (9414 Telegraph Rd)",
+                "description": "Telegraph Road is one of the oldest thoroughfares in the Los Angeles Basin. This address is in a commercial zone that represents the \"Automobile Row\" development of the 1950s, characterized by large lots and deep setbacks meant for the burgeoning car culture of the San Fernando and San Gabriel Valleys.",
+                "type": "landmark",
+                "address": "9414 Telegraph Rd, Downey, California, 90240",
+                "lat": 33.955373180876,
+                "lng": -118.10217648652,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.955373180876,-118.10217648652",
+                "original_hood": "Downey"
+            },
+            {
+                "name": "The Harvey's/Johnie's Broiler (9595 Firestone Blvd)",
+                "description": "If you are researching Downey landmarks, you cannot miss this. It is a masterpiece of Googie architecture. It was nearly demolished in 2007 but was rebuilt and saved by the Downey Conservancy. It is a designated historic resource and a legendary filming location (Heat, The Game).",
+                "type": "landmark",
+                "address": "9595 Firestone Blvd, Downey, CA",
+                "lat": 33.9397261,
+                "lng": -118.131939,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9397261,-118.131939",
+                "original_hood": "Downey"
+            },
+            {
+                "name": "The Kaiser Permanente/Aerospace Buffer (7900 Imperial Hwy)",
+                "description": "This address is located on the edge of the massive Rancho Los Amigos National Rehabilitation Center and the former Rockwell airfield. While the specific building at 7900 is commercial, this entire stretch of Imperial Highway was the \"Main Street\" for tens of thousands of aerospace workers commuting to the NASA plants daily.",
+                "type": "landmark",
+                "address": "7900 Imperial Hwy, Downey, California, 90242",
+                "lat": 33.925061008858,
+                "lng": -118.154266978686,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.925061008858,-118.154266978686",
+                "original_hood": "Downey"
+            },
+            {
+                "name": "The Oldest McDonald\u2019s (10207 Lakewood Blvd)",
+                "description": "This is Downey\u2019s most famous landmark and is listed on the National Register of Historic Places. Built in 1953 by Roger Williams and Richard Burdidge (the third-ever McDonald's), it still features the original \"Speedee\" chef mascot instead of Ronald McDonald. It was designed by Stanley Clark Meston and remains the only McDonald's with an original 1950s walk-up stand and a small museum on-site.",
+                "type": "landmark",
+                "address": "10207 Lakewood Blvd, Downey, California, 90241",
+                "lat": 33.945968995777,
+                "lng": -118.118591000381,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.945968995777,-118.118591000381",
+                "original_hood": "Downey"
+            },
+            {
+                "name": "The Rives Mansion",
+                "description": "A stunning 1911 mansion built for James C. Rives. It is one of the few remaining examples of the \"Pre-Aerospace\" agricultural wealth of Downey when it was famous for orange and castor bean groves.",
+                "type": "landmark",
+                "address": "10921 Paramount Blvd, Downey, CA",
+                "lat": 33.94494200309,
+                "lng": -118.13612200233,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.94494200309,-118.13612200233",
+                "original_hood": "Downey"
             }
         ]
     },
@@ -6543,6 +7029,15 @@ const neighborhoodData = [
         "name": "Downtown LA",
         "region": "Central L.A.",
         "locations": [
+            {
+                "name": "\"Olive Juice\" Mural Site",
+                "address": "1026 S Santee St Los Angeles, CA 90015",
+                "description": "A famous street art location in the Fashion District featuring a visual pun mural that mimics the mouth movements for \"I Love You.\"",
+                "lat": 34.0405,
+                "lng": -118.2542,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0405,-118.2542"
+            },
             {
                 "name": "\"Skid Row\" (officially Central City East)",
                 "description": "",
@@ -6562,6 +7057,15 @@ const neighborhoodData = [
                 "lng": -118.231715,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=100+Center+St%2C+Los+Angeles%2C+CA+90012",
                 "original_hood": "Downtown LA"
+            },
+            {
+                "name": "1100 Wilshire (The \"Triangular\" Tower)",
+                "address": "1100 Wilshire Blvd Los Angeles, CA 90017",
+                "description": "Originally built as an office tower in 1987 and later converted into luxury condos, it is famous for its distinctive triangular glass facade and rooftop pool.",
+                "lat": 34.0535,
+                "lng": -118.2612,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0535,-118.2612"
             },
             {
                 "name": "1st and Broadway Civic Center Park",
@@ -6741,12 +7245,12 @@ const neighborhoodData = [
             },
             {
                 "name": "Bendix Aviation Building",
-                "description": "Fashion District. A 1929 landmark notable for its massive neon sign and aviation-inspired architecture. It remains a dominant feature of the skyline.",
+                "description": "A 1929 landmark featuring a famous rooftop neon sign, originally built for the Bendix Aviation Corp and now a major hub for contemporary art galleries.",
                 "type": "landmark",
                 "address": "1206 Maple Ave, Los Angeles, CA 90015",
-                "lat": 34.0354114,
-                "lng": -118.2562788,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1206+Maple+Ave%2C+Los+Angeles%2C+CA+90015",
+                "lat": 34.0358,
+                "lng": -118.2531,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0358,-118.2531",
                 "original_hood": "Downtown LA"
             },
             {
@@ -7056,6 +7560,24 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "Fashion District Commercial Lofts",
+                "address": "1015 South Main Street Los Angeles, CA 90015",
+                "description": "A historic multi-story building used for textile manufacturing and wholesale, now part of the Downtown adaptive reuse movement.",
+                "lat": 34.0395,
+                "lng": -118.2582,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0395,-118.2582"
+            },
+            {
+                "name": "Fashion District Lofts",
+                "address": "1104 S. Main St Los Angeles, CA 90015",
+                "description": "A mid-century commercial structure that reflects the densification of the garment district during the post-war economic boom.",
+                "lat": 34.0378,
+                "lng": -118.2571,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0378,-118.2571"
+            },
+            {
                 "name": "Figueroa Corridor BID",
                 "description": "Figueroa Corridor Business Improvement District.",
                 "type": "sub-neighborhood",
@@ -7134,12 +7656,30 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "Grand Avenue Modern Lofts",
+                "address": "1111 S. Grand Ave Los Angeles, CA 90015",
+                "description": "A contemporary residential development that sits on the site of former industrial workshops, typical of the \"New Downtown\" growth.",
+                "lat": 34.0398,
+                "lng": -118.2618,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0398,-118.2618"
+            },
+            {
                 "name": "Grand Central Market",
                 "description": "An iconic 30,000-square-foot food hall operating continuously since 1917.",
                 "type": "landmark",
                 "address": "317 South Broadway, Los Angeles, CA 90013",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=317+South+Broadway%2C+Los+Angeles%2C+CA+90013",
                 "original_hood": "Downtown LA"
+            },
+            {
+                "name": "Grand Lofts",
+                "address": "1101 S. Grand Ave Los Angeles, CA 90015",
+                "description": "A historic 1923 warehouse building that was converted into some of the first \"New York style\" residential lofts in the South Park area.",
+                "lat": 34.0405,
+                "lng": -118.2615,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0405,-118.2615"
             },
             {
                 "name": "Grand Park",
@@ -7182,6 +7722,42 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "Herald Examiner Building",
+                "address": "1111 S. Broadway Los Angeles, CA 90015",
+                "description": "The headquarters of the Los Angeles Herald-Examiner, built in 1914 in the Mission Revival style; it was the site of one of the longest labor strikes in US history.",
+                "lat": 34.0391,
+                "lng": -118.2605,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0391,-118.2605"
+            },
+            {
+                "name": "Herald Examiner Building (South)",
+                "address": "1108 S. Hill St Los Angeles, CA 90015",
+                "description": "Part of the massive complex designed by Julia Morgan for William Randolph Hearst's newspaper empire, which was the most advanced printing plant of its time.",
+                "lat": 34.0395,
+                "lng": -118.2615,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0395,-118.2615"
+            },
+            {
+                "name": "Herald Examiner Neighborhood",
+                "address": "1064 S Broadway Los Angeles, CA 90015",
+                "description": "Located in the Southern historic core near Julia Morgan's iconic Herald Examiner building, representing the city's early newspaper row.",
+                "lat": 34.0397,
+                "lng": -118.2605,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0397,-118.2605"
+            },
+            {
+                "name": "Hill Street Commercial Block",
+                "address": "1111 S. Hill St Los Angeles, CA 90015",
+                "description": "A commercial and retail site located at the nexus of the Fashion and Financial districts.",
+                "lat": 34.0392,
+                "lng": -118.2618,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0392,-118.2618"
+            },
+            {
                 "name": "Hippie Kitchen",
                 "description": "Skid Row Area. A long-standing Catholic Worker soup kitchen serving the local community.",
                 "type": "landmark",
@@ -7200,6 +7776,24 @@ const neighborhoodData = [
                 "address": "209 W 5th St, Los Angeles, CA 90013, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0477682,-118.2499993",
                 "original_hood": "Downtown LA"
+            },
+            {
+                "name": "Historic South Park Commercial District",
+                "address": "1061 S. Hill St Los Angeles, CA 90015",
+                "description": "A site within the burgeoning South Park district, transitioning from industrial roots to a modern residential and entertainment hub.",
+                "lat": 34.041,
+                "lng": -118.2585,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.041,-118.2585"
+            },
+            {
+                "name": "Historic Tony's Burgers Site",
+                "address": "209 W 11th St, Los Angeles, CA 90015",
+                "description": "Located in the South Park district, this area is historic for its 24-hour diners that served the newspaper and warehouse workers of the early 20th-century Downtown.",
+                "lat": 34.0405,
+                "lng": -118.2582,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0405,-118.2582"
             },
             {
                 "name": "Hotel Cecil",
@@ -7372,6 +7966,15 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "Los Angeles Street Garment Center",
+                "address": "1108 S. Los Angeles St Los Angeles, CA 90015",
+                "description": "A historic warehouse district that served as the primary wholesale terminal for textiles arriving in the city by rail and truck.",
+                "lat": 34.0385,
+                "lng": -118.2555,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0385,-118.2555"
+            },
+            {
                 "name": "Los Angeles Theatre (HCM #225)",
                 "description": "Architect: S. Charles Lee\n\nArchitectural Style: French Baroque\n\nThe History: Built in just six months to be ready for the premiere of Charlie Chaplin\u2019s City Lights, this was the most expensive and opulent theater built on Broadway. Chaplin himself reportedly helped fund the completion when the developer ran out of money.\n\nKey Architectural Features: The lobby was modeled after the Hall of Mirrors at Versailles. It features a massive crystal chandelier, a grand fountain, and a sprawling basement lounge with a glass-walled ballroom.",
                 "type": "landmark",
@@ -7381,6 +7984,24 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0464536,-118.2526685",
                 "year_built": "1931",
                 "original_hood": "Downtown LA"
+            },
+            {
+                "name": "Main Street Fashion Block",
+                "address": "1100 S. Main St Los Angeles, CA 90015",
+                "description": "A historic commercial building in the Fashion District, traditionally housing textile wholesalers and garment manufacturing workshops.",
+                "lat": 34.0385,
+                "lng": -118.2575,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0385,-118.2575"
+            },
+            {
+                "name": "Maple Avenue Commercial Building",
+                "address": "1001 Maple Avenue Los Angeles, CA 90015",
+                "description": "A cornerstone of the LA Fashion District, historically used for garment manufacturing and wholesale.",
+                "lat": 34.0375,
+                "lng": -118.2532,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0375,-118.2532"
             },
             {
                 "name": "Maple Center",
@@ -7420,6 +8041,16 @@ const neighborhoodData = [
                 "lat": 34.0597542,
                 "lng": -118.2287508,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0597542,-118.2287508",
+                "original_hood": "Downtown LA"
+            },
+            {
+                "name": "Millennium Biltmore Hotel Los Angeles",
+                "description": "An opulent 1923 hotel steeped in Hollywood history, serving as a frequent filming location and the site of the original Academy Awards banquets.",
+                "type": "landmark",
+                "address": "506 S Grand Ave, Los Angeles, CA 90071",
+                "lat": 34.0497,
+                "lng": -118.2542,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0497,-118.2542",
                 "original_hood": "Downtown LA"
             },
             {
@@ -7563,6 +8194,15 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "People's Sausage Company",
+                "address": "1132 E 12th St, Los Angeles, CA 90021",
+                "description": "A historic food manufacturing site that has been a staple of the downtown industrial corridor for over 50 years.",
+                "lat": 34.0325,
+                "lng": -118.2452,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0325,-118.2452"
+            },
+            {
                 "name": "Pershing Square",
                 "description": "Park/Facility in Downtown LA (Historic Core)",
                 "type": "landmark",
@@ -7663,6 +8303,15 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "Santee Alley Entrance",
+                "address": "1107 S. Main St Los Angeles, CA 90015",
+                "description": "A primary access point to the world-famous Santee Alley, a high-density, open-air bazaar that is the pulse of the LA Fashion District.",
+                "lat": 34.0375,
+                "lng": -118.2568,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0375,-118.2568"
+            },
+            {
                 "name": "Scrap City / Scrap District",
                 "description": "Specialized District. Industrial area characterized by recycling yards and industrial detritus.",
                 "type": "landmark",
@@ -7703,6 +8352,24 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "South Park Commercial District",
+                "address": "1109 S. Broadway Los Angeles, CA 90015",
+                "description": "A site located near the historic United Artists Theatre, showing the transition of Broadway from a retail hub to an entertainment district.",
+                "lat": 34.0385,
+                "lng": -118.2601,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0385,-118.2601"
+            },
+            {
+                "name": "Standard Hotel DTLA Area",
+                "address": "1105 S. Broadway Los Angeles, CA 90015",
+                "description": "Situated in the Historic Core, this area contains several Art Deco and Beaux-Arts buildings that defined the city's financial and retail height in the 1920s.",
+                "lat": 34.0392,
+                "lng": -118.2595,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0392,-118.2595"
+            },
+            {
                 "name": "State Theatre (Loew's State)",
                 "address": "701 S Broadway, Los Angeles, CA 90014, USA",
                 "type": "landmark",
@@ -7734,11 +8401,39 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "The Belasco Theatre",
+                "address": "1038 South Hill Street Los Angeles, CA 90015",
+                "description": "A lavish 1926 theater featuring a blend of Churrigueresque, Spanish Gothic, and Moorish styles; it remains a premier live music venue.",
+                "lat": 34.0401,
+                "lng": -118.2588,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0401,-118.2588"
+            },
+            {
+                "name": "The Belasco Theatre (South Wing)",
+                "address": "1050 S. Hill Street Los Angeles, CA 90015",
+                "description": "Part of the historic Belasco Theatre complex, a centerpiece of the Downtown Los Angeles theater district.",
+                "lat": 34.0405,
+                "lng": -118.2592,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0405,-118.2592"
+            },
+            {
                 "name": "The Bloc",
                 "description": "A transformed open-air destination featuring retail, the Sheraton Grand, and office space.",
                 "type": "landmark",
                 "address": "700 West 7th Street, Los Angeles, CA 90017",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=700+West+7th+Street%2C+Los+Angeles%2C+CA+90017",
+                "original_hood": "Downtown LA"
+            },
+            {
+                "name": "The Bradbury Building \u2014 Blade Runner / 500 Days of Summer",
+                "description": "The oldest commercial building in central LA, famous for its open cage elevators and ironwork.",
+                "type": "landmark",
+                "address": "304 S. Broadway",
+                "lat": 34.0505,
+                "lng": -118.2489,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0505,-118.2489",
                 "original_hood": "Downtown LA"
             },
             {
@@ -7798,6 +8493,15 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "The Hoopes Building / Proper Hotel",
+                "address": "1101 S. Broadway Los Angeles, CA 90015",
+                "description": "A 1920s California Renaissance Revival landmark that once served as a high-end private club and has recently been restored as a boutique hotel.",
+                "lat": 34.0395,
+                "lng": -118.2592,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0395,-118.2592"
+            },
+            {
                 "name": "The Maple Business Center",
                 "description": "The Maple Business Center, a major high-rise hub for the city\u2019s apparel industry.",
                 "type": "landmark",
@@ -7806,6 +8510,15 @@ const neighborhoodData = [
                 "lng": -118.256244,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0353934,-118.256244",
                 "original_hood": "Downtown LA"
+            },
+            {
+                "name": "The Mayan Theater",
+                "address": "1045 S. Hill Street Los Angeles, CA 90015",
+                "description": "A landmark 1927 theater designed in the \"Mayan Revival\" style, reflecting the exotic architectural trends of the Roaring Twenties.",
+                "lat": 34.0401,
+                "lng": -118.2588,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0401,-118.2588"
             },
             {
                 "name": "The Pope of Broadway",
@@ -7826,6 +8539,15 @@ const neighborhoodData = [
                 "lng": -118.2588575,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0393759,-118.2588575",
                 "original_hood": "Downtown LA"
+            },
+            {
+                "name": "The Rosslyn Lofts",
+                "address": "112 West 5th Street Los Angeles, CA 90013",
+                "description": "A historic 1923 hotel building that was once a premier destination for travelers arriving by train, now a prominent example of downtown adaptive reuse.",
+                "lat": 34.0475,
+                "lng": -118.2482,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0475,-118.2482"
             },
             {
                 "name": "The Salt Box (Site of)",
@@ -7856,6 +8578,15 @@ const neighborhoodData = [
                 "lng": -118.2595863,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0406768,-118.2595863",
                 "original_hood": "Downtown LA"
+            },
+            {
+                "name": "The Textile Center Building",
+                "address": "1101 S. Main St Los Angeles, CA 90015",
+                "description": "A cornerstone of the LA Fashion District, this 1920s Gothic-influenced building was historically the center of the city's burgeoning garment industry.",
+                "lat": 34.0382,
+                "lng": -118.2572,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0382,-118.2572"
             },
             {
                 "name": "Title Insurance Building",
@@ -7914,6 +8645,15 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "United Artists Building",
+                "address": "1001 S Broadway Los Angeles, CA 90015",
+                "description": "Built in 1927 for the United Artists film studio, its theatre is a masterpiece of Spanish Gothic architecture.",
+                "lat": 34.0401,
+                "lng": -118.2581,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0401,-118.2581"
+            },
+            {
                 "name": "United Artists Theater Building",
                 "description": "HCM #435. A 1927 Spanish Gothic theater and office tower built for the film studio founded by Mary Pickford, Douglas Fairbanks, Charlie Chaplin, and D.W. Griffith.",
                 "type": "landmark",
@@ -7970,6 +8710,15 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "Western Costume Co. Site (Nearby)",
+                "address": "1106 S. Broadway Los Angeles, CA 90015",
+                "description": "This area historically housed the costume houses and prop shops that serviced the early film studios when they were still located in Downtown LA.",
+                "lat": 34.039,
+                "lng": -118.2598,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.039,-118.2598"
+            },
+            {
                 "name": "Wilshire Grand Center",
                 "description": "The tallest building in the Western United States, topped by a sail-shaped spire.",
                 "type": "landmark",
@@ -7995,26 +8744,6 @@ const neighborhoodData = [
                 "lat": 34.0472244,
                 "lng": -118.2361371,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=123+South+Hewitt+St%2C+Los+Angeles%2C+CA+90012",
-                "original_hood": "Downtown LA"
-            },
-            {
-                "name": "The Bradbury Building \u2014 Blade Runner / 500 Days of Summer",
-                "description": "The oldest commercial building in central LA, famous for its open cage elevators and ironwork.",
-                "type": "landmark",
-                "address": "304 S. Broadway",
-                "lat": 34.0505,
-                "lng": -118.2489,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0505,-118.2489",
-                "original_hood": "Downtown LA"
-            },
-            {
-                "name": "Millennium Biltmore Hotel Los Angeles",
-                "description": "An opulent 1923 hotel steeped in Hollywood history, serving as a frequent filming location and the site of the original Academy Awards banquets.",
-                "type": "landmark",
-                "address": "506 S Grand Ave, Los Angeles, CA 90071",
-                "lat": 34.0497,
-                "lng": -118.2542,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0497,-118.2542",
                 "original_hood": "Downtown LA"
             }
         ]
@@ -8081,6 +8810,15 @@ const neighborhoodData = [
                 "original_hood": "Eagle Rock"
             },
             {
+                "name": "Chevy Chase Canyon Entrance",
+                "address": "1015 E Chevy Chase Dr Glendale, CA 91205",
+                "description": "A primary access point to one of Glendale's oldest and most scenic canyon neighborhoods, known for its mid-century hillside homes.",
+                "lat": 34.1435,
+                "lng": -118.2352,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1435,-118.2352"
+            },
+            {
                 "name": "Cindy's Coffee Shop",
                 "description": "Local coffee shop and neighborhood gathering spot.",
                 "type": "landmark",
@@ -8122,12 +8860,12 @@ const neighborhoodData = [
             },
             {
                 "name": "Eagle Rock City Hall",
-                "description": "The former municipal center of the independent city of Eagle Rock before it was annexed by Los Angeles in 1923. The building now serves civic functions and stands as a reminder of Eagle Rock's brief history as an autonomous city.",
+                "description": "A historic civic building that has served as the administrative center for the Eagle Rock community since its early days as an independent city.",
                 "type": "landmark",
-                "address": "2035 Colorado Blvd, Los Angeles, CA 90041",
-                "lat": 34.1393663,
-                "lng": -118.2109434,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2035+Colorado+Blvd%2C+Los+Angeles%2C+CA+90041",
+                "address": "1045 Colorado Blvd Los Angeles, CA 90041",
+                "lat": 34.1392,
+                "lng": -118.2145,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1392,-118.2145",
                 "original_hood": "Eagle Rock"
             },
             {
@@ -8641,6 +9379,15 @@ const neighborhoodData = [
                 "original_hood": "East Hollywood"
             },
             {
+                "name": "Cedars of Lebanon Hospital",
+                "description": "This massive, blue Art Deco building (designed by architect Claud Beelman and opened in 1930) is the most prominent visual landmark of the district. It was the premier hospital for Hollywood\u2019s elite (treating stars like Marilyn Monroe and Elvis Presley) before Cedars of Lebanon merged with Mount Sinai to become the modern Cedars-Sinai Medical Center in West Hollywood. Today, it serves as the Church of Scientology\u2019s Pacific Area Command Base (often called \"Big Blue\"). In urban planning and preservation circles, it is frequently cited as an exemplar of adaptive reuse, where a historic medical landmark was repurposed for administrative and community use rather than being demolished. The Educational and Medical Context: The district is called \"Pill Hill\" (or the East Hollywood Medical District) because of the dense concentration of world-class medical institutions and educational facilities.",
+                "type": "landmark",
+                "address": "4800 Sunset Blvd (at the corner of Sunset and L. Ron Hubbard Way), Los Angeles, CA",
+                "lat": 34.0974488,
+                "lng": -118.2942389,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0974488,-118.2942389"
+            },
+            {
                 "name": "Charles Bukowski's Home",
                 "description": "The former residence of the prolific L.A. poet and novelist.",
                 "type": "historical",
@@ -8649,6 +9396,24 @@ const neighborhoodData = [
                 "lng": -118.3012268,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=5124+De+Longpre+Ave%2C+Los+Angeles%2C+CA+90027",
                 "original_hood": "East Hollywood"
+            },
+            {
+                "name": "East Hollywood Gateway",
+                "address": "1014 N. Western Ave Los Angeles, CA 90029",
+                "description": "A commercial corridor near the intersection of Santa Monica Boulevard, historically serving as a multicultural retail hub.",
+                "lat": 34.0891,
+                "lng": -118.3085,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0891,-118.3085"
+            },
+            {
+                "name": "East Hollywood Residential",
+                "address": "1064 N Kingsley Dr Los Angeles, CA 90029",
+                "description": "A street reflecting the diverse immigrant history of East Hollywood, featuring early 20th-century apartment buildings and bungalows.",
+                "lat": 34.0904,
+                "lng": -118.3032,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0904,-118.3032"
             },
             {
                 "name": "El Potrillo (Horse on the Roof)",
@@ -8808,6 +9573,42 @@ const neighborhoodData = [
         "region": "East Hollywood",
         "locations": [
             {
+                "name": "Bar Keeper",
+                "address": "614 N. Hoover St, Los Angeles, CA 90004",
+                "description": "Specialist shop for rare spirits, bitters, and vintage barware.",
+                "lat": 34.082,
+                "lng": -118.2842,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0820,-118.2842"
+            },
+            {
+                "name": "Cafecito Organico",
+                "address": "534 N. Hoover St, Los Angeles, CA 90026",
+                "description": "Small-batch roaster focusing on organic and fair-trade coffee.",
+                "lat": 34.0804,
+                "lng": -118.2843,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0804,-118.2843"
+            },
+            {
+                "name": "Courage Bagels",
+                "address": "777 N. Virgil Ave, Los Angeles, CA 90029",
+                "description": "Famous for their \"California-style\" bagels \u2014 extra crispy, charred, and thin \u2014 topped with heirloom tomatoes and wild Alaskan salmon. The line is a local ritual.",
+                "lat": 34.089,
+                "lng": -118.2871,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0890,-118.2871"
+            },
+            {
+                "name": "East Hollywood \"Pill Hill\" Residential",
+                "address": "1018 N Madison Ave Los Angeles, CA 90029",
+                "description": "A residential street serving the employees of the nearby major medical centers on Vermont Avenue.",
+                "lat": 34.0895,
+                "lng": -118.2895,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0895,-118.2895"
+            },
+            {
                 "name": "East Hollywood - Hel-Mel",
                 "address": "Melrose Ave & Heliotrope Dr, Los Angeles, CA 90029, USA",
                 "description": "The Character: This vibrant micro-neighborhood, centered at the intersection of Heliotrope Drive and Melrose Avenue, is one of East Hollywood\u2019s most creative pockets. It is defined by its bike-friendly culture, independent spirit, and colorful storefronts.\n\nKey Features: Long known as a hub for cyclists (anchored by the famous Orange 20 Bikes), the area features an array of artisanal coffee shops, vintage clothing boutiques, and independent eateries. It represents a more grassroots, community-oriented version of the \"cool LA\" aesthetic found in neighboring Silver Lake or Los Feliz.",
@@ -8816,6 +9617,141 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0835927,-118.2949682",
                 "type": "neighborhood",
                 "original_hood": "East Hollywood - Hel-Mel"
+            },
+            {
+                "name": "Fountain Avenue Bungalow Court",
+                "address": "1288 N Fountain Ave, Los Angeles, CA 90029",
+                "description": "A 1913 bungalow court that represents the \"Golden Age\" of courtyard living in Hollywood, a typology that defined the city's early residential density.",
+                "lat": 34.0955,
+                "lng": -118.2915,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0955,-118.2915"
+            },
+            {
+                "name": "Grand Slam",
+                "address": "852 N. Virgil Ave, Los Angeles, CA 90029",
+                "description": "A \"lifestyle tennis boutique\" that feels like a 90s skate shop meets a Riviera clubhouse. They carry a curated selection of independent brands and an impressive collection of vintage tennis apparel.",
+                "lat": 34.0933,
+                "lng": -118.2873,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0933,-118.2873"
+            },
+            {
+                "name": "Jewel",
+                "address": "654 N. Virgil Ave, Los Angeles, CA 90004",
+                "description": "A high-energy, modern Japanese Izakaya at the corner of Melrose. It's \"club meets pub,\" serving creative snacks like scallop crudo and ice-cold cocktails in a stylish, raucous environment.",
+                "lat": 34.0834,
+                "lng": -118.2866,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0834,-118.2866"
+            },
+            {
+                "name": "L.A.G. Vintage",
+                "address": "813 N. Virgil Ave, Los Angeles, CA 90029",
+                "description": "A must-stop for vintage lovers, featuring high-quality finds from the 60s through the 80s, including rare band tees and bold prints.",
+                "lat": 34.0911,
+                "lng": -118.2872,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0911,-118.2872"
+            },
+            {
+                "name": "Los Angeles City College Neighborhood",
+                "address": "1019 N. Madison Ave Los Angeles, CA 90029",
+                "description": "Situated directly adjacent to the LACC campus, this area has historically provided student and faculty housing.",
+                "lat": 34.0897,
+                "lng": -118.2896,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0897,-118.2896"
+            },
+            {
+                "name": "Maeday Outpost",
+                "address": "610 N. Hoover St, Los Angeles, CA 90004",
+                "description": "Rescue-focused pet boutique with curated supplies for dogs and cats.",
+                "lat": 34.0819,
+                "lng": -118.2843,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0819,-118.2843"
+            },
+            {
+                "name": "Melody Wine Bar",
+                "address": "751 N. Virgil Ave, Los Angeles, CA 90029",
+                "description": "Housed in a charming 1920s bungalow, this spot functions as a neighborhood living room with a rotating roster of chef pop-ups and an excellent natural wine list.",
+                "lat": 34.0877,
+                "lng": -118.2871,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0877,-118.2871"
+            },
+            {
+                "name": "Noble Pegasus",
+                "address": "804 N. Virgil Ave, Los Angeles, CA 90029",
+                "description": "A hybrid art gallery and preloved fashion boutique, focusing on sustainability and circular fashion.",
+                "lat": 34.0905,
+                "lng": -118.2872,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0905,-118.2872"
+            },
+            {
+                "name": "Sqirl",
+                "address": "720 N. Virgil Ave, Los Angeles, CA 90029",
+                "description": "The restaurant that arguably put the neighborhood on the map. Known for its sorrel pesto rice bowls and thick-cut brioche with house-made jams and ricotta.",
+                "lat": 34.0863,
+                "lng": -118.287,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0863,-118.2870"
+            },
+            {
+                "name": "The Virgil",
+                "address": "4519 Santa Monica Blvd, Los Angeles, CA 90029",
+                "description": "Situated right at the northern edge of the strip, this 1920s-themed bar is a hub for craft cocktails, live music, and some of the city's best independent comedy shows.",
+                "lat": 34.0911,
+                "lng": -118.2872,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0911,-118.2872"
+            },
+            {
+                "name": "Vermont Medical District",
+                "address": "1183 N Vermont Ave Los Angeles, CA 90029",
+                "description": "Located behind Solminelly's Beauty Salon, this site is part of the dense commercial support zone for the nearby hospitals on \"Pill Hill.\"",
+                "lat": 34.0925,
+                "lng": -118.2912,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0925,-118.2912"
+            },
+            {
+                "name": "Vinovore",
+                "address": "616 N. Hoover St, Los Angeles, CA 90004",
+                "description": "Boutique wine shop exclusively highlighting female winemakers.",
+                "lat": 34.0821,
+                "lng": -118.2842,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0821,-118.2842"
+            },
+            {
+                "name": "Virgil Normal",
+                "address": "823 N. Virgil Ave, Los Angeles, CA 90029",
+                "description": "A cornerstone of the neighborhood's coolness. This boutique specializes in independent designers, rare streetwear, and eclectic home goods that reflect a very specific Eastside LA aesthetic.",
+                "lat": 34.0917,
+                "lng": -118.2873,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0917,-118.2873"
+            },
+            {
+                "name": "Virgil Village / Silver Lake Edge",
+                "address": "1182 N Virgil Ave Los Angeles, CA 90029",
+                "description": "A commercial and residential address in a rapidly changing neighborhood known for its historic multi-unit bungalow courts.",
+                "lat": 34.0915,
+                "lng": -118.2872,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0915,-118.2872"
+            },
+            {
+                "name": "Voodoo Vin",
+                "address": "713 N. Virgil Ave, Los Angeles, CA 90029",
+                "description": "A minimalist natural wine bar and bistro. It features an evolving, Persian-leaning menu (think saffron rice and house-cured meats) in a candlelit, bare-bones space.",
+                "lat": 34.0859,
+                "lng": -118.287,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0859,-118.2870"
             }
         ]
     },
@@ -8833,6 +9769,15 @@ const neighborhoodData = [
                 "lng": -117.9889525,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9244577,-117.9889525",
                 "original_hood": "East La Mirada"
+            },
+            {
+                "name": "East Whittier Commercial Corridor",
+                "address": "10211 Colima Rd Whittier, CA 90603",
+                "description": "A key commercial site serving the suburban communities bordering the Puente Hills.",
+                "lat": 33.9412,
+                "lng": -117.9892,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9412,-117.9892"
             }
         ]
     },
@@ -9243,16 +10188,6 @@ const neighborhoodData = [
         "region": "Central L.A.",
         "locations": [
             {
-                "name": "Kien Giang Bakery",
-                "description": "A cultural landmark for the neighborhood, this family-owned Vietnamese-Chinese bakery has been a staple since 1980 and is world-renowned for its traditional mooncakes. In the context of Echo Park's shifting demographics, it remains one of the last bastions of the neighborhood's significant Asian-American history.",
-                "type": "landmark",
-                "address": "1471 Echo Park Ave, Los Angeles, California, 90026",
-                "lat": 34.079627955369,
-                "lng": -118.255704687096,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.079627955369,-118.255704687096",
-                "original_hood": "Echo Park"
-            },
-            {
                 "name": "1528 Echo Park Ave",
                 "description": "A popular commercial address in Echo Park housing local cafes and retail.",
                 "type": "landmark",
@@ -9260,36 +10195,6 @@ const neighborhoodData = [
                 "lat": 34.0805223,
                 "lng": -118.2544517,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0805223,-118.2544517",
-                "original_hood": "Echo Park"
-            },
-            {
-                "name": "Echo Park Lake",
-                "description": "The neighborhood's crown jewel. Originally a reservoir built in 1868, it became a park in 1891. It is famous for its lotus beds and the Art Deco \"Lady of the Lake\" statue (officially Nuestra Se\u00f1ora de la Reina de los Angeles), which was restored and returned to the park in recent years.",
-                "type": "landmark",
-                "address": "751 Echo Park Ave, Los Angeles, CA",
-                "lat": 34.0733029,
-                "lng": -118.2600018,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0733029,-118.2600018",
-                "original_hood": "Echo Park"
-            },
-            {
-                "name": "Jensen\u2019s Recreation Center",
-                "description": "A 1924 landmark known for its large rooftop sign (one of the few original neon signs remaining in LA). Historically, it housed a bowling alley, a pool hall, and luxury apartments, symbolizing the \"Golden Age\" of Echo Park\u2019s commercial growth. (HCM #243)",
-                "type": "landmark",
-                "address": "1706 Sunset Blvd, Los Angeles, CA",
-                "lat": 34.0795457,
-                "lng": -118.2698144,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0795457,-118.2698144",
-                "original_hood": "Echo Park"
-            },
-            {
-                "name": "The Baxter Street Stairs",
-                "description": "One of the city's most famous \"hidden\" staircases. With 231 steps, it offers some of the best vistas of the Downtown LA skyline and the Hollywood Sign, serving as a functional monument to the neighborhood's steep, hilly topography.",
-                "type": "landmark",
-                "address": "1501 Baxter St, Los Angeles, CA",
-                "lat": 34.0907226,
-                "lng": -118.2531714,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0907226,-118.2531714",
                 "original_hood": "Echo Park"
             },
             {
@@ -9384,6 +10289,15 @@ const neighborhoodData = [
                 "original_hood": "Echo Park"
             },
             {
+                "name": "Echo Park",
+                "address": "1020 Laguna Ave Los Angeles, CA 90026",
+                "description": "A historic street near the \"Silent Stroll\" area where early film stars resided during the era of nearby Edendale studios.",
+                "lat": 34.0785,
+                "lng": -118.2562,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0785,-118.2562"
+            },
+            {
                 "name": "Echo Park (Deep) Pool",
                 "description": "Park/Facility in Echo Park",
                 "type": "landmark",
@@ -9392,6 +10306,25 @@ const neighborhoodData = [
                 "lng": -118.2587121,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0638366,-118.2587121",
                 "original_hood": "Echo Park"
+            },
+            {
+                "name": "Echo Park Lake",
+                "description": "The neighborhood's crown jewel. Originally a reservoir built in 1868, it became a park in 1891. It is famous for its lotus beds and the Art Deco \"Lady of the Lake\" statue (officially Nuestra Se\u00f1ora de la Reina de los Angeles), which was restored and returned to the park in recent years.",
+                "type": "landmark",
+                "address": "751 Echo Park Ave, Los Angeles, CA",
+                "lat": 34.0733029,
+                "lng": -118.2600018,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0733029,-118.2600018",
+                "original_hood": "Echo Park"
+            },
+            {
+                "name": "Echo Park Neighborhood",
+                "address": "1033 Waterloo Street Los Angeles, CA 90026",
+                "description": "A residential street located near the famous \"secret stairs\" of Echo Park, reflecting the neighborhood's hilly and eclectic character.",
+                "lat": 34.0815,
+                "lng": -118.2652,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0815,-118.2652"
             },
             {
                 "name": "Echo Park Park",
@@ -9432,6 +10365,15 @@ const neighborhoodData = [
                 "lng": -118.2508221,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.07113289999999,-118.2508221",
                 "original_hood": "Echo Park"
+            },
+            {
+                "name": "Elliott Smith Residence",
+                "description": "Elliott Smith lived and passed away in a bungalow located at 1857 1/2 Lemoyne Street in the Echo Park neighborhood of Los Angeles, California. He shared this residence with his girlfriend, Jennifer Chiba. The home is often associated with his final years and the recording of his posthumous album, From a Basement on the Hill. Magnet Magazine -",
+                "type": "landmark",
+                "address": "1857 1/2 Lemoyne St, Los Angeles, CA 90026",
+                "lat": 34.08633990199968,
+                "lng": -118.25465985651213,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.08633990199968,-118.25465985651213"
             },
             {
                 "name": "Estelle Lawton Lindsey House",
@@ -9491,6 +10433,26 @@ const neighborhoodData = [
                 "lat": 34.0771298,
                 "lng": -118.25863,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1700+W+Sunset+Blvd%2C+Los+Angeles%2C+CA+90026",
+                "original_hood": "Echo Park"
+            },
+            {
+                "name": "Jensen\u2019s Recreation Center",
+                "description": "A 1924 landmark known for its large rooftop sign (one of the few original neon signs remaining in LA). Historically, it housed a bowling alley, a pool hall, and luxury apartments, symbolizing the \"Golden Age\" of Echo Park\u2019s commercial growth. (HCM #243)",
+                "type": "landmark",
+                "address": "1706 Sunset Blvd, Los Angeles, CA",
+                "lat": 34.0795457,
+                "lng": -118.2698144,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0795457,-118.2698144",
+                "original_hood": "Echo Park"
+            },
+            {
+                "name": "Kien Giang Bakery",
+                "description": "A cultural landmark for the neighborhood, this family-owned Vietnamese-Chinese bakery has been a staple since 1980 and is world-renowned for its traditional mooncakes. In the context of Echo Park's shifting demographics, it remains one of the last bastions of the neighborhood's significant Asian-American history.",
+                "type": "landmark",
+                "address": "1471 Echo Park Ave, Los Angeles, California, 90026",
+                "lat": 34.079627955369,
+                "lng": -118.255704687096,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.079627955369,-118.255704687096",
                 "original_hood": "Echo Park"
             },
             {
@@ -9635,6 +10597,16 @@ const neighborhoodData = [
             },
             {
                 "name": "The Baxter Street Stairs",
+                "description": "One of the city's most famous \"hidden\" staircases. With 231 steps, it offers some of the best vistas of the Downtown LA skyline and the Hollywood Sign, serving as a functional monument to the neighborhood's steep, hilly topography.",
+                "type": "landmark",
+                "address": "1501 Baxter St, Los Angeles, CA",
+                "lat": 34.0907226,
+                "lng": -118.2531714,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0907226,-118.2531714",
+                "original_hood": "Echo Park"
+            },
+            {
+                "name": "The Baxter Street Stairs",
                 "type": "landmark",
                 "address": "1421 Baxter St, Los Angeles, CA 90026, USA",
                 "lat": 34.08824,
@@ -9662,6 +10634,15 @@ const neighborhoodData = [
                 "lng": -118.251972,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2034+El+Moran+Street%2C+Los+Angeles%2C+CA+90039",
                 "original_hood": "Echo Park"
+            },
+            {
+                "name": "The Queen of Elysian Heights",
+                "address": "1153 W Ewing St Los Angeles, CA 90026",
+                "description": "A historic 19th-century residence known for its distinctive Victorian architecture on one of the neighborhood's highest hills.",
+                "lat": 34.0885,
+                "lng": -118.2562,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0885,-118.2562"
             },
             {
                 "name": "The Sayre House (Reservoir Dogs Location)",
@@ -9738,13 +10719,13 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "Gay\u2019s Lion Farm (Western Edge)",
-                "description": "Former site of a world-famous lion farm (1925\u20131942). Training ground for the original MGM \"roaring\" lions (Slats and Jackie). Current landmark: Bronze lion statue and historical plaque near the I-10 overpass.",
+                "name": "Ching Chung Taoist Temple",
+                "description": "Headquarters for the Ching Chung Taoist Association of America. Converted from a 1934 residential structure. Functions as a spiritual and cultural center for the local Chinese community.",
                 "type": "landmark",
-                "address": "10029 Valley Blvd, El Monte, CA 91731",
-                "lat": 34.0754,
-                "lng": -118.0674,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0754,-118.0674",
+                "address": "9909 Marshall St, El Monte, CA 91733",
+                "lat": 34.0672,
+                "lng": -118.0704,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0672,-118.0704",
                 "original_hood": "El Monte"
             },
             {
@@ -9758,34 +10739,13 @@ const neighborhoodData = [
                 "original_hood": "El Monte"
             },
             {
-                "name": "Gay's Lion Farm Footprint (Longo Toyota)",
-                "description": "Falls within the original 5-acre boundary of the lion farm. Currently part of the Longo Toyota complex, the world's highest-volume dealership. Site was reshaped by the construction of the I-10 freeway.",
+                "name": "El Monte Commercial Strip",
+                "address": "10724 Lower Azusa Rd El Monte, CA 91731",
+                "description": "Located in the city historically known as the \"End of the Santa Fe Trail,\" this area is a hub for regional transit and trade.",
+                "lat": 34.0883,
+                "lng": -118.0382,
                 "type": "landmark",
-                "address": "3534 Peck Rd, El Monte, CA 91731",
-                "lat": 34.0768,
-                "lng": -118.0369,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0768,-118.0369",
-                "original_hood": "El Monte"
-            },
-            {
-                "name": "Jolly Jug",
-                "description": "Established in 1946; recognized as a \"Legacy Business.\" Example of post-WWII roadside diner and dive-bar culture. Famous for its iconic \"man with a jug head\" neon signage.",
-                "type": "landmark",
-                "address": "4264 Peck Rd, El Monte, CA 91732",
-                "lat": 34.0863,
-                "lng": -118.038,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0863,-118.0380",
-                "original_hood": "El Monte"
-            },
-            {
-                "name": "Ching Chung Taoist Temple",
-                "description": "Headquarters for the Ching Chung Taoist Association of America. Converted from a 1934 residential structure. Functions as a spiritual and cultural center for the local Chinese community.",
-                "type": "landmark",
-                "address": "9909 Marshall St, El Monte, CA 91733",
-                "lat": 34.0672,
-                "lng": -118.0704,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0672,-118.0704",
-                "original_hood": "El Monte"
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0883,-118.0382"
             },
             {
                 "name": "El Monte Historical Museum",
@@ -9798,6 +10758,24 @@ const neighborhoodData = [
                 "original_hood": "El Monte"
             },
             {
+                "name": "El Monte Trade Area",
+                "address": "10724 E. Lower Azusa Road El Monte, CA 91731",
+                "description": "A repeated address for the Lower Azusa corridor, a historic east-west transit line connecting the San Gabriel Valley.",
+                "lat": 34.0883,
+                "lng": -118.0382,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0883,-118.0382"
+            },
+            {
+                "name": "El Monte Transit-Oriented District",
+                "address": "11721 Valley Blvd El Monte, CA 91732",
+                "description": "Part of the historic Valley Boulevard corridor, the oldest road connecting the San Gabriel Valley to the LA Basin.",
+                "lat": 34.0782,
+                "lng": -118.0182,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0782,-118.0182"
+            },
+            {
                 "name": "Gay's Lion Farm (Ghost Site)",
                 "description": "The site of a world-famous 1920s-40s attraction where the MGM lions were bred and trained; a legendary piece of SELA/SGV crossover lore.",
                 "type": "historical",
@@ -9805,6 +10783,36 @@ const neighborhoodData = [
                 "lat": 34.0736,
                 "lng": -118.0283,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0736,-118.0283",
+                "original_hood": "El Monte"
+            },
+            {
+                "name": "Gay's Lion Farm Footprint (Longo Toyota)",
+                "description": "Falls within the original 5-acre boundary of the lion farm. Currently part of the Longo Toyota complex, the world's highest-volume dealership. Site was reshaped by the construction of the I-10 freeway.",
+                "type": "landmark",
+                "address": "3534 Peck Rd, El Monte, CA 91731",
+                "lat": 34.0768,
+                "lng": -118.0369,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0768,-118.0369",
+                "original_hood": "El Monte"
+            },
+            {
+                "name": "Gay\u2019s Lion Farm (Western Edge)",
+                "description": "Former site of a world-famous lion farm (1925\u20131942). Training ground for the original MGM \"roaring\" lions (Slats and Jackie). Current landmark: Bronze lion statue and historical plaque near the I-10 overpass.",
+                "type": "landmark",
+                "address": "10029 Valley Blvd, El Monte, CA 91731",
+                "lat": 34.0754,
+                "lng": -118.0674,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0754,-118.0674",
+                "original_hood": "El Monte"
+            },
+            {
+                "name": "Jolly Jug",
+                "description": "Established in 1946; recognized as a \"Legacy Business.\" Example of post-WWII roadside diner and dive-bar culture. Famous for its iconic \"man with a jug head\" neon signage.",
+                "type": "landmark",
+                "address": "4264 Peck Rd, El Monte, CA 91732",
+                "lat": 34.0863,
+                "lng": -118.038,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0863,-118.0380",
                 "original_hood": "El Monte"
             },
             {
@@ -9826,6 +10834,15 @@ const neighborhoodData = [
                 "lng": -118.0403582,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0763935,-118.0403582",
                 "original_hood": "El Monte"
+            },
+            {
+                "name": "Valley Boulevard Commercial Corridor",
+                "address": "10029 Valley Boulevard El Monte, CA 91731",
+                "description": "A key historic thoroughfare that was part of the original route connecting Los Angeles to the Inland Empire.",
+                "lat": 34.0725,
+                "lng": -118.0452,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0725,-118.0452"
             }
         ]
     },
@@ -9853,6 +10870,15 @@ const neighborhoodData = [
                 "lng": -118.396626,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.929771,-118.396626",
                 "original_hood": "El Segundo"
+            },
+            {
+                "name": "Downtown El Segundo",
+                "address": "107 West Grand Ave El Segundo, CA 90245",
+                "description": "The historic main street of El Segundo, a city built around the Standard Oil (now Chevron) refinery and the South Bay aerospace industry.",
+                "lat": 33.9185,
+                "lng": -118.4161,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9185,-118.4161"
             },
             {
                 "name": "Old Town Music Hall",
@@ -10031,36 +11057,6 @@ const neighborhoodData = [
         "region": "Central L.A.",
         "locations": [
             {
-                "name": "Residence Amador",
-                "description": "Tucked into the lush, storied folds of Solano Canyon --one of Elysian Park's five historic ravines and one of Los Angeles's most secret neighborhoods \u2014 Residence Amador emerges as a sanctuary, reimagining domestic life through a refined, soulful lens. Featured in Dwell Magazine (September 2025), this property has undergone a complete metamorphosis led by Studio Sinergia.",
-                "type": "landmark",
-                "address": "710 Amador St, Los Angeles, CA 90012",
-                "lat": 34.0768131,
-                "lng": -118.2341988,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0768131,-118.2341988",
-                "original_hood": "Elysian Park"
-            },
-            {
-                "name": "Grace E. Simons Lodge",
-                "description": "The Lodge is a premier landmark named after the journalist and activist who successfully fought to prevent Elysian Park from being turned into a convention center or a luxury development.",
-                "type": "landmark",
-                "address": "1025 Elysian Park Ave, Los Angeles, California, 90012",
-                "lat": 34.072484347713,
-                "lng": -118.247166711731,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.072484347713,-118.247166711731",
-                "original_hood": "Elysian Park"
-            },
-            {
-                "name": "Chavez Ravine Arboretum",
-                "description": "Located within Elysian Park, this is the first and oldest arboretum in Southern California. It contains trees from all over the world that are over a century old. (HCM #48)",
-                "type": "landmark",
-                "address": "929 Academy Rd, Los Angeles, CA",
-                "lat": 34.086514,
-                "lng": -118.1814351,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.086514,-118.1814351",
-                "original_hood": "Elysian Park"
-            },
-            {
                 "name": "1051 North Broadway Los Angeles, CA 90012-1429",
                 "description": "Nick\u2019s Cafe, a historic 1948 horseshoe-counter diner famous for its \"ham house\" breakfast.",
                 "type": "landmark",
@@ -10082,6 +11078,16 @@ const neighborhoodData = [
             },
             {
                 "name": "Chavez Ravine Arboretum",
+                "description": "Located within Elysian Park, this is the first and oldest arboretum in Southern California. It contains trees from all over the world that are over a century old. (HCM #48)",
+                "type": "landmark",
+                "address": "929 Academy Rd, Los Angeles, CA",
+                "lat": 34.086514,
+                "lng": -118.1814351,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.086514,-118.1814351",
+                "original_hood": "Elysian Park"
+            },
+            {
+                "name": "Chavez Ravine Arboretum",
                 "description": "Established in 1893, the Chavez Ravine Arboretum is the oldest arboretum in Southern California. Tucked within Elysian Park, its collection of historic specimen trees\u2014including many rare and champion-sized examples\u2014represents over 130 years of botanical history in the heart of Los Angeles.",
                 "type": "landmark",
                 "address": "Elysian Park Drive, Los Angeles, CA 90012",
@@ -10091,13 +11097,42 @@ const neighborhoodData = [
                 "original_hood": "Elysian Park"
             },
             {
+                "name": "Chavez Ravine Displaced Communities",
+                "address": "Chavez Ravine, Los Angeles, CA 90012",
+                "description": "The site of three historic Mexican-American neighborhoods (Palo Verde, La Loma, and Bishop) that were razed in the 1950s to make way for Dodger Stadium.",
+                "lat": 34.0739,
+                "lng": -118.24,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0739,-118.2400"
+            },
+            {
                 "name": "Dodger Stadium",
-                "description": "Built in 1962, Dodger Stadium is the home of the Los Angeles Dodgers and the third-oldest ballpark in Major League Baseball. It is set dramatically into the hillside of Ch\u00e1vez Ravine, offering sweeping views of the Los Angeles skyline and the San Gabriel Mountains.",
+                "description": "Built in 1962, it is the third-oldest ballpark in Major League Baseball and a classic example of mid-century modern sports architecture.",
                 "type": "landmark",
-                "address": "1000 Elysian Park Avenue, Los Angeles, CA 90012",
-                "lat": 34.0736255,
-                "lng": -118.2398452,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1000+Elysian+Park+Avenue%2C+Los+Angeles%2C+CA+90012",
+                "address": "1025 Elysian Park Avenue Los Angeles, CA 90012",
+                "lat": 34.0739,
+                "lng": -118.2399,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0739,-118.2399",
+                "original_hood": "Elysian Park"
+            },
+            {
+                "name": "Grace E. Simons Lodge",
+                "description": "The Lodge is a premier landmark named after the journalist and activist who successfully fought to prevent Elysian Park from being turned into a convention center or a luxury development.",
+                "type": "landmark",
+                "address": "1025 Elysian Park Ave, Los Angeles, California, 90012",
+                "lat": 34.072484347713,
+                "lng": -118.247166711731,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.072484347713,-118.247166711731",
+                "original_hood": "Elysian Park"
+            },
+            {
+                "name": "Residence Amador",
+                "description": "Tucked into the lush, storied folds of Solano Canyon --one of Elysian Park's five historic ravines and one of Los Angeles's most secret neighborhoods \u2014 Residence Amador emerges as a sanctuary, reimagining domestic life through a refined, soulful lens. Featured in Dwell Magazine (September 2025), this property has undergone a complete metamorphosis led by Studio Sinergia.",
+                "type": "landmark",
+                "address": "710 Amador St, Los Angeles, CA 90012",
+                "lat": 34.0768131,
+                "lng": -118.2341988,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0768131,-118.2341988",
                 "original_hood": "Elysian Park"
             },
             {
@@ -10491,6 +11526,15 @@ const neighborhoodData = [
         "region": "Los Angeles",
         "locations": [
             {
+                "name": "Brothers and Sisters TV House",
+                "address": "1460 W 36th St, Los Angeles, CA 90018",
+                "description": "A historic residential structure near USC that served as a primary filming location and architectural inspiration for the television show Brothers and Sisters.",
+                "lat": 34.0225,
+                "lng": -118.2952,
+                "type": "pop-culture",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0225,-118.2952"
+            },
+            {
                 "name": "California Science Center",
                 "description": "Park/Facility in Exposition Park",
                 "type": "landmark",
@@ -10807,6 +11851,15 @@ const neighborhoodData = [
                 "lng": -118.274095005608,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=104+W+65th+St%2C+Los+Angeles%2C+CA+90003",
                 "original_hood": "Florence"
+            },
+            {
+                "name": "The Echo / Echoplex",
+                "address": "1027 N Alvarado St Los Angeles, CA 90026",
+                "description": "One of LA\u2019s premier independent music venues, playing a pivotal role in the indie rock and alternative scenes of the early 2000s.",
+                "lat": 34.0772,
+                "lng": -118.2635,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0772,-118.2635"
             }
         ],
         "description": "A dense residential neighborhood (distinct from Florence-Firestone)."
@@ -10922,6 +11975,15 @@ const neighborhoodData = [
                 "original_hood": "Gardena"
             },
             {
+                "name": "Gardena Industrial Hub",
+                "address": "1118 West 135th Street Gardena, CA 90247",
+                "description": "Located in a district known for its diverse industrial history and its role as a cultural and business center for the Japanese-American community.",
+                "lat": 33.8962,
+                "lng": -118.2935,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8962,-118.2935"
+            },
+            {
                 "name": "Gardena Valley Japanese Cultural Institute (GVJCI)",
                 "description": "The modern successor to the 1911 Moneta Japanese Institute; the city's primary civic and educational anchor for Nikkei heritage.",
                 "type": "landmark",
@@ -10949,6 +12011,15 @@ const neighborhoodData = [
                 "lng": -118.3164632,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9226866,-118.3164632",
                 "original_hood": "Gardena"
+            },
+            {
+                "name": "Hustler Casino",
+                "address": "1000 West Redondo Beach Blvd Gardena, CA 90247",
+                "description": "A major gaming facility owned by Larry Flynt, located on the former site of the El Dorado Club.",
+                "lat": 33.8891,
+                "lng": -118.2935,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8891,-118.2935"
             },
             {
                 "name": "Major Surplus and Survival",
@@ -11160,6 +12231,16 @@ const neighborhoodData = [
         "region": "Verdugos",
         "locations": [
             {
+                "name": "1692 Brand Park Dr",
+                "description": "Doctors House (GRHR #6): 1888 Queen Anne Victorian moved to Brand Park to save it from demolition.",
+                "type": "landmark",
+                "address": "1692 Brand Park Dr",
+                "lat": 34.1837,
+                "lng": -118.2778,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1837,-118.2778",
+                "original_hood": "Glendale"
+            },
+            {
                 "name": "216 NBrand Blvd Alex Theatre",
                 "description": "Art deco theater established in 1925 featuring films, classical music, dance performances & more.",
                 "type": "landmark",
@@ -11207,6 +12288,26 @@ const neighborhoodData = [
                 "lat": 34.1335148,
                 "lng": -118.2393879,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1335148,-118.2393879",
+                "original_hood": "Glendale"
+            },
+            {
+                "name": "Brand Cemetery (1601 W Mountain St)",
+                "description": "Brand Cemetery: Pyramid-style private cemetery for the city-founding Brand family.",
+                "type": "landmark",
+                "address": "Brand Cemetery (1601 W Mountain St)",
+                "lat": 34.1815,
+                "lng": -118.2755,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1815,-118.2755",
+                "original_hood": "Glendale"
+            },
+            {
+                "name": "Brand Park (Statue)",
+                "description": "Miss American Green Cross (GRHR #12): 1928 bronze statue dedicated to forest preservation.",
+                "type": "landmark",
+                "address": "Brand Park (Statue)",
+                "lat": 34.1828,
+                "lng": -118.2768,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1828,-118.2768",
                 "original_hood": "Glendale"
             },
             {
@@ -11260,13 +12361,22 @@ const neighborhoodData = [
                 "original_hood": "Glendale"
             },
             {
+                "name": "Glendale Residential Corridor",
+                "address": "119 North Cedar Street Glendale, CA 91206",
+                "description": "A historic multi-family residential building in Glendale, representing the city's early 20th-century suburban density.",
+                "lat": 34.1485,
+                "lng": -118.2435,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1485,-118.2435"
+            },
+            {
                 "name": "Kenneth Village",
-                "description": "",
+                "description": "A charming, historic \"main street\" style shopping district in Glendale, known for its small-town feel and 1920s architecture.",
                 "type": "sub-neighborhood",
-                "address": "1417 W Kenneth Rd, Glendale, CA 91201, USA",
-                "lat": 34.1728903,
-                "lng": -118.279928,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1728903,-118.279928",
+                "address": "1040 W Kenneth Rd Glendale, CA 91202",
+                "lat": 34.1625,
+                "lng": -118.2752,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1625,-118.2752",
                 "original_hood": "Glendale"
             },
             {
@@ -11358,36 +12468,6 @@ const neighborhoodData = [
                 "lng": -118.2800008,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.17249230000001,-118.2800008",
                 "original_hood": "Glendale"
-            },
-            {
-                "name": "1692 Brand Park Dr",
-                "description": "Doctors House (GRHR #6): 1888 Queen Anne Victorian moved to Brand Park to save it from demolition.",
-                "type": "landmark",
-                "address": "1692 Brand Park Dr",
-                "lat": 34.1837,
-                "lng": -118.2778,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1837,-118.2778",
-                "original_hood": "Glendale"
-            },
-            {
-                "name": "Brand Park (Statue)",
-                "description": "Miss American Green Cross (GRHR #12): 1928 bronze statue dedicated to forest preservation.",
-                "type": "landmark",
-                "address": "Brand Park (Statue)",
-                "lat": 34.1828,
-                "lng": -118.2768,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1828,-118.2768",
-                "original_hood": "Glendale"
-            },
-            {
-                "name": "Brand Cemetery (1601 W Mountain St)",
-                "description": "Brand Cemetery: Pyramid-style private cemetery for the city-founding Brand family.",
-                "type": "landmark",
-                "address": "Brand Cemetery (1601 W Mountain St)",
-                "lat": 34.1815,
-                "lng": -118.2755,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1815,-118.2755",
-                "original_hood": "Glendale"
             }
         ]
     },
@@ -11397,33 +12477,13 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "The Golden Spur",
-                "description": "Originally opening in 1918 as a hamburger stand, it operated for 100 years before closing in 2018. It is famous for its old-style neon sign featuring a cowboy boot, added in 1954. The restaurant building dates to 1932. Though the restaurant was converted to an Easterseals facility, the landmark sign was preserved.",
+                "name": "Arrow-Hy Mid-Century Apartments",
+                "description": "Arrow-Hy Apartments; mid-century complex.",
                 "type": "landmark",
-                "address": "1223 E Route 66, Glendora, California, 91740",
-                "lat": 34.1285,
-                "lng": -117.8482,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1285,-117.8482",
-                "original_hood": "Glendora"
-            },
-            {
-                "name": "Glendora High School Area",
-                "description": "Long-time local retail hub.",
-                "type": "landmark",
-                "address": "143 W Arrow Hwy, Glendora, California, 91740",
-                "lat": 34.1072,
-                "lng": -117.8654,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1072,-117.8654",
-                "original_hood": "Glendora"
-            },
-            {
-                "name": "The Donut Man (Historic Route 66 Landmark)",
-                "description": "Site of The Donut Man; world-famous fresh strawberry donuts.",
-                "type": "landmark",
-                "address": "915 E Route 66, Glendora, California, 91740",
-                "lat": 34.1284,
-                "lng": -117.8521,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1284,-117.8521",
+                "address": "451 E Arrow Hwy, Glendora, CA",
+                "lat": 34.1071,
+                "lng": -117.8572,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1071,-117.8572",
                 "original_hood": "Glendora"
             },
             {
@@ -11434,6 +12494,16 @@ const neighborhoodData = [
                 "lat": 34.2363809,
                 "lng": -117.6589752,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2363809,-117.6589752",
+                "original_hood": "Glendora"
+            },
+            {
+                "name": "Glendora High School Area",
+                "description": "Long-time local retail hub.",
+                "type": "landmark",
+                "address": "143 W Arrow Hwy, Glendora, California, 91740",
+                "lat": 34.1072,
+                "lng": -117.8654,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1072,-117.8654",
                 "original_hood": "Glendora"
             },
             {
@@ -11457,13 +12527,23 @@ const neighborhoodData = [
                 "original_hood": "Glendora"
             },
             {
-                "name": "Arrow-Hy Mid-Century Apartments",
-                "description": "Arrow-Hy Apartments; mid-century complex.",
+                "name": "The Donut Man (Historic Route 66 Landmark)",
+                "description": "Site of The Donut Man; world-famous fresh strawberry donuts.",
                 "type": "landmark",
-                "address": "451 E Arrow Hwy, Glendora, CA",
-                "lat": 34.1071,
-                "lng": -117.8572,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1071,-117.8572",
+                "address": "915 E Route 66, Glendora, California, 91740",
+                "lat": 34.1284,
+                "lng": -117.8521,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1284,-117.8521",
+                "original_hood": "Glendora"
+            },
+            {
+                "name": "The Golden Spur",
+                "description": "Originally opening in 1918 as a hamburger stand, it operated for 100 years before closing in 2018. It is famous for its old-style neon sign featuring a cowboy boot, added in 1954. The restaurant building dates to 1932. Though the restaurant was converted to an Easterseals facility, the landmark sign was preserved.",
+                "type": "landmark",
+                "address": "1223 E Route 66, Glendora, California, 91740",
+                "lat": 34.1285,
+                "lng": -117.8482,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1285,-117.8482",
                 "original_hood": "Glendora"
             }
         ]
@@ -11517,33 +12597,14 @@ const neighborhoodData = [
         "region": "San Fernando Valley",
         "locations": [
             {
-                "name": "Knollwood Country Club",
-                "description": "Site of Knollwood Country Club.",
-                "type": "landmark",
-                "address": "10363 Balboa Blvd, Granada Hills, California, 91344",
-                "lat": 34.2585,
-                "lng": -118.5015,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2585,-118.5015",
-                "original_hood": "Granada Hills"
-            },
-            {
-                "name": "The Odyssey Restaurant (Panoramic Landmark)",
-                "description": "Odyssey Restaurant; panoramic Valley views.",
-                "type": "landmark",
-                "address": "11045 Balboa Blvd, Granada Hills, California, 91344",
-                "lat": 34.2712,
-                "lng": -118.5016,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2712,-118.5016",
-                "original_hood": "Granada Hills"
-            },
-            {
-                "name": "White Oak Avenue Historic Trees (HCM #41)",
-                "description": "114 Deodar Trees: Planted 1932; LA Historic Monument #41.",
-                "type": "landmark",
-                "address": "White Oak Avenue, Granada Hills, CA 91344",
-                "lat": 34.2662,
-                "lng": -118.5185,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2662,-118.5185",
+                "name": "Balboa Highlands HPOZ",
+                "address": "Balboa Blvd, Los Angeles, CA, USA",
+                "type": "sub-neighborhood",
+                "year_built": "1962",
+                "description": "Architect: A. Quincy Jones, Frederick Emmons, and Claude Oakland\n\nDeveloper: Joseph Eichler\n\nArchitectural Style: Mid-Century Modern (Eichler)\n\nThe History: This is the only Joseph Eichler-developed tract in Los Angeles County. In 2010, it became the first post-WWII neighborhood in the San Fernando Valley to achieve Historic Preservation Overlay Zone (HPOZ) status.\n\nKey Architectural Features: The tract consists of roughly 100 homes defined by signature Eichler elements: floor-to-ceiling glass walls, open-air atriums at the center of the floor plan, and post-and-beam construction. The neighborhood features four distinct models with flat, A-frame, or slanted rooflines designed to create a seamless indoor-outdoor living experience.",
+                "lat": 34.2891608,
+                "lng": -118.5018023,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2891608,-118.5018023",
                 "original_hood": "Granada Hills"
             },
             {
@@ -11567,6 +12628,44 @@ const neighborhoodData = [
                 "original_hood": "Granada Hills"
             },
             {
+                "name": "Gary\u2019s House (Weird Science)",
+                "description": "The site of the mutant biker party.",
+                "type": "landmark",
+                "address": "17111 Nanette St",
+                "lat": 34.2692,
+                "lng": -118.5065,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2692,-118.5065",
+                "original_hood": "Granada Hills"
+            },
+            {
+                "name": "Granada Hills North Residential",
+                "address": "10363 Balboa Boulevard Granada Hills, CA 91344",
+                "description": "Located near the foothills of the Santa Susana Mountains, this area is known for its mid-century modern \"Eichler\" homes.",
+                "lat": 34.2582,
+                "lng": -118.5015,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2582,-118.5015"
+            },
+            {
+                "name": "Knollwood Country Club",
+                "description": "Site of Knollwood Country Club.",
+                "type": "landmark",
+                "address": "10363 Balboa Blvd, Granada Hills, California, 91344",
+                "lat": 34.2585,
+                "lng": -118.5015,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2585,-118.5015",
+                "original_hood": "Granada Hills"
+            },
+            {
+                "name": "Knollwood Country Club Area",
+                "address": "10520 Balboa Blvd Granada Hills, CA 91344",
+                "description": "A recreational landmark in the Northern San Fernando Valley, known for its golf course and suburban scenery.",
+                "lat": 34.2615,
+                "lng": -118.5012,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2615,-118.5012"
+            },
+            {
                 "name": "Mid-Century Granada Hills Residential",
                 "description": "1951 Richard Neutra - little known.",
                 "type": "landmark",
@@ -11587,17 +12686,6 @@ const neighborhoodData = [
                 "original_hood": "Granada Hills"
             },
             {
-                "name": "Balboa Highlands HPOZ",
-                "address": "Balboa Blvd, Los Angeles, CA, USA",
-                "type": "sub-neighborhood",
-                "year_built": "1962",
-                "description": "Architect: A. Quincy Jones, Frederick Emmons, and Claude Oakland\n\nDeveloper: Joseph Eichler\n\nArchitectural Style: Mid-Century Modern (Eichler)\n\nThe History: This is the only Joseph Eichler-developed tract in Los Angeles County. In 2010, it became the first post-WWII neighborhood in the San Fernando Valley to achieve Historic Preservation Overlay Zone (HPOZ) status.\n\nKey Architectural Features: The tract consists of roughly 100 homes defined by signature Eichler elements: floor-to-ceiling glass walls, open-air atriums at the center of the floor plan, and post-and-beam construction. The neighborhood features four distinct models with flat, A-frame, or slanted rooflines designed to create a seamless indoor-outdoor living experience.",
-                "lat": 34.2891608,
-                "lng": -118.5018023,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2891608,-118.5018023",
-                "original_hood": "Granada Hills"
-            },
-            {
                 "name": "O\u2019Melveny Park & Bee Canyon Stream",
                 "description": "Park/Facility in Granada Hills",
                 "type": "landmark",
@@ -11605,6 +12693,16 @@ const neighborhoodData = [
                 "lat": 34.3036724,
                 "lng": -118.5132863,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.3036724,-118.5132863",
+                "original_hood": "Granada Hills"
+            },
+            {
+                "name": "The Odyssey Restaurant (Panoramic Landmark)",
+                "description": "Odyssey Restaurant; panoramic Valley views.",
+                "type": "landmark",
+                "address": "11045 Balboa Blvd, Granada Hills, California, 91344",
+                "lat": 34.2712,
+                "lng": -118.5016,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2712,-118.5016",
                 "original_hood": "Granada Hills"
             },
             {
@@ -11618,13 +12716,13 @@ const neighborhoodData = [
                 "original_hood": "Granada Hills"
             },
             {
-                "name": "Gary\u2019s House (Weird Science)",
-                "description": "The site of the mutant biker party.",
+                "name": "White Oak Avenue Historic Trees (HCM #41)",
+                "description": "114 Deodar Trees: Planted 1932; LA Historic Monument #41.",
                 "type": "landmark",
-                "address": "17111 Nanette St",
-                "lat": 34.2692,
-                "lng": -118.5065,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2692,-118.5065",
+                "address": "White Oak Avenue, Granada Hills, CA 91344",
+                "lat": 34.2662,
+                "lng": -118.5185,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2662,-118.5185",
                 "original_hood": "Granada Hills"
             }
         ]
@@ -11643,6 +12741,15 @@ const neighborhoodData = [
                 "lng": -118.2468148,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9287591,-118.2468148",
                 "original_hood": "Green Meadows"
+            },
+            {
+                "name": "Green Meadows, South Los Angeles Community Block",
+                "address": "11603 Slater Street Los Angeles, CA 90059",
+                "description": "A residential street in the Green Meadows neighborhood, reflecting the residential growth south of the historic Watts corridor.",
+                "lat": 33.9285,
+                "lng": -118.2452,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9285,-118.2452"
             }
         ],
         "description": "Located in the southeastern portion of the region."
@@ -11705,6 +12812,15 @@ const neighborhoodData = [
                 "lng": -118.2886822,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1338758,-118.2886822",
                 "original_hood": "Griffith Park"
+            },
+            {
+                "name": "Pickwick Gardens",
+                "address": "1001 Riverside Drive Burbank, CA 91506",
+                "description": "A historic entertainment complex featuring a bowling center and ice rink that has been a community staple since the 1950s.",
+                "lat": 34.1585,
+                "lng": -118.3055,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1585,-118.3055"
             }
         ]
     },
@@ -11737,6 +12853,16 @@ const neighborhoodData = [
         "region": "Central L.A.",
         "locations": [
             {
+                "name": "Blane\u2019s Mansion (Pretty in Pink)",
+                "description": "Located in the affluent Hancock Park neighborhood to contrast with Andie's house.",
+                "type": "landmark",
+                "address": "366 S. June St",
+                "lat": 34.0655,
+                "lng": -118.3345,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0655,-118.3345",
+                "original_hood": "Hancock Park"
+            },
+            {
                 "name": "Ebell of Los Angeles Building",
                 "description": "Built in 1927 for the women's social club; features a grand Italian Renaissance theater and social hall.",
                 "type": "landmark",
@@ -11754,16 +12880,6 @@ const neighborhoodData = [
                 "lat": 34.077275,
                 "lng": -118.3344511,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=350+N+June+St%2C+Los+Angeles%2C+CA+90004",
-                "original_hood": "Hancock Park"
-            },
-            {
-                "name": "Blane\u2019s Mansion (Pretty in Pink)",
-                "description": "Located in the affluent Hancock Park neighborhood to contrast with Andie's house.",
-                "type": "landmark",
-                "address": "366 S. June St",
-                "lat": 34.0655,
-                "lng": -118.3345,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0655,-118.3345",
                 "original_hood": "Hancock Park"
             }
         ]
@@ -12117,6 +13233,24 @@ const neighborhoodData = [
                 "original_hood": "Harvard Heights"
             },
             {
+                "name": "Harvard Heights Commercial Block",
+                "address": "1032 South Western Avenue Los Angeles, CA 90006",
+                "description": "A commercial building in a historic district known for its \"West Adams\" style architecture and rich early 20th-century history.",
+                "lat": 34.0505,
+                "lng": -118.3092,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0505,-118.3092"
+            },
+            {
+                "name": "Harvard Heights Gateway",
+                "address": "1105 S. Western Ave Los Angeles, CA 90006",
+                "description": "Located on the edge of the historic West Adams district, this commercial site borders neighborhoods with some of the best-preserved Craftsman homes in the city.",
+                "lat": 34.0495,
+                "lng": -118.3095,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0495,-118.3095"
+            },
+            {
                 "name": "Harvard Heights Peet House",
                 "description": "A two-story Victorian modest dwelling; a rare surviving example of late 19th-century residential architecture in Harvard Heights.",
                 "type": "landmark",
@@ -12195,6 +13329,15 @@ const neighborhoodData = [
                 "lng": -118.302499259963,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1975+W+Washington+Blvd,+Los+Angeles,+CA+90018",
                 "original_hood": "Harvard Heights"
+            },
+            {
+                "name": "Western Avenue Retail Corridor",
+                "address": "1111 S. Western Ave Los Angeles, CA 90006",
+                "description": "A busy commercial site in Koreatown, which has evolved from a residential streetcar suburb into one of the most densely populated districts in LA.",
+                "lat": 34.0492,
+                "lng": -118.3092,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0492,-118.3092"
             }
         ]
     },
@@ -12245,16 +13388,6 @@ const neighborhoodData = [
         "region": "South Bay",
         "locations": [
             {
-                "name": "Beach Boys Childhood Home Site",
-                "description": "History: Original site of the Beach Boys' childhood home.",
-                "type": "landmark",
-                "address": "12319 Prairie Ave, Hawthorne, California, 90250",
-                "lat": 33.9215,
-                "lng": -118.3332,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9215,-118.3332",
-                "original_hood": "Hawthorne"
-            },
-            {
                 "name": "13102 Hawthorne",
                 "description": "Leon Imperial\u200e Furniture - Old Googie sign - Down from Chips - Mom Pop Style, alongside Hawthorne Boulevard.",
                 "type": "landmark",
@@ -12262,16 +13395,6 @@ const neighborhoodData = [
                 "lat": 33.916423,
                 "lng": -118.350284,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.916423,-118.350284",
-                "original_hood": "Hawthorne"
-            },
-            {
-                "name": "Hawthorne Hardware (Est. 1946)",
-                "description": "Hawthorne Hardware; established 1946.",
-                "type": "landmark",
-                "address": "13532 Hawthorne Blvd, Hawthorne, California, 90250",
-                "lat": 33.9102,
-                "lng": -118.3525,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9102,-118.3525",
                 "original_hood": "Hawthorne"
             },
             {
@@ -12285,13 +13408,13 @@ const neighborhoodData = [
                 "original_hood": "Hawthorne"
             },
             {
-                "name": "FAA Western-Pacific Regional HQ",
-                "description": "Federal Aviation Administration (FAA) regional HQ.",
+                "name": "Beach Boys Childhood Home Site",
+                "description": "History: Original site of the Beach Boys' childhood home.",
                 "type": "landmark",
-                "address": "15000 Aviation Blvd, Hawthorne, California, 90250",
-                "lat": 33.8965,
-                "lng": -118.3772,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8965,-118.3772",
+                "address": "12319 Prairie Ave, Hawthorne, California, 90250",
+                "lat": 33.9215,
+                "lng": -118.3332,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9215,-118.3332",
                 "original_hood": "Hawthorne"
             },
             {
@@ -12332,6 +13455,35 @@ const neighborhoodData = [
                 "lat": 33.925320009666,
                 "lng": -118.352195982985,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=11908+Hawthorne+Blvd,+Hawthorne,+CA+90250",
+                "original_hood": "Hawthorne"
+            },
+            {
+                "name": "FAA Western-Pacific Regional HQ",
+                "description": "Federal Aviation Administration (FAA) regional HQ.",
+                "type": "landmark",
+                "address": "15000 Aviation Blvd, Hawthorne, California, 90250",
+                "lat": 33.8965,
+                "lng": -118.3772,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8965,-118.3772",
+                "original_hood": "Hawthorne"
+            },
+            {
+                "name": "Hawthorne Commercial Strip",
+                "address": "11963 Hawthorne Boulevard Hawthorne, CA 90250",
+                "description": "Located in the city where the Beach Boys grew up and where the original Northrop Aircraft plant once stood.",
+                "lat": 33.9252,
+                "lng": -118.3522,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9252,-118.3522"
+            },
+            {
+                "name": "Hawthorne Hardware (Est. 1946)",
+                "description": "Hawthorne Hardware; established 1946.",
+                "type": "landmark",
+                "address": "13532 Hawthorne Blvd, Hawthorne, California, 90250",
+                "lat": 33.9102,
+                "lng": -118.3525,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9102,-118.3525",
                 "original_hood": "Hawthorne"
             },
             {
@@ -12506,16 +13658,6 @@ const neighborhoodData = [
         "region": "Northeast L.A.",
         "locations": [
             {
-                "name": "Highland Park Ebell Club",
-                "description": "The Highland Park Ebell Club, a 1912 Craftsman-style clubhouse recognized as a local historic landmark.",
-                "type": "landmark",
-                "address": "110 N Avenue 56, Los Angeles, California, 90042",
-                "lat": 34.109271058864,
-                "lng": -118.194601451137,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.109271058864,-118.194601451137",
-                "original_hood": "Highland Park"
-            },
-            {
                 "name": "A.V. Walberg Residence",
                 "description": "Notable historic house in Highland Park.",
                 "type": "landmark",
@@ -12606,13 +13748,13 @@ const neighborhoodData = [
                 "original_hood": "Highland Park"
             },
             {
-                "name": "Owl Rexall Drugs (Historic Neon Landmark)",
-                "address": "5634 N Figueroa St, Los Angeles, CA 90042, USA",
+                "name": "Highland Park Ebell Club",
+                "description": "The Highland Park Ebell Club, a 1912 Craftsman-style clubhouse recognized as a local historic landmark.",
                 "type": "landmark",
-                "description": "Architectural Style: early 20th-century Commercial\n\nThe History: A historic anchor of the Figueroa corridor, this building was once a prominent link in the famous Owl Drug Co. chain. Today, it stands as a preserved piece of Highland Park\u2019s commercial heritage, currently operating as a popular neighborhood bar and kitchen (The Greyhound) while retaining its classic architectural bones.",
-                "lat": 34.1093278,
-                "lng": -118.1927689,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1093278,-118.1927689",
+                "address": "110 N Avenue 56, Los Angeles, California, 90042",
+                "lat": 34.109271058864,
+                "lng": -118.194601451137,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.109271058864,-118.194601451137",
                 "original_hood": "Highland Park"
             },
             {
@@ -12656,6 +13798,16 @@ const neighborhoodData = [
                 "original_hood": "Highland Park"
             },
             {
+                "name": "Owl Rexall Drugs (Historic Neon Landmark)",
+                "address": "5634 N Figueroa St, Los Angeles, CA 90042, USA",
+                "type": "landmark",
+                "description": "Architectural Style: early 20th-century Commercial\n\nThe History: A historic anchor of the Figueroa corridor, this building was once a prominent link in the famous Owl Drug Co. chain. Today, it stands as a preserved piece of Highland Park\u2019s commercial heritage, currently operating as a popular neighborhood bar and kitchen (The Greyhound) while retaining its classic architectural bones.",
+                "lat": 34.1093278,
+                "lng": -118.1927689,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1093278,-118.1927689",
+                "original_hood": "Highland Park"
+            },
+            {
                 "name": "Ramona Hall",
                 "description": "A historic community center in Highland Park used for public meetings, senior programs, and local civic gatherings.",
                 "type": "landmark",
@@ -12681,6 +13833,33 @@ const neighborhoodData = [
                 "lng": -118.1946505,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=5558+N+Figueroa+St%2C+Los+Angeles%2C+CA+90042",
                 "original_hood": "Highland Park & Eagle Rock"
+            },
+            {
+                "name": "Highland Park Historic District",
+                "address": "104 N Ave 58 Los Angeles, CA 90042",
+                "description": "Located in one of LA's first suburbs, this area is known for its preservation of Arts and Crafts movement architecture and the nearby Southwest Museum.",
+                "lat": 34.1105,
+                "lng": -118.1912,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1105,-118.1912"
+            },
+            {
+                "name": "Highland Park Historic Highlands",
+                "address": "112 N Ave 58 Los Angeles, CA 90042",
+                "description": "A residential street in Highland Park, one of the city's first suburbs and a primary site of the Arts and Crafts movement.",
+                "lat": 34.1105,
+                "lng": -118.1912,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1105,-118.1912"
+            },
+            {
+                "name": "Mount Washington Artistic Community",
+                "address": "1068 El Paso Dr Los Angeles, CA 90042",
+                "description": "A hillside street in an area known for its winding roads, self-realization fellowship, and historic 19th-century hill-climber history.",
+                "lat": 34.1202,
+                "lng": -118.2046,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1202,-118.2046"
             }
         ]
     },
@@ -12837,6 +14016,15 @@ const neighborhoodData = [
                 "original_hood": "Historic Filipinotown"
             },
             {
+                "name": "Historic Filipinotown (HiFi)",
+                "address": "104 Robinson St Los Angeles, CA 90026",
+                "description": "A residential address in a neighborhood that serves as the cultural heart of the Filipino community in Los Angeles.",
+                "lat": 34.0725,
+                "lng": -118.2742,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0725,-118.2742"
+            },
+            {
                 "name": "Iglesia ni Cristo (INC)",
                 "description": "The Los Angeles Locale Congregation of the Philippine-founded global church.",
                 "type": "landmark",
@@ -12974,46 +14162,6 @@ const neighborhoodData = [
         "region": "South L.A.",
         "locations": [
             {
-                "name": "Prince Hall Masonic Temple",
-                "description": "Located near the Avalon Gardens area, this stunning Late Moderne building was designed by the pioneer African-American architect James Homer Garrott. Completed in 1951, it served as a vital social and political hub for the Black community during the era of segregation. (HCM #204)",
-                "type": "landmark",
-                "address": "1050 E 50th St",
-                "lat": 34.0016,
-                "lng": -118.257,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0016,-118.2570",
-                "original_hood": "Historic South-Central"
-            },
-            {
-                "name": "Fire Station No. 14",
-                "description": "A handsome brick structure that represents the history of the segregated Los Angeles Fire Department. It was one of the two \"all-Black\" fire stations in the city and remains a monument to the first responders who served the community during the mid-20th century. (HCM #106)",
-                "type": "landmark",
-                "address": "3401 S Central Ave",
-                "lat": 34.0126,
-                "lng": -118.2567,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0126,-118.2567",
-                "original_hood": "Historic South-Central"
-            },
-            {
-                "name": "Slauson Junction Industrial District",
-                "description": "A sprawling industrial property formerly known as the site of the Slauson Super Mall.",
-                "type": "landmark",
-                "address": "1500 E Slauson Ave, Los Angeles, CA 90011",
-                "lat": 33.9893439,
-                "lng": -118.2477685,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9893439,-118.2477685",
-                "original_hood": "Historic South-Central"
-            },
-            {
-                "name": "The 28th Street YMCA",
-                "description": "Designed by Paul R. Williams, the first licensed African-American architect west of the Mississippi. This Spanish Colonial Revival building was a safe haven for Black youth and travelers who were barred from other YMCAs. It features beautiful bas-relief sculptures on the facade depicting figures like Booker T. Washington. (HCM #851)",
-                "type": "architectural",
-                "address": "741 E 28th St",
-                "lat": 34.0172,
-                "lng": -118.2573,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0172,-118.2573",
-                "original_hood": "Historic South-Central"
-            },
-            {
                 "name": "Angelus Funeral Home (Paul R. Williams, 1934)",
                 "description": "Designed by renowned architect Paul R. Williams in 1934, featuring a blend of Spanish Colonial and Georgian Revival styles.",
                 "type": "landmark",
@@ -13101,6 +14249,16 @@ const neighborhoodData = [
                 "lat": 34.027162857366,
                 "lng": -118.314846138616,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2190+W+30th+St,+Los+Angeles,+CA",
+                "original_hood": "Historic South-Central"
+            },
+            {
+                "name": "Fire Station No. 14",
+                "description": "A handsome brick structure that represents the history of the segregated Los Angeles Fire Department. It was one of the two \"all-Black\" fire stations in the city and remains a monument to the first responders who served the community during the mid-20th century. (HCM #106)",
+                "type": "landmark",
+                "address": "3401 S Central Ave",
+                "lat": 34.0126,
+                "lng": -118.2567,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0126,-118.2567",
                 "original_hood": "Historic South-Central"
             },
             {
@@ -13234,6 +14392,26 @@ const neighborhoodData = [
                 "original_hood": "Historic South-Central"
             },
             {
+                "name": "Prince Hall Masonic Temple",
+                "description": "Located near the Avalon Gardens area, this stunning Late Moderne building was designed by the pioneer African-American architect James Homer Garrott. Completed in 1951, it served as a vital social and political hub for the Black community during the era of segregation. (HCM #204)",
+                "type": "landmark",
+                "address": "1050 E 50th St",
+                "lat": 34.0016,
+                "lng": -118.257,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0016,-118.2570",
+                "original_hood": "Historic South-Central"
+            },
+            {
+                "name": "Slauson Junction Industrial District",
+                "description": "A sprawling industrial property formerly known as the site of the Slauson Super Mall.",
+                "type": "landmark",
+                "address": "1500 E Slauson Ave, Los Angeles, CA 90011",
+                "lat": 33.9893439,
+                "lng": -118.2477685,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9893439,-118.2477685",
+                "original_hood": "Historic South-Central"
+            },
+            {
                 "name": "South Central Neighborhood Mural (50th Pl)",
                 "description": "Community mural in the South Central area.",
                 "type": "landmark",
@@ -13264,6 +14442,15 @@ const neighborhoodData = [
                 "original_hood": "Historic South-Central"
             },
             {
+                "name": "South Los Angeles Residential",
+                "address": "104 West 65th St Los Angeles, CA 90003",
+                "description": "A residential street within the historic \"South Central\" corridor, reflecting the early 20th-century residential expansion south of Downtown.",
+                "lat": 33.9805,
+                "lng": -118.2735,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9805,-118.2735"
+            },
+            {
                 "name": "South Park Recreation Center",
                 "description": "Park/Facility in South Los Angeles",
                 "type": "landmark",
@@ -13281,6 +14468,16 @@ const neighborhoodData = [
                 "lat": 33.927510578152,
                 "lng": -118.309359596255,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=11633+S+Western+Ave,+Los+Angeles,+CA+90047",
+                "original_hood": "Historic South-Central"
+            },
+            {
+                "name": "The 28th Street YMCA",
+                "description": "Designed by Paul R. Williams, the first licensed African-American architect west of the Mississippi. This Spanish Colonial Revival building was a safe haven for Black youth and travelers who were barred from other YMCAs. It features beautiful bas-relief sculptures on the facade depicting figures like Booker T. Washington. (HCM #851)",
+                "type": "architectural",
+                "address": "741 E 28th St",
+                "lat": 34.0172,
+                "lng": -118.2573,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0172,-118.2573",
                 "original_hood": "Historic South-Central"
             },
             {
@@ -13359,36 +14556,6 @@ const neighborhoodData = [
         "region": "Central L.A.",
         "locations": [
             {
-                "name": "Charlie Chaplin Studios (HCM #58)",
-                "description": "Built by Chaplin in 1917, this Tudor-style campus is where many of his most iconic films were produced.",
-                "type": "studio",
-                "address": "1416 N La Brea Ave, Hollywood, CA 90028",
-                "lat": 34.0965,
-                "lng": -118.3445,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0965,-118.3445",
-                "original_hood": "Hollywood"
-            },
-            {
-                "name": "Egyptian Theatre (HCM #53)",
-                "description": "The site of the first-ever Hollywood film premiere (1922). Designed in a lavish Egyptian Revival style.",
-                "type": "historical",
-                "address": "6706 Hollywood Blvd, Hollywood, CA 90028",
-                "lat": 34.1022,
-                "lng": -118.3365,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1022,-118.3365",
-                "original_hood": "Hollywood"
-            },
-            {
-                "name": "Hollywood Police Station Vicinity",
-                "description": "Located in a high-density area of Hollywood often used as a gritty backdrop for urban film and television production.",
-                "type": "landmark",
-                "address": "1441 N McCadden Pl, Los Angeles, California, 90028",
-                "lat": 34.097345496573,
-                "lng": -118.338302810834,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.097345496573,-118.338302810834",
-                "original_hood": "Hollywood"
-            },
-            {
                 "name": "A & M Records Studio (Charlie Chaplin Studio)",
                 "description": "Built by Charlie Chaplin in 1917 as his own private film studio, this English cottage-style complex was later home to A&M Records, where artists from Carole King to the Police recorded landmark albums. A unique layering of silent film and pop music history.",
                 "type": "landmark",
@@ -13417,6 +14584,15 @@ const neighborhoodData = [
                 "lng": -118.3281904,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1039283,-118.3281904",
                 "original_hood": "Hollywood"
+            },
+            {
+                "name": "Bronson Studio Row",
+                "address": "1118 N Bronson Ave Los Angeles, CA 90038",
+                "description": "Another entry in the Hollywood residential and commercial core near the Bronson Gate of Paramount Studios.",
+                "lat": 34.0921,
+                "lng": -118.3205,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0921,-118.3205"
             },
             {
                 "name": "Buster Keaton Studios (Former Site)",
@@ -13459,6 +14635,16 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
+                "name": "Charlie Chaplin Studios (HCM #58)",
+                "description": "Built by Chaplin in 1917, this Tudor-style campus is where many of his most iconic films were produced.",
+                "type": "studio",
+                "address": "1416 N La Brea Ave, Hollywood, CA 90028",
+                "lat": 34.0965,
+                "lng": -118.3445,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0965,-118.3445",
+                "original_hood": "Hollywood"
+            },
+            {
                 "name": "Cinerama Dome (HCM #616)",
                 "description": "Worlds only concrete geodesic dome theater; a hallmark of mid-century futurism.",
                 "type": "landmark",
@@ -13476,6 +14662,16 @@ const neighborhoodData = [
                 "lat": 34.0885469,
                 "lng": -118.3389808,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0885469,-118.3389808",
+                "original_hood": "Hollywood"
+            },
+            {
+                "name": "Egyptian Theatre (HCM #53)",
+                "description": "The site of the first-ever Hollywood film premiere (1922). Designed in a lavish Egyptian Revival style.",
+                "type": "historical",
+                "address": "6706 Hollywood Blvd, Hollywood, CA 90028",
+                "lat": 34.1022,
+                "lng": -118.3365,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1022,-118.3365",
                 "original_hood": "Hollywood"
             },
             {
@@ -13549,6 +14745,16 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
+                "name": "Hollywood Police Station Vicinity",
+                "description": "Located in a high-density area of Hollywood often used as a gritty backdrop for urban film and television production.",
+                "type": "landmark",
+                "address": "1441 N McCadden Pl, Los Angeles, California, 90028",
+                "lat": 34.097345496573,
+                "lng": -118.338302810834,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.097345496573,-118.338302810834",
+                "original_hood": "Hollywood"
+            },
+            {
                 "name": "Hollywood Recreation Center",
                 "description": "Park/Facility in Hollywood",
                 "type": "landmark",
@@ -13609,6 +14815,15 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
+                "name": "Misses Janes School / Janes House",
+                "address": "6541 Hollywood Blvd, Los Angeles, CA 90028",
+                "description": "A rare surviving Queen Anne Victorian house on Hollywood Boulevard (built 1903). It served as a private school for the children of early film legends like Mary Pickford and Charlie Chaplin.",
+                "lat": 34.1015,
+                "lng": -118.3325,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1015,-118.3325"
+            },
+            {
                 "name": "Musso & Frank Grill",
                 "type": "landmark",
                 "lat": 34.1017,
@@ -13649,6 +14864,15 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
+                "name": "Seward Street Studio District",
+                "address": "1110 Seward St Los Angeles, CA 90038",
+                "description": "A street in Hollywood historically lined with post-production houses, sound stages, and specialized film industry services.",
+                "lat": 34.0915,
+                "lng": -118.3312,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0915,-118.3312"
+            },
+            {
                 "name": "Starbucks (Gilmore Station)",
                 "description": "Historic Gilmore Gas Station converted into a Starbucks.",
                 "type": "landmark",
@@ -13679,6 +14903,16 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
+                "name": "The Ennis House \u2014 Blade Runner / House on Haunted Hill",
+                "description": "Another Frank Lloyd Wright \"textile block\" masterpiece; it served as Rick Deckard\u2019s apartment exterior.",
+                "type": "landmark",
+                "address": "2100 Castilian Dr",
+                "lat": 34.1162,
+                "lng": -118.3385,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1162,-118.3385",
+                "original_hood": "Hollywood"
+            },
+            {
                 "name": "The Hollywood Knickerbocker Hotel",
                 "type": "landmark",
                 "address": "1851 Ivar Ave, Los Angeles, CA 90028, USA",
@@ -13699,6 +14933,15 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
+                "name": "Trianon Apartment Building (Fairbanks & Pickford)",
+                "address": "Trianon Apartment Building, Los Angeles, CA 90028",
+                "description": "Commissioned by Hollywood's first power couple, Douglas Fairbanks Jr. and Mary Pickford, this French-inspired luxury building was the height of 1920s glamour.",
+                "lat": 34.1012,
+                "lng": -118.3152,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1012,-118.3152"
+            },
+            {
                 "name": "Will and Ariel Durant Branch Library",
                 "description": "A popular Hollywood library branch named after the famous historians, serving the Sunset Strip and Hollywood Hills communities.",
                 "type": "landmark",
@@ -13716,16 +14959,6 @@ const neighborhoodData = [
                 "lng": -118.3267173,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1037863,-118.3267173",
                 "description": "The area centered around Yucca Street between Highland Avenue and Vine Street \u2014 historically one of the denser, more economically challenged pockets of central Hollywood. The corridor has undergone intense urban renewal and redevelopment in recent decades, resulting in a striking juxtaposition of well-preserved Art Deco apartment buildings alongside modern high-rise towers. Its transformation reflects the broader gentrification pressures reshaping Hollywood's residential core.",
-                "original_hood": "Hollywood"
-            },
-            {
-                "name": "The Ennis House \u2014 Blade Runner / House on Haunted Hill",
-                "description": "Another Frank Lloyd Wright \"textile block\" masterpiece; it served as Rick Deckard\u2019s apartment exterior.",
-                "type": "landmark",
-                "address": "2100 Castilian Dr",
-                "lat": 34.1162,
-                "lng": -118.3385,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1162,-118.3385",
                 "original_hood": "Hollywood"
             }
         ]
@@ -14292,6 +15525,15 @@ const neighborhoodData = [
         },
         "locations": [
             {
+                "name": "Frank Lloyd Wright (In the Hills)",
+                "address": "8161 Hollywood Blvd, Los Angeles, CA 90069",
+                "description": "A residential site reflecting the influence and presence of the legendary Frank Lloyd Wright within the Hollywood Hills community.",
+                "lat": 34.1015,
+                "lng": -118.3682,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1015,-118.3682"
+            },
+            {
                 "name": "The Polito House",
                 "address": "1650 Queens Road, Los Angeles, CA 90069",
                 "lat": 34.1012,
@@ -14300,6 +15542,15 @@ const neighborhoodData = [
                 "description": "Built in 1940, the Polito House is a Bauhaus-influenced, single family residence of the International Style. The house is set into the Hollywood hillside, with a three-story elevation built to the lot line facing Queens Road. Since the home backs onto the hillside, a cantilever bridge was included in the design to connect the uppermost floor to an elevated garden. A pool was added in 1983, replacing a former grassy area in the backyard. The exterior of the building exhibits many character-defining features of the International Style, including a stucco exterior, flat roofs, steel casement ribbon windows, flush-mounted windows without trim, and an overall absence of ornamentation. The subject property was designed for residents Anthony and Carmella Polito by prominent architect Raphael S. Soriano.",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1650+Queens+Road,+Los+Angeles,+CA+90069",
                 "original_hood": "Hollywood Hills Modernist Record"
+            },
+            {
+                "name": "The Stahl House (Case Study House #22)",
+                "address": "1635 Woods Drive, Los Angeles, CA 90069",
+                "description": "One of the most famous houses in the world and the crown jewel of the Case Study Program. Designed by Pierre Koenig in 1960, its steel-and-glass construction cantilevered over the Hollywood Hills has been immortalized in Julius Shulman's iconic photographs, appearing in countless films, commercials, and fashion shoots.",
+                "lat": 34.1015,
+                "lng": -118.3782,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1015,-118.3782"
             }
         ]
     },
@@ -14461,36 +15712,6 @@ const neighborhoodData = [
                 "original_hood": "Huntington Park"
             },
             {
-                "name": "Warner Theatre (Art Deco Movie Palace)",
-                "description": "Warner Theatre; 1930 Art Deco movie palace.",
-                "type": "landmark",
-                "address": "6528 Pacific Blvd, Huntington Park, California, 90255",
-                "lat": 33.9805,
-                "lng": -118.2105,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9805,-118.2105",
-                "original_hood": "Huntington Park"
-            },
-            {
-                "name": "Historic Pacific Boulevard Shopping District",
-                "description": "Heart of the historic Pacific Blvd shopping district.",
-                "type": "landmark",
-                "address": "7136 Pacific Blvd, Huntington Park, California, 90255",
-                "lat": 33.9742,
-                "lng": -118.2106,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9742,-118.2106",
-                "original_hood": "Huntington Park"
-            },
-            {
-                "name": "Santa Fe Avenue Industrial Corridor",
-                "description": "Fleabag motel featured as the Tiki Motel in \"The Terminator\".",
-                "type": "landmark",
-                "address": "7301 Santa Fe Ave, Huntington Park, California, 90255",
-                "lat": 33.973746329534,
-                "lng": -118.230441882382,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.973746329534,-118.230441882382",
-                "original_hood": "Huntington Park"
-            },
-            {
                 "name": "Botanica Jesus Malverde",
                 "address": "2728 E Florence Ave, Huntington Park, CA 90255, USA",
                 "type": "landmark",
@@ -14521,6 +15742,26 @@ const neighborhoodData = [
                 "original_hood": "Huntington Park"
             },
             {
+                "name": "Historic Pacific Boulevard Shopping District",
+                "description": "Heart of the historic Pacific Blvd shopping district.",
+                "type": "landmark",
+                "address": "7136 Pacific Blvd, Huntington Park, California, 90255",
+                "lat": 33.9742,
+                "lng": -118.2106,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9742,-118.2106",
+                "original_hood": "Huntington Park"
+            },
+            {
+                "name": "Santa Fe Avenue Industrial Corridor",
+                "description": "Fleabag motel featured as the Tiki Motel in \"The Terminator\".",
+                "type": "landmark",
+                "address": "7301 Santa Fe Ave, Huntington Park, California, 90255",
+                "lat": 33.973746329534,
+                "lng": -118.230441882382,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.973746329534,-118.230441882382",
+                "original_hood": "Huntington Park"
+            },
+            {
                 "name": "Saydel Inc.",
                 "address": "2475 Slauson Ave, Huntington Park, CA 90255, USA",
                 "type": "landmark",
@@ -14528,6 +15769,16 @@ const neighborhoodData = [
                 "lat": 33.9894335,
                 "lng": -118.2280023,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9894335,-118.2280023",
+                "original_hood": "Huntington Park"
+            },
+            {
+                "name": "Warner Theatre (Art Deco Movie Palace)",
+                "description": "Warner Theatre; 1930 Art Deco movie palace.",
+                "type": "landmark",
+                "address": "6528 Pacific Blvd, Huntington Park, California, 90255",
+                "lat": 33.9805,
+                "lng": -118.2105,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9805,-118.2105",
                 "original_hood": "Huntington Park"
             }
         ]
@@ -14635,36 +15886,6 @@ const neighborhoodData = [
         "region": "South Bay",
         "locations": [
             {
-                "name": "Lennox Historical District",
-                "description": "Lennox Car Wash, a prime example of Googie-style architecture.",
-                "type": "landmark",
-                "address": "10709 Hawthorne Blvd, Lennox, CA 90304, USA",
-                "lat": 33.9388898,
-                "lng": -118.3529144,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9388898,-118.3529144",
-                "original_hood": "Inglewood"
-            },
-            {
-                "name": "Randy\u2019s Donuts (Iconic Programmatic Architecture)",
-                "description": "Randy\u2019s Donuts: 1953 giant donut icon; Iron Man 2 filming.",
-                "type": "landmark",
-                "address": "1310 N La Brea Ave, Inglewood, California, 90302",
-                "lat": 33.9772,
-                "lng": -118.3521,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9772,-118.3521",
-                "original_hood": "Inglewood"
-            },
-            {
-                "name": "Hollywood Park / SoFi Stadium Corridor",
-                "description": "Proximity to SoFi Stadium/Hollywood Park site.",
-                "type": "landmark",
-                "address": "3219 W Imperial Hwy, Inglewood, CA 90303, USA",
-                "lat": 33.9312,
-                "lng": -118.3275,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9312,-118.3275",
-                "original_hood": "Inglewood"
-            },
-            {
                 "name": "Atlantic Times Square",
                 "address": "11100 S Inglewood Ave, Lennox, CA 90304, USA",
                 "type": "landmark",
@@ -14745,6 +15966,36 @@ const neighborhoodData = [
                 "original_hood": "Inglewood"
             },
             {
+                "name": "Hollywood Park / SoFi Stadium Corridor",
+                "description": "Proximity to SoFi Stadium/Hollywood Park site.",
+                "type": "landmark",
+                "address": "3219 W Imperial Hwy, Inglewood, CA 90303, USA",
+                "lat": 33.9312,
+                "lng": -118.3275,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9312,-118.3275",
+                "original_hood": "Inglewood"
+            },
+            {
+                "name": "Lennox Historical District",
+                "description": "Lennox Car Wash, a prime example of Googie-style architecture.",
+                "type": "landmark",
+                "address": "10709 Hawthorne Blvd, Lennox, CA 90304, USA",
+                "lat": 33.9388898,
+                "lng": -118.3529144,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9388898,-118.3529144",
+                "original_hood": "Inglewood"
+            },
+            {
+                "name": "Lennox Mural Cultural Site",
+                "description": "Historic local mural site.",
+                "type": "landmark",
+                "address": "10217 S Inglewood Ave, Inglewood, CA",
+                "lat": 33.9435,
+                "lng": -118.3615,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9435,-118.3615",
+                "original_hood": "Inglewood"
+            },
+            {
                 "name": "Randy's Donuts",
                 "description": "Designed by Henry J. Goodwin in 1953, this is perhaps the world\u2019s most famous example of Programmatic architecture. The 32-foot-tall gunite donut atop the building is a global icon of mid-century roadside commercialism. (Randy's Donuts)",
                 "type": "landmark",
@@ -14752,6 +16003,16 @@ const neighborhoodData = [
                 "lat": 33.9618522,
                 "lng": -118.3703791,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9618522,-118.3703791",
+                "original_hood": "Inglewood"
+            },
+            {
+                "name": "Randy\u2019s Donuts (Iconic Programmatic Architecture)",
+                "description": "Randy\u2019s Donuts: 1953 giant donut icon; Iron Man 2 filming.",
+                "type": "landmark",
+                "address": "1310 N La Brea Ave, Inglewood, California, 90302",
+                "lat": 33.9772,
+                "lng": -118.3521,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9772,-118.3521",
                 "original_hood": "Inglewood"
             },
             {
@@ -14832,16 +16093,6 @@ const neighborhoodData = [
                 "lng": -118.3634297,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9763052,-118.3634297",
                 "original_hood": "Inglewood"
-            },
-            {
-                "name": "Lennox Mural Cultural Site",
-                "description": "Historic local mural site.",
-                "type": "landmark",
-                "address": "10217 S Inglewood Ave, Inglewood, CA",
-                "lat": 33.9435,
-                "lng": -118.3615,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9435,-118.3615",
-                "original_hood": "Inglewood"
             }
         ]
     },
@@ -14899,6 +16150,15 @@ const neighborhoodData = [
                 "lng": -118.375877038751,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=12122+Kagel+Canyon+Rd,+Sylmar,+CA+91342",
                 "original_hood": "Kagel Canyon"
+            },
+            {
+                "name": "Rodney King Beating Site (Historical Significance)",
+                "address": "11777 Foothill Blvd Lake View Terrace, CA 91342",
+                "description": "The location where the 1991 Rodney King incident occurred, a pivotal moment in Los Angeles history that led to the 1992 Uprising.",
+                "lat": 34.2755,
+                "lng": -118.3882,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2755,-118.3882"
             }
         ]
     },
@@ -14931,16 +16191,6 @@ const neighborhoodData = [
         "name": "Koreatown",
         "region": "Central L.A.",
         "locations": [
-            {
-                "name": "Guelaguetza Restaurant",
-                "description": "An iconic Oaxacan restaurant located in Koreatown. A cultural institution famous for its mole, vibrant atmosphere, and advocacy for Oaxacan culture in Los Angeles.",
-                "type": "landmark",
-                "address": "3014 W Olympic Blvd, Los Angeles, CA 90006",
-                "lat": 34.052537,
-                "lng": -118.300877,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.052537,-118.300877",
-                "original_hood": "Koreatown"
-            },
             {
                 "name": "Alexander Perino's Restaurant (Former)",
                 "description": "Designed in 1950 by the legendary architect Paul R. Williams. Located beside the historic Los Altos Apartments, this former restaurant space stands as a testament to the mid-century dining elegance that once defined the district.",
@@ -15079,6 +16329,16 @@ const neighborhoodData = [
                 "lat": 34.064758626774,
                 "lng": -118.308916612672,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=518+S+Western+Ave%2C+Los+Angeles%2C+CA+90020",
+                "original_hood": "Koreatown"
+            },
+            {
+                "name": "Guelaguetza Restaurant",
+                "description": "An iconic Oaxacan restaurant located in Koreatown. A cultural institution famous for its mole, vibrant atmosphere, and advocacy for Oaxacan culture in Los Angeles.",
+                "type": "landmark",
+                "address": "3014 W Olympic Blvd, Los Angeles, CA 90006",
+                "lat": 34.052537,
+                "lng": -118.300877,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.052537,-118.300877",
                 "original_hood": "Koreatown"
             },
             {
@@ -15267,6 +16527,15 @@ const neighborhoodData = [
                 "lng": -118.2271,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=E+4th+St%2C+Los+Angeles%2C+CA+90013",
                 "original_hood": "L.A. River Corridor"
+            },
+            {
+                "name": "The Institute of Contemporary Art, Los Angeles (ICA LA)",
+                "address": "1026 Santa Fe Avenue Los Angeles, CA 90021",
+                "description": "Located in a former industrial warehouse in the Arts District, this museum is a cornerstone of the neighborhood's transformation into a global art hub.",
+                "lat": 34.0315,
+                "lng": -118.2312,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0315,-118.2312"
             }
         ]
     },
@@ -15439,6 +16708,15 @@ const neighborhoodData = [
         "region": "San Fernando Valley",
         "locations": [
             {
+                "name": "David Carradine Residence",
+                "address": "9753 La Tuna Canyon Road, Sun Valley, CA 91352",
+                "description": "The former home of the Kung Fu and Kill Bill star, located in the rugged and scenic La Tuna Canyon area.",
+                "lat": 34.2321,
+                "lng": -118.3124,
+                "type": "pop-culture",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2321,-118.3124"
+            },
+            {
                 "name": "La Tuna Canyon Park",
                 "description": "Property Type: House",
                 "type": "landmark",
@@ -15447,6 +16725,15 @@ const neighborhoodData = [
                 "lng": -118.3082034,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2283699,-118.3082034",
                 "original_hood": "La Tuna Canyon Park"
+            },
+            {
+                "name": "Paradise Ranch",
+                "address": "10268 La Tuna Canyon Rd Sun Valley, CA 91352",
+                "description": "A well-known equestrian and pet facility located in the rugged terrain of the Verdugo Mountains.",
+                "lat": 34.2295,
+                "lng": -118.3112,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2295,-118.3112"
             }
         ]
     },
@@ -15456,16 +16743,6 @@ const neighborhoodData = [
         "region": "Pomona Valley",
         "locations": [
             {
-                "name": "La Verne Route 66 Landmarks",
-                "description": "Longtime family-operated establishment offering hearty Mexican combos & margaritas for 49+ years.",
-                "type": "landmark",
-                "address": "2975 Foothill Blvd, La Verne, California, 91750",
-                "lat": 34.109020020864,
-                "lng": -117.751327016275,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.109020020864,-117.751327016275",
-                "original_hood": "La Verne"
-            },
-            {
                 "name": "3205 DSt La Verne CA",
                 "description": "",
                 "type": "landmark",
@@ -15473,6 +16750,16 @@ const neighborhoodData = [
                 "lat": 34.111558,
                 "lng": -117.765873,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.111558,-117.765873",
+                "original_hood": "La Verne"
+            },
+            {
+                "name": "La Verne Route 66 Landmarks",
+                "description": "Longtime family-operated establishment offering hearty Mexican combos & margaritas for 49+ years.",
+                "type": "landmark",
+                "address": "2975 Foothill Blvd, La Verne, California, 91750",
+                "lat": 34.109020020864,
+                "lng": -117.751327016275,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.109020020864,-117.751327016275",
                 "original_hood": "La Verne"
             }
         ]
@@ -15839,6 +17126,42 @@ const neighborhoodData = [
                 "original_hood": "Lennox"
             },
             {
+                "name": "Hawthorne/Lennox Commercial District",
+                "address": "10321 Hawthorne Boulevard Inglewood, CA 90304",
+                "description": "A busy commercial site located near the flight path of LAX, historically serving the aerospace workers of the South Bay.",
+                "lat": 33.9452,
+                "lng": -118.3521,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9452,-118.3521"
+            },
+            {
+                "name": "Lennox Car Wash Site",
+                "address": "10709 Hawthorne Blvd Inglewood, CA 90304",
+                "description": "A long-standing automotive service landmark in the Lennox neighborhood, situated directly under the flight path for LAX.",
+                "lat": 33.9386,
+                "lng": -118.3522,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9386,-118.3522"
+            },
+            {
+                "name": "Lennox Community Hub",
+                "address": "11100 S Inglewood Ave Lennox, CA 90304",
+                "description": "Located in the unincorporated area of Lennox, this commercial and residential site is central to the history of LAX-adjacent development.",
+                "lat": 33.9352,
+                "lng": -118.3621,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9352,-118.3621"
+            },
+            {
+                "name": "St. Margaret\u2019s Center Mural",
+                "address": "10217 S Inglewood Ave Inglewood, CA 90304",
+                "description": "Features the \"The Inglewood Project\" mural, a vibrant community art piece celebrating the cultural diversity and history of the local neighborhood.",
+                "lat": 33.9431,
+                "lng": -118.3615,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9431,-118.3615"
+            },
+            {
                 "name": "The Lennox Car Wash",
                 "description": "A classic example of the early 1960s post-war, Googie car-oriented commercial architecture that once defined Southern California. The Lennox Car Wash is characterized by sweeping geometric shapes, vibrant neon signage, and dramatic, spear-like fins pointing to the sky. The visually arresting structure was featured in the 2011 film The Green Hornet and was meticulously recreated in the video game Grand Theft Auto V as the 'Hands On Car Wash'.",
                 "type": "landmark",
@@ -16021,6 +17344,15 @@ const neighborhoodData = [
                 "original_hood": "Lincoln Heights"
             },
             {
+                "name": "Lincoln Heights Historic Neighborhood",
+                "address": "106 W Ave 34 Los Angeles, CA 90031",
+                "description": "Located in one of the city's oldest residential areas, featuring a wealth of late 19th-century architecture.",
+                "lat": 34.0785,
+                "lng": -118.2162,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0785,-118.2162"
+            },
+            {
                 "name": "Lincoln Heights Historic Preservation Overlay Zone",
                 "description": "The History: Recognized as a Historic Preservation Overlay Zone, Lincoln Heights holds the distinction of being considered Los Angeles's first true suburb, originally subdivided in the 1870s.\n\nNeighborhood Character: The HPOZ protects a dense and diverse collection of late 19th and early 20th-century residential architecture, including stunning Queen Anne, Craftsman, and Folk Victorian homes. It remains a deeply historic, working-class neighborhood that reflects the layered, multicultural history of the city's Eastside.",
                 "type": "sub-neighborhood",
@@ -16099,6 +17431,15 @@ const neighborhoodData = [
                 "lng": -118.221648679218,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=138+N+San+Fernando+Rd,+Los+Angeles,+CA+90031",
                 "original_hood": "Lincoln Heights"
+            },
+            {
+                "name": "Montecito Heights Lookout Area",
+                "address": "1060 Montecito Drive Los Angeles, CA 90031",
+                "description": "A hilltop residential street offering some of the most spectacular panoramic views of the Los Angeles Basin.",
+                "lat": 34.0855,
+                "lng": -118.2112,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0855,-118.2112"
             },
             {
                 "name": "Palms Southern Pacific Railroad Depot (Heritage Square)",
@@ -16207,6 +17548,15 @@ const neighborhoodData = [
                 "lng": -118.0829768,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8704339,-118.0829768",
                 "original_hood": "Little India"
+            },
+            {
+                "name": "Norwalk Commercial District",
+                "address": "11110 Alondra Blvd Norwalk, CA 90650",
+                "description": "A busy commercial site serving the suburban communities of the Gateway Cities, reflecting the post-war retail boom.",
+                "lat": 33.8885,
+                "lng": -118.0815,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8885,-118.0815"
             }
         ]
     },
@@ -16261,16 +17611,6 @@ const neighborhoodData = [
         "region": "Harbor",
         "locations": [
             {
-                "name": "Curley\u2019s Cafe (Est. 1932)",
-                "description": "Site of Curley\u2019s Cafe; established 1932.",
-                "type": "landmark",
-                "address": "1106 E Wardlow Rd, Long Beach, California, 90807",
-                "lat": 33.8185,
-                "lng": -118.1782,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8185,-118.1782",
-                "original_hood": "Long Beach"
-            },
-            {
                 "name": "1770 EBroadway Long Beach, CA 90802",
                 "description": "",
                 "type": "landmark",
@@ -16281,16 +17621,6 @@ const neighborhoodData = [
                 "original_hood": "Long Beach"
             },
             {
-                "name": "Joe Jost\u2019s (Oldest Bar in Long Beach)",
-                "description": "Joe Jost\u2019s; oldest bar in Long Beach (1924).",
-                "type": "landmark",
-                "address": "2400 E 7th St, Long Beach, California, 90804",
-                "lat": 33.7752,
-                "lng": -118.1635,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7752,-118.1635",
-                "original_hood": "Long Beach"
-            },
-            {
                 "name": "36TH Pl :: Los Angeles - THE COOP 1417 W",
                 "description": "",
                 "type": "landmark",
@@ -16298,16 +17628,6 @@ const neighborhoodData = [
                 "lat": 33.760442008853,
                 "lng": -118.150558426523,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.760442008853,-118.150558426523",
-                "original_hood": "Long Beach"
-            },
-            {
-                "name": "Ferris Bueller\u2019s House (Ferris Bueller's Day Off)",
-                "description": "Film: Ferris Bueller\u2019s House (Ferris Bueller's Day Off).",
-                "type": "landmark",
-                "address": "4160 Country Club Dr, Long Beach, California, 90807",
-                "lat": 33.8325,
-                "lng": -118.1965,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8325,-118.1965",
                 "original_hood": "Long Beach"
             },
             {
@@ -16475,6 +17795,16 @@ const neighborhoodData = [
                 "original_hood": "Long Beach"
             },
             {
+                "name": "Curley\u2019s Cafe (Est. 1932)",
+                "description": "Site of Curley\u2019s Cafe; established 1932.",
+                "type": "landmark",
+                "address": "1106 E Wardlow Rd, Long Beach, California, 90807",
+                "lat": 33.8185,
+                "lng": -118.1782,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8185,-118.1782",
+                "original_hood": "Long Beach"
+            },
+            {
                 "name": "Dexter Filming Location",
                 "description": "The residence used as Rita\u2019s house throughout the series Dexter, which was filmed extensively in the Los Altos neighborhood to mimic Miami.",
                 "type": "landmark",
@@ -16523,6 +17853,16 @@ const neighborhoodData = [
                 "original_hood": "Long Beach"
             },
             {
+                "name": "Ferris Bueller\u2019s House (Ferris Bueller's Day Off)",
+                "description": "Film: Ferris Bueller\u2019s House (Ferris Bueller's Day Off).",
+                "type": "landmark",
+                "address": "4160 Country Club Dr, Long Beach, California, 90807",
+                "lat": 33.8325,
+                "lng": -118.1965,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8325,-118.1965",
+                "original_hood": "Long Beach"
+            },
+            {
                 "name": "Gaytonia Castle",
                 "description": "The site of Gaytonia Castle, a notable Normandy Revival-style apartment building constructed in 1930. It is recognized as a Long Beach Cultural Heritage Landmark.",
                 "type": "landmark",
@@ -16540,6 +17880,26 @@ const neighborhoodData = [
                 "lat": 33.7825,
                 "lng": -118.1585,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7825,-118.1585",
+                "original_hood": "Long Beach"
+            },
+            {
+                "name": "Joe Jost\u2019s (Oldest Bar in Long Beach)",
+                "description": "Joe Jost\u2019s; oldest bar in Long Beach (1924).",
+                "type": "landmark",
+                "address": "2400 E 7th St, Long Beach, California, 90804",
+                "lat": 33.7752,
+                "lng": -118.1635,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7752,-118.1635",
+                "original_hood": "Long Beach"
+            },
+            {
+                "name": "Keith\u2019s House (Some Kind of Wonderful)",
+                "description": "Fits the blue-collar aesthetic Hughes wanted for the protagonist.",
+                "type": "landmark",
+                "address": "1330 E. 2nd St",
+                "lat": 33.7665,
+                "lng": -118.1752,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7665,-118.1752",
                 "original_hood": "Long Beach"
             },
             {
@@ -16684,16 +18044,6 @@ const neighborhoodData = [
                 "description": "Named after William Wrigley Jr., this district contains many well-preserved Spanish Colonial Revival residences.",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8043934,-118.1937659",
                 "original_hood": "Long Beach"
-            },
-            {
-                "name": "Keith\u2019s House (Some Kind of Wonderful)",
-                "description": "Fits the blue-collar aesthetic Hughes wanted for the protagonist.",
-                "type": "landmark",
-                "address": "1330 E. 2nd St",
-                "lat": 33.7665,
-                "lng": -118.1752,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7665,-118.1752",
-                "original_hood": "Long Beach"
             }
         ]
     },
@@ -16720,36 +18070,6 @@ const neighborhoodData = [
         "name": "Los Feliz",
         "region": "Central L.A.",
         "locations": [
-            {
-                "name": "Ennis House (HCM #83)",
-                "description": "Frank Lloyd Wright 1924 hilltop masterpiece. Built with over 27,000 decomposed granite blocks.",
-                "type": "architectural",
-                "address": "2607 Glendower Ave, Los Feliz, CA 90027",
-                "lat": 34.1161,
-                "lng": -118.2929,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1161,-118.2929",
-                "original_hood": "Los Feliz"
-            },
-            {
-                "name": "Sowden House (HCM #54)",
-                "description": "Designed by Lloyd Wright in 1926, this textile block house is famous for its Maya Revival courtyard and dramatic facade.",
-                "type": "architectural",
-                "address": "5121 Franklin Ave, Los Feliz, CA 90027",
-                "lat": 34.1055,
-                "lng": -118.3015,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1055,-118.3015",
-                "original_hood": "Los Feliz"
-            },
-            {
-                "name": "The Sowden House (Lloyd Wright / Black Dahlia Site)",
-                "description": "Sowden House: Lloyd Wright design; Black Dahlia suspect site.",
-                "type": "landmark",
-                "address": "3806 Carnavon Way, Los Angeles, CA 90027",
-                "lat": 34.1147,
-                "lng": -118.2831,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1147,-118.2831",
-                "original_hood": "Los Feliz"
-            },
             {
                 "name": "Barnsdall Art Park & Hollyhock House",
                 "description": "Frank Lloyd Wright's first Los Angeles project (1921) and a UNESCO World Heritage Site.",
@@ -16859,6 +18179,25 @@ const neighborhoodData = [
                 "lng": -118.2907303,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1900+N.+Vermont+Avenue%2C+Los+Angeles%2C+CA+90027",
                 "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Ennis House (HCM #83)",
+                "description": "Frank Lloyd Wright 1924 hilltop masterpiece. Built with over 27,000 decomposed granite blocks.",
+                "type": "architectural",
+                "address": "2607 Glendower Ave, Los Feliz, CA 90027",
+                "lat": 34.1161,
+                "lng": -118.2929,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1161,-118.2929",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "First Disney Studio (Uncle Robert's Garage)",
+                "address": "4647 Kingswell Avenue, Los Angeles, CA 90027",
+                "description": "The humble birthplace of The Walt Disney Company, where Walt and Roy Disney created their first professional animations in the early 1920s.",
+                "lat": 34.1015,
+                "lng": -118.2882,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1015,-118.2882"
             },
             {
                 "name": "Former Campus Movie Theatre",
@@ -16978,6 +18317,16 @@ const neighborhoodData = [
                 "lat": 34.1030339,
                 "lng": -118.2920758,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1030339,-118.2920758",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "John Marshall High (Pretty in Pink)",
+                "description": "Used as the high school in Pretty in Pink; also seen in Grease, Nightmare on Elm Street, and Can't Hardly Wait.",
+                "type": "landmark",
+                "address": "4400 Tracy St",
+                "lat": 34.1065,
+                "lng": -118.2778,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1065,-118.2778",
                 "original_hood": "Los Feliz"
             },
             {
@@ -17151,6 +18500,15 @@ const neighborhoodData = [
                 "original_hood": "Los Feliz"
             },
             {
+                "name": "Schrage-Hallauer House (Raphael Soriano)",
+                "address": "2648 Commonwealth Ave, Los Angeles, CA 90027",
+                "description": "Built in 1951, this is a rare residential work by the steel-architecture pioneer Raphael Soriano, who was a major figure in the Case Study House program.",
+                "lat": 34.1125,
+                "lng": -118.2835,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1125,-118.2835"
+            },
+            {
                 "name": "Sister Mary Corita Studio",
                 "description": "Studio of celebrated pop artist and former nun Sister Mary Corita Kent, known for her vibrant graphic works.",
                 "type": "landmark",
@@ -17168,6 +18526,16 @@ const neighborhoodData = [
                 "lat": 34.108630723371,
                 "lng": -118.273993916006,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2906-2910+Griffith+Park+Blvd%2C+Los+Angeles%2C+CA",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Sowden House (HCM #54)",
+                "description": "Designed by Lloyd Wright in 1926, this textile block house is famous for its Maya Revival courtyard and dramatic facade.",
+                "type": "architectural",
+                "address": "5121 Franklin Ave, Los Feliz, CA 90027",
+                "lat": 34.1055,
+                "lng": -118.3015,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1055,-118.3015",
                 "original_hood": "Los Feliz"
             },
             {
@@ -17227,6 +18595,16 @@ const neighborhoodData = [
                 "lat": 34.102879983421,
                 "lng": -118.280941004996,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=4151+Prospect+Ave,+Los+Angeles,+CA",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "The Sowden House (Lloyd Wright / Black Dahlia Site)",
+                "description": "Sowden House: Lloyd Wright design; Black Dahlia suspect site.",
+                "type": "landmark",
+                "address": "3806 Carnavon Way, Los Angeles, CA 90027",
+                "lat": 34.1147,
+                "lng": -118.2831,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1147,-118.2831",
                 "original_hood": "Los Feliz"
             },
             {
@@ -17357,16 +18735,6 @@ const neighborhoodData = [
                 "lng": -118.279316675979,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=4019+Cumberland+Ave,+Los+Angeles,+CA",
                 "original_hood": "Los Feliz"
-            },
-            {
-                "name": "John Marshall High (Pretty in Pink)",
-                "description": "Used as the high school in Pretty in Pink; also seen in Grease, Nightmare on Elm Street, and Can't Hardly Wait.",
-                "type": "landmark",
-                "address": "4400 Tracy St",
-                "lat": 34.1065,
-                "lng": -118.2778,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1065,-118.2778",
-                "original_hood": "Los Feliz"
             }
         ]
     },
@@ -17402,6 +18770,24 @@ const neighborhoodData = [
                 "lng": -118.2124749,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9320248,-118.2124749",
                 "original_hood": "Lynwood"
+            },
+            {
+                "name": "Alameda Corridor / Watts Edge",
+                "address": "11705 South Alameda Street Los Angeles, CA 90059",
+                "description": "Situated along the massive rail and trucking trench that connects the Port of Los Angeles to the transcontinental rail network.",
+                "lat": 33.9275,
+                "lng": -118.2252,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9275,-118.2252"
+            },
+            {
+                "name": "Lynwood Commercial Hub",
+                "address": "11709 Long Beach Blvd Lynwood, CA 90262",
+                "description": "A prominent address on Long Beach Blvd, which historically served as the main highway between Downtown Los Angeles and Long Beach.",
+                "lat": 33.9245,
+                "lng": -118.2112,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9245,-118.2112"
             },
             {
                 "name": "Lynwood Natatorium (Site)",
@@ -17804,16 +19190,6 @@ const neighborhoodData = [
         "region": "Southeast",
         "locations": [
             {
-                "name": "Maywood Commercial Center",
-                "description": "3427 Slauson Avenue, Maywood, CA - all rights reserved by jericl cat.",
-                "type": "landmark",
-                "address": "3427 Slauson Ave, Maywood, California, 90270",
-                "lat": 33.989253018046,
-                "lng": -118.203403958214,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.989253018046,-118.203403958214",
-                "original_hood": "Maywood"
-            },
-            {
                 "name": "4616 E. Slauson Maywood",
                 "description": "Description: Located on the busy Slauson Avenue industrial corridor, this site is typical of the dense commercial development in the \"Gateway Cities\" region. It serves as a vital service hub for the small, high-density residential community of Maywood.",
                 "type": "landmark",
@@ -17821,16 +19197,6 @@ const neighborhoodData = [
                 "lat": 33.9866045,
                 "lng": -118.1828643,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9866045,-118.1828643",
-                "original_hood": "Maywood"
-            },
-            {
-                "name": "Historic Atlantic Blvd Corridor",
-                "description": "Douglas Drive-In.",
-                "type": "landmark",
-                "address": "5208 Atlantic Blvd, Maywood, California, 90270",
-                "lat": 33.99264789838,
-                "lng": -118.183361905712,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.99264789838,-118.183361905712",
                 "original_hood": "Maywood"
             },
             {
@@ -17844,6 +19210,16 @@ const neighborhoodData = [
                 "original_hood": "Maywood"
             },
             {
+                "name": "Historic Atlantic Blvd Corridor",
+                "description": "Douglas Drive-In.",
+                "type": "landmark",
+                "address": "5208 Atlantic Blvd, Maywood, California, 90270",
+                "lat": 33.99264789838,
+                "lng": -118.183361905712,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.99264789838,-118.183361905712",
+                "original_hood": "Maywood"
+            },
+            {
                 "name": "Maywood City Hall",
                 "description": "A modest but historic civic anchor that reflects the small-scale, accessible municipal governance of this compact city.",
                 "type": "architectural",
@@ -17851,6 +19227,16 @@ const neighborhoodData = [
                 "lat": 33.9873,
                 "lng": -118.1852,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9873,-118.1852",
+                "original_hood": "Maywood"
+            },
+            {
+                "name": "Maywood Commercial Center",
+                "description": "3427 Slauson Avenue, Maywood, CA - all rights reserved by jericl cat.",
+                "type": "landmark",
+                "address": "3427 Slauson Ave, Maywood, California, 90270",
+                "lat": 33.989253018046,
+                "lng": -118.203403958214,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.989253018046,-118.203403958214",
                 "original_hood": "Maywood"
             },
             {
@@ -17933,6 +19319,24 @@ const neighborhoodData = [
         "name": "Menlo Avenue West Twenty-Ninth Street Historic District",
         "region": "Menlo Avenue",
         "locations": [
+            {
+                "name": "Chester Place / Mount Saint Mary's University",
+                "address": "10 Chester Place Los Angeles, CA 90007",
+                "description": "Part of the first gated community in Los Angeles and the former residence of oil heir Edward Doheny Jr.",
+                "lat": 34.0305,
+                "lng": -118.2748,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0305,-118.2748"
+            },
+            {
+                "name": "University Park / USC Neighborhood",
+                "address": "1119 West 29th Street Los Angeles, CA 90007",
+                "description": "A residential address in the historic University Park neighborhood, famous for its grand Victorian homes and proximity to USC.",
+                "lat": 34.0275,
+                "lng": -118.2835,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0275,-118.2835"
+            },
             {
                 "name": "West Twenty-Ninth Street Historic District",
                 "description": "",
@@ -18198,16 +19602,6 @@ const neighborhoodData = [
                 "original_hood": "Mid-City West"
             },
             {
-                "name": "Starbucks in Classic Style Gas Station (Highland Ave at Willoughby Ave)",
-                "description": "Well-preserved classic-era gas station on Willoughby Ave.",
-                "type": "landmark",
-                "address": "859 Highland Ave, Los Angeles, CA 90038",
-                "lat": 34.0869093,
-                "lng": -118.3388752,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0869093,-118.3388752",
-                "original_hood": "Mid-City West"
-            },
-            {
                 "name": "Danziger Studio (Frank Gehry)",
                 "description": "A 1965 studio building designed by Frank Gehry for graphic designer Lou Danziger; one of Gehry's earliest completed works.",
                 "type": "landmark",
@@ -18308,6 +19702,16 @@ const neighborhoodData = [
                 "original_hood": "Mid-City West"
             },
             {
+                "name": "Starbucks in Classic Style Gas Station (Highland Ave at Willoughby Ave)",
+                "description": "Well-preserved classic-era gas station on Willoughby Ave.",
+                "type": "landmark",
+                "address": "859 Highland Ave, Los Angeles, CA 90038",
+                "lat": 34.0869093,
+                "lng": -118.3388752,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0869093,-118.3388752",
+                "original_hood": "Mid-City West"
+            },
+            {
                 "name": "William Grant Still Residence",
                 "description": "The historic home of the 'Dean of Afro-American Composers,' William Grant Still.",
                 "type": "landmark",
@@ -18348,16 +19752,6 @@ const neighborhoodData = [
         "region": "Mid-Wilshire",
         "locations": [
             {
-                "name": "Johnie\u2019s Coffee Shop \u2014 The Big Lebowski / Reservoir Dogs",
-                "description": "A prime example of Googie architecture; it no longer operates as a restaurant but is rented almost exclusively for filming.",
-                "type": "landmark",
-                "address": "6101 Wilshire Blvd, Los Angeles",
-                "lat": 34.0628,
-                "lng": -118.3619,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0628,-118.3619",
-                "original_hood": "Miracle Mile"
-            },
-            {
                 "name": "Dominguez-Wilshire Building",
                 "description": "A 1931 Morgan, Walls & Clements landmark; known for its high-fashion history and intricate vertical terra-cotta detailing.",
                 "type": "architectural",
@@ -18378,6 +19772,15 @@ const neighborhoodData = [
                 "original_hood": "Miracle Mile"
             },
             {
+                "name": "Dunsmuir Flats (Gregory Ain)",
+                "address": "1281 S Dunsmuir Ave, Los Angeles, CA 90019",
+                "description": "A landmark of modernist social architecture built in 1938 by architect Gregory Ain, reflecting the city's early embrace of the International Style.",
+                "lat": 34.0515,
+                "lng": -118.3452,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0515,-118.3452"
+            },
+            {
                 "name": "E. Clem Wilson Building",
                 "description": "An Art Deco gem once featuring a Gothic crown and a dirigible mast; the former eastern anchor of the district.",
                 "type": "architectural",
@@ -18386,6 +19789,15 @@ const neighborhoodData = [
                 "lng": -118.343279,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0621109,-118.343279",
                 "original_hood": "Miracle Mile"
+            },
+            {
+                "name": "El Burrito Jr. / Historic Food Stand",
+                "address": "1018 S La Brea Ave Los Angeles, CA 90019",
+                "description": "A landmark roadside eatery site that reflects the car culture and \"fast casual\" history of Mid-City Los Angeles.",
+                "lat": 34.0531,
+                "lng": -118.3441,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0531,-118.3441"
             },
             {
                 "name": "El Rey Theatre",
@@ -18420,6 +19832,16 @@ const neighborhoodData = [
             {
                 "name": "Johnie\u2019s Coffee Shop \u2014 The Big Lebowski / Reservoir Dogs",
                 "description": "A prime example of Googie architecture; it no longer operates as a restaurant but is rented almost exclusively for filming.",
+                "type": "landmark",
+                "address": "6101 Wilshire Blvd, Los Angeles",
+                "lat": 34.0628,
+                "lng": -118.3619,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0628,-118.3619",
+                "original_hood": "Miracle Mile"
+            },
+            {
+                "name": "Johnie\u2019s Coffee Shop \u2014 The Big Lebowski / Reservoir Dogs",
+                "description": "A prime example of Googie architecture; it no longer operates as a restaurant but is rented almost exclusively for filming.",
                 "type": "architectural",
                 "address": "6101 Wilshire Blvd, Los Angeles, CA 90048",
                 "lat": 34.0628,
@@ -18446,6 +19868,15 @@ const neighborhoodData = [
                 "lng": -118.3608348,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0638179,-118.3608348",
                 "original_hood": "Miracle Mile"
+            },
+            {
+                "name": "Mid-City Commercial District",
+                "address": "1017 S. La Brea Ave Los Angeles, CA 90019",
+                "description": "A historic transit-oriented commercial site located along the primary north-south artery of the Mid-Wilshire area.",
+                "lat": 34.0535,
+                "lng": -118.3442,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0535,-118.3442"
             },
             {
                 "name": "Saban Theatre",
@@ -18555,6 +19986,15 @@ const neighborhoodData = [
                 "original_hood": "Mission Hills"
             },
             {
+                "name": "Mission Hills Commercial District",
+                "address": "10430 Sepulveda Blvd Mission Hills, CA 91345",
+                "description": "Located near the historic San Fernando Mission, this area serves as a primary commercial thoroughfare for the Northern Valley.",
+                "lat": 34.2605,
+                "lng": -118.4682,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2605,-118.4682"
+            },
+            {
                 "name": "Romulo Pico Adobe (Rancho Romulo)",
                 "description": "One of the last remaining adobes from the Mexican Rancho era in the San Fernando Valley; a reminder of the region's pre-American history.",
                 "type": "landmark",
@@ -18573,6 +20013,15 @@ const neighborhoodData = [
                 "lng": -118.4619903,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=15151+San+Fernando+Mission+Boulevard%2C+Mission+Hills%2C+CA+91345",
                 "original_hood": "Mission Hills"
+            },
+            {
+                "name": "The 'Onion' Church (Sepulveda Unitarian Universalist)",
+                "address": "9550 Haskell Avenue, North Hills, CA 91343",
+                "description": "Designed by architect Frank Ehrenthal, this 1963 building is a masterpiece of mid-century modern \"Googie\" religious architecture, named informally for its distinctive onion-dome silhouette.",
+                "lat": 34.2435,
+                "lng": -118.4752,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2435,-118.4752"
             },
             {
                 "name": "The Bear Pit BBQ",
@@ -18765,6 +20214,15 @@ const neighborhoodData = [
         "region": "Northeast L.A.",
         "locations": [
             {
+                "name": "Arroyo Verde Estate",
+                "address": "1001 Arroyo Verde Rd South Pasadena, CA 91030",
+                "description": "A scenic residential area known for its proximity to the historic Arroyo Seco and upscale early 20th-century homes.",
+                "lat": 34.1085,
+                "lng": -118.1632,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1085,-118.1632"
+            },
+            {
                 "name": "Monterey Hills Elementary School",
                 "description": "Property Type: School",
                 "type": "landmark",
@@ -18840,6 +20298,15 @@ const neighborhoodData = [
                 "lng": -118.1482226,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=912+Summit+Place%2C+Monterey+Park%2C+CA+91754",
                 "original_hood": "Monterey Park"
+            },
+            {
+                "name": "Monterey Park Commercial District",
+                "address": "111 West Pomona Boulevard Monterey Park, CA 91754",
+                "description": "A key commercial site in Monterey Park, which was the first suburban \"Chinatown\" and a pioneer in multi-ethnic suburban development.",
+                "lat": 34.0385,
+                "lng": -118.1252,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0385,-118.1252"
             },
             {
                 "name": "Shun Fat Supermarket",
@@ -19073,16 +20540,6 @@ const neighborhoodData = [
         "region": "San Fernando Valley",
         "locations": [
             {
-                "name": "The Onion Church (Modernist Architecture)",
-                "description": "Onion Church: 1961 Modernist circular \"Onion\" architecture.",
-                "type": "landmark",
-                "address": "9550 Haskell Ave, North Hills, CA 91343, USA",
-                "lat": 34.2442,
-                "lng": -118.4755,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2442,-118.4755",
-                "original_hood": "North Hills"
-            },
-            {
                 "name": "Giant Topiary Poodle",
                 "description": "A local landmark of eccentric vernacular garden art.",
                 "type": "subcultural",
@@ -19110,6 +20567,16 @@ const neighborhoodData = [
                 "lat": 34.2284029,
                 "lng": -118.4748209,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=15725+Parthenia+Street%2C+North+Hills%2C+CA+91343",
+                "original_hood": "North Hills"
+            },
+            {
+                "name": "The Onion Church (Modernist Architecture)",
+                "description": "Onion Church: 1961 Modernist circular \"Onion\" architecture.",
+                "type": "landmark",
+                "address": "9550 Haskell Ave, North Hills, CA 91343, USA",
+                "lat": 34.2442,
+                "lng": -118.4755,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2442,-118.4755",
                 "original_hood": "North Hills"
             },
             {
@@ -19269,6 +20736,15 @@ const neighborhoodData = [
                 "original_hood": "North Hollywood"
             },
             {
+                "name": "Hamlet's Auto Repair",
+                "address": "11508 Oxnard St North Hollywood, CA 91606",
+                "description": "A well-known local commercial landmark in the Valley Village/NoHo area, typical of the mid-century automotive service shops in the region.",
+                "lat": 34.1792,
+                "lng": -118.3821,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1792,-118.3821"
+            },
+            {
                 "name": "Henry's Tacos",
                 "description": "A historic Valley taco stand institution.",
                 "type": "landmark",
@@ -19319,6 +20795,16 @@ const neighborhoodData = [
                 "original_hood": "North Hollywood"
             },
             {
+                "name": "Mr. Miyagi\u2019s House Site \u2014 The Karate Kid",
+                "description": "While the actual house was demolished in the late 80s, the apartment complex that replaced it remains a pilgrimage site for fans.",
+                "type": "landmark",
+                "address": "12859 Gault St",
+                "lat": 34.1925,
+                "lng": -118.4132,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1925,-118.4132",
+                "original_hood": "North Hollywood"
+            },
+            {
                 "name": "Mucho Mas",
                 "description": "Mucho Mas, a long-standing Mexican restaurant beloved for its \"homely\" atmosphere, large portions, and traditional artwork featuring icons like Ritchie Valens.",
                 "type": "landmark",
@@ -19330,12 +20816,12 @@ const neighborhoodData = [
             },
             {
                 "name": "NoHo Arts District",
-                "description": "Centered around Lankershim and Magnolia, featuring the Avery Schreiber Theatre with its trompe-l'\u0153il mural.",
+                "description": "A commercial and residential transition site in an area that has become one of LA's most vibrant regional centers for live theater.",
                 "type": "landmark",
-                "address": "11050 Magnolia Blvd, North Hollywood, CA 91601",
-                "lat": 34.16466709886,
-                "lng": -118.372252368542,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=11050+Magnolia+Blvd%2C+North+Hollywood%2C+CA+91601",
+                "address": "10726 Burbank Blvd North Hollywood, CA 91601",
+                "lat": 34.1722,
+                "lng": -118.3655,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1722,-118.3655",
                 "original_hood": "North Hollywood"
             },
             {
@@ -19389,6 +20875,15 @@ const neighborhoodData = [
                 "original_hood": "North Hollywood"
             },
             {
+                "name": "Portal of the Folded Wings",
+                "address": "10621 Victory Blvd North Hollywood, CA 91606",
+                "description": "Located at Valhalla Memorial Park, this site is a grand shrine to aviation pioneers and a designated National Historic Landmark.",
+                "lat": 34.1872,
+                "lng": -118.3637,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1872,-118.3637"
+            },
+            {
                 "name": "Psycho Car Lot (Hitchcock)",
                 "description": "Currently the Mini of Universal City, this was the car lot used in Alfred Hitchcock's 1960 classic Psycho.",
                 "type": "landmark",
@@ -19397,6 +20892,15 @@ const neighborhoodData = [
                 "lng": -118.364002731798,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=4270+Lankershim+Blvd%2C+North+Hollywood%2C+CA+91602",
                 "original_hood": "North Hollywood"
+            },
+            {
+                "name": "San Fernando Valley Industrial Zone",
+                "address": "11125 Vanowen Street North Hollywood, CA 91605",
+                "description": "Part of the industrial belt that supported the Valley's economic growth through manufacturing and distribution.",
+                "lat": 34.1935,
+                "lng": -118.3735,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1935,-118.3735"
             },
             {
                 "name": "Thai Gulch",
@@ -19557,16 +21061,6 @@ const neighborhoodData = [
                 "lng": -118.4008089,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1918489,-118.4008089",
                 "original_hood": "North Hollywood"
-            },
-            {
-                "name": "Mr. Miyagi\u2019s House Site \u2014 The Karate Kid",
-                "description": "While the actual house was demolished in the late 80s, the apartment complex that replaced it remains a pilgrimage site for fans.",
-                "type": "landmark",
-                "address": "12859 Gault St",
-                "lat": 34.1925,
-                "lng": -118.4132,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1925,-118.4132",
-                "original_hood": "North Hollywood"
             }
         ]
     },
@@ -19634,6 +21128,15 @@ const neighborhoodData = [
                 "lng": -118.1795,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1115,-118.1795",
                 "original_hood": "Northeast L.A. & Verdugos (Foundational HCMs)"
+            },
+            {
+                "name": "San Rafael Heights Historic District",
+                "address": "1053 S San Rafael Ave Pasadena, CA 91105",
+                "description": "An area of Pasadena known for its grand historic estates and proximity to the scenic Arroyo Seco.",
+                "lat": 34.1315,
+                "lng": -118.1635,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1315,-118.1635"
             }
         ]
     },
@@ -19801,6 +21304,15 @@ const neighborhoodData = [
                 "original_hood": "Northridge"
             },
             {
+                "name": "Porter Ranch Residential Area",
+                "address": "10612 Baird Ave Northridge, CA 91326",
+                "description": "A representative suburban street in the northern San Fernando Valley, developed during the post-war housing boom near Cal State Northridge.",
+                "lat": 34.2633,
+                "lng": -118.5361,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2633,-118.5361"
+            },
+            {
                 "name": "Priyani Oriental / Ceylon Cafe",
                 "description": "A renowned spot for authentic Sri Lankan dishes, known for its spicy curries and lamprais.",
                 "type": "landmark",
@@ -19861,26 +21373,6 @@ const neighborhoodData = [
         "region": "Southeast",
         "locations": [
             {
-                "name": "Frailty Filming Location",
-                "description": "",
-                "type": "landmark",
-                "address": "12139 Front St, Norwalk, California, 90650",
-                "lat": 33.908190417061,
-                "lng": -118.074928912369,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.908190417061,-118.074928912369",
-                "original_hood": "Norwalk"
-            },
-            {
-                "name": "Norwalk Historic Mural Site",
-                "description": "13523 Flatbush Avenue Norwalk, California 90650 MUSIC_ Rapper Eazy-E\u2019s FIRST House and Photoshoot LOCATION \u2013 Photoshoot by Chi Modu \u2013 Norwalk, California \u2013 1994 \u2013 ALL ABOUT LOS ANGELES.",
-                "type": "landmark",
-                "address": "13523 Flatbush Ave, Norwalk, California, 90650",
-                "lat": 33.907871443735,
-                "lng": -118.106155189735,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.907871443735,-118.106155189735",
-                "original_hood": "Norwalk"
-            },
-            {
                 "name": "Cerritos College",
                 "description": "The primary address for Cerritos College, a major educational landmark founded in 1955. The campus features various mid-century institutional buildings and serves as a cultural and athletic hub for the Norwalk-Cerritos area.",
                 "type": "landmark",
@@ -19889,6 +21381,15 @@ const neighborhoodData = [
                 "lng": -118.097486541652,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.885501527174,-118.097486541652",
                 "original_hood": "Norwalk"
+            },
+            {
+                "name": "Downey Suburban Hub",
+                "address": "10700 Studebaker Rd Downey, CA 90241",
+                "description": "Located in the heart of the city where the Apollo space capsules were built, this area is a prime example of post-war suburban growth.",
+                "lat": 33.9181,
+                "lng": -118.0965,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9181,-118.0965"
             },
             {
                 "name": "DSH - Metropolitan Campus",
@@ -19911,6 +21412,25 @@ const neighborhoodData = [
                 "original_hood": "Norwalk"
             },
             {
+                "name": "Firestone Commercial Corridor",
+                "address": "11565 Firestone Boulevard Norwalk, CA 90650",
+                "description": "Situated on a major artery that was part of the original industrial link between the rubber plants of South Gate and the suburban east.",
+                "lat": 33.9115,
+                "lng": -118.0822,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9115,-118.0822"
+            },
+            {
+                "name": "Frailty Filming Location",
+                "description": "",
+                "type": "landmark",
+                "address": "12139 Front St, Norwalk, California, 90650",
+                "lat": 33.908190417061,
+                "lng": -118.074928912369,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.908190417061,-118.074928912369",
+                "original_hood": "Norwalk"
+            },
+            {
                 "name": "Norwalk City Hall",
                 "description": "Part of the integrated civic center design, representing the streamlined, authoritative municipal style of the 1960s.",
                 "type": "architectural",
@@ -19921,6 +21441,15 @@ const neighborhoodData = [
                 "original_hood": "Norwalk"
             },
             {
+                "name": "Norwalk Commercial Center",
+                "address": "10632 Imperial Hwy Norwalk, CA 90650",
+                "description": "A major commercial site on the historic Imperial Highway, which was once planned as a cross-county super-highway connecting the coast to the mountains.",
+                "lat": 33.9176,
+                "lng": -118.0822,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9176,-118.0822"
+            },
+            {
                 "name": "Norwalk Goal Car Wash Sign",
                 "description": "The Googie-style sign at the Norwalk Goal Car Wash features one of the most iconic Googie-style neon signs in Southern California. The massive, 1950s-era \"Space Age\" masterpiece is characterized by dramatic upswept angles, sweeping curves mirroring the \"Jetson-style\" aesthetic, and starburst motifs, serving as a primary landmark for the Firestone corridor in Norwalk.",
                 "type": "landmark",
@@ -19928,6 +21457,16 @@ const neighborhoodData = [
                 "lat": 33.915966182013,
                 "lng": -118.087596670677,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.915966182013,-118.087596670677",
+                "original_hood": "Norwalk"
+            },
+            {
+                "name": "Norwalk Historic Mural Site",
+                "description": "13523 Flatbush Avenue Norwalk, California 90650 MUSIC_ Rapper Eazy-E\u2019s FIRST House and Photoshoot LOCATION \u2013 Photoshoot by Chi Modu \u2013 Norwalk, California \u2013 1994 \u2013 ALL ABOUT LOS ANGELES.",
+                "type": "landmark",
+                "address": "13523 Flatbush Ave, Norwalk, California, 90650",
+                "lat": 33.907871443735,
+                "lng": -118.106155189735,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.907871443735,-118.106155189735",
                 "original_hood": "Norwalk"
             },
             {
@@ -19996,6 +21535,15 @@ const neighborhoodData = [
                 "lng": -118.3442955,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1915+Outpost+Dr%2C+Los+Angeles%2C+CA+90068",
                 "original_hood": "Outpost Estates"
+            },
+            {
+                "name": "Frank Lloyd Wright 'In the Hills'",
+                "address": "1962 Glencoe Way, Los Angeles, CA 90068",
+                "description": "A site associated with the Wright family's architectural influence in the Hollywood Hills, where organic design met Southern California's steep topography.",
+                "lat": 34.1065,
+                "lng": -118.3412,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1065,-118.3412"
             }
         ]
     },
@@ -20148,6 +21696,15 @@ const neighborhoodData = [
                 "lng": -118.5109942,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=14309+Sunset+Blvd%2C+Pacific+Palisades%2C+CA+90272",
                 "original_hood": "Pacific Palisades"
+            },
+            {
+                "name": "Riviera Neighborhood",
+                "address": "1116 Napoli Dr Pacific Palisades, CA 90272",
+                "description": "An address in one of the most prestigious neighborhoods in the Pacific Palisades, known for its scenic coastal views and architectural significance.",
+                "lat": 34.0485,
+                "lng": -118.4982,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0485,-118.4982"
             },
             {
                 "name": "SRF Lake Shrine",
@@ -20335,6 +21892,15 @@ const neighborhoodData = [
                 "original_hood": "Pacoima"
             },
             {
+                "name": "Hubert H. Humphrey Memorial Park Neighborhood",
+                "address": "10714 El Dorado Ave Pacoima, CA 91331",
+                "description": "A residential address near a major community park that has served as a center for social and political life in Pacoima for decades.",
+                "lat": 34.2654,
+                "lng": -118.4153,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2654,-118.4153"
+            },
+            {
                 "name": "Hubert H. Humphrey Recreation Center",
                 "description": "Park/Facility in Pacoima",
                 "type": "landmark",
@@ -20355,6 +21921,33 @@ const neighborhoodData = [
                 "original_hood": "Pacoima"
             },
             {
+                "name": "Pacoima Beautiful Headquarters",
+                "address": "11243 Glenoaks Boulevard, Pacoima, CA 91331",
+                "description": "The base for a prominent environmental justice organization that has led the revitalization and greening of the Northeast San Fernando Valley for decades.",
+                "lat": 34.2752,
+                "lng": -118.4112,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2752,-118.4112"
+            },
+            {
+                "name": "Pacoima Commercial Block",
+                "address": "10019 San Fernando Rd Pacoima, CA 91331",
+                "description": "A commercial site in one of the oldest neighborhoods in the San Fernando Valley, with roots in the area's agricultural past.",
+                "lat": 34.2525,
+                "lng": -118.4112,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2525,-118.4112"
+            },
+            {
+                "name": "Pacoima Transit Corridor",
+                "address": "10691 San Fernando Rd Pacoima, CA 91331",
+                "description": "A commercial site along the historic road that originally served as the main inland route through the San Fernando Valley.",
+                "lat": 34.2641,
+                "lng": -118.4132,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2641,-118.4132"
+            },
+            {
                 "name": "Richie Havens Mural",
                 "description": "A tribute to the folk icon, situated among the dense collection of street art that defines the neighborhood\u2019s visual identity.",
                 "type": "landmark",
@@ -20373,6 +21966,15 @@ const neighborhoodData = [
                 "lng": -118.4126232,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2403399,-118.4126232",
                 "original_hood": "Pacoima"
+            },
+            {
+                "name": "San Fernando Valley Regional Hub",
+                "address": "11555 Glenoaks Boulevard Pacoima, CA 91331",
+                "description": "A key commercial site in Pacoima, historically serving as a center for the local workforce in the Northeast Valley.",
+                "lat": 34.2815,
+                "lng": -118.4112,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2815,-118.4112"
             },
             {
                 "name": "StylesVille Barbershop",
@@ -20466,6 +22068,15 @@ const neighborhoodData = [
         "region": "Westside",
         "locations": [
             {
+                "name": "Cheviot Hills/Palms Area",
+                "address": "10640 Woodbine St Los Angeles, CA 90034",
+                "description": "A residential street near the historic Rancho Park and the Expo Line transit corridor, illustrating Westside urban density.",
+                "lat": 34.027,
+                "lng": -118.4116,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.027,-118.4116"
+            },
+            {
                 "name": "Moreton Bay Fig Tree",
                 "description": "A massive Ficus macrophylla with a canopy spanning over 150 feet, this remarkable tree was planted in the late 19th century and is one of the largest trees in Los Angeles. A living monument in the Palms/Mar Vista area.",
                 "type": "landmark",
@@ -20474,6 +22085,15 @@ const neighborhoodData = [
                 "lng": -118.425531,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=11000+National+Boulevard%2C+Los+Angeles%2C+CA+90064",
                 "original_hood": "Palms"
+            },
+            {
+                "name": "Palms Residential District",
+                "address": "10617 Woodbine St Los Angeles, CA 90034",
+                "description": "Located in one of LA's oldest annexed neighborhoods, this street features the mid-century multi-family residential architecture typical of the Westside.",
+                "lat": 34.0275,
+                "lng": -118.4111,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0275,-118.4111"
             },
             {
                 "name": "The 'Palms' Station Site",
@@ -20547,16 +22167,6 @@ const neighborhoodData = [
         "region": "San Fernando Valley",
         "locations": [
             {
-                "name": "Mia\u2019s Apartment (La La Land)",
-                "description": "Film: Mia\u2019s apartment in La La Land.",
-                "type": "landmark",
-                "address": "8404 Willis Ave, Panorama City, California, 91402",
-                "lat": 34.2235,
-                "lng": -118.4525,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2235,-118.4525",
-                "original_hood": "Panorama City"
-            },
-            {
                 "name": "Curacao (La Curacao)",
                 "description": "While technically on the border, its massive Mayan-inspired architecture is a visual landmark often used in transition shots to establish a San Fernando Valley setting.",
                 "type": "landmark",
@@ -20584,6 +22194,16 @@ const neighborhoodData = [
                 "lat": 34.2330371,
                 "lng": -118.4387332,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=9400+Woodman+Ave%2C+Panorama+City%2C+CA+91402",
+                "original_hood": "Panorama City"
+            },
+            {
+                "name": "Mia\u2019s Apartment (La La Land)",
+                "description": "Film: Mia\u2019s apartment in La La Land.",
+                "type": "landmark",
+                "address": "8404 Willis Ave, Panorama City, California, 91402",
+                "lat": 34.2235,
+                "lng": -118.4525,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2235,-118.4525",
                 "original_hood": "Panorama City"
             },
             {
@@ -20749,6 +22369,15 @@ const neighborhoodData = [
                 "lng": -118.2050823,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=8650+California+Ave%2C+South+Gate%2C+CA+90280",
                 "original_hood": "Paramount & South Gate"
+            },
+            {
+                "name": "South Gate Industrial Corridor",
+                "address": "10361 Atlantic Ave South Gate, CA 90280",
+                "description": "A commercial site on Atlantic Ave, a major industrial and transit thoroughfare in the Southeast Los Angeles region.",
+                "lat": 33.9415,
+                "lng": -118.1882,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9415,-118.1882"
             }
         ]
     },
@@ -20797,26 +22426,6 @@ const neighborhoodData = [
                 "original_hood": "Pasadena"
             },
             {
-                "name": "Wayne Manor (1960s Batman TV Series)",
-                "description": "Film: Stately Wayne Manor (exterior) in 1960s Batman.",
-                "type": "landmark",
-                "address": "1053 S San Rafael Ave, Pasadena, California, 91105",
-                "lat": 34.1285,
-                "lng": -118.1682,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1285,-118.1682",
-                "original_hood": "Pasadena"
-            },
-            {
-                "name": "Route 66 Historic Corridor",
-                "description": "Modest rooms in a straightforward budget property featuring free breakfast & an outdoor pool.",
-                "type": "landmark",
-                "address": "1633 E Colorado Blvd, Pasadena, California, 91106",
-                "lat": 34.146308216334,
-                "lng": -118.116723177078,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.146308216334,-118.116723177078",
-                "original_hood": "Pasadena"
-            },
-            {
                 "name": "2132 lyric",
                 "description": "",
                 "type": "landmark",
@@ -20824,36 +22433,6 @@ const neighborhoodData = [
                 "lat": 34.14289,
                 "lng": -118.144219,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.14289,-118.144219",
-                "original_hood": "Pasadena"
-            },
-            {
-                "name": "Pasadena Presbyterian Church",
-                "description": "Pasadena Presbyterian: Gothic Revival landmark.",
-                "type": "landmark",
-                "address": "600 E Colorado Blvd, Pasadena, CA 91101, USA",
-                "lat": 34.1458,
-                "lng": -118.1365,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1458,-118.1365",
-                "original_hood": "Pasadena"
-            },
-            {
-                "name": "The Little Rascals Greenhouse Site",
-                "description": "Film: Greenhouse site in The Little Rascals.",
-                "type": "landmark",
-                "address": "730 N Fair Oaks Ave, Pasadena, California, 91103",
-                "lat": 34.1565,
-                "lng": -118.1505,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1565,-118.1505",
-                "original_hood": "Pasadena"
-            },
-            {
-                "name": "Pie 'n Burger",
-                "description": "Established 1963; neighborhood staple serving classic burgers using recipes from the 1930s.",
-                "type": "landmark",
-                "address": "913 E California Blvd, Pasadena, California, 91106",
-                "lat": 34.1361,
-                "lng": -118.1314,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1361,-118.1314",
                 "original_hood": "Pasadena"
             },
             {
@@ -20914,6 +22493,15 @@ const neighborhoodData = [
                 "lng": -118.081545335279,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.165352822358,-118.081545335279",
                 "original_hood": "Pasadena"
+            },
+            {
+                "name": "Historic Bungalow Heaven",
+                "address": "1018 N Michigan Ave Pasadena, CA 91104",
+                "description": "Located in a designated landmark district, this address represents the quintessential Pasadena Craftsman bungalow era.",
+                "lat": 34.1615,
+                "lng": -118.1252,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1615,-118.1252"
             },
             {
                 "name": "Historic Old Pasadena Alleyway (Lost Parrot Cafe)",
@@ -20986,6 +22574,26 @@ const neighborhoodData = [
                 "original_hood": "Pasadena"
             },
             {
+                "name": "Pasadena Presbyterian Church",
+                "description": "Pasadena Presbyterian: Gothic Revival landmark.",
+                "type": "landmark",
+                "address": "600 E Colorado Blvd, Pasadena, CA 91101, USA",
+                "lat": 34.1458,
+                "lng": -118.1365,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1458,-118.1365",
+                "original_hood": "Pasadena"
+            },
+            {
+                "name": "Pie 'n Burger",
+                "description": "Established 1963; neighborhood staple serving classic burgers using recipes from the 1930s.",
+                "type": "landmark",
+                "address": "913 E California Blvd, Pasadena, California, 91106",
+                "lat": 34.1361,
+                "lng": -118.1314,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1361,-118.1314",
+                "original_hood": "Pasadena"
+            },
+            {
                 "name": "Puelicher House",
                 "description": "A striking 1960 modern residence designed by Boyd Georgi.",
                 "type": "landmark",
@@ -21003,6 +22611,16 @@ const neighborhoodData = [
                 "lat": 34.168911127131,
                 "lng": -118.134161465122,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.168911127131,-118.134161465122",
+                "original_hood": "Pasadena"
+            },
+            {
+                "name": "Route 66 Historic Corridor",
+                "description": "Modest rooms in a straightforward budget property featuring free breakfast & an outdoor pool.",
+                "type": "landmark",
+                "address": "1633 E Colorado Blvd, Pasadena, California, 91106",
+                "lat": 34.146308216334,
+                "lng": -118.116723177078,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.146308216334,-118.116723177078",
                 "original_hood": "Pasadena"
             },
             {
@@ -21046,6 +22664,15 @@ const neighborhoodData = [
                 "original_hood": "Pasadena"
             },
             {
+                "name": "The Home of Albert Einstein",
+                "address": "707 South Oakland Street, Pasadena, CA 91106",
+                "description": "The residence where Albert Einstein lived during his winter terms as a visiting professor at Caltech in the early 1930s.",
+                "lat": 34.1352,
+                "lng": -118.1382,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1352,-118.1382"
+            },
+            {
                 "name": "The Huntington Medical Research Institutes (HMRI)",
                 "description": "The Huntington Medical Research Institutes (HMRI), a globally recognized non-profit biomedical research organization. Since its founding in 1952, it has been a pioneer in medical imaging and neurological research.",
                 "type": "landmark",
@@ -21063,6 +22690,16 @@ const neighborhoodData = [
                 "lat": 34.149188154447,
                 "lng": -118.167475433167,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.149188154447,-118.167475433167",
+                "original_hood": "Pasadena"
+            },
+            {
+                "name": "The Little Rascals Greenhouse Site",
+                "description": "Film: Greenhouse site in The Little Rascals.",
+                "type": "landmark",
+                "address": "730 N Fair Oaks Ave, Pasadena, California, 91103",
+                "lat": 34.1565,
+                "lng": -118.1505,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1565,-118.1505",
                 "original_hood": "Pasadena"
             },
             {
@@ -21094,6 +22731,25 @@ const neighborhoodData = [
                 "lng": -118.1115965,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1881+Las+Lunas+St%2C+Pasadena%2C+CA+91107",
                 "original_hood": "Pasadena"
+            },
+            {
+                "name": "Wayne Manor (1960s Batman TV Series)",
+                "description": "Film: Stately Wayne Manor (exterior) in 1960s Batman.",
+                "type": "landmark",
+                "address": "1053 S San Rafael Ave, Pasadena, California, 91105",
+                "lat": 34.1285,
+                "lng": -118.1682,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1285,-118.1682",
+                "original_hood": "Pasadena"
+            },
+            {
+                "name": "Whispering Waters",
+                "address": "1000 Cordova St Pasadena, CA 91106",
+                "description": "A notable mid-century modern condominium garden complex that is an exemplar of 1960s Pasadena residential design.",
+                "lat": 34.143,
+                "lng": -118.1278,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.143,-118.1278"
             }
         ]
     },
@@ -21257,6 +22913,15 @@ const neighborhoodData = [
                 "original_hood": "Pico Rivera"
             },
             {
+                "name": "Whittier Commercial Corridor",
+                "address": "11048 Washington Blvd Whittier, CA 90606",
+                "description": "A long-standing retail and automotive site serving the suburban communities of the eastern San Gabriel Valley.",
+                "lat": 33.9852,
+                "lng": -118.0682,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9852,-118.0682"
+            },
+            {
                 "name": "Whitwood-Pico Crossing (Ghost Site)",
                 "description": "A significant geographic intersection marking the boundary lines of the original 19th-century Spanish land grants.",
                 "type": "historical",
@@ -21292,6 +22957,15 @@ const neighborhoodData = [
                 "lng": -118.2756133,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1528+W+Pico+Blvd%2C+Los+Angeles%2C+CA+90015",
                 "original_hood": "Pico Union"
+            },
+            {
+                "name": "El Salvador Community Corridor",
+                "address": "El Salvador Community Corridor Los Angeles, CA 90006",
+                "description": "A designated cultural district along Vermont Avenue that honors the heritage and contributions of the Salvadoran community in Los Angeles.",
+                "lat": 34.0531,
+                "lng": -118.2915,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0531,-118.2915"
             },
             {
                 "name": "La Flor de Yucatan Mayan Bakery",
@@ -21331,36 +23005,6 @@ const neighborhoodData = [
         "region": "Central L.A.",
         "locations": [
             {
-                "name": "El Parian",
-                "description": "A renowned, family-run Mexican restaurant celebrated for its authentic Jalisco-style birria. It is frequently praised for its rich, oily goat stew and handmade tortillas, serving large, affordable portions in a casual, rustic setting near Pico-Union.",
-                "type": "landmark",
-                "address": "1528 W. Pico Blvd, Los Angeles, CA",
-                "lat": 34.0439609,
-                "lng": -118.2756133,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0439609,-118.2756133",
-                "original_hood": "Pico-Union"
-            },
-            {
-                "name": "Dino's Famous Chicken",
-                "description": "An iconic Los Angeles institution serving up legendary charbroiled chicken, renowned for its secret, bright red marinade and massive pile of french fries soaking up the juices. A true immigrant success story and an unpretentious culinary landmark.",
-                "type": "landmark",
-                "address": "2575 W Pico Blvd, Los Angeles, CA 90006",
-                "lat": 34.0474552,
-                "lng": -118.2939405,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0474552,-118.2939405",
-                "original_hood": "Pico-Union"
-            },
-            {
-                "name": "The Night Stalker (Ramirez Stalking Site)",
-                "description": "Crime: Stalking ground of the Night Stalker (Richard Ramirez).",
-                "type": "landmark",
-                "address": "1330 W Pico Blvd, Los Angeles, CA 90015",
-                "lat": 34.0392,
-                "lng": -118.2745,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0392,-118.2745",
-                "original_hood": "Pico-Union"
-            },
-            {
                 "name": "Alcoholism Center for Women",
                 "description": "Historic recovery center and support facility.",
                 "type": "landmark",
@@ -21372,12 +23016,12 @@ const neighborhoodData = [
             },
             {
                 "name": "Alvarado Terrace Historic District",
-                "description": "A designated historic district featuring a stunning, intact collection of turn-of-the-century mansions perched on a curving terrace.",
+                "description": "A residential street near a designated historic district known for its grand turn-of-the-century mansions.",
                 "type": "sub-neighborhood",
-                "address": "",
-                "lat": 34.04501,
-                "lng": -118.28119,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=Alvarado+Terrace+Historic+District",
+                "address": "1051 S Alvarado St Los Angeles, CA 90006",
+                "lat": 34.0531,
+                "lng": -118.2815,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0531,-118.2815",
                 "original_hood": "Pico-Union"
             },
             {
@@ -21401,6 +23045,16 @@ const neighborhoodData = [
                 "original_hood": "Pico-Union"
             },
             {
+                "name": "Dino's Famous Chicken",
+                "description": "An iconic Los Angeles institution serving up legendary charbroiled chicken, renowned for its secret, bright red marinade and massive pile of french fries soaking up the juices. A true immigrant success story and an unpretentious culinary landmark.",
+                "type": "landmark",
+                "address": "2575 W Pico Blvd, Los Angeles, CA 90006",
+                "lat": 34.0474552,
+                "lng": -118.2939405,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0474552,-118.2939405",
+                "original_hood": "Pico-Union"
+            },
+            {
                 "name": "Doria Apartments (HCM #432)",
                 "description": "A three-and-a-half-story Mission Revival building built in 1905, designed by Gotfred Hanson for prominent community member Doria Deighton Jones.",
                 "type": "historical",
@@ -21408,6 +23062,16 @@ const neighborhoodData = [
                 "lat": 34.0455,
                 "lng": -118.2785,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0455,-118.2785",
+                "original_hood": "Pico-Union"
+            },
+            {
+                "name": "El Parian",
+                "description": "A renowned, family-run Mexican restaurant celebrated for its authentic Jalisco-style birria. It is frequently praised for its rich, oily goat stew and handmade tortillas, serving large, affordable portions in a casual, rustic setting near Pico-Union.",
+                "type": "landmark",
+                "address": "1528 W. Pico Blvd, Los Angeles, CA",
+                "lat": 34.0439609,
+                "lng": -118.2756133,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0439609,-118.2756133",
                 "original_hood": "Pico-Union"
             },
             {
@@ -21421,6 +23085,15 @@ const neighborhoodData = [
                 "original_hood": "Pico-Union"
             },
             {
+                "name": "Pico-Union Historic District",
+                "address": "1066 S Bonnie Brae St Los Angeles, CA 90006",
+                "description": "A residential address in a neighborhood famed for its dense collection of late-Victorian and Queen Anne-style mansions.",
+                "lat": 34.0481,
+                "lng": -118.28,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0481,-118.28"
+            },
+            {
                 "name": "Plaza Centroamericana Francisco Moraz\u00e1n",
                 "description": "Plaza Centroamericana Francisco Moraz\u00e1n.",
                 "type": "landmark",
@@ -21428,6 +23101,16 @@ const neighborhoodData = [
                 "lat": 34.0506467,
                 "lng": -118.2700606,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0506467,-118.2700606",
+                "original_hood": "Pico-Union"
+            },
+            {
+                "name": "The Night Stalker (Ramirez Stalking Site)",
+                "description": "Crime: Stalking ground of the Night Stalker (Richard Ramirez).",
+                "type": "landmark",
+                "address": "1330 W Pico Blvd, Los Angeles, CA 90015",
+                "lat": 34.0392,
+                "lng": -118.2745,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0392,-118.2745",
                 "original_hood": "Pico-Union"
             }
         ]
@@ -21501,6 +23184,15 @@ const neighborhoodData = [
         "name": "Playa Vista",
         "region": "Westside",
         "locations": [
+            {
+                "name": "Google Spruce Goose (Playa Vista Campus)",
+                "address": "5865 S Campus Center Dr, Playa Vista, CA 90094",
+                "description": "A landmark of adaptive reuse, transforming Howard Hughes' historic 1943 aviation hangar \u2014 originally built to house the H-4 Hercules 'Spruce Goose' wooden aircraft \u2014 into a massive 450,000 sq ft modern workspace for Google, redesigned by ZGF Architects in 2018. The structure is one of the largest clear-span wooden buildings ever constructed, built with 75-foot glulam (glued-laminated) arches due to WWII steel shortages. Before Google, the space served as a film soundstage for Titanic and Avatar. The interior employs a 'building-within-a-building' concept with four terraced floor plates, a central 'boardwalk,' and 'The Ghost of the Goose,' a sculpture of 2,800 suspended steel balls shaped like the original aircraft. The exterior features a forest of 700 poplar trees for phytoremediation.",
+                "lat": 33.9775,
+                "lng": -118.4185,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9775,-118.4185"
+            },
             {
                 "name": "Nike",
                 "description": "Nike",
@@ -21818,14 +23510,13 @@ const neighborhoodData = [
                 "original_hood": "Reseda"
             },
             {
-                "name": "The Foster House (Lloyd Wright Design)",
-                "description": "",
-                "type": "landmark",
-                "address": "7400 Tampa Ave, Reseda, California, 91335",
-                "lat": 34.205020807779,
-                "lng": -118.553160744977,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.205020807779,-118.553160744977",
-                "original_hood": "Reseda"
+                "name": "Lloyd Wright Residence (Reseda)",
+                "address": "7400 Tampa Avenue, Reseda, CA 91335",
+                "description": "A residential structure in the San Fernando Valley associated with the work of Lloyd Wright (Frank Lloyd Wright Jr.), known for his dramatic organic architecture.",
+                "lat": 34.2052,
+                "lng": -118.5535,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2052,-118.5535"
             },
             {
                 "name": "Reseda Park",
@@ -21845,6 +23536,16 @@ const neighborhoodData = [
                 "lat": 34.2143051,
                 "lng": -118.5361677,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=7923+Reseda+Blvd%2C+Reseda%2C+CA+91335",
+                "original_hood": "Reseda"
+            },
+            {
+                "name": "The Foster House (Lloyd Wright Design)",
+                "description": "",
+                "type": "landmark",
+                "address": "7400 Tampa Ave, Reseda, California, 91335",
+                "lat": 34.205020807779,
+                "lng": -118.553160744977,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.205020807779,-118.553160744977",
                 "original_hood": "Reseda"
             },
             {
@@ -22112,16 +23813,6 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "San Gabriel Mission District",
-                "description": "Delivery/carryout chain offering a wide range of pizzas & a variety of other dishes & sides.",
-                "type": "landmark",
-                "address": "413 W Las Tunas Dr, San Gabriel, California, 91776",
-                "lat": 34.10268099704,
-                "lng": -118.104820036378,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10268099704,-118.104820036378",
-                "original_hood": "San Gabriel"
-            },
-            {
                 "name": "Blossom Market Hall",
                 "description": "An adaptive re-use of a 1949 Masonic Lodge, now serving as a modern communal hub in the historic Mission District.",
                 "type": "neighborhood-favorite",
@@ -22153,12 +23844,12 @@ const neighborhoodData = [
             },
             {
                 "name": "Mission San Gabriel Arc\u00e1ngel",
-                "description": "Historic Spanish mission founded in 1771.",
+                "description": "Founded on September 8, 1771, by Franciscan friars, this is the 4th of 21 California missions and the oldest structure in Los Angeles County. Known as the \"birthplace\" of the region, it was vital to local Spanish colonization, supporting the founding of Los Angeles in 1781.",
                 "type": "landmark",
-                "address": "428 S Mission Dr, San Gabriel, CA 91776",
-                "lat": 34.096976064191,
-                "lng": -118.106566154448,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=428+S+Mission+Dr,+San+Gabriel,+CA+91776",
+                "address": "428 S. Mission Dr, San Gabriel, CA 91776",
+                "lat": 34.0967,
+                "lng": -118.1068,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0967,-118.1068",
                 "original_hood": "San Gabriel"
             },
             {
@@ -22169,6 +23860,16 @@ const neighborhoodData = [
                 "lat": 34.1068803,
                 "lng": -118.1114278,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=312+Mission+Dr%2C+San+Gabriel%2C+CA+91776",
+                "original_hood": "San Gabriel"
+            },
+            {
+                "name": "San Gabriel Mission District",
+                "description": "Delivery/carryout chain offering a wide range of pizzas & a variety of other dishes & sides.",
+                "type": "landmark",
+                "address": "413 W Las Tunas Dr, San Gabriel, California, 91776",
+                "lat": 34.10268099704,
+                "lng": -118.104820036378,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10268099704,-118.104820036378",
                 "original_hood": "San Gabriel"
             },
             {
@@ -22215,6 +23916,15 @@ const neighborhoodData = [
                 "original_hood": "San Marino"
             },
             {
+                "name": "Huntington Drive Corridor",
+                "address": "1110 Huntington Drive San Marino, CA 91108",
+                "description": "A major thoroughfare in San Marino, historically a route for the Pacific Electric \"Red Cars\" connecting Pasadena to Downtown LA.",
+                "lat": 34.1201,
+                "lng": -118.1125,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1201,-118.1125"
+            },
+            {
                 "name": "Tony\u2019s Pizza",
                 "description": "Local pizzeria on Huntington Dr.",
                 "type": "landmark",
@@ -22237,16 +23947,6 @@ const neighborhoodData = [
         "name": "San Pedro",
         "region": "South Bay / Harbor District",
         "locations": [
-            {
-                "name": "Terminal Island Docks (Dexter Filming Site)",
-                "description": "Film: Dock scenes for The Usual Suspects and Dexter.",
-                "type": "landmark",
-                "address": "1124 S Seaside Ave, San Pedro, California, 90731",
-                "lat": 33.7225,
-                "lng": -118.2705,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7225,-118.2705",
-                "original_hood": "San Pedro"
-            },
             {
                 "name": "700 WPaseo Del Mar San Pedro, CA",
                 "description": "700 W Paseo Del Mar San Pedro, CA 90731 3.",
@@ -22358,6 +24058,15 @@ const neighborhoodData = [
                 "original_hood": "San Pedro"
             },
             {
+                "name": "Norwegian Seamen's Church",
+                "address": "1035 S Beacon St San Pedro, CA 90731",
+                "description": "A unique religious and cultural landmark serving the Scandinavian community and maritime workers of the Port of Los Angeles since the 1940s.",
+                "lat": 33.7345,
+                "lng": -118.2815,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7345,-118.2815"
+            },
+            {
                 "name": "Peck Park",
                 "description": "Park/Facility in San Pedro",
                 "type": "landmark",
@@ -22398,6 +24107,16 @@ const neighborhoodData = [
                 "original_hood": "San Pedro"
             },
             {
+                "name": "Point Fermin Park (Some Kind of Wonderful)",
+                "description": "The location of the \"art gallery\" date and the final emotional showdown.",
+                "type": "landmark",
+                "address": "707 W. Paseo Del Mar",
+                "lat": 33.7055,
+                "lng": -118.2935,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7055,-118.2935",
+                "original_hood": "San Pedro"
+            },
+            {
                 "name": "Saint Peter's Episcopal Church",
                 "description": "A historic Episcopal church serving the San Pedro waterfront community, reflecting the deep religious and cultural life of this working-class port neighborhood.",
                 "type": "landmark",
@@ -22428,6 +24147,16 @@ const neighborhoodData = [
                 "original_hood": "San Pedro"
             },
             {
+                "name": "Terminal Island Docks (Dexter Filming Site)",
+                "description": "This memorial honors a thriving community of over 3,000 Japanese Americans forcibly removed and interned after Pearl Harbor. The memorial highlights the lost \"Furusato\" (hometown) and the community's role in establishing America's tuna industry. Located in the heart of the Port of Los Angeles, this area is historic for its connection to the fishing and canning industries of \"Fish Harbor.\"",
+                "type": "landmark",
+                "address": "1124 S Seaside Ave, San Pedro, CA 90731",
+                "lat": 33.7252,
+                "lng": -118.2685,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7252,-118.2685",
+                "original_hood": "San Pedro"
+            },
+            {
                 "name": "The Ghost Tracks",
                 "description": "Remnants of the Pacific Electric Railway tracks that once ran along the bluff, now twisted and ending abruptly at the cliff edge.",
                 "type": "historical",
@@ -22435,6 +24164,16 @@ const neighborhoodData = [
                 "lat": 33.7057968,
                 "lng": -118.2892812,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7057968,-118.2892812",
+                "original_hood": "San Pedro"
+            },
+            {
+                "name": "The Usual Suspects Police Station Site",
+                "description": "Film: Police station in The Usual Suspects.",
+                "type": "landmark",
+                "address": "1035 S Beacon St",
+                "lat": 33.7352,
+                "lng": -118.2815,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7352,-118.2815",
                 "original_hood": "San Pedro"
             },
             {
@@ -22475,26 +24214,6 @@ const neighborhoodData = [
                 "lat": 33.738868848299,
                 "lng": -118.287423401274,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=478+W+6th+St",
-                "original_hood": "San Pedro"
-            },
-            {
-                "name": "The Usual Suspects Police Station Site",
-                "description": "Film: Police station in The Usual Suspects.",
-                "type": "landmark",
-                "address": "1035 S Beacon St",
-                "lat": 33.7352,
-                "lng": -118.2815,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7352,-118.2815",
-                "original_hood": "San Pedro"
-            },
-            {
-                "name": "Point Fermin Park (Some Kind of Wonderful)",
-                "description": "The location of the \"art gallery\" date and the final emotional showdown.",
-                "type": "landmark",
-                "address": "707 W. Paseo Del Mar",
-                "lat": 33.7055,
-                "lng": -118.2935,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7055,-118.2935",
                 "original_hood": "San Pedro"
             }
         ]
@@ -22607,16 +24326,6 @@ const neighborhoodData = [
         "region": "Northwest County",
         "locations": [
             {
-                "name": "Rolling Thunder Ranch",
-                "description": "A specialized Canyon Country ranch housing exotic animals and local fauna.",
-                "type": "subcultural",
-                "address": "16163 Sierra Hwy, Canyon Country, CA 91390",
-                "lat": 34.4149982,
-                "lng": -118.4564766,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=16163+Sierra+Hwy%2C+Canyon+Country%2C+CA+91390",
-                "original_hood": "Santa Clarita & Canyon Country"
-            },
-            {
                 "name": "Original Saugus Caf\u00e9",
                 "description": "Opened in 1886; the oldest continuously operating restaurant in LA County.",
                 "type": "historical",
@@ -22624,6 +24333,16 @@ const neighborhoodData = [
                 "lat": 34.3917,
                 "lng": -118.5283,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.3917,-118.5283",
+                "original_hood": "Santa Clarita & Canyon Country"
+            },
+            {
+                "name": "Rolling Thunder Ranch",
+                "description": "A specialized Canyon Country ranch housing exotic animals and local fauna.",
+                "type": "subcultural",
+                "address": "16163 Sierra Hwy, Canyon Country, CA 91390",
+                "lat": 34.4149982,
+                "lng": -118.4564766,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=16163+Sierra+Hwy%2C+Canyon+Country%2C+CA+91390",
                 "original_hood": "Santa Clarita & Canyon Country"
             }
         ]
@@ -22650,26 +24369,6 @@ const neighborhoodData = [
         "name": "Santa Monica",
         "region": "Westside",
         "locations": [
-            {
-                "name": "The Dude\u2019s Apartment (The Big Lebowski)",
-                "description": "Film: The Dude\u2019s apartment in The Big Lebowski.",
-                "type": "landmark",
-                "address": "140 Hollister Ave, Santa Monica, California, 90405",
-                "lat": 34.0042,
-                "lng": -118.4865,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0042,-118.4865",
-                "original_hood": "Santa Monica"
-            },
-            {
-                "name": "The Georgian Hotel (Art Deco Landmark)",
-                "description": "The Georgian Hotel; 1933 Art Deco landmark.",
-                "type": "landmark",
-                "address": "1450 Ocean Ave, Santa Monica, California, 90401",
-                "lat": 34.0125,
-                "lng": -118.4952,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0125,-118.4952",
-                "original_hood": "Santa Monica"
-            },
             {
                 "name": "1619 wilshire santa monica",
                 "description": "Location of a notable British shop.",
@@ -22698,16 +24397,6 @@ const neighborhoodData = [
                 "lat": 34.013355012989,
                 "lng": -118.465940001638,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.013355012989,-118.465940001638",
-                "original_hood": "Santa Monica"
-            },
-            {
-                "name": "Mrs. Robinson\u2019s House (The Graduate)",
-                "description": "Film: Mrs. Robinson\u2019s house in The Graduate.",
-                "type": "landmark",
-                "address": "201 Entrada Dr, Santa Monica, California, 90402",
-                "lat": 34.0295,
-                "lng": -118.5145,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0295,-118.5145",
                 "original_hood": "Santa Monica"
             },
             {
@@ -22791,6 +24480,55 @@ const neighborhoodData = [
                 "original_hood": "Santa Monica"
             },
             {
+                "name": "Gold Coast Beachfront",
+                "address": "1038 Palisades Beach Rd Santa Monica, CA 90403",
+                "description": "Situated along the \"Gold Coast,\" this area was home to Hollywood royalty in the 1930s, including stars like Cary Grant and Douglas Fairbanks.",
+                "lat": 34.0215,
+                "lng": -118.5032,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0215,-118.5032"
+            },
+            {
+                "name": "Mrs. Robinson\u2019s House (The Graduate)",
+                "description": "Film: Mrs. Robinson\u2019s house in The Graduate.",
+                "type": "landmark",
+                "address": "201 Entrada Dr, Santa Monica, California, 90402",
+                "lat": 34.0295,
+                "lng": -118.5145,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0295,-118.5145",
+                "original_hood": "Santa Monica"
+            },
+            {
+                "name": "The Dude\u2019s Apartment (The Big Lebowski)",
+                "description": "Film: The Dude\u2019s apartment in The Big Lebowski.",
+                "type": "landmark",
+                "address": "140 Hollister Ave, Santa Monica, California, 90405",
+                "lat": 34.0042,
+                "lng": -118.4865,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0042,-118.4865",
+                "original_hood": "Santa Monica"
+            },
+            {
+                "name": "The Galley",
+                "description": "Opened 1934; Santa Monica's oldest restaurant, featuring a nautical, pirate-themed interior.",
+                "type": "landmark",
+                "address": "2442 Main St, Santa Monica, CA",
+                "lat": 34.0034,
+                "lng": -118.485,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0034,-118.485",
+                "original_hood": "Santa Monica"
+            },
+            {
+                "name": "The Georgian Hotel (Art Deco Landmark)",
+                "description": "The Georgian Hotel; 1933 Art Deco landmark.",
+                "type": "landmark",
+                "address": "1450 Ocean Ave, Santa Monica, California, 90401",
+                "lat": 34.0125,
+                "lng": -118.4952,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0125,-118.4952",
+                "original_hood": "Santa Monica"
+            },
+            {
                 "name": "The John Entenza House",
                 "description": "Architect: Harwell Hamilton Harris\n\nArchitectural Style: Early California Modernism\n\nThe History: This is a pivotal site in architectural history. It was the residence of John Entenza, the editor of Arts & Architecture magazine, who collaborated here with Charles and Ray Eames to create the world-famous Case Study House Program in 1945.\n\nKey Architectural Features: The home is known for its \"scenographic\" design, intended to feel like a film set. It features a unique carport with an outdoor shower and a seamless integration between the interior and the lush canyon landscape.",
                 "type": "landmark",
@@ -22810,16 +24548,6 @@ const neighborhoodData = [
                 "lng": -118.4965,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0152,-118.4965",
                 "original_hood": "Santa Monica"
-            },
-            {
-                "name": "The Galley",
-                "description": "Opened 1934; Santa Monica's oldest restaurant, featuring a nautical, pirate-themed interior.",
-                "type": "landmark",
-                "address": "2442 Main St, Santa Monica, CA",
-                "lat": 34.0034,
-                "lng": -118.485,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0034,-118.485",
-                "original_hood": "Santa Monica"
             }
         ]
     },
@@ -22828,6 +24556,15 @@ const neighborhoodData = [
         "name": "Santa Monica Mountains",
         "region": "Santa Monica Mountains",
         "locations": [
+            {
+                "name": "Federal Building (Westwood)",
+                "address": "11000 Wilshire Blvd Los Angeles, CA 90024",
+                "description": "A massive government complex that serves as the regional headquarters for the FBI and other federal agencies, also known for being a major site for political protests.",
+                "lat": 34.0552,
+                "lng": -118.4452,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0552,-118.4452"
+            },
             {
                 "name": "Santa Monica Mountains",
                 "description": "Property Type: Mountain_Range",
@@ -22893,6 +24630,15 @@ const neighborhoodData = [
                 "original_hood": "Sawtelle"
             },
             {
+                "name": "Rancho Park/Westside Corridor",
+                "address": "11751 W Pico Blvd Los Angeles, CA 90064",
+                "description": "A commercial site located near the historic Westside Pavilion area, reflecting the neighborhood's mid-century retail history.",
+                "lat": 34.0348,
+                "lng": -118.4415,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0348,-118.4415"
+            },
+            {
                 "name": "Sawtelle Boulevard Commercial Strip",
                 "description": "A vertical culinary corridor that preserves the 'human scale' of pre-war Westside development.",
                 "type": "landmark",
@@ -22901,6 +24647,24 @@ const neighborhoodData = [
                 "lng": -118.4301482,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0246327,-118.4301482",
                 "original_hood": "Sawtelle"
+            },
+            {
+                "name": "West LA Retail Zone",
+                "address": "11755 W Pico Blvd Los Angeles, CA 90064",
+                "description": "Another entry for the busy Pico corridor, representing the dense small-business ecosystem of the Westside.",
+                "lat": 34.0345,
+                "lng": -118.4422,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0345,-118.4422"
+            },
+            {
+                "name": "Westside Commercial Block",
+                "address": "11731 West Pico Boulevard Los Angeles, CA 90064",
+                "description": "A typical example of the post-war commercial development along Pico Blvd that served the expanding Westside middle-class residential tracts.",
+                "lat": 34.0355,
+                "lng": -118.4402,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0355,-118.4402"
             }
         ]
     },
@@ -22932,16 +24696,6 @@ const neighborhoodData = [
         "name": "Sherman Oaks",
         "region": "San Fernando Valley",
         "locations": [
-            {
-                "name": "The Karate Kid Strip Mall",
-                "description": "Film: The strip mall from The Karate Kid.",
-                "type": "landmark",
-                "address": "13435 Ventura Blvd, Sherman Oaks, California, 91423",
-                "lat": 34.1475,
-                "lng": -118.4255,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1475,-118.4255",
-                "original_hood": "Sherman Oaks"
-            },
             {
                 "name": "AIM Healthcare",
                 "description": "Healthcare facility on Van Nuys Blvd.",
@@ -23110,6 +24864,16 @@ const neighborhoodData = [
                 "lat": 34.1495,
                 "lng": -118.3755,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1495,-118.3755",
+                "original_hood": "Sherman Oaks"
+            },
+            {
+                "name": "The Karate Kid Strip Mall",
+                "description": "Film: The strip mall from The Karate Kid.",
+                "type": "landmark",
+                "address": "13435 Ventura Blvd, Sherman Oaks, California, 91423",
+                "lat": 34.1475,
+                "lng": -118.4255,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1475,-118.4255",
                 "original_hood": "Sherman Oaks"
             },
             {
@@ -23328,12 +25092,12 @@ const neighborhoodData = [
             },
             {
                 "name": "Bubeshko Apartments",
-                "description": "A brilliant integration of Greek hillside architecture and modernism by Rudolph Schindler.",
+                "description": "A series of split-level apartment buildings (1938\u20131941) by Rudolph Schindler that allowed each unit a private terrace and a view \u2014 a radical idea for urban living at the time. A key piece of Silver Lake's architectural history.",
                 "type": "architecture",
                 "address": "2036 Griffith Park Blvd, Los Angeles, CA 90039",
-                "lat": 34.0978303,
-                "lng": -118.2734254,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0978303,-118.2734254",
+                "lat": 34.0952,
+                "lng": -118.2735,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0952,-118.2735",
                 "original_hood": "Silver Lake"
             },
             {
@@ -23418,12 +25182,12 @@ const neighborhoodData = [
             },
             {
                 "name": "Droste House (R.M. Schindler)",
-                "description": "Residential design by Viennese modernist architect R.M. Schindler.",
+                "description": "A 1940 design by Schindler that perfectly illustrates his \"Space Architecture\" philosophy, focusing on the use of shadows and light to define living areas.",
                 "type": "landmark",
-                "address": "2025 Kenilworth Ave, Los Angeles, CA",
-                "lat": 34.095932014331,
-                "lng": -118.267803880511,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2025+Kenilworth+Ave,+Los+Angeles,+CA",
+                "address": "2025 Kenilworth Avenue, Los Angeles, CA 90039",
+                "lat": 34.0985,
+                "lng": -118.2682,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0985,-118.2682",
                 "original_hood": "Silver Lake"
             },
             {
@@ -23768,12 +25532,12 @@ const neighborhoodData = [
             },
             {
                 "name": "McIntosh House (Richard Neutra)",
-                "description": "Residential design by Richard Neutra on Maltman Ave.",
+                "description": "A residential project by world-renowned architect Richard Neutra, an exemplar of the California Modernist movement.",
                 "type": "landmark",
-                "address": "1317 Maltman Ave, Los Angeles, CA",
-                "lat": 34.08687193137,
-                "lng": -118.279104194734,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1317+Maltman+Ave,+Los+Angeles,+CA",
+                "address": "1317 Maltman Ave, Los Angeles, CA 90026",
+                "lat": 34.0885,
+                "lng": -118.2752,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0885,-118.2752",
                 "original_hood": "Silver Lake"
             },
             {
@@ -23997,6 +25761,15 @@ const neighborhoodData = [
                 "original_hood": "Silver Lake"
             },
             {
+                "name": "Silver Lake Creative Corridor",
+                "address": "1062 Hyperion Ave Los Angeles, CA 90029",
+                "description": "Situated near the historic Hyperion Bridge and the former site of Walt Disney's first major studio, this area is a long-standing center for LA's artistic community.",
+                "lat": 34.0913,
+                "lng": -118.2801,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0913,-118.2801"
+            },
+            {
                 "name": "Silver Lake Recreation Center",
                 "description": "Park/Facility in Silver Lake",
                 "type": "landmark",
@@ -24165,6 +25938,15 @@ const neighborhoodData = [
                 "lng": -118.2675758,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1068848,-118.2675758",
                 "original_hood": "Silver Lake"
+            },
+            {
+                "name": "The Dov Charney Mansion",
+                "address": "1809 Apex Ave, Los Angeles, CA 90026",
+                "description": "The massive 12,000-square-foot Silver Lake estate of the American Apparel founder, known for its brutalist architecture and expansive views.",
+                "lat": 34.0885,
+                "lng": -118.2682,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0885,-118.2682"
             },
             {
                 "name": "The Foot Clinic",
@@ -24493,6 +26275,25 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
+                "name": "Andie\u2019s House (Pretty in Pink)",
+                "description": "Located right next to the tracks to emphasize she lived on the \"wrong side.\"",
+                "type": "landmark",
+                "address": "1015 E. Hope St",
+                "lat": 34.1132,
+                "lng": -118.1365,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1132,-118.1365",
+                "original_hood": "South Pasadena"
+            },
+            {
+                "name": "Arroyo Seco Park Access",
+                "address": "1055 Lohman Lane South Pasadena, CA 91030",
+                "description": "A residential street providing access to the expansive parklands that run through the historic Arroyo Seco corridor.",
+                "lat": 34.1115,
+                "lng": -118.1612,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1115,-118.1612"
+            },
+            {
                 "name": "Camille DePedrini",
                 "description": "Local boutique on Mission St.",
                 "type": "landmark",
@@ -24582,6 +26383,15 @@ const neighborhoodData = [
                 "original_hood": "South Pasadena"
             },
             {
+                "name": "Mission District Residential",
+                "address": "1027 Montrose Ave South Pasadena, CA 91030",
+                "description": "A historic street in South Pasadena known for its exceptionally well-preserved Craftsman bungalows from the early 1900s.",
+                "lat": 34.1141,
+                "lng": -118.1525,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1141,-118.1525"
+            },
+            {
                 "name": "Pee-wee Herman's House (Pee-wee's Big Adventure)",
                 "description": "Recognizable to fans as the exterior of Pee-wee Herman\u2019s house in the 1985 film Pee-wee's Big Adventure. The house features the quintessential \"small-town\" look that director Tim Burton sought for the character.",
                 "type": "landmark",
@@ -24602,6 +26412,15 @@ const neighborhoodData = [
                 "original_hood": "South Pasadena"
             },
             {
+                "name": "South Pasadena Mission District",
+                "address": "1115 Oxley St South Pasadena, CA 91030",
+                "description": "A residential street near the historic mission-style railway station, characterized by well-preserved early 20th-century homes.",
+                "lat": 34.1145,
+                "lng": -118.1512,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1145,-118.1512"
+            },
+            {
                 "name": "South Pasadena War Memorial Building",
                 "description": "The South Pasadena War Memorial Building. Constructed in 1923, this rustic, shingle-style landmark serves as a tribute to WWI veterans. It features a tree planted by General Pershing and historic cannons on the grounds.",
                 "type": "landmark",
@@ -24620,6 +26439,15 @@ const neighborhoodData = [
                 "lng": -118.154693952834,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1108+Mission+St,+South+Pasadena,+CA+91030",
                 "original_hood": "South Pasadena"
+            },
+            {
+                "name": "Steff\u2019s House from Pretty in Pink",
+                "address": "1010 Hope Street South Pasadena, CA 91030",
+                "description": "The filming location for the home of James Spader\u2019s character in the 1986 classic film, representing the \"rich kid\" lifestyle of the era.",
+                "lat": 34.1165,
+                "lng": -118.1502,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1165,-118.1502"
             },
             {
                 "name": "The Garfield House (Greene & Greene)",
@@ -24692,22 +26520,12 @@ const neighborhoodData = [
             },
             {
                 "name": "The Rialto Theatre",
-                "description": "The Rialto Theatre, a 1925 Baroque-style movie palace that appeared in The Player and the premiere of \"Stab\" in Scream 2.",
+                "description": "A 1925 Moorish/Egyptian style movie palace and National Historic Landmark that has appeared in films like La La Land and Scream 2.",
                 "type": "landmark",
-                "address": "1023 Fair Oaks Ave, South Pasadena, California, 91030",
-                "lat": 34.114534013958,
-                "lng": -118.150513981539,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.114534013958,-118.150513981539",
-                "original_hood": "South Pasadena"
-            },
-            {
-                "name": "Andie\u2019s House (Pretty in Pink)",
-                "description": "Located right next to the tracks to emphasize she lived on the \"wrong side.\"",
-                "type": "landmark",
-                "address": "1015 E. Hope St",
-                "lat": 34.1132,
-                "lng": -118.1365,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1132,-118.1365",
+                "address": "1023 Fair Oaks Avenue South Pasadena, CA 91030",
+                "lat": 34.1158,
+                "lng": -118.1501,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1158,-118.1501",
                 "original_hood": "South Pasadena"
             }
         ]
@@ -24717,6 +26535,24 @@ const neighborhoodData = [
         "name": "South Robertson",
         "region": "Westside",
         "locations": [
+            {
+                "name": "La Cienega Design Corridor",
+                "address": "1118 South La Cienega Boulevard Los Angeles, CA 90035",
+                "description": "A commercial site in an area historically recognized for its collection of high-end design shops and art galleries.",
+                "lat": 34.0552,
+                "lng": -118.3765,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0552,-118.3765"
+            },
+            {
+                "name": "Pico-Robertson District",
+                "address": "1016 South Holt Avenue Los Angeles, CA 90035",
+                "description": "A classic dingbat apartment residential building on a residential street in the heart of a vibrant community known for its dense collection of Jewish religious institutions and local bakeries.",
+                "lat": 34.0565,
+                "lng": -118.3812,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0565,-118.3812"
+            },
             {
                 "name": "South Robertson Boulevard",
                 "description": "Property Type: Secondary",
@@ -24827,6 +26663,24 @@ const neighborhoodData = [
         "region": "Los Angeles",
         "locations": [
             {
+                "name": "Charlie Chaplin Cottages (Chaplin Court)",
+                "address": "1330 N Formosa Ave, Los Angeles, CA 90046",
+                "description": "A storybook-style bungalow complex built by Charlie Chaplin in 1922 to house his lead actresses and crew members during the height of his career. Located on North Formosa, the charming cottages were famously inhabited by Chaplin and other early Hollywood stars, and remain one of the most intact examples of early silent-era celebrity housing in Los Angeles.",
+                "lat": 34.09532159248545,
+                "lng": -118.34609698715761,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09532159248545,-118.34609698715761"
+            },
+            {
+                "name": "Eclectic Retail Landmark",
+                "address": "1154 North La Brea Ave West Hollywood, CA 90038",
+                "description": "A unique commercial structure noted for its high-energy, plastic-cladded \"horrible beauty\" design that represents the eccentricities of LA street architecture.",
+                "lat": 34.0921,
+                "lng": -118.3442,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0921,-118.3442"
+            },
+            {
                 "name": "Nancy Thompson House",
                 "description": "Known to horror fans as the \"Nancy Thompson House\" from the 1984 classic A Nightmare on Elm Street.",
                 "type": "landmark",
@@ -24835,6 +26689,24 @@ const neighborhoodData = [
                 "lng": -118.3579234,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.094609,-118.3579234",
                 "original_hood": "Spaulding Square"
+            },
+            {
+                "name": "Sierra Bonita Apartments",
+                "address": "1035 N Sierra Bonita Ave West Hollywood, CA 90046",
+                "description": "A historic residential street in West Hollywood, representative of the courtyard apartment architecture popular in the 1920s and 30s.",
+                "lat": 34.0898,
+                "lng": -118.3491,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0898,-118.3491"
+            },
+            {
+                "name": "The Silent Movie Theater",
+                "address": "1024 North Fairfax Avenue West Hollywood, CA 90046",
+                "description": "Founded in 1942, this is one of the only theaters in the world dedicated to screening films from the silent era, now operating as the Fairfax Cinema.",
+                "lat": 34.0895,
+                "lng": -118.3614,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0895,-118.3614"
             }
         ]
     },
@@ -24918,6 +26790,15 @@ const neighborhoodData = [
                 "lng": -118.3519232,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1318513,-118.3519232",
                 "original_hood": "Studio City"
+            },
+            {
+                "name": "Fryman Canyon, Studio City Hills, Residential",
+                "address": "11986 Lockridge Rd, Studio City, CA 91604",
+                "description": "A residential street in the Fryman Canyon area, known for its seclusion and being a preferred neighborhood for television and film industry professionals.",
+                "lat": 34.1385,
+                "lng": -118.3912,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1385,-118.3912"
             },
             {
                 "name": "Historic 1937 Ventura Place Commercial Building",
@@ -25163,6 +27044,15 @@ const neighborhoodData = [
                 "original_hood": "Sun Valley"
             },
             {
+                "name": "Sun Valley Industrial Heart",
+                "address": "10643 Tuxford St Sun Valley, CA 91352",
+                "description": "A site within the industrial zone that supported the San Fernando Valley's mid-century manufacturing and gravel mining industries.",
+                "lat": 34.2301,
+                "lng": -118.3622,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2301,-118.3622"
+            },
+            {
                 "name": "The Pink Motel & Cadillac Jack's Cafe",
                 "address": "9457 San Fernando Rd, Sun Valley, CA 91352, USA",
                 "type": "landmark",
@@ -25226,13 +27116,22 @@ const neighborhoodData = [
                 "original_hood": "Sunland"
             },
             {
-                "name": "Shadow Hills Equestrian Estate",
-                "description": "A premier example of a Shadow Hills Equestrian Estate. This custom-built ranch-style home is situated in a \"K-Zone\" (equestrian-zoned) neighborhood, featuring a wrap-around veranda with panoramic canyon views and professional horse facilities, including a three-stall barn and a large arena.",
+                "name": "Shadow Hills Equestrian Area",
+                "address": "10210 Mary Bell Avenue Sunland, CA 91040",
+                "description": "A unique semi-rural neighborhood in Los Angeles zoned for horse ownership, preserving a \"rancho\" lifestyle within the city limits.",
+                "lat": 34.2558,
+                "lng": -118.3542,
                 "type": "landmark",
-                "address": "10501 Mary Bell Ave, Sunland, California, 91040",
-                "lat": 34.258662180164,
-                "lng": -118.35120960062,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.258662180164,-118.35120960062",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2558,-118.3542"
+            },
+            {
+                "name": "Shadow Hills Equestrian Estate",
+                "description": "A rural residential property in a neighborhood preserved for its unique equestrian zoning and natural landscape.",
+                "type": "landmark",
+                "address": "10501 Mary Bell Avenue Sunland, CA 91040",
+                "lat": 34.2558,
+                "lng": -118.3542,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2558,-118.3542",
                 "original_hood": "Sunland"
             },
             {
@@ -25333,6 +27232,15 @@ const neighborhoodData = [
                 "original_hood": "Sunset Strip"
             },
             {
+                "name": "Elvis Presley's Former Home",
+                "address": "1174 N. Hillcrest Road Beverly Hills, CA 90210",
+                "description": "The French Regency-style estate where Elvis and Priscilla Presley lived from 1967 to 1973; the property is famous for the gates where fans would gather to see the \"King.\"",
+                "lat": 34.0985,
+                "lng": -118.3962,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0985,-118.3962"
+            },
+            {
                 "name": "Rainbow Bar & Grill",
                 "description": "A historic rock 'n' roll sanctuary; home to Lemmy Kilmister and the 'Hollywood Vampires' drinking club.",
                 "type": "neighborhood-favorite",
@@ -25341,6 +27249,24 @@ const neighborhoodData = [
                 "lng": -118.3882177,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0909258,-118.3882177",
                 "original_hood": "Sunset Strip"
+            },
+            {
+                "name": "Sierra Towers",
+                "address": "9255 Doheny Rd, West Hollywood, CA 90069",
+                "description": "Known as the most \"celebrity-packed\" high-rise in LA, historically housing stars like Cher, Elton John, and David Geffen.",
+                "lat": 34.0885,
+                "lng": -118.3912,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0885,-118.3912"
+            },
+            {
+                "name": "Software Heiress Estate (Oracle/Ellison)",
+                "address": "9258 Nightingale Drive, Los Angeles, CA 90069",
+                "description": "A prominent Bird Streets residence associated with high-profile \"software heiress\" real estate transactions in one of LA's most expensive enclaves.",
+                "lat": 34.0955,
+                "lng": -118.3912,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0955,-118.3912"
             },
             {
                 "name": "Whisky a Go Go",
@@ -25682,6 +27608,15 @@ const neighborhoodData = [
         "region": "San Fernando Valley",
         "locations": [
             {
+                "name": "Chandler Bikeway Path",
+                "address": "10730 Chandler Blvd North Hollywood, CA 91601",
+                "description": "Adjacent to a former Southern Pacific railroad line that was converted into one of the Valley's most popular pedestrian and bike trails.",
+                "lat": 34.1684,
+                "lng": -118.3652,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1684,-118.3652"
+            },
+            {
                 "name": "Frank Gehry Wells Fargo Branch",
                 "description": "A Wells Fargo branch designed by the world-renowned architect Frank Gehry (completed in 1982). It is a celebrated example of deconstructivist architecture, designed to look like a fragmented \"drawing of a building\" with a fa\u00e7ade that appears to balance precariously.",
                 "type": "landmark",
@@ -25690,6 +27625,15 @@ const neighborhoodData = [
                 "lng": -118.35047031676,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.151966168616,-118.35047031676",
                 "original_hood": "Toluca Lake"
+            },
+            {
+                "name": "NoHo Arts District North",
+                "address": "10405 Burbank Boulevard North Hollywood, CA 91601",
+                "description": "A residential and commercial transition area near the North Hollywood park and the historic Amelia Earhart Library.",
+                "lat": 34.1725,
+                "lng": -118.3582,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1725,-118.3582"
             },
             {
                 "name": "Papoo's Hot Dog Show (Site)",
@@ -25809,6 +27753,15 @@ const neighborhoodData = [
                 "lng": -118.592260479272,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.089083873708,-118.592260479272",
                 "original_hood": "Topanga"
+            },
+            {
+                "name": "Will Geer\u2019s Theatricum Botanicum",
+                "address": "106 S Topanga Canyon Blvd Topanga, CA 90290",
+                "description": "A legendary outdoor theater nestled in the woods of Topanga Canyon, founded by actor Will Geer during the Hollywood blacklist era.",
+                "lat": 34.0895,
+                "lng": -118.6015,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0895,-118.6015"
             }
         ]
     },
@@ -26028,6 +27981,33 @@ const neighborhoodData = [
                 "lng": -118.2976742,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2498474,-118.2976742",
                 "original_hood": "Tujunga"
+            },
+            {
+                "name": "McGroarty Arts Center Neighborhood",
+                "address": "10504 Mount Gleason Ave Tujunga, CA 91042",
+                "description": "Located near the historic home of poet John Steven McGroarty, this area is a hub for local arts in the Verdugo Mountains.",
+                "lat": 34.2605,
+                "lng": -118.2815,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2605,-118.2815"
+            },
+            {
+                "name": "Old Town Tujunga",
+                "address": "10633 Commerce Ave Tujunga, CA 91042",
+                "description": "Part of the original commercial heart of the \"Little Lands\" colony, a historic utopian community focused on small-acreage farming.",
+                "lat": 34.2625,
+                "lng": -118.2887,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2625,-118.2887"
+            },
+            {
+                "name": "Tujunga Commerce Block",
+                "address": "10633 N Commerce Avenue Tujunga, CA 91042",
+                "description": "A repeating entry for the historic Commerce Avenue corridor, serving as the primary retail district for the Verdugo foothills.",
+                "lat": 34.2625,
+                "lng": -118.2887,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2625,-118.2887"
             }
         ]
     },
@@ -26098,16 +28078,6 @@ const neighborhoodData = [
         "name": "University Park",
         "region": "South L.A.",
         "locations": [
-            {
-                "name": "The Velaslavasay Panorama",
-                "description": "Quirky exhibition hall presents historic panorama paintings, plus living gardens & live events.",
-                "type": "landmark",
-                "address": "1122 W 24th St, Los Angeles, CA 90007",
-                "lat": 34.0343083,
-                "lng": -118.2846309,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0343083,-118.2846309",
-                "original_hood": "University Park"
-            },
             {
                 "name": "Alfred J. Salisbury Residence (1891)",
                 "type": "landmark",
@@ -26225,6 +28195,16 @@ const neighborhoodData = [
                 "lat": 34.023417948756,
                 "lng": -118.281335708816,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=665+W+Jefferson+Blvd,+Los+Angeles,+CA+90007",
+                "original_hood": "University Park"
+            },
+            {
+                "name": "The Velaslavasay Panorama",
+                "description": "Quirky exhibition hall presents historic panorama paintings, plus living gardens & live events.",
+                "type": "landmark",
+                "address": "1122 W 24th St, Los Angeles, CA 90007",
+                "lat": 34.0343083,
+                "lng": -118.2846309,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0343083,-118.2846309",
                 "original_hood": "University Park"
             },
             {
@@ -26370,6 +28350,15 @@ const neighborhoodData = [
                 "lng": -118.3986,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1649,-118.3986",
                 "original_hood": "Valley Village"
+            },
+            {
+                "name": "Valley Village Residential Block",
+                "address": "11576 Otsego Street Valley Village, CA 91601",
+                "description": "Part of a community that was originally developed as part of North Hollywood but later broke away to maintain its distinct residential character.",
+                "lat": 34.1625,
+                "lng": -118.3845,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1625,-118.3845"
             }
         ]
     },
@@ -26410,16 +28399,6 @@ const neighborhoodData = [
                 "type": "landmark",
                 "address": "7021 Hayenhurst Ave, Van Nuys, CA 91406",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=7021+Hayenhurst+Ave%2C+Van+Nuys%2C+CA+91406",
-                "original_hood": "Van Nuys"
-            },
-            {
-                "name": "Ridgemont High (Fast Times at Ridgemont High)",
-                "description": "Film: Ridgemont High from Fast Times at Ridgemont High.",
-                "type": "landmark",
-                "address": "7301 Van Nuys Blvd, Van Nuys, California, 91405",
-                "lat": 34.2032,
-                "lng": -118.4485,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2032,-118.4485",
                 "original_hood": "Van Nuys"
             },
             {
@@ -26581,6 +28560,16 @@ const neighborhoodData = [
                 "original_hood": "Van Nuys"
             },
             {
+                "name": "Ridgemont High (Fast Times at Ridgemont High)",
+                "description": "Film: Ridgemont High from Fast Times at Ridgemont High.",
+                "type": "landmark",
+                "address": "7301 Van Nuys Blvd, Van Nuys, California, 91405",
+                "lat": 34.2032,
+                "lng": -118.4485,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2032,-118.4485",
+                "original_hood": "Van Nuys"
+            },
+            {
                 "name": "Sound City Studios",
                 "description": "Home to the legendary Sound City Studios. Opened in 1969, it is one of the most successful recording studios in music history, famous for its \"signature sound\" (particularly for drums). It was the site where Nirvana recorded Nevermind, and served as the creative birthplace for iconic albums by Fleetwood Mac (Rumours), Tom Petty, Neil Young, and Johnny Cash. It was the subject of the 2013 documentary Sound City directed by Dave Grohl.",
                 "type": "landmark",
@@ -26677,26 +28666,6 @@ const neighborhoodData = [
         "name": "Venice",
         "region": "Westside",
         "locations": [
-            {
-                "name": "Venice Beach Basketball Courts",
-                "description": "Film: Basketball courts from White Men Can't Jump.",
-                "type": "landmark",
-                "address": "1011 Ocean Front Walk, Venice, California, 90291",
-                "lat": 33.9942,
-                "lng": -118.4795,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9942,-118.4795",
-                "original_hood": "Venice"
-            },
-            {
-                "name": "Touch of Evil (Orson Welles Filming Site)",
-                "description": "Film: Opening shot of Orson Welles' Touch of Evil.",
-                "type": "landmark",
-                "address": "23 Windward Ave, Venice, California, 90291",
-                "lat": 33.9878,
-                "lng": -118.4715,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9878,-118.4715",
-                "original_hood": "Venice"
-            },
             {
                 "name": "3rd Ave Venice, CA 90291 - Jim Morrison? - right s...",
                 "description": "",
@@ -26829,12 +28798,12 @@ const neighborhoodData = [
             },
             {
                 "name": "Mosaic Tile House",
-                "description": "A 1940s bungalow completely encrusted in vibrant tile and glass mosaics; a decades-long art project with an elaborate sculpture garden.",
+                "description": "This quirky 1940s home has been covered inside & out with colored tile & splintered-glass mosaics.",
                 "type": "landmark",
                 "address": "1116 Palms Blvd, Venice, CA 90291",
-                "lat": 34.0000414,
-                "lng": -118.4568574,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0000414,-118.4568574",
+                "lat": 34.000458531580115,
+                "lng": -118.4548355337989,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.000458531580115,-118.4548355337989",
                 "original_hood": "Venice"
             },
             {
@@ -26858,6 +28827,16 @@ const neighborhoodData = [
                 "original_hood": "Venice"
             },
             {
+                "name": "Touch of Evil (Orson Welles Filming Site)",
+                "description": "Film: Opening shot of Orson Welles' Touch of Evil.",
+                "type": "landmark",
+                "address": "23 Windward Ave, Venice, California, 90291",
+                "lat": 33.9878,
+                "lng": -118.4715,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9878,-118.4715",
+                "original_hood": "Venice"
+            },
+            {
                 "name": "Venice Beach",
                 "description": "Park/Facility in Venice",
                 "type": "landmark",
@@ -26866,6 +28845,25 @@ const neighborhoodData = [
                 "lng": -118.4661137,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9781611,-118.4661137",
                 "original_hood": "Venice"
+            },
+            {
+                "name": "Venice Beach Basketball Courts",
+                "description": "Film: Basketball courts from White Men Can't Jump.",
+                "type": "landmark",
+                "address": "1011 Ocean Front Walk, Venice, California, 90291",
+                "lat": 33.9942,
+                "lng": -118.4795,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9942,-118.4795",
+                "original_hood": "Venice"
+            },
+            {
+                "name": "Venice Beach Boardwalk",
+                "address": "1011 Ocean Front Walk Venice, CA 90291",
+                "description": "Located in the heart of the world-famous boardwalk, this area is the epicenter of Venice\u2019s counterculture and street performance history.",
+                "lat": 33.9875,
+                "lng": -118.4735,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9875,-118.4735"
             },
             {
                 "name": "VENICE CANALS",
@@ -27020,6 +29018,15 @@ const neighborhoodData = [
                 "original_hood": "Vermont Square"
             },
             {
+                "name": "Former Home of Ray Charles",
+                "address": "4863 S Vermont Ave, Los Angeles, CA 90037",
+                "description": "A site associated with the legendary musician during his early years in Los Angeles, located in the historic South LA corridor.",
+                "lat": 34.0015,
+                "lng": -118.2915,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0015,-118.2915"
+            },
+            {
                 "name": "Vermont Square",
                 "description": "Property Type: Suburb",
                 "type": "landmark",
@@ -27048,6 +29055,42 @@ const neighborhoodData = [
         "region": "South L.A.",
         "locations": [
             {
+                "name": "Broadway-Manchester Residential",
+                "address": "105 W. 113th St Los Angeles, CA 90061",
+                "description": "Part of the historic residential grid of South Los Angeles, established during the city's early southward expansion.",
+                "lat": 33.9315,
+                "lng": -118.2742,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9315,-118.2742"
+            },
+            {
+                "name": "Century Freeway (I-105) Interchange Site",
+                "address": "11623 S Figueroa St Los Angeles, CA 90061",
+                "description": "Located near the massive transportation hub where the Figueroa corridor meets the I-105 freeway.",
+                "lat": 33.9282,
+                "lng": -118.2825,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9282,-118.2825"
+            },
+            {
+                "name": "Figueroa South Corridor",
+                "address": "11916 S Figueroa Street Los Angeles, CA 90061",
+                "description": "Located near the junction of the 110 and 105 freeways, this area is a major transit gateway for the South Los Angeles region.",
+                "lat": 33.9242,
+                "lng": -118.2825,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9242,-118.2825"
+            },
+            {
+                "name": "Imperial Courts Housing District",
+                "address": "1050 W Imperial Hwy Los Angeles, CA 90044",
+                "description": "A large public housing complex in Watts with a long history of community activism and cultural significance.",
+                "lat": 33.9311,
+                "lng": -118.2935,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9311,-118.2935"
+            },
+            {
                 "name": "Mom's Bar-B-Q",
                 "type": "landmark",
                 "description": "A no-frills take-out shack serving up hearty portions of ribs, baked beans and sweet-potato pies.",
@@ -27056,6 +29099,15 @@ const neighborhoodData = [
                 "lng": -118.2938099,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9307245,-118.2938099",
                 "original_hood": "Vermont Vista"
+            },
+            {
+                "name": "Roi Le Autel",
+                "address": "256 W 117th St Los Angeles, CA 90061",
+                "description": "A historic residential site in South Los Angeles, reflecting the early 20th-century residential expansion south of the city core.",
+                "lat": 33.9282,
+                "lng": -118.2785,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9282,-118.2785"
             }
         ],
         "description": "The southernmost residential strip of the region."
@@ -27434,12 +29486,12 @@ const neighborhoodData = [
             },
             {
                 "name": "Watts Coffee House",
-                "description": "A soulful gathering place that rose from the ashes of the 1965 Watts Uprising. The walls are lined with vintage photographs and jazz memorabilia. It is famous for its \"South Central Breakfast\"\u2014grits, eggs, and smothered pork chops\u2014and serves as an informal museum of local history.",
+                "description": "A historic community gathering spot that emerged from the 1965 Watts Uprising to foster local art, music, and soul food culture.",
                 "type": "landmark",
-                "address": "1827 E 103rd St",
-                "lat": 33.9435,
-                "lng": -118.2399,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9435,-118.2399",
+                "address": "1827 E 103rd St Los Angeles, CA 90002",
+                "lat": 33.9425,
+                "lng": -118.2392,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9425,-118.2392",
                 "original_hood": "Watts"
             },
             {
@@ -28045,6 +30097,15 @@ const neighborhoodData = [
         "region": "South Los Angeles",
         "locations": [
             {
+                "name": "Gardena Industrial Zone",
+                "address": "1016 West El Segundo Blvd Gardena, CA 90247",
+                "description": "Part of the aerospace and automotive manufacturing belt that defined the post-war economy of the South Bay.",
+                "lat": 33.9165,
+                "lng": -118.3052,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9165,-118.3052"
+            },
+            {
                 "name": "Mrs. Parker's House",
                 "description": "This South LA residential stretch is famous as the primary filming location for the 1995 film Friday.",
                 "type": "cultural",
@@ -28071,6 +30132,15 @@ const neighborhoodData = [
         "name": "West Athens / Westmont",
         "region": "West Athens - Westmont - Unincorporated",
         "locations": [
+            {
+                "name": "South Los Angeles Transit Corridor",
+                "address": "11633 S Western Ave Los Angeles, CA 90047",
+                "description": "A commercial address on Western Ave, a street historically known for being the longest continuous north-south street in the city.",
+                "lat": 33.9285,
+                "lng": -118.3095,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9285,-118.3095"
+            },
             {
                 "name": "West Imperial Highway",
                 "description": "Property Type: Primary",
@@ -28187,26 +30257,6 @@ const neighborhoodData = [
         "region": "Westside",
         "locations": [
             {
-                "name": "Nancy\u2019s House (A Nightmare on Elm Street)",
-                "description": "Film: Nancy\u2019s house in A Nightmare on Elm Street.",
-                "type": "landmark",
-                "address": "1106 N Genesee Ave, West Hollywood, California, 90046",
-                "lat": 34.0915,
-                "lng": -118.3542,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0915,-118.3542",
-                "original_hood": "West Hollywood"
-            },
-            {
-                "name": "The Andalusia (Historic Courtyard Apartments)",
-                "description": "The Andalusia: 1926 Spanish landmark by Arthur Zwebell.",
-                "type": "landmark",
-                "address": "1475 Havenhurst Dr, West Hollywood, California, 90046",
-                "lat": 34.0975,
-                "lng": -118.3665,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0975,-118.3665",
-                "original_hood": "West Hollywood"
-            },
-            {
                 "name": "1964 Charles Luckman Office Tower",
                 "description": "A 1964 International Style office tower designed by Charles Luckman. It serves as a major gateway to the western end of the Sunset Strip and has historically housed high-profile entertainment law firms and talent agencies.",
                 "type": "landmark",
@@ -28284,16 +30334,6 @@ const neighborhoodData = [
                 "lat": 34.0975,
                 "lng": -118.3625,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0975,-118.3625",
-                "original_hood": "West Hollywood"
-            },
-            {
-                "name": "The Formosa Cafe",
-                "description": "Opened 1925; legendary noir-style bar located inside a retired Red Car trolley.",
-                "type": "landmark",
-                "address": "7156 Santa Monica Blvd, West Hollywood, CA 90046",
-                "lat": 34.0905,
-                "lng": -118.3458,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0905,-118.3458",
                 "original_hood": "West Hollywood"
             },
             {
@@ -28416,6 +30456,16 @@ const neighborhoodData = [
                 "original_hood": "West Hollywood"
             },
             {
+                "name": "Nancy\u2019s House (A Nightmare on Elm Street)",
+                "description": "Film: Nancy\u2019s house in A Nightmare on Elm Street.",
+                "type": "landmark",
+                "address": "1106 N Genesee Ave, West Hollywood, California, 90046",
+                "lat": 34.0915,
+                "lng": -118.3542,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0915,-118.3542",
+                "original_hood": "West Hollywood"
+            },
+            {
                 "name": "Norm's Restaurant (Googie Architecture)",
                 "description": "An iconic example of mid-century Googie design, famously captured in Ed Ruscha's 1964 painting Norm's, La Cienega, on Fire.",
                 "type": "landmark",
@@ -28467,12 +30517,12 @@ const neighborhoodData = [
             },
             {
                 "name": "Romanesque Villa (Marilyn Monroe Residence)",
-                "description": "A high-style historic apartment complex that served as the home of Marilyn Monroe and Marlene Dietrich.",
+                "description": "A historic apartment complex that has served as a residence for Hollywood legends including Marilyn Monroe, Marlene Dietrich, and director Josef von Sternberg.",
                 "type": "landmark",
                 "address": "1301 N Harper Ave, West Hollywood, CA 90046",
                 "lat": 34.0945,
-                "lng": -118.3685,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0945,-118.3685",
+                "lng": -118.3682,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0945,-118.3682",
                 "original_hood": "West Hollywood"
             },
             {
@@ -28536,6 +30586,16 @@ const neighborhoodData = [
                 "original_hood": "West Hollywood"
             },
             {
+                "name": "The Andalusia (Historic Courtyard Apartments)",
+                "description": "The Andalusia: 1926 Spanish landmark by Arthur Zwebell.",
+                "type": "landmark",
+                "address": "1475 Havenhurst Dr, West Hollywood, California, 90046",
+                "lat": 34.0975,
+                "lng": -118.3665,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0975,-118.3665",
+                "original_hood": "West Hollywood"
+            },
+            {
                 "name": "The Andaz West Hollywood (The Riot House)",
                 "description": "The Andaz West Hollywood (formerly the Continental Hyatt House). Known famously as \"The Riot House,\" this 1963 mid-century tower was the preferred hotel for Led Zeppelin, The Who, and the Rolling Stones. It was the first hotel on the Sunset Strip to cater specifically to rock stars and featured the first rooftop pool in the city.",
                 "type": "landmark",
@@ -28583,6 +30643,16 @@ const neighborhoodData = [
                 "lat": 34.0920239,
                 "lng": -118.3701369,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0920239,-118.3701369",
+                "original_hood": "West Hollywood"
+            },
+            {
+                "name": "The Formosa Cafe",
+                "description": "Opened 1925; legendary noir-style bar located inside a retired Red Car trolley.",
+                "type": "landmark",
+                "address": "7156 Santa Monica Blvd, West Hollywood, CA 90046",
+                "lat": 34.0905,
+                "lng": -118.3458,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0905,-118.3458",
                 "original_hood": "West Hollywood"
             },
             {
@@ -28933,6 +31003,24 @@ const neighborhoodData = [
                 "original_hood": "West Los Angeles"
             },
             {
+                "name": "Rancho Park Commercial Corridor",
+                "address": "10349 West Pico Boulevard Los Angeles, CA 90064",
+                "description": "A commercial site near the 20th Century Fox studios, serving as a long-standing retail hub for the Westside.",
+                "lat": 34.0412,
+                "lng": -118.4162,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0412,-118.4162"
+            },
+            {
+                "name": "Rancho Park Veterinary Clinic",
+                "address": "10585 W Pico Blvd Los Angeles, CA 90064",
+                "description": "A long-standing community business in the Westside neighborhood of Cheviot Hills/Rancho Park.",
+                "lat": 34.0415,
+                "lng": -118.4232,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0415,-118.4232"
+            },
+            {
                 "name": "Rancho Park Veterinary Clinic Mural",
                 "description": "Large mural on the exterior of the Rancho Park Veterinary Clinic on W Pico Blvd.",
                 "type": "landmark",
@@ -29043,6 +31131,24 @@ const neighborhoodData = [
                 "original_hood": "West Los Angeles"
             },
             {
+                "name": "Westside Neighborhood Hub",
+                "address": "10399 West Pico Boulevard Los Angeles, CA 90064",
+                "description": "Located at the intersection of Pico and Beverly Glen, this site has long been a landmark for commuters traveling between the Westside and Century City.",
+                "lat": 34.0418,
+                "lng": -118.4182,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0418,-118.4182"
+            },
+            {
+                "name": "Westwood/Rancho Park Residential",
+                "address": "10265 Tennessee Ave Los Angeles, CA 90064",
+                "description": "A residential street in a neighborhood known for its historic green spaces and proximity to the original Fox Studio lot.",
+                "lat": 34.0415,
+                "lng": -118.4212,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0415,-118.4212"
+            },
+            {
                 "name": "Whitt's Woodyard",
                 "description": "Local firewood and kindling yard on Sepulveda Blvd.",
                 "type": "landmark",
@@ -29094,6 +31200,15 @@ const neighborhoodData = [
         "name": "West Toluca",
         "region": "San Fernando Valley",
         "locations": [
+            {
+                "name": "Patys Restaurant",
+                "address": "10001 Riverside Drive Toluca Lake, CA 91602",
+                "description": "A classic neighborhood diner that has served as a hangout for Hollywood icons like Bob Hope and Frank Sinatra since 1960.",
+                "lat": 34.1523,
+                "lng": -118.349,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1523,-118.349"
+            },
             {
                 "name": "West Toluca Lake Lane",
                 "description": "Property Type: Residential",
@@ -29204,6 +31319,15 @@ const neighborhoodData = [
         "region": "Westside",
         "locations": [
             {
+                "name": "West Los Angeles Civic Center Area",
+                "address": "11711 Santa Monica Blvd Los Angeles, CA 90025",
+                "description": "Located near the historic West LA municipal buildings and the Sawtelle Japantown district.",
+                "lat": 34.0452,
+                "lng": -118.4502,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0452,-118.4502"
+            },
+            {
                 "name": "Westdale",
                 "description": "Property Type: Neighbourhood",
                 "type": "landmark",
@@ -29212,6 +31336,15 @@ const neighborhoodData = [
                 "lng": -118.4484367,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0448583,-118.4484367",
                 "original_hood": "Westdale"
+            },
+            {
+                "name": "Westwood/Sawtelle Commercial",
+                "address": "11927 Santa Monica Blvd Los Angeles, CA 90025",
+                "description": "A prominent address on Santa Monica Blvd, a road that has served as the primary link from the mountains to the sea since the Spanish colonial era.",
+                "lat": 34.0435,
+                "lng": -118.4582,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0435,-118.4582"
             }
         ]
     },
@@ -29330,6 +31463,15 @@ const neighborhoodData = [
                 "original_hood": "Westlake / MacArthur Park"
             },
             {
+                "name": "10th Street Elementary School",
+                "address": "1000 Grattan Street Los Angeles, CA 90015",
+                "description": "A historic 1922 Spanish Colonial Revival school building that serves the Pico-Union and Westlake communities.",
+                "lat": 34.0485,
+                "lng": -118.2705,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0485,-118.2705"
+            },
+            {
                 "name": "American Cement Building",
                 "description": "A Brutalist masterpiece. The defining feature is the X-shaped concrete screen designed by Malcolm Leland in 1964. Built to showcase the versatility of cement as a material, capturing the transition of Wilshire Blvd from 'residential grand' to 'corporate modern.'",
                 "type": "landmark",
@@ -29400,6 +31542,33 @@ const neighborhoodData = [
                 "original_hood": "Westlake / MacArthur Park"
             },
             {
+                "name": "Flower Street Commercial Lofts",
+                "address": "1100 S. Flower St Los Angeles, CA 90015",
+                "description": "Located in the South Park district, this address is part of the historic industrial zone that has been revitalized into high-end residential lofts near the Crypto.com Arena.",
+                "lat": 34.0425,
+                "lng": -118.2642,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0425,-118.2642"
+            },
+            {
+                "name": "Flower Street Lofts",
+                "address": "1111 S. Flower St Los Angeles, CA 90015",
+                "description": "A historic UPS distribution center from 1936 that was converted into luxury lofts, helping to spark the modern residential boom in South Park.",
+                "lat": 34.0421,
+                "lng": -118.2645,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0421,-118.2645"
+            },
+            {
+                "name": "Grandview Garden Apartments Area",
+                "address": "1049 S Grand View St Los Angeles, CA 90006",
+                "description": "A historic residential neighborhood in the Pico-Union area, showcasing early 20th-century urban residential planning.",
+                "lat": 34.0475,
+                "lng": -118.2752,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0475,-118.2752"
+            },
+            {
                 "name": "Hoover Elementary School",
                 "description": "A classic neighborhood school.",
                 "type": "landmark",
@@ -29460,6 +31629,15 @@ const neighborhoodData = [
                 "original_hood": "Westlake / MacArthur Park"
             },
             {
+                "name": "Luma South Park",
+                "address": "1100 S. Hope St Los Angeles, CA 90015",
+                "description": "A modern high-rise residential building that was a pioneer in the sustainable \"Green\" development movement in Downtown Los Angeles.",
+                "lat": 34.0415,
+                "lng": -118.2635,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0415,-118.2635"
+            },
+            {
                 "name": "MacArthur Park & The MacArthur (Park Plaza Hotel)",
                 "description": "MacArthur Park (formerly Westlake Park) is a historic urban green space featuring a scenic lake and the Levitt Pavilion, which hosts free summer concerts. Adjacent is The MacArthur, formerly the Park Plaza Hotel, a stunning 1925 Neo-Gothic building renowned for its grand ballroom and extensive history as a cinematic backdrop.",
                 "type": "landmark",
@@ -29478,6 +31656,24 @@ const neighborhoodData = [
                 "lng": -118.281398070176,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2506+W+7th+St,+Los+Angeles,+CA+90057",
                 "original_hood": "Westlake / MacArthur Park"
+            },
+            {
+                "name": "Metropolis Los Angeles Site",
+                "address": "1050 Flower St Los Angeles, CA 90015",
+                "description": "A major mixed-use development site that has transformed the skyline of Downtown's South Park district.",
+                "lat": 34.0435,
+                "lng": -118.2631,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0435,-118.2631"
+            },
+            {
+                "name": "Olympic Auditorium Area",
+                "address": "1924 S Grand Ave, Los Angeles, CA 90015",
+                "description": "Designed by architect Gilbert Stanley Underwood, this 1924 boxing and wrestling arena was a major center for LA sports for decades and a landmark of Downtown's early 20th-century expansion.",
+                "lat": 34.0375,
+                "lng": -118.2652,
+                "type": "historical",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0375,-118.2652"
             },
             {
                 "name": "Oscar Romero Clinic",
@@ -29510,6 +31706,15 @@ const neighborhoodData = [
                 "original_hood": "Westlake / MacArthur Park"
             },
             {
+                "name": "Pico-Union Historic District",
+                "address": "1039 S Union Ave Los Angeles, CA 90015",
+                "description": "A 1920s-era building in one of LA's most architecturally diverse historic districts, primarily serving the city's early elite and later immigrant communities.",
+                "lat": 34.0475,
+                "lng": -118.2752,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0475,-118.2752"
+            },
+            {
                 "name": "Royal Viking Motel",
                 "description": "Where Hal LeSueur, the estranged brother of movie star Joan Crawford, died in obscurity in 1963. A classic 'Hollywood Fall' story set in a mid-century motel.",
                 "type": "landmark",
@@ -29538,6 +31743,15 @@ const neighborhoodData = [
                 "lng": -118.28349178577,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2700+W+7th+St,+Los+Angeles,+CA+90057",
                 "original_hood": "Westlake / MacArthur Park"
+            },
+            {
+                "name": "Sky Lofts at 11th & Hope",
+                "address": "1105 S. Hope St Los Angeles, CA 90015",
+                "description": "A prominent residential and commercial high-rise that represents the modern \"Live-Work-Play\" philosophy of the South Park revitalization.",
+                "lat": 34.041,
+                "lng": -118.2638,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.041,-118.2638"
             },
             {
                 "name": "St. Thomas the Apostle Church",
@@ -29578,6 +31792,15 @@ const neighborhoodData = [
                 "lng": -118.270959918513,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=186%20S%20Mountain%20View%20Ave%2C%20Los%20Angeles%2C%20CA%2090057",
                 "original_hood": "Westlake / MacArthur Park"
+            },
+            {
+                "name": "The Los Angeles Convention Center Area",
+                "address": "1200 S Figueroa St Los Angeles, CA 90015",
+                "description": "A major international landmark that hosts the LA Auto Show and E3, and a cornerstone of the Downtown entertainment district.",
+                "lat": 34.0405,
+                "lng": -118.2692,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0405,-118.2692"
             },
             {
                 "name": "Tiny Street",
@@ -29631,6 +31854,42 @@ const neighborhoodData = [
                 "lng": -118.286295448563,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=642+W+Athens+Blvd,+Los+Angeles,+CA+90044",
                 "original_hood": "Westmont"
+            },
+            {
+                "name": "Kindle's Donuts",
+                "address": "10003 S Normandie Ave Los Angeles, CA 90044",
+                "description": "Home to one of the original giant donuts in Southern California, a famous example of mid-century programmatic architecture.",
+                "lat": 33.9455,
+                "lng": -118.3002,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9455,-118.3002"
+            },
+            {
+                "name": "Kite Coffee Shop (Hyun + Whitney)",
+                "address": "9131 S Vermont Ave, Los Angeles, CA 90044",
+                "description": "A 1961 exemplar of \"Googie\" architecture, featuring dramatic rooflines and futuristic shapes designed to catch the eye of passing motorists.",
+                "lat": 33.9535,
+                "lng": -118.2915,
+                "type": "architectural",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9535,-118.2915"
+            },
+            {
+                "name": "South Los Angeles Commercial",
+                "address": "10421 South Western Avenue Los Angeles, CA 90047",
+                "description": "A commercial site that has served the surrounding residential neighborhoods of Westmont for several decades.",
+                "lat": 33.9405,
+                "lng": -118.3091,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9405,-118.3091"
+            },
+            {
+                "name": "Westmont/South LA Corridor",
+                "address": "10401 S Western Avenue Los Angeles, CA 90047",
+                "description": "A commercial and community anchor on Western Ave, historically a major dividing line and transit route for South Los Angeles.",
+                "lat": 33.9415,
+                "lng": -118.3092,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9415,-118.3092"
             }
         ]
     },
@@ -29645,16 +31904,6 @@ const neighborhoodData = [
         "name": "Westwood",
         "region": "Westside",
         "locations": [
-            {
-                "name": "Landfair Apartments (Richard Neutra Design)",
-                "description": "Architecture: Richard Neutra\u2019s Landfair Apartments (1937).",
-                "type": "landmark",
-                "address": "10919 Strathmore Dr, Los Angeles, California, 90024",
-                "lat": 34.0655,
-                "lng": -118.4482,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0655,-118.4482",
-                "original_hood": "Westwood"
-            },
             {
                 "name": "10920 Wilshire Blvd (Richard Meier Tower)",
                 "description": "A 1980s office tower designed by the legendary architect Richard Meier.",
@@ -29692,6 +31941,16 @@ const neighborhoodData = [
                 "lat": 34.060252850903,
                 "lng": -118.44612526635,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=10920+Kinross+Ave,+Los+Angeles,+CA+90024",
+                "original_hood": "Westwood"
+            },
+            {
+                "name": "Landfair Apartments (Richard Neutra Design)",
+                "description": "Architecture: Richard Neutra\u2019s Landfair Apartments (1937).",
+                "type": "landmark",
+                "address": "10919 Strathmore Dr, Los Angeles, California, 90024",
+                "lat": 34.0655,
+                "lng": -118.4482,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0655,-118.4482",
                 "original_hood": "Westwood"
             },
             {
@@ -29748,26 +32007,6 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "Lyon Estates Gates (Back to the Future)",
-                "description": "Film: \"Lyon Estates\" gates from Back to the Future.",
-                "type": "landmark",
-                "address": "11501 Whittier Blvd, Whittier, California, 90601",
-                "lat": 33.9825,
-                "lng": -118.0652,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9825,-118.0652",
-                "original_hood": "Whittier"
-            },
-            {
-                "name": "Rose Hills Memorial Park",
-                "description": "\u200e - Puente Hills Landfill  - The Puente Hills Landfill is the largest active landfill in the United States. Its buried and rotting garbage produces methane gas, which is harvested by large pipes. Noah Webb photo.",
-                "type": "landmark",
-                "address": "2800 Workman Mill Rd, Whittier, California, 90601",
-                "lat": 34.027010306729,
-                "lng": -118.030285554952,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.027010306729,-118.030285554952",
-                "original_hood": "Whittier"
-            },
-            {
                 "name": "Arturo's Puffy Taco",
                 "description": "Arturo\u2019s Puffy Taco. A culinary landmark since the 1970s, famous for its \"Puffy Taco\" (a San Antonio specialty). The building represents the \"vernacular\" roadside architecture of Whittier\u2019s 1960s suburban expansion.",
                 "type": "landmark",
@@ -29776,6 +32015,15 @@ const neighborhoodData = [
                 "lng": -117.994934291576,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.931155281109,-117.994934291576",
                 "original_hood": "Whittier"
+            },
+            {
+                "name": "Fred C. Nelles School for Boys (Historic Site)",
+                "address": "11501 Whittier Blvd Whittier, CA 90601",
+                "description": "Formerly the Whittier State Reformatory, this 1891 site was once the oldest juvenile correctional facility in California.",
+                "lat": 33.9785,
+                "lng": -118.0582,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9785,-118.0582"
             },
             {
                 "name": "Googie Architecture Corridor (Whittier Blvd)",
@@ -29798,6 +32046,16 @@ const neighborhoodData = [
                 "original_hood": "Whittier"
             },
             {
+                "name": "Lyon Estates Gates (Back to the Future)",
+                "description": "Film: \"Lyon Estates\" gates from Back to the Future.",
+                "type": "landmark",
+                "address": "11501 Whittier Blvd, Whittier, California, 90601",
+                "lat": 33.9825,
+                "lng": -118.0652,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9825,-118.0652",
+                "original_hood": "Whittier"
+            },
+            {
                 "name": "Rose Hills & Rainbow Chapel",
                 "description": "Rose Hills & Rainbow Chapel. One of the largest cemeteries in the world, this 1,400-acre site is an architectural museum. The Rainbow Chapel (1940s) is a stunning Mission-style landmark overlooking the San Gabriel Valley.",
                 "type": "landmark",
@@ -29805,6 +32063,16 @@ const neighborhoodData = [
                 "lat": 34.015621982522,
                 "lng": -118.040255996417,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.015621982522,-118.040255996417",
+                "original_hood": "Whittier"
+            },
+            {
+                "name": "Rose Hills Memorial Park",
+                "description": "\u200e - Puente Hills Landfill  - The Puente Hills Landfill is the largest active landfill in the United States. Its buried and rotting garbage produces methane gas, which is harvested by large pipes. Noah Webb photo.",
+                "type": "landmark",
+                "address": "2800 Workman Mill Rd, Whittier, California, 90601",
+                "lat": 34.027010306729,
+                "lng": -118.030285554952,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.027010306729,-118.030285554952",
                 "original_hood": "Whittier"
             },
             {
@@ -29868,16 +32136,6 @@ const neighborhoodData = [
         "region": "Harbor",
         "locations": [
             {
-                "name": "The Banning Museum",
-                "description": "The History: Located on the main thoroughfare of Wilmington, this facility serves as a vital community hub. It reflects the civic history of the area, providing essential services and a gathering space for the resident population near the Port of Los Angeles.",
-                "type": "landmark",
-                "address": "505 N Avalon Blvd, Wilmington, CA 90744, USA",
-                "lat": 33.7758282,
-                "lng": -118.2625523,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7758282,-118.2625523",
-                "original_hood": "Wilmington"
-            },
-            {
                 "name": "5634 Nwaltarrrrrr-owl-rexall-drugs- Figueroa St, L...",
                 "description": "",
                 "type": "landmark",
@@ -29896,6 +32154,15 @@ const neighborhoodData = [
                 "lng": -118.258420926639,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=401+E+M+St,+Wilmington,+CA+90744",
                 "original_hood": "Wilmington"
+            },
+            {
+                "name": "Banning Park & Museum Area",
+                "address": "105 E I St Wilmington, CA 90744",
+                "description": "Situated near the Phineas Banning Residence, this area is the historic heart of Wilmington and the Port of Los Angeles history.",
+                "lat": 33.7825,
+                "lng": -118.2635,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7825,-118.2635"
             },
             {
                 "name": "Drum Barracks",
@@ -29948,6 +32215,16 @@ const neighborhoodData = [
                 "original_hood": "Wilmington"
             },
             {
+                "name": "The Banning Museum",
+                "description": "The History: Located on the main thoroughfare of Wilmington, this facility serves as a vital community hub. It reflects the civic history of the area, providing essential services and a gathering space for the resident population near the Port of Los Angeles.",
+                "type": "landmark",
+                "address": "505 N Avalon Blvd, Wilmington, CA 90744, USA",
+                "lat": 33.7758282,
+                "lng": -118.2625523,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7758282,-118.2625523",
+                "original_hood": "Wilmington"
+            },
+            {
                 "name": "The Chowder Barge",
                 "description": "The Chowder Barge, located at 611 N Henry Ford Ave in Wilmington, is one of Southern California's most distinct landmarks\u2014a quirky, nautical-themed diner situated on a converted 1934 wooden barge. History and Atmosphere: The barge has a storied past, originally built as a support vessel for the 1935 film Mutiny on the Bounty (starring Clark Gable), where it was used to transport cameras and equipment. Before becoming a permanent restaurant fixture in the Leeward Bay Marina in 1988, it served as a Catalina Island shuttle, a houseboat, and allegedly even a brothel.",
                 "type": "landmark",
@@ -29966,6 +32243,24 @@ const neighborhoodData = [
                 "lng": -118.2595,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7835,-118.2595",
                 "original_hood": "Wilmington"
+            },
+            {
+                "name": "Wilmington Harbor Neighborhood",
+                "address": "1186 Watson Avenue Wilmington, CA 90744",
+                "description": "A residential street near the Port of Los Angeles, reflecting the working-class industrial history of the harbor district.",
+                "lat": 33.7885,
+                "lng": -118.2532,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7885,-118.2532"
+            },
+            {
+                "name": "Wilmington Historic District",
+                "address": "1014 Wilmington Ave Wilmington, CA 90744",
+                "description": "Located near the Port of Los Angeles, this area preserves the working-class residential history of the harbor district.",
+                "lat": 33.7825,
+                "lng": -118.2635,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.7825,-118.2635"
             }
         ]
     },
@@ -30420,6 +32715,16 @@ const neighborhoodData = [
                 "original_hood": "Woodland Hills"
             },
             {
+                "name": "Neal Page\u2019s House (Planes, Trains and Automobiles)",
+                "description": "The final destination where Neal finally makes it home for Thanksgiving.",
+                "type": "landmark",
+                "address": "22770 Cass Ave",
+                "lat": 34.1595,
+                "lng": -118.6215,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1595,-118.6215",
+                "original_hood": "Woodland Hills"
+            },
+            {
                 "name": "Rib Ranch BBQ",
                 "description": "Rib Ranch BBQ. A long-standing hidden gem at the base of the Topanga Canyon pass. Its rustic, Western aesthetic signals the transition from the city into the Santa Monica Mountains.",
                 "type": "landmark",
@@ -30438,16 +32743,6 @@ const neighborhoodData = [
                 "lng": -118.6305,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1625,-118.6305",
                 "original_hood": "Woodland Hills"
-            },
-            {
-                "name": "Neal Page\u2019s House (Planes, Trains and Automobiles)",
-                "description": "The final destination where Neal finally makes it home for Thanksgiving.",
-                "type": "landmark",
-                "address": "22770 Cass Ave",
-                "lat": 34.1595,
-                "lng": -118.6215,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1595,-118.6215",
-                "original_hood": "Woodland Hills"
             }
         ]
     },
@@ -30462,6 +32757,33 @@ const neighborhoodData = [
         "name": "Wrightwood",
         "region": "Antelope Valley - Unincorporated",
         "locations": [
+            {
+                "name": "Laurelwood Condominiums",
+                "address": "11837 Laurelwood Dr Studio City, CA 91604",
+                "description": "A residential address in the Studio City hills, known for its proximity to Fryman Canyon and the historic movie studio lots.",
+                "lat": 34.1412,
+                "lng": -118.3885,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1412,-118.3885"
+            },
+            {
+                "name": "Studio City Business Block",
+                "address": "11514 Ventura Blvd Studio City, CA 91604",
+                "description": "A prominent retail location on Ventura Boulevard, which serves as the economic backbone of the San Fernando Valley.",
+                "lat": 34.1445,
+                "lng": -118.3842,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1445,-118.3842"
+            },
+            {
+                "name": "Ventura Boulevard Commercial Row",
+                "address": "11117 Ventura Blvd Studio City, CA 91604",
+                "description": "Situated on the San Fernando Valley's most famous commercial artery, historically serving as the \"Main Street\" of the Valley.",
+                "lat": 34.1425,
+                "lng": -118.3752,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1425,-118.3752"
+            },
             {
                 "name": "Wrightwood Lane",
                 "description": "Property Type: Residential",
