@@ -156,7 +156,6 @@ const globalDescriptions = {
         "North Atwater Bridge (La Kretz Crossing)": "A striking modernist spike rising from the concrete riverbed. This cable-stayed bridge was built specifically for horses (and pedestrians), connecting the equestrian side of Atwater to Griffith Park. Standing in the middle offers a rare, expansive view of the \"wild\" LA River and the mountains beyond.",
         "The Almon House (R.M. Schindler)": "An experimental residential design by Rudolph Schindler, known for its interlocking spatial volumes and use of industrial materials in a domestic setting.",
         "The Bigfoot Lodge": "A masterclass in kitsch that feels like Twin Peaks met a Boy Scout camp. With animatronic animals, heavy log-cabin walls, and a glowing Smokey the Bear watching over the bar, it\u2019s a dedicated immersive environment for drinking whiskey and pretending you're lost in the Pacific Northwest. Woodsy, Kitsch, Dark, Campy.",
-        "The Red Lion Tavern (Atwater)": "Classic German tavern with a rooftop beer garden and hearty fare.",
         "The Tam O'Shanter": "Opened 1922; Walt Disney\u2019s favorite hangout, built in a \"Storybook\" Tudor style."
     },
     "avalon-santa-catalina-island": {
@@ -2872,7 +2871,8 @@ const globalDescriptions = {
         "Tommy Lasorda Field of Dreams": "Park/Facility in Silver Lake / Echo Park",
         "VietSoy": "Vietnamese-soy fusion restaurant on Hyperion Ave.",
         "Waverly Drive Apartment Complex": "Apartment complex on Waverly Dr.",
-        "Westerly Terrace Viewpoint": "Notable hillside viewpoint in Silver Lake."
+        "Westerly Terrace Viewpoint": "Notable hillside viewpoint in Silver Lake.",
+        "The Red Lion Tavern (Silver Lake)": "Classic German tavern with a rooftop beer garden and hearty fare."
     },
     "soledad-canyon": {
         "Soledad Canyon Road": "Property Type: Primary"

@@ -1218,15 +1218,6 @@ const neighborhoodData = [
                 "original_hood": "Atwater Village"
             },
             {
-                "name": "The Red Lion Tavern (Atwater)",
-                "address": "2366 Glendale Blvd, Los Angeles, CA 90039, USA",
-                "type": "landmark",
-                "lat": 34.0992198,
-                "lng": -118.258945,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0992198,-118.258945",
-                "original_hood": "Atwater Village"
-            },
-            {
                 "name": "The Tam O'Shanter",
                 "type": "neighborhood-favorite",
                 "address": "2980 Los Feliz Blvd, Los Angeles, CA 90039",
@@ -7942,6 +7933,14 @@ const neighborhoodData = [
                 "lng": -118.2361371,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=123+South+Hewitt+St%2C+Los+Angeles%2C+CA+90012",
                 "original_hood": "Downtown LA"
+            },
+            {
+                "name": "L.A. Central Library (HCM #46)",
+                "type": "landmark",
+                "address": "630 W 5th St, Los Angeles, CA 90071",
+                "lat": 34.0504,
+                "lng": -118.2551,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0504,-118.2551"
             }
         ]
     },
@@ -13595,6 +13594,14 @@ const neighborhoodData = [
                 "lat": 34.10086,
                 "lng": -118.36714,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10086,-118.36714"
+            },
+            {
+                "name": "Samuel Freeman House (HCM #247)",
+                "type": "landmark",
+                "address": "1962 Glencoe Way, Los Angeles, CA 90068",
+                "lat": 34.1085,
+                "lng": -118.3377,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1085,-118.3377"
             }
         ]
     },
@@ -17037,6 +17044,14 @@ const neighborhoodData = [
                 "lat": 34.11111,
                 "lng": -118.31194,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.11111,-118.31194"
+            },
+            {
+                "name": "Philosophical Research Society (HCM #592)",
+                "type": "landmark",
+                "address": "3910 Los Feliz Blvd, Los Angeles, CA 90027",
+                "lat": 34.1114,
+                "lng": -118.2736,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1114,-118.2736"
             }
         ]
     },
@@ -23701,6 +23716,15 @@ const neighborhoodData = [
                 "lng": -118.273545811204,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1257+Westerly+Terrace,+Los+Angeles,+CA",
                 "original_hood": "Silver Lake"
+            },
+            {
+                "name": "The Red Lion Tavern (Silver Lake)",
+                "address": "2366 Glendale Blvd, Los Angeles, CA 90039, USA",
+                "type": "landmark",
+                "lat": 34.0992198,
+                "lng": -118.258945,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0992198,-118.258945",
+                "original_hood": "Atwater Village"
             }
         ]
     },
