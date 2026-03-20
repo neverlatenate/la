@@ -151,11 +151,19 @@ const globalDescriptions = {
         "Club Tee Gee": "The neighborhood's vinyl-clad living room since 1946. Recently revived but not ruined, it retains its dark, low-ceilinged charm while upgrading the cocktail list. It\u2019s the kind of place where old-timers and newcomers sit side-by-side in leather booths under dim amber lighting.",
         "Gladding McBean & Co. Site": "The former site of the massive architectural terra cotta plant that provided the decorative tiling for many of L.A.s most famous landmarks.",
         "Glendale\u2013Hyperion Bridge": "A grand concrete sentinel connecting the bohemian hills of Silver Lake with the riverside charm of Atwater Village, the Glendale\u2013Hyperion Bridge is more than just a viaduct; it is a monument to Los Angeles\u2019 architectural and cinematic ambition. Completed in 1927, its elegant multi-arched form spans the Los Angeles River and the I-5, serving as a soaring example of early 20th-century engineering. Designated as Historic-Cultural Monument #164, this bridge achieved a unique kind of immortality when its distinctive design was replicated at Disney California Adventure Park, welcoming visitors to a nostalgic vision of '1920s Los Angeles' at the entrance of Buena Vista Street.",
-        "Lithuanian Nutrition Center": "The Context: While Los Angeles is famous for its massive global populations, it also harbors highly specific micro-communities. The area spanning western Atwater Village into Los Feliz has historic ties to the local Lithuanian-American community (anchored nearby by St. Casimir's Lithuanian Church).\n\nThe Service: Programs like the local Lithuanian Nutrition Center highlight the city's incredible diversity, operating as culturally specific hubs that ensure elderly immigrants have access to community, familiar language, and traditional hot meals.",
         "North Atwater Bridge (La Kretz Crossing)": "A striking modernist spike rising from the concrete riverbed. This cable-stayed bridge was built specifically for horses (and pedestrians), connecting the equestrian side of Atwater to Griffith Park. Standing in the middle offers a rare, expansive view of the \"wild\" LA River and the mountains beyond.",
         "The Almon House (R.M. Schindler)": "An experimental residential design by Rudolph Schindler, known for its interlocking spatial volumes and use of industrial materials in a domestic setting.",
         "The Bigfoot Lodge": "A masterclass in kitsch that feels like Twin Peaks met a Boy Scout camp. With animatronic animals, heavy log-cabin walls, and a glowing Smokey the Bear watching over the bar, it\u2019s a dedicated immersive environment for drinking whiskey and pretending you're lost in the Pacific Northwest. Woodsy, Kitsch, Dark, Campy.",
-        "The Tam O'Shanter": "Opened 1922; Walt Disney\u2019s favorite hangout, built in a \"Storybook\" Tudor style."
+        "The Tam O'Shanter": "Opened 1922; Walt Disney\u2019s favorite hangout, built in a \"Storybook\" Tudor style.",
+        "Kiefer Sutherland's Former Atwater Village Bungalow": "Kiefer Sutherland sold his 1,182-square-foot, 1920s Tudor-style bungalow in Atwater Village, Los Angeles, for approximately $1.64 million in April 2024, after listing it for $1.825 million.",
+        "The Los Angeles Lietuviu Tuatiniai Namai (American Lithuanian National Center)": "The Context: While Los Angeles is famous for its massive global populations, it also harbors highly specific micro-communities. The area spanning western Atwater Village into Los Feliz has historic ties to the local Lithuanian-American community (anchored nearby by St. Casimir's Lithuanian Church).\n\nThe Service: Programs like the local Lithuanian Nutrition Center highlight the city's incredible diversity, operating as culturally specific hubs that ensure elderly immigrants have access to community, familiar language, and traditional hot meals. The Los Angeles Lietuviu Tuatiniai Namai, aka the American Lithuanian National Center. Lithuanian Nutrition Center: While Los Angeles is famous for its massive global populations, it also harbors highly specific micro-communities. The area spanning western Atwater Village into Los Feliz has historic ties to the local Lithuanian-American community (anchored nearby by St. Casimir's Lithuanian Church). Programs like the local Lithuanian Nutrition Center highlight the city's incredible diversity, operating as culturally specific hubs that ensure elderly immigrants have access to community, familiar language, and traditional hot meals.",
+        "Vintage Foster's Freeze Sign": "Vintage Foster's Freeze Sign",
+        "Champion Graphics LLC (Geoff McFetridge's Studio)": "CalArtian Geoff McFetridge's studio Champion Graphics LLC is located here",
+        "Dave's Accordion School": "Dave's Accordion School",
+        "Pampered Birds' Amazing Mural": "Pampered Birds' Amazing Mural",
+        "Fantasy Bungalows on Brunswick": "Fantasy Bungalows on Brunswick",
+        "Trapezoidal windows in Atwater": "Trapezoidal windows in Atwater",
+        "Ruth Roy Ranch": "Ruth Roy Ranch"
     },
     "avalon-santa-catalina-island": {
         "Catalina Casino": "Not a gambling facility, but a breathtaking 1929 Art Deco masterpiece commissioned by William Wrigley Jr. Ascending 12 stories over Avalon Bay, it houses a stunning movie theater and a massive circular ballroom. It remains the visual anchor and social heart of the island.",
@@ -185,7 +193,8 @@ const globalDescriptions = {
         "Rancho Cienega Sports Complex": "Park/Facility in Baldwin Hills / Crenshaw",
         "The Teasley Residence": "This property holds a deeply poignant history. The original 1957 mid-century home was tragically destroyed in the catastrophic 1985 Baldwin Hills fire. The owner hired Leimert Park-based architect Vincent J. Proby\u2014a significant figure, being the first person of color on California's State Board of Architectural Examiners\u2014to design a new home. Built in 1986, the Contemporary Modern two-story home is positioned to maximize panoramic views of Downtown LA and the Hollywood Hills. It features a cut-stone fireplace, original built-ins, and a seamless indoor-outdoor flow leading out to the surviving, original 1957 swimming pool that made it through the fire.",
         "The Village Green": "A National Historic Landmark garden apartment complex designed to separate pedestrian and vehicular traffic.",
-        "Village Green (Baldwin Hills Village)": "Built in 1941\u201342 as Baldwin Hills Village, this is a pioneering Garden City\u2013style \"superblock\" of 627 apartments set amid expansive shared green courts \u2014 a radical departure from the conventional street grid. Designed by Reginald D. Johnson with consulting architect Clarence Stein (co-creator of Radburn, New Jersey), the complex was intended from the outset as a prototype for humane, community-centered urban housing. Its significance has been recognized at every major preservation level: designated Los Angeles Historic-Cultural Monument No. 174 in 1977, listed on the National Register of Historic Places in 1993, and declared a U.S. National Historic Landmark in 2001. In 1972, the complex was converted from rentals to condominiums and renamed Village Green, the name it carries today."
+        "Village Green (Baldwin Hills Village)": "Built in 1941\u201342 as Baldwin Hills Village, this is a pioneering Garden City\u2013style \"superblock\" of 627 apartments set amid expansive shared green courts \u2014 a radical departure from the conventional street grid. Designed by Reginald D. Johnson with consulting architect Clarence Stein (co-creator of Radburn, New Jersey), the complex was intended from the outset as a prototype for humane, community-centered urban housing. Its significance has been recognized at every major preservation level: designated Los Angeles Historic-Cultural Monument No. 174 in 1977, listed on the National Register of Historic Places in 1993, and declared a U.S. National Historic Landmark in 2001. In 1972, the complex was converted from rentals to condominiums and renamed Village Green, the name it carries today.",
+        "Baha'i Community of Los Angeles": "Baha'i Community of Los Angeles"
     },
     "baldwin-park": {
         "In-N-Out corporate campus and restaurant.": "FIRST IN-N-OUT BURGER OPENS Harry Snyder introduces California's first drive-thru hamburger stand in a space barely 100 square feet (a 10x10 foot structure) at Francisquito and Garvey in Baldwin Park. This is not the original location \u2014 Harry and Esther Snyder opened the very first In-N-Out on October 22, 1948 at the corner of Francisquito and Garvey in Baldwin Park. In 2004, a new modern In-N-Out opened at 13850 Francisquito Avenue, just on the other side of the freeway. The original stand was at a different address. The replica of the original 1948 stand is at 13766 Francisquito Ave.",
@@ -413,7 +422,8 @@ const globalDescriptions = {
         "Sears, Roebuck & Company Mail Order Building": "A monumental 1927 Art Deco distribution center. Its massive 226-foot tower is a landmark of the Eastside skyline. In a \"Noir\" context, it represents the industrial might and the sheer scale of early 20th-century Los Angeles commerce.",
         "State Street Recreation Center": "Park/Facility in Boyle Heights",
         "The Boyle Hotel-Cummings Block": "The Boyle Hotel-Cummings Block, a Queen Anne-style Victorian landmark overlooking Mariachi Plaza.",
-        "The Paramount / Brooklyn Ave Pizza": "Historic Paramount ballroom and current site of Brooklyn Ave Pizza Co."
+        "The Paramount / Brooklyn Ave Pizza": "Historic Paramount ballroom and current site of Brooklyn Ave Pizza Co.",
+        "El Mercado (Googie Font Landmark)": "Known for its \"Googie-style\" script on its sign, this three-story Mexican marketplace is a cultural hub filled with mariachis, traditional foods, and a massive folk-art collection."
     },
     "hcm-region-boyle-heights-east": {
         "Boyle Hotel (Cummings Block)": "Built in 1889, this landmark Victorian-era building was a social hub for the early Jewish and later Mexican communities of Boyle Heights.",
@@ -447,7 +457,8 @@ const globalDescriptions = {
     "broadway": {
         "_neighborhood": "A major commercial and residential corridor in the south.",
         "Alliance Judy Ivie Burton Tech": "A high-performing South Los Angeles charter high school with a focus on technology and college preparation.",
-        "Samuel Gompers Middle School": "The mission of Samuel Gompers Middle School is to provide a safe, healthy, and nurturing environment where students achieve academic excellence."
+        "Samuel Gompers Middle School": "The mission of Samuel Gompers Middle School is to provide a safe, healthy, and nurturing environment where students achieve academic excellence.",
+        "Roi Le Autel": "A unique religious/residential building in South LA whose name (French for \"King the Altar\") and history represent the diverse and often niche spiritual communities that shaped the city's early development."
     },
     "burbank": {
         "1016 North Victory Place (RC Provisions)": "While it looks like a standard warehouse, this is a \"culinary landmark.\" RC Provisions is the exclusive supplier of the world-famous pastrami for Langer\u2019s Deli (the No. 19 sandwich) and Canter\u2019s Deli. For LA food historians, this address is sacred ground.",
@@ -1104,7 +1115,8 @@ const globalDescriptions = {
         "The Maravilla Housing Project": "Originally established as a residential anchor for the local workforce, this sprawling complex is an essential piece of the social history of East Los Angeles. It represents the mid-century evolution of the neighborhood, marking the transition from early settlements into the foundational, multi-generational community that defines the Maravilla area today.",
         "The Tamale (Programmatic Architecture)": "A rare and glorious example of programmatic architecture. Much like the Tail O' the Pup, this building is shaped like a giant tamale. It is a survivor of the 1920s roadside kitsch era, designed to catch the eye of early motorists on Whittier Blvd.",
         "Tony\u2019s Transmissions (Muffler Man)": "This site features another Muffler Man\u2014a fiberglass giant that serves as a sentinel of the machine-age commercial corridors.",
-        "United Oil (Googie Elements)": "Reflects the mid-century 'windshield viewing' design aesthetic found along the Eastside's major thoroughfares."
+        "United Oil (Googie Elements)": "Reflects the mid-century 'windshield viewing' design aesthetic found along the Eastside's major thoroughfares.",
+        "King Taco (The \"Most Famous\" One)": "While the original King Taco started in a truck in Cypress Park, this East LA location became a legendary landmark for being the \"flagship\" that popularized the modern taco stand in LA."
     },
     "east-pasadena": {
         "California Euclid": "Property Type: Apartments"
@@ -1330,7 +1342,8 @@ const globalDescriptions = {
         "Urban Homestead (3053 Carlyle St)": "Urban homestead focused on self-reliance, permaculture, and sustainable living practices.",
         "Verdugo Bar": "Iconic landmark of the Verdugo Village pocket.",
         "Verdugo Village": "Verdugo Village is a popular local name for the commercial and residential \"micro-neighborhood\" situated along Verdugo Road, specifically the stretch between Eagle Rock Boulevard and W. Avenue 33 in Glassell Park.\\n\\nLocation: Primarily centered on Verdugo Road, Los Angeles, CA 90065.\\n\\nCharacter: This area serves as a vibrant community hub within Glassell Park, featuring a high concentration of artisanal coffee shops, eclectic boutiques, and the neighborhood's most famous landmarks, such as the Verdugo Bar.\\n\\nRelationship to Glassell Park: It is considered a subset or \"pocket\" of Glassell Park, often grouped with the \"Eagle Rock Blvd-adjacent\" portion of the neighborhood.",
-        "Wagville": "Cage-free dog daycare, boarding, and grooming facility."
+        "Wagville": "Cage-free dog daycare, boarding, and grooming facility.",
+        "Van de Kamp's Holland Dutch Bakers": "The L.A. 'Taj Mahal' of Bakeries"
     },
     "glendale": {
         "1692 Brand Park Dr": "Doctors House (GRHR #6): 1888 Queen Anne Victorian moved to Brand Park to save it from demolition.",
@@ -1642,7 +1655,7 @@ const globalDescriptions = {
         "Trianon Apartment Building (Fairbanks & Pickford)": "Commissioned by Hollywood's first power couple, Douglas Fairbanks Jr. and Mary Pickford, this French-inspired luxury building was the height of 1920s glamour.",
         "Will and Ariel Durant Branch Library": "A popular Hollywood library branch named after the famous historians, serving the Sunset Strip and Hollywood Hills communities.",
         "Yucca Corridor": "The area centered around Yucca Street between Highland Avenue and Vine Street \u2014 historically one of the denser, more economically challenged pockets of central Hollywood. The corridor has undergone intense urban renewal and redevelopment in recent decades, resulting in a striking juxtaposition of well-preserved Art Deco apartment buildings alongside modern high-rise towers. Its transformation reflects the broader gentrification pressures reshaping Hollywood's residential core.",
-        "Henry O. Bollman House (HCM #235)": "Lloyd Wright's 1922 'knit-block' masterpiece. This residence is the architect's earliest use of the textile block method, creating a Mesoamerican-inspired structure that pioneered the structural and aesthetic possibilities of patterned concrete in Los Angeles.",
+        "The Henry O. Bollman House": "The Henry O. Bollman House, located at 1530 N. Ogden Drive in Los Angeles, is a 1922 Mesoamerican-inspired masterpiece designed by Lloyd Wright (son of Frank Lloyd Wright). This residence represents the architect's earliest use of the 'knit-block' or textile block method, creating a structure that pioneered the structural and aesthetic possibilities of patterned concrete in Los Angeles. It is a designated Cultural Historic Monument (#235).",
         "John Storer House (HCM #96)": "Designed by Frank Lloyd Wright in 1923, this is the most vertical of his four textile block houses. It features four distinct block patterns and is famously known for its dramatic restoration overseen by Eric Lloyd Wright in the 1980s.",
         "Samuel Freeman House (HCM #247)": "A 1924 Frank Lloyd Wright design perched on a hillside, utilizing roughly 12,000 textile blocks. Its innovative corner windows allow for unobstructed views, showcasing Wright\u2019s transition towards more organic and light-filled interiors."
     },
@@ -1815,7 +1828,8 @@ const globalDescriptions = {
         "The Shelley (Seinfeld Exterior)": "A historic residential building famous as the apartment exterior for Jerry Seinfeld.",
         "The Wiltern & Pellissier Building": "A turquoise terra-cotta landmark featuring a 12-story tower and a world-class theater interior.",
         "Wi Spa": "An iconic 24-hour Jimjilbang; a multi-story social and wellness landmark.",
-        "Young Dong Restaurant": "A classic Koreatown staple located on Wilshire Boulevard. It is a renowned destination for the neighborhood's vibrant late-night crowd seeking authentic, comforting Korean cuisine."
+        "Young Dong Restaurant": "A classic Koreatown staple located on Wilshire Boulevard. It is a renowned destination for the neighborhood's vibrant late-night crowd seeking authentic, comforting Korean cuisine.",
+        "Nightcrawler / Chinatown Express Site": "A filming location used in the movie Nightcrawler (2014) to capture the gritty, neon-lit nighttime aesthetic of Los Angeles\u2019 multi-cultural commercial corridors."
     },
     "la-river-viaducts": {
         "4th Street Bridge": "A 1931 Beaux-Arts masterpiece with Gothic-inspired pylons. A favorite for noir cinematography.",
@@ -1879,7 +1893,8 @@ const globalDescriptions = {
     "lancaster": {
         "Easy Rest Inn": "Location of the Easy Rest Inn.",
         "Kill Bill Church (Two Pines Chapel)": "The desert sanctuary location (real name: Sanctuary Adventist Church) where the infamous wedding massacre occurs in Kill Bill.",
-        "The Western Hotel Museum": "The Western Hotel Museum, built in 1888, is the oldest surviving building in Lancaster and a designated California Historic Landmark."
+        "The Western Hotel Museum": "The Western Hotel Museum, built in 1888, is the oldest surviving building in Lancaster and a designated California Historic Landmark.",
+        "Westerner Motel (\"Cool Motel Sign\")": "A classic, towering vintage neon sign along the historic Sierra Highway, capturing the roadside Americana of the high desert's travel routes."
     },
     "larchmont-village": {
         "Whatever Happened to Baby Jane House": "The 1962 classic film starring Bette Davis and Joan Crawford used this grand residence as the exterior for the sisters home."
@@ -1896,7 +1911,8 @@ const globalDescriptions = {
         "Egyptian Court": "A fraternal organization hall on Crenshaw Boulevard, part of the civic and social fabric of the Leimert Park community. The Egyptian Court building reflects the Egyptian Revival architectural motif that enjoyed popularity in the early 20th century following the 1922 discovery of Tutankhamun's tomb, a style that found particular expression in Southern California's fraternal lodge architecture.",
         "Leimert Plaza Park": "A historic public square that serves as a gathering point for drum circles, community festivals, and social activism.",
         "Maverick's Flat": "A legendary nightclub known as the \"Apollo of the West,\" central to the soul and jazz scene in the 1960s and 70s.",
-        "The World Stage": "An educational and performance gallery founded by Billy Higgins; a foundational site for the development of West Coast jazz and oral traditions."
+        "The World Stage": "An educational and performance gallery founded by Billy Higgins; a foundational site for the development of West Coast jazz and oral traditions.",
+        "Jerry's Flying Fox": "Jerry's Flying Fox"
     },
     "lennox": {
         "\"Make Love Not War\" Mural": "Painted by a local artist and CSUN student Laura Medrano in 2021, this vibrant community mural features the phrase 'Make Love Not War' alongside the depiction of a couple, a sun, and roses. It stands as a proud local landmark reflecting the cultural identity and community pride of the Lennox neighborhood.",
@@ -1936,7 +1952,8 @@ const globalDescriptions = {
         "Ptomaine Tommy's (Historic Restaurant Site)": "Site of Ptomaine Tommy's, one of LA's earliest and most famous chili parlors, operating from the 1910s through the 1950s.",
         "San Antonio Winery": "Founded in 1917, San Antonio is the last surviving commercial winery established in Los Angeles during the pre-Prohibition era. It survived by obtaining a sacramental wine exemption and has operated continuously ever since, a remarkable industrial and cultural survivor in Lincoln Heights.",
         "Selig Zoo and Movie Studio": "Founded by film pioneer William \"Colonel\" Selig, this was a massive 32-acre zoo and movie studio combo. It featured an elaborate arched entrance with lavish animal sculptures. The zoo provided animals for Selig\u2019s \"jungle\" pictures and eventually evolved into the Luna Park Zoo before closing around 1940.",
-        "\u201cFlat Top\u201d in \u201cHappy Valley\u201d": "\u201cFlat Top\u201d in \u201cHappy Valley\u201d"
+        "\u201cFlat Top\u201d in \u201cHappy Valley\u201d": "\u201cFlat Top\u201d in \u201cHappy Valley\u201d",
+        "Champion Donuts Mural": "A vibrant local mural on the side of a classic neighborhood donut shop, representing the hyper-local \"street art as advertising\" style found in Lincoln Heights."
     },
     "little-bangladesh": {
         "Meghna Restaurant": "Bangladeshi restaurant on W 3rd St in the Little Bangladesh corridor."
@@ -2804,7 +2821,6 @@ const globalDescriptions = {
         "Gubel Residence": "Residential property on Elevado St in Silver Lake.",
         "Hallelujah Prayer Center": "Local church and prayer center on Glendale Blvd.",
         "Harmony Terrace / Silverlake Dingbat": "Classic Silver Lake dingbat-style apartment complex on Hyperion Ave.",
-        "Harry Hay Residence (First Gay Organization Site)": "Home of Harry Hay, founder of the Mattachine Society in 1950, America's first sustained gay rights organization.",
         "Harry Koblick House (Richard Neutra)": "Residential design by modernist master Richard Neutra.",
         "Haven of Rest Radio Ministry": "Historic Christian radio ministry on Hyperion Ave.",
         "Hawks House (HCM #1153)": "Part of the 'Neutra Colony'\u2014a cluster of 10 homes designed by Neutra along Silver Lake Boulevard. Designed in 1939; one of the earlier structures in the colony cluster.",
@@ -2862,7 +2878,7 @@ const globalDescriptions = {
         "Swan Stairs": "A lush, hidden staircase that captures the bohemian, naturalistic character of the Silver Lake hills.",
         "T.V. Graveyard Site": "Former site of the T.V. Graveyard, a legendary outdoor art installation.",
         "The Chandelier Tree": "Hidden in plain sight on a quiet Silver Lake residential street, this massive, century-old sycamore tree has been adorned with dozens of vintage, fully wired chandeliers by a local artist, creating a magical, glowing spectacle for anyone driving by at night.",
-        "The Dov Charney Mansion": "The massive 12,000-square-foot Silver Lake estate of the American Apparel founder, known for its brutalist architecture and expansive views.",
+        "The Dov Charney Mansion": "The massive 12,000-square-foot Silver Lake estate of the American Apparel founder, known for its brutalist architecture and expansive views. A 12,000-square-foot Brutalist-style concrete fortress built by the American Apparel founder. Its stark, imposing architecture stands in sharp contrast to the surrounding Silver Lake bungalows.",
         "The Foot Clinic": "Local podiatry clinic on Sunset Blvd.",
         "The Frog Pond / Lyric Hyperion": "Currently operating as the Lyric Hyperion Theatre & Cafe, this building holds a vital place in Los Angeles LGBTQ+ history. During the 1970s and 80s, the space operated as 'The Frog Pond', a highly popular gay restaurant and cabaret. In 1980, the establishment was firebombed by an anti-gay assailant. The tragic blast injured three people and served as a major catalyst for the community; in direct response, the Sunset Junction Neighborhood Alliance was formed to ease neighborhood tensions and promote unity, eventually launching the famous Sunset Junction Street Fair.",
         "The Manual Archives (Puppetry)": "Archive and workshop dedicated to the art of puppetry.",
@@ -2872,7 +2888,8 @@ const globalDescriptions = {
         "VietSoy": "Vietnamese-soy fusion restaurant on Hyperion Ave.",
         "Waverly Drive Apartment Complex": "Apartment complex on Waverly Dr.",
         "Westerly Terrace Viewpoint": "Notable hillside viewpoint in Silver Lake.",
-        "The Red Lion Tavern (Silver Lake)": "Classic German tavern with a rooftop beer garden and hearty fare."
+        "The Red Lion Tavern (Silver Lake)": "Classic German tavern with a rooftop beer garden and hearty fare.",
+        "The Mattachine Society House (Harry Hay Residence)": "Home of Harry Hay, founder of the Mattachine Society in 1950, America's first sustained gay rights organization. Overlooking Silver Lake, this is the historic site where Harry Hay founded the Mattachine Society in 1950, America\u2019s first sustained gay rights organization."
     },
     "soledad-canyon": {
         "Soledad Canyon Road": "Property Type: Primary"
@@ -2881,7 +2898,8 @@ const globalDescriptions = {
         "Kaiser Permanente South Bldg & Urgent Care": "Property Type: Clinic"
     },
     "south-el-monte": {
-        "Nike Missile Site LA-14 (Whittier Narrows)": "A fenced-off portion of the park that still contains the heavy steel underground launch doors and remnants of a 1950s anti-aircraft battery."
+        "Nike Missile Site LA-14 (Whittier Narrows)": "A fenced-off portion of the park that still contains the heavy steel underground launch doors and remnants of a 1950s anti-aircraft battery.",
+        "Starlite Swap Meet / Drive-In": "Famous for its massive, soaring Googie-style neon sign. This site reflects the mid-century \"car culture\" of the San Gabriel Valley and is one of the few remaining large-scale swap meets of its era."
     },
     "south-gate": {
         "Greenspan's Vintage Clothing Store": "Venerable neighborhood staple since 1928 known for its selection of Pendleton shirts, straw hats & dress shoes and connection to Chicano clothing and low-rider culture.",
@@ -3182,7 +3200,8 @@ const globalDescriptions = {
         "Venice Post Office": "Historic post office building featuring New Deal-era murals.",
         "VICE MEDIA": "VICE MEDIA",
         "Westminster Elementary Auditorium": "A vibrant neighborhood school auditorium located on the famous Abbott Kinney strip, often used for community forums.",
-        "Winston House": "Winston House. This well-known live music venue and social club is housed in the oldest building in Venice."
+        "Winston House": "Winston House. This well-known live music venue and social club is housed in the oldest building in Venice.",
+        "Jim Morrison's Venice Residence": "A site traditionally associated with The Doors frontman during his early years in Venice. This is where he reportedly lived on a rooftop, writing some of the band's most famous songs."
     },
     "glendale-verdugo-woodlands": {
         "Verdugo Woodlands Elementary School": "Property Type: Park"

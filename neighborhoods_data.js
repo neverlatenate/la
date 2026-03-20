@@ -1174,12 +1174,12 @@ const neighborhoodData = [
                 "original_hood": "Atwater Village"
             },
             {
-                "name": "Lithuanian Nutrition Center",
+                "name": "The Los Angeles Lietuviu Tuatiniai Namai (American Lithuanian National Center)",
                 "type": "landmark",
-                "address": "Atwater Village, Los Angeles, CA 90039, USA",
-                "lat": 34.1162065,
-                "lng": -118.2627862,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1162065,-118.2627862",
+                "address": "3356 Glendale Boulevard, Los Angeles, CA 90039",
+                "lat": 34.1196107,
+                "lng": -118.2586737,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3356+Glendale+Boulevard,+Los+Angeles,+CA+90039",
                 "original_hood": "Atwater Village"
             },
             {
@@ -1215,6 +1215,78 @@ const neighborhoodData = [
                 "lat": 34.1252,
                 "lng": -118.2635,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1252,-118.2635",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Kiefer Sutherland's Former Atwater Village Bungalow",
+                "type": "pop-culture",
+                "address": "3720 Valleybrink Rd, Los Angeles, CA 90039",
+                "lat": 34.1169213019079,
+                "lng": -118.26589750360043,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3720+Valleybrink+Rd,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Vintage Foster's Freeze Sign",
+                "type": "landmark",
+                "address": "2760 Fletcher Drive, Los Angeles, CA 90039",
+                "lat": 34.1110639,
+                "lng": -118.2502695,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2760+Fletcher+Drive,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Champion Graphics LLC (Geoff McFetridge's Studio)",
+                "type": "landmark",
+                "address": "3003 Glendale Boulevard, Los Angeles, CA 90039",
+                "lat": 34.1156103,
+                "lng": -118.2639369,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3003+Glendale+Boulevard,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Dave's Accordion School",
+                "type": "landmark",
+                "address": "3058 Glendale Blvd, Los Angeles, CA 90039",
+                "lat": 34.1156685,
+                "lng": -118.2629116,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3058+Glendale+Blvd,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Pampered Birds' Amazing Mural",
+                "type": "landmark",
+                "address": "3183 Glendale Boulevard, Los Angeles, CA 90039",
+                "lat": 34.1177982,
+                "lng": -118.2616435,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3183+Glendale+Boulevard,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Fantasy Bungalows on Brunswick",
+                "type": "landmark",
+                "address": "3642 Brunswick Ave, Los Angeles, CA 90039",
+                "lat": 34.1195395,
+                "lng": -118.2614071,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3642+Brunswick+Ave,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Trapezoidal windows in Atwater",
+                "type": "landmark",
+                "address": "3742 Brunswick Ave, Los Angeles, CA 90039",
+                "lat": 34.1209681,
+                "lng": -118.2627501,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3742+Brunswick+Ave,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Ruth Roy Ranch",
+                "type": "landmark",
+                "address": "4014 Verdant St, Los Angeles, CA 90039",
+                "lat": 34.1304269,
+                "lng": -118.2706978,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4014+Verdant+St,+Los+Angeles,+CA+90039",
                 "original_hood": "Atwater Village"
             }
         ]
@@ -1419,6 +1491,15 @@ const neighborhoodData = [
                 "lat": 34.021481987999,
                 "lng": -118.36231673024,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=5300+Rodeo+Rd,+LA,+CA+90016",
+                "original_hood": "Baldwin Hills"
+            },
+            {
+                "name": "Baha'i Community of Los Angeles",
+                "type": "landmark",
+                "address": "5755 Rodeo Rd, Los Angeles, CA 90016",
+                "lat": 34.0220032,
+                "lng": -118.3712827,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=5755+Rodeo+Rd,+Los+Angeles,+CA+90016",
                 "original_hood": "Baldwin Hills"
             }
         ]
@@ -3265,6 +3346,15 @@ const neighborhoodData = [
                 "lng": -118.203919026164,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2708+E+Cesar+E+Chavez+Ave,+Los+Angeles,+CA+90033",
                 "original_hood": "Boyle Heights"
+            },
+            {
+                "name": "El Mercado (Googie Font Landmark)",
+                "type": "landmark",
+                "address": "3425 E 1st St, Los Angeles, CA 90063",
+                "lat": 34.0385,
+                "lng": -118.1882,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3425+E+1st+St,+Los+Angeles,+CA+90063",
+                "original_hood": "Boyle Heights"
             }
         ]
     },
@@ -3541,6 +3631,15 @@ const neighborhoodData = [
                 "lat": 33.93281908889,
                 "lng": -118.270427416205,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=234+E+112th+St,+Los+Angeles,+CA+90061",
+                "original_hood": "Broadway-Manchester"
+            },
+            {
+                "name": "Roi Le Autel",
+                "type": "landmark",
+                "address": "256 W 117th St, Los Angeles, CA 90061",
+                "lat": 33.9282,
+                "lng": -118.2785,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=256+W+117th+St,+Los+Angeles,+CA+90061",
                 "original_hood": "Broadway-Manchester"
             }
         ]
@@ -9175,6 +9274,15 @@ const neighborhoodData = [
                 "lng": -118.414555,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9015477,-118.414555",
                 "original_hood": "East Los Angeles"
+            },
+            {
+                "name": "King Taco (The \"Most Famous\" One)",
+                "type": "landmark",
+                "address": "4504 E 3rd St, Los Angeles, CA 90022",
+                "lat": 34.0325,
+                "lng": -118.1582,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4504+E+3rd+St,+Los+Angeles,+CA+90022",
+                "original_hood": "East Los Angeles"
             }
         ]
     },
@@ -11095,6 +11203,15 @@ const neighborhoodData = [
                 "lat": 34.1058146,
                 "lng": -118.2398811,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1058146,-118.2398811",
+                "original_hood": "Glassell Park"
+            },
+            {
+                "name": "Van de Kamp's Holland Dutch Bakers",
+                "type": "landmark",
+                "address": "2930 Fletcher Dr, Los Angeles, CA 90065",
+                "lat": 34.1139119,
+                "lng": -118.2466544,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2930+Fletcher+Dr,+Los+Angeles,+CA+90065",
                 "original_hood": "Glassell Park"
             }
         ]
@@ -13580,7 +13697,7 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
-                "name": "Henry O. Bollman House (HCM #235)",
+                "name": "The Henry O. Bollman House",
                 "type": "landmark",
                 "address": "1530 N. Ogden Drive, Los Angeles, CA 90046",
                 "lat": 34.0988,
@@ -15009,6 +15126,15 @@ const neighborhoodData = [
                 "lng": -118.310083457413,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=3828+Wilshire+Blvd%2C+Los+Angeles%2C+CA+90010",
                 "original_hood": "Koreatown"
+            },
+            {
+                "name": "Nightcrawler / Chinatown Express Site",
+                "type": "pop-culture",
+                "address": "252 S Western Ave, Los Angeles, CA 90004",
+                "lat": 34.0685,
+                "lng": -118.3092,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=252+S+Western+Ave,+Los+Angeles,+CA+90004",
+                "original_hood": "Koreatown"
             }
         ]
     },
@@ -15456,6 +15582,15 @@ const neighborhoodData = [
                 "lng": -118.1390467,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.6984313,-118.1390467",
                 "original_hood": "Lancaster"
+            },
+            {
+                "name": "Westerner Motel (\"Cool Motel Sign\")",
+                "type": "landmark",
+                "address": "44125 Sierra Hwy, Lancaster, CA 93534",
+                "lat": 34.6852,
+                "lng": -118.1452,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=44125+Sierra+Hwy,+Lancaster,+CA+93534",
+                "original_hood": "Lancaster"
             }
         ]
     },
@@ -15560,6 +15695,15 @@ const neighborhoodData = [
                 "lat": 34.005289,
                 "lng": -118.331691,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.005289,-118.331691",
+                "original_hood": "Leimert Park"
+            },
+            {
+                "name": "Jerry's Flying Fox",
+                "type": "landmark",
+                "address": "3724 W Martin Luther King Blvd, Los Angeles, CA 90008",
+                "lat": 34.0123597,
+                "lng": -118.3389809,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3724+W+Martin+Luther+King+Blvd,+Los+Angeles,+CA+90008",
                 "original_hood": "Leimert Park"
             }
         ]
@@ -15907,6 +16051,15 @@ const neighborhoodData = [
                 "lat": 34.078687099999996,
                 "lng": -118.2077314,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.078687099999996,-118.2077314",
+                "original_hood": "Lincoln Heights"
+            },
+            {
+                "name": "Champion Donuts Mural",
+                "type": "landmark",
+                "address": "3209 N Broadway, Los Angeles, CA 90031",
+                "lat": 34.0752,
+                "lng": -118.2012,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3209+N+Broadway,+Los+Angeles,+CA+90031",
                 "original_hood": "Lincoln Heights"
             }
         ]
@@ -23108,12 +23261,12 @@ const neighborhoodData = [
                 "original_hood": "Silver Lake"
             },
             {
-                "name": "Harry Hay Residence (First Gay Organization Site)",
+                "name": "The Mattachine Society House (Harry Hay Residence)",
                 "type": "landmark",
-                "address": "2328 Cove Ave, Los Angeles, CA",
-                "lat": 34.094670034989,
-                "lng": -118.260510702739,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2328+Cove+Ave,+Los+Angeles,+CA",
+                "address": "2328 Cove Ave, Los Angeles, CA 90039",
+                "lat": 34.0915,
+                "lng": -118.2612,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2328+Cove+Ave,+Los+Angeles,+CA+90039",
                 "original_hood": "Silver Lake"
             },
             {
@@ -23633,8 +23786,8 @@ const neighborhoodData = [
                 "address": "1809 Apex Ave, Los Angeles, CA 90026",
                 "lat": 34.0885,
                 "lng": -118.2682,
-                "type": "architectural",
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0885,-118.2682"
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1809+Apex+Ave,+Los+Angeles,+CA+90026"
             },
             {
                 "name": "The Foot Clinic",
@@ -23787,6 +23940,15 @@ const neighborhoodData = [
                 "lat": 34.0471884,
                 "lng": -118.0639875,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0471884,-118.0639875",
+                "original_hood": "South El Monte"
+            },
+            {
+                "name": "Starlite Swap Meet / Drive-In",
+                "type": "landmark",
+                "address": "2540 Rosemead Blvd, South El Monte, CA 91733",
+                "lat": 34.0392,
+                "lng": -118.0535,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2540+Rosemead+Blvd,+South+El+Monte,+CA+91733",
                 "original_hood": "South El Monte"
             }
         ]
@@ -26362,6 +26524,15 @@ const neighborhoodData = [
                 "lat": 33.9873429,
                 "lng": -118.4733295,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9873429,-118.4733295",
+                "original_hood": "Venice"
+            },
+            {
+                "name": "Jim Morrison's Venice Residence",
+                "type": "pop-culture",
+                "address": "35 2nd Ave, Venice, CA 90291",
+                "lat": 33.9925,
+                "lng": -118.4712,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=35+2nd+Ave,+Venice,+CA+90291",
                 "original_hood": "Venice"
             }
         ]
