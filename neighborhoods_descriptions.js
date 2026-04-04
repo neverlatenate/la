@@ -78,7 +78,8 @@ const globalDescriptions = {
         "Mountain View Mausoleum": "Built in 1923 and designed by Cecil E. Bryan (an architect who apprenticed under Frank Lloyd Wright) in the Neo-Classical/Romanesque Revival style, this structure is widely considered his undisputed masterpiece. The interior features a stunning 180-foot-long great gallery with vaulted ceilings, hand-painted fresco murals, and brilliant stained-glass windows crafted by the renowned local Judson Studios.",
         "The Balian Mansion": "A massive castle-like estate famous for its elaborate Christmas light displays and towering Mediterranean/Gothic silhouette against the San Gabriel Mountains.",
         "The Cobb Estate (\"Haunted Forest\")": "When retired lumber magnate Charles Cobb built an estate in the foothills north of Pasadena in 1918, the only indication that the \"haunted woods\" behind his house had any ghosts was the name. Cobb lived on the property without incident until his death in 1939, when the 107-acre estate was deeded to the Pasadena Masons, as specified in his will. And still no ghosts. Eventually the property was purchased from the Masons and converted to a retreat for the Sisters of St. Joseph, and not a word about supernatural activity was heard. It was when the Marx Brothers bought the estate in 1956 that the rumors of strange noises and eerie lights at the now vacant home began to circulate amongst the townsfolk. Whether or not that had to do with the squatters and teenagers who used the house for various nocturnal activities is an open question. (Source: atlasobscura.com)",
-        "Zorthian Ranch": "The \"Center for Research and Development of Industrial Discards.\" A legendary bohemian compound of junk art, roaming goats, and hand-built structures that defy code. It\u2019s an artist's fever dream of recycled architecture, though recent wildfires have claimed parts of its eccentric history. Used for movie locations for many years."
+        "Zorthian Ranch": "The \"Center for Research and Development of Industrial Discards.\" A legendary bohemian compound of junk art, roaming goats, and hand-built structures that defy code. It\u2019s an artist's fever dream of recycled architecture, though recent wildfires have claimed parts of its eccentric history. Used for movie locations for many years.",
+        "Step Brothers home/filming location": "Former home of Step Brothers home/filming location."
     },
     "angeles-crest": {
         "Angeles Crest Highway": "A 66-mile ribbon of asphalt draped over the spine of the San Gabriel Mountains. It\u2019s a \"road to the clouds\" offering panoramic views of the LA basin on one side and the desolate Mojave on the other. A driving experience that demands focus, offering high-altitude thrills just minutes from the city. Dramatic, Windy, Alpine, Panoramic.",
@@ -230,7 +231,10 @@ const globalDescriptions = {
         "The Moraga Estate (Moraga Vineyards)": "Tucked away in the Santa Monica Mountains within the exclusive enclave of Bel Air, Moraga Estate is a 16-acre anomaly\u2014the first commercial winery to be established in Los Angeles since Prohibition. Concealed behind unassuming rustic wood gates, the property features a 7,500-square-foot main residence and seven acres of rolling vineyards that thrive in a unique microclimate just five miles from the Pacific. Originally built in 1937 for Gone with the Wind director Victor Fleming, the estate was purchased by Rupert Murdoch in 2013 after he famously saw the listing in a real estate column in one of his own newspapers, The Wall Street Journal. Today, it remains a working vineyard, producing high-end Bordeaux-style blends that reflect the rugged beauty of Moraga Canyon.",
         "Upper Bel-Air Residential": "Located in the hills of Bel-Air, this address is part of an enclave known for high-profile residents and architectural landmarks.",
         "Wilt Chamberlain's Home": "Former home of Wilt Chamberlain.",
-        "Zsa Zsa Gabor's Home": "Former home of Zsa Zsa Gabor."
+        "Zsa Zsa Gabor's Home": "Former home of Zsa Zsa Gabor.",
+        "Bennifer bought this home (Ben Affleck and Jennifer Lopez)": "Former home of Bennifer bought this home (Ben Affleck and Jennifer Lopez).",
+        "Director Michael Bay\u2019s home": "Former home of Director Michael Bay\u2019s home.",
+        "Former home of Chelsea Handler": "Former home of Former home of Chelsea Handler."
     },
     "bell": {
         "Alpha Theatre (Site of)": "Site of the former Alpha Theatre, a historic movie house that once served the Bell community.",
@@ -369,7 +373,13 @@ const globalDescriptions = {
         "W.C. Fields Residence": "Notable Beverly Hills residence.",
         "Walter Matthau Residence": "Notable Beverly Hills residence.",
         "Will Rogers Residence": "Notable Beverly Hills residence.",
-        "Zoe Saldana Former Home": "The home at 9551 Lime Orchard Rd, Beverly Hills, CA 90210."
+        "Zoe Saldana Former Home": "The home at 9551 Lime Orchard Rd, Beverly Hills, CA 90210.",
+        "Emmy Rossum home": "Former home of Emmy Rossum home.",
+        "Bugsy Siegel \u201cMurder Mansion\u201d": "Bugsy Siegel \u201cMurder Mansion\u201d",
+        "Former home of Marilyn Monroe and Joe DiMaggio": "Former home of Former home of Marilyn Monroe and Joe DiMaggio.",
+        "Zoe Saldana home": "Former home of Zoe Saldana home.",
+        "Stevie Wonder home": "Former home of Stevie Wonder home.",
+        "Former home of Carrie Fisher": "Former home of Former home of Carrie Fisher."
     },
     "beverly-park": {
         "Beverly Crest Estates": "A prestigious hilltop street in the hills above Beverly Hills, known for its modernist architecture and expansive views of the Los Angeles Basin.",
@@ -452,7 +462,10 @@ const globalDescriptions = {
         "The Banks Mansion \u2014 The Fresh Prince of Bel-Air": "Contrary to the theme song, the house is actually in Brentwood, not Bel-Air.",
         "The Barry Building": "Once home to the beloved independent bookstore Dutton's Books, this commercial building is celebrated for its central, open-air courtyard and clean Mid-Century Modern lines. Built in 1951 and designed by Milton Caughey, it is officially Los Angeles Historic-Cultural Monument #887. Vacant since 2007, it has become the center of a decades-long battle between historic preservationists and developers, facing imminent threats of demolition.",
         "The Getty Center": "The Getty Center in Los Angeles is a renowned, free-admission museum and cultural complex perched in the Santa Monica Mountains, featuring striking white travertine architecture designed by Richard Meier. Opened in 1997, it houses European paintings, drawings, sculpture, illuminated manuscripts, and decorative arts, alongside modern photography.",
-        "The Golden Girls House \u2014 The Golden Girls": "Only the exterior was used for the show\u2019s establishing shots; the interior was a soundstage at Disney's Hollywood Studios."
+        "The Golden Girls House \u2014 The Golden Girls": "Only the exterior was used for the show\u2019s establishing shots; the interior was a soundstage at Disney's Hollywood Studios.",
+        "Formerly Gwyneth Paltrow\u2019s home": "Former home of Formerly Gwyneth Paltrow\u2019s home.",
+        "Once the home of entertainment legend, Garry Shandling, and his renowned basketball game": "Former home of Once the home of entertainment legend, Garry Shandling, and his renowned basketball game.",
+        "\"The Golden Girls\" house": "\"The Golden Girls\" house"
     },
     "broadway": {
         "_neighborhood": "A major commercial and residential corridor in the south.",
@@ -513,7 +526,8 @@ const globalDescriptions = {
         "Kanye West's clothing company YEEZY former HQ": "Kanye West's clothing company YEEZY former HQ",
         "Leonis Adobe": "One of the oldest surviving structures in the Los Angeles area, the Leonis Adobe dates to circa 1844. A Monterey Colonial-style rancho, it was home to Miguel Leonis and is now a museum preserving the rancho era of California history.",
         "The Leonis Adobe": "The Leonis Adobe, located at 23537 Calabasas Road, is one of the oldest surviving private residences in Los Angeles County. In 1962, it was declared Los Angeles Historic Cultural Monument #1, and in 1975 it was listed on the National Register of Historic Places. WhichMuseum Address confirmed, landmark confirmed.",
-        "The Los Angeles Pet Memorial Park": "The Los Angeles Pet Memorial Park was founded in 1928 by veterinarian Dr. Eugene Jones and is situated on ten acres of land interring over 40,000 pets. Celebrity pets buried here belonged to Charlie Chaplin, Humphrey Bogart, Orson Welles, Diana Ross, and Steven Spielberg. California By Choice A genuinely notable historic site \u2014 the oldest pet cemetery in LA."
+        "The Los Angeles Pet Memorial Park": "The Los Angeles Pet Memorial Park was founded in 1928 by veterinarian Dr. Eugene Jones and is situated on ten acres of land interring over 40,000 pets. Celebrity pets buried here belonged to Charlie Chaplin, Humphrey Bogart, Orson Welles, Diana Ross, and Steven Spielberg. California By Choice A genuinely notable historic site \u2014 the oldest pet cemetery in LA.",
+        "Will Smith Home": "Former home of Will Smith Home."
     },
     "canoga-park": {
         "_neighborhood": "Canoga Park (formerly Owensmouth): Founded as Owensmouth on March 30, 1912, the townsite was platted at the western edge of Isaac Van Nuys\u2019s wheat ranch in anticipation of water from the Owens River Aqueduct. Annexed to Los Angeles in 1917 to secure a municipal water supply, it was renamed Canoga Park on March 1, 1931. Today it remains a largely residential San Fernando Valley neighborhood, its early Red Car and Sherman Way transit history commemorated by local preservation groups.",
@@ -608,7 +622,8 @@ const globalDescriptions = {
         "Cheviot Hills Residential": "A residential street in Cheviot Hills, an affluent Westside neighborhood known for its traditional-style homes and frequent use as a filming location for \"everyday\" suburban scenes.",
         "Crown Car Wash": "A classic example of Westside service architecture and a local service staple.",
         "Strauss-Lewis House": "A 1940 modernist masterpiece designed by Raphael Soriano; a rare example of early International Style in the area.",
-        "The 'Goldbergs' House": "Architectural Style: Traditional / Neoclassical\n\nDescription: This residence served as the iconic exterior filming location for the long-running ABC sitcom The Goldbergs. While the show is set in Jenkintown, Pennsylvania, this Cheviot Hills home provided the quintessential 1980s suburban look needed for the series. It is a frequent stop for TV fans looking to see the real-life \"Goldberg\" driveway and front porch."
+        "The 'Goldbergs' House": "Architectural Style: Traditional / Neoclassical\n\nDescription: This residence served as the iconic exterior filming location for the long-running ABC sitcom The Goldbergs. While the show is set in Jenkintown, Pennsylvania, this Cheviot Hills home provided the quintessential 1980s suburban look needed for the series. It is a frequent stop for TV fans looking to see the real-life \"Goldberg\" driveway and front porch.",
+        "For more than half a century it was home to writer Ray Bradbury, demolished 2015": "Former home of For more than half a century it was home to writer Ray Bradbury, demolished 2015."
     },
     "chinatown": {
         "Bank of America Chinatown Branch": "Historic bank branch serving the local Chinatown community.",
@@ -688,7 +703,8 @@ const globalDescriptions = {
         "Samsung Electronics LA Design Lab": "This surprising Research & Development location is situated within Compton. It serves as a key design and engineering hub for the tech giant.",
         "Serena and Venus Williams\u2019 childhood home": "Childhood home of tennis legends Serena and Venus Williams.",
         "United Oil (Space-Age Googie Station)": "502 W Rosecrans Ave, Compton, CA 90222. This station is a notable example of Googie architecture, featuring futuristic, space-age design elements common in mid-century Southern California.",
-        "Woodlawn Cemetery": "Woodlawn has been a Los Angeles County Historic Landmark since 1946. It is notably the final resting place for 18 Civil War veterans, making it a site of significant national and local military history."
+        "Woodlawn Cemetery": "Woodlawn has been a Los Angeles County Historic Landmark since 1946. It is notably the final resting place for 18 Civil War veterans, making it a site of significant national and local military history.",
+        "Dr. Dre's Childhood Home": "Former home of Dr. Dre's Childhood Home."
     },
     "covina": {
         "Covina Bowl": "Elaborate Egyptian-themed Googie bowling alley; part of a recent adaptive reuse project.",
@@ -746,7 +762,8 @@ const globalDescriptions = {
         "The Pterodactyl": "A jagged steel-and-glass 'bird' structure perched atop a parking garage; a landmark of the city's architectural radicalism.",
         "The SmogShoppe": "Architectural Style: Adaptive Reuse / Sustainable Design\n\nThe History: Originally a functioning smog check center built in the 1980s, this site was transformed into one of the most sustainable event spaces in the US.\n\nKey Architectural Features: A masterclass in vertical gardening, the facility is covered in 2,000 square feet of \"living walls\" and utilizes vintage desert plants and salvaged materials to create a lush, urban oasis in a former industrial zone.",
         "Titos Tacos (Est. 1959)": "An iconic LA \"hard shell\" taco stand that has maintained a massive, loyal following and a frozen-in-time aesthetic for decades.",
-        "Washington Building": "Historic triangular flatiron-style building in downtown Culver City."
+        "Washington Building": "Historic triangular flatiron-style building in downtown Culver City.",
+        "\u201cSuperbad\u201d liquor store filming location": "\u201cSuperbad\u201d liquor store filming location"
     },
     "culver-city-arts-district": {
         "Culver City Arts District": "Property Type: Neighbourhood",
@@ -1177,7 +1194,8 @@ const globalDescriptions = {
         "The Short Stop": "The Short Stop, a legendary dive bar and former LAPD officer hangout near Dodger Stadium.",
         "The Southall House (Rudolph Schindler, 1938)": "A masterpiece of Schindler\u2019s \"Plaster Skin\" period. Designed for Mildred Southall, a music teacher, it features an L-shaped plan with a soaring studio space. The house is famous for its \"niche\" seating and built-in furniture that blurs the line between the building and its contents.",
         "Tom of Finland Foundation": "The world's leading cultural repository for the work of Touko Laaksonen, housed in a historic Echo Park residence.",
-        "Tsubaki": "An intimate modern izakaya serving seasonal Japanese small plates and craft sake."
+        "Tsubaki": "An intimate modern izakaya serving seasonal Japanese small plates and craft sake.",
+        "Home of actress Jenny Slate": "Former home of Home of actress Jenny Slate."
     },
     "el-camino-village": {
         "Alondra Park": "Property Type: Village"
@@ -1440,7 +1458,8 @@ const globalDescriptions = {
         "The Erle M. Leaf House": "Designed by the \"architect to the stars\" Wallace Neff, this Italianate-influenced estate is widely considered one of the neighborhood's crown jewels. Its combination of historic elegance and intense privacy earned it the honor of hosting Prince William and Kate Middleton during their 2011 tour of California.",
         "The Howard Hughes Estate": "Bordering the lush greens of the Wilshire Country Club, this 1920s Spanish Colonial Revival estate was once the residence of reclusive billionaire Howard Hughes. The property\u2019s striking architecture and historic pedigree later led it to be used as a primary filming location for the movie The Aviator.",
         "The Isidor Eisner Estate": "This stunning Italian Renaissance Revival villa was the longtime home of Antonio Banderas and Melanie Griffith. Designed by Gordon Kaufmann (the architect of the Hoover Dam), the home is famous for its intricate hand-painted ceilings and expansive, manicured garden grounds.",
-        "The Nat King Cole House": "This stately English Tudor home became a symbol of the Civil Rights movement in Los Angeles when legendary crooner Nat King Cole purchased it in 1948. Despite facing heavy racial opposition from the neighborhood at the time, Cole's residency successfully broke the color barrier in Hancock Park."
+        "The Nat King Cole House": "This stately English Tudor home became a symbol of the Civil Rights movement in Los Angeles when legendary crooner Nat King Cole purchased it in 1948. Despite facing heavy racial opposition from the neighborhood at the time, Cole's residency successfully broke the color barrier in Hancock Park.",
+        "Kat Von D\u2019s home": "Former home of Kat Von D\u2019s home."
     },
     "happy-valley": {
         "_neighborhood": "Happy Valley is a secluded, narrow residential enclave tucked into the hills of Northeast Los Angeles, primarily within the larger Montecito Heights neighborhood. Despite being only a few miles from Downtown LA, it is known for a distinctly \"hidden\" rural atmosphere that sets it sharply apart from the surrounding urban density. The neighborhood is physically defined by its topography \u2014 a small valley bounded by the steep hills of Ernest E. Debs Regional Park to the north and Lincoln Heights to the south. Its narrow, winding streets lack sidewalks, overgrown greenery presses in from both sides, and it is not uncommon to encounter livestock like goats or chickens, giving the enclave a character that feels closer to a rural foothill settlement than a Los Angeles neighborhood.",
@@ -1473,7 +1492,8 @@ const globalDescriptions = {
         "Stone Gatepost Remains (Former Historic House)": "Surviving stone gatepost remnants from a former historic residence on S Hobart Blvd.",
         "SUV on Stilts Property": "Notable local property featuring an SUV mounted dramatically on stilts.",
         "United Magyar House": "Hungarian community center serving the local Magyar diaspora in Los Angeles.",
-        "Western Avenue Retail Corridor": "A busy commercial site in Koreatown, which has evolved from a residential streetcar suburb into one of the most densely populated districts in LA."
+        "Western Avenue Retail Corridor": "A busy commercial site in Koreatown, which has evolved from a residential streetcar suburb into one of the most densely populated districts in LA.",
+        "\u201cHouse Party\u201d filming location": "\u201cHouse Party\u201d filming location"
     },
     "harvard-park": {
         "_neighborhood": "Anchored by the park of the same name.",
@@ -1657,7 +1677,8 @@ const globalDescriptions = {
         "Yucca Corridor": "The area centered around Yucca Street between Highland Avenue and Vine Street \u2014 historically one of the denser, more economically challenged pockets of central Hollywood. The corridor has undergone intense urban renewal and redevelopment in recent decades, resulting in a striking juxtaposition of well-preserved Art Deco apartment buildings alongside modern high-rise towers. Its transformation reflects the broader gentrification pressures reshaping Hollywood's residential core.",
         "The Henry O. Bollman House": "The Henry O. Bollman House, located at 1530 N. Ogden Drive in Los Angeles, is a 1922 Mesoamerican-inspired masterpiece designed by Lloyd Wright (son of Frank Lloyd Wright). This residence represents the architect's earliest use of the 'knit-block' or textile block method, creating a structure that pioneered the structural and aesthetic possibilities of patterned concrete in Los Angeles. It is a designated Cultural Historic Monument (#235).",
         "John Storer House (HCM #96)": "Designed by Frank Lloyd Wright in 1923, this is the most vertical of his four textile block houses. It features four distinct block patterns and is famously known for its dramatic restoration overseen by Eric Lloyd Wright in the 1980s.",
-        "Samuel Freeman House (HCM #247)": "A 1924 Frank Lloyd Wright design perched on a hillside, utilizing roughly 12,000 textile blocks. Its innovative corner windows allow for unobstructed views, showcasing Wright\u2019s transition towards more organic and light-filled interiors."
+        "Samuel Freeman House (HCM #247)": "A 1924 Frank Lloyd Wright design perched on a hillside, utilizing roughly 12,000 textile blocks. Its innovative corner windows allow for unobstructed views, showcasing Wright\u2019s transition towards more organic and light-filled interiors.",
+        "Filming location in \u201cBarry\u201d HBO show": "Filming location in \u201cBarry\u201d HBO show"
     },
     "hollywood-hills": {
         "Angela Lansbury": "Angela Lansbury",
@@ -1700,7 +1721,13 @@ const globalDescriptions = {
         "Viewpoint (Bullock House)": "Scenic viewpoint near the historic Bullock House.",
         "Wolff House (HCM #852)": "Dramatic John Lautner cliffside home featuring 16-foot glass walls and copper accents.",
         "Yamashiro": "A 1914 'Mountain Palace' replica of a Japanese estate; features a 600-year-old pagoda and serves as one of the oldest restaurants in the hills.",
-        "Yamashiro (Est. 1914)": "A literal \"Mountain Palace\" transported from Japan. This historic estate offers one of the most unique dining settings in the world, overlooking the Hollywood skyline."
+        "Yamashiro (Est. 1914)": "A literal \"Mountain Palace\" transported from Japan. This historic estate offers one of the most unique dining settings in the world, overlooking the Hollywood skyline.",
+        "Robert Pattinson home, formerly Beck\u2019s House": "Former home of Robert Pattinson home, formerly Beck\u2019s House.",
+        "2003 La Brea Terrace in the Hollywood Hills, Los Angeles, is a storied estate long owned by acclaimed English actor Dame Helen Mirren and her director husband, Taylor Hackford": "2003 La Brea Terrace in the Hollywood Hills, Los Angeles, is a storied estate long owned by acclaimed English actor Dame Helen Mirren and her director husband, Taylor Hackford",
+        "\"Flying Wing\" house, this architecturally significant home was designed by Harry Gesner in 1975.": "Former home of \"Flying Wing\" house, this architecturally significant home was designed by Harry Gesner in 1975..",
+        "Jason Bateman's former mid-century modern home": "Former home of Jason Bateman's former mid-century modern home.",
+        "This 1920s Los Angeles Estate Was Once Home to Ava Gardner and Laurence Olivier": "Former home of This 1920s Los Angeles Estate Was Once Home to Ava Gardner and Laurence Olivier.",
+        "Carmen Electra\u2019s Former Home": "Former home of Carmen Electra\u2019s Former Home."
     },
     "beachwood-canyon": {
         "Beachwood Canyon Stairs (Upper & Lower)": "Built in the 1920s as part of the original Hollywoodland development to help hillside residents descend to the village shops and streetcar lines below. The granite stairs wind through deeply shaded residential lanes, offering framed views of the Hollywood Sign as you climb \u2014 the same sign that originally read \"Hollywoodland\" when these steps were new. Part of the larger network of \"Secret Stairs\" that once connected the canyon's hillside homes to the transit grid below, the Beachwood stairs are among the most historically intact and scenically rewarding in the city.",
@@ -1897,7 +1924,10 @@ const globalDescriptions = {
         "Westerner Motel (\"Cool Motel Sign\")": "A classic, towering vintage neon sign along the historic Sierra Highway, capturing the roadside Americana of the high desert's travel routes."
     },
     "larchmont-village": {
-        "Whatever Happened to Baby Jane House": "The 1962 classic film starring Bette Davis and Joan Crawford used this grand residence as the exterior for the sisters home."
+        "Whatever Happened to Baby Jane House": "The 1962 classic film starring Bette Davis and Joan Crawford used this grand residence as the exterior for the sisters home.",
+        "Alexandra Daddario home": "Former home of Alexandra Daddario home.",
+        "This stunning Larchmont Arts and Crafts home has an incredible Hollywood pedigree - it is the childhood home of the Arquette family": "Former home of This stunning Larchmont Arts and Crafts home has an incredible Hollywood pedigree - it is the childhood home of the Arquette family.",
+        "Judy Greer's Home in the Larchmont Village neighborhood": "Former home of Judy Greer's Home in the Larchmont Village neighborhood."
     },
     "lawndale": {
         "Alondra Park": "A substantial 50-acre historic green space developed during the post-WWII housing boom, featuring extensive community recreation facilities, a large man-made lake, and a native-plant island.",
@@ -2009,7 +2039,9 @@ const globalDescriptions = {
         "The Queen Mary": "A retired British ocean liner that sailed primarily on the North Atlantic Ocean from 1936 to 1967. It is now a permanent hotel and museum, standing as an Art Deco masterpiece.",
         "Villa Riviera": "A historic French Gothic-style residential building completed in 1929. At the time of its completion, it was the second-tallest building in Southern California.",
         "Wilton Street Historic District": "A residential district featuring homes built in the mid-1920s.",
-        "Wrigley Historic District": "Named after William Wrigley Jr., this district contains many well-preserved Spanish Colonial Revival residences."
+        "Wrigley Historic District": "Named after William Wrigley Jr., this district contains many well-preserved Spanish Colonial Revival residences.",
+        "American Pie house/filming location": "American Pie house/filming location",
+        "The Ferris Bueller's Day Off (1986) filming location": "The Ferris Bueller's Day Off (1986) filming location"
     },
     "los-feliz": {
         "Barnsdall Art Park & Hollyhock House": "Frank Lloyd Wright's first Los Angeles project (1921) and a UNESCO World Heritage Site.",
@@ -2082,7 +2114,15 @@ const globalDescriptions = {
         "Samuel-Novarro House (HCM #130)": "A 1928 residence by Lloyd Wright featuring a ziggurat-like profile and striking copper accents. It represents the dramatic fusion of Mayan Revival and early Art Deco built specifically for Ramon Novarro\u2019s personal assistant.",
         "Taggart House (HCM #521)": "Lloyd Wright\u2019s first major modernist project (1922). It serves as a critical link in his development, featuring early experiments with geometry and site integration that would define his later textile block works.",
         "Philosophical Research Society (HCM #592)": "A Robert Stacy-Judd designed campus (1934) featuring a library and auditorium with intense Mayan motifs. It stands as a monument to Stacy-Judd\u2019s theory of creating an indigenous 'All-American' architecture.",
-        "Hollyhock House (HCM #12)": "Frank Lloyd Wright\u2019s first Los Angeles commission (1921), featuring stylized concrete hollyhock motifs. It is a UNESCO World Heritage site and served as the structural bridge to his later textile block experiments."
+        "Hollyhock House (HCM #12)": "Frank Lloyd Wright\u2019s first Los Angeles commission (1921), featuring stylized concrete hollyhock motifs. It is a UNESCO World Heritage site and served as the structural bridge to his later textile block experiments.",
+        "Kumail Nanjiani\u2019s home": "Former home of Kumail Nanjiani\u2019s home.",
+        "Former home of actor Jason Segel (now lives in Ojai) and artist Shepard Fairey, who Segal purchased it from": "Former home of Former home of actor Jason Segel (now lives in Ojai) and artist Shepard Fairey, who Segal purchased it from.",
+        "Formerly 3301, infamously known as the site of the 1969 Manson Family murders of Leno and Rosemary LaBianca": "Formerly 3301, infamously known as the site of the 1969 Manson Family murders of Leno and Rosemary LaBianca",
+        "\u201cForgetting Sarah Marshall,\u201d home/filming location": "Former home of \u201cForgetting Sarah Marshall,\u201d home/filming location.",
+        "Former Los Feliz home home of Jim Parsons (Big Bang Theory), and former home of Robert Pattinson and Kareem Abdul Jabar before him": "Former home of Former Los Feliz home home of Jim Parsons (Big Bang Theory), and former home of Robert Pattinson and Kareem Abdul Jabar before him.",
+        "Home of Musician Finneas": "Former home of Home of Musician Finneas.",
+        "Jack Black home": "Former home of Jack Black home.",
+        "Katy Perry And Russell Brand's Former House": "Katy Perry And Russell Brand's Former House"
     },
     "lynwood": {
         "Adriana\u2019s Insurance Office": "A company that is arguably the most recognizable name in Spanish-language insurance advertising throughout Southern California. The company\u2019s advertising is synonymous with its founder, Adriana Gallardo. Unlike corporate competitors like Geico or State Farm, Adriana\u2019s Insurance uses a personal branding model. Adriana is the face of almost every commercial, often sharing her story as a Mexican immigrant who built an empire from nothing. This \"immigrant success story\" is a massive advertising hook that builds deep trust and cultural resonance within the Latino community in areas like Lynwood.",
@@ -2948,7 +2988,8 @@ const globalDescriptions = {
         "The Lambert/Foster Family Home (Step by Step)": "Served as the Lambert/Foster family home in the 1990s sitcom Step by Step.",
         "The Michael Myers House (Halloween)": "Now deemed a South Pasadena Cultural Landmark, this two-story house is the infamous Haddonfield, Illinois, residence where a young Michael Myers murdered his sister in John Carpenter's Halloween (1978). It was moved a few blocks from its original filming location and restored.",
         "The Red Shoes": "Local business on El Centro St.",
-        "The Rialto Theatre": "A 1925 Moorish/Egyptian style movie palace and National Historic Landmark that has appeared in films like La La Land and Scream 2."
+        "The Rialto Theatre": "A 1925 Moorish/Egyptian style movie palace and National Historic Landmark that has appeared in films like La La Land and Scream 2.",
+        "Back to the Future Film Location for Lorraine McFly\u2019s home": "Lorraine Baines McFly\u2019s 1955 home in Back to the Future is a private residence located at 1727 Bushnell Avenue in South Pasadena, California."
     },
     "south-robertson": {
         "La Cienega Design Corridor": "A commercial site in an area historically recognized for its collection of high-end design shops and art galleries.",
@@ -2999,7 +3040,8 @@ const globalDescriptions = {
         "The Rick Dalton Residence": "The Rick Dalton Residence, used as Leonardo DiCaprio's house in Quentin Tarantino\u2019s Once Upon a Time in Hollywood.",
         "Weird future house": "Weird future house",
         "Wilacre Park": "Park/Facility in Studio City",
-        "Wilacre Park & Dearing Trail": "The public gateway to Fryman Canyon's ridges, offering views of the valley and proximity to exclusive estates."
+        "Wilacre Park & Dearing Trail": "The public gateway to Fryman Canyon's ridges, offering views of the valley and proximity to exclusive estates.",
+        "Former eco-friendly home of actor and environmentalist Ed Begley Jr. in Studio City": "Former home of Former eco-friendly home of actor and environmentalist Ed Begley Jr. in Studio City."
     },
     "sun-valley": {
         "Sons of Anarchy Clubhouse": "The exterior filming location and backlot set for the SAMCRO clubhouse in the FX hit series Sons of Anarchy.",
@@ -3029,7 +3071,10 @@ const globalDescriptions = {
         "Rainbow Bar & Grill": "A historic rock 'n' roll sanctuary; home to Lemmy Kilmister and the 'Hollywood Vampires' drinking club.",
         "Sierra Towers": "Known as the most \"celebrity-packed\" high-rise in LA, historically housing stars like Cher, Elton John, and David Geffen.",
         "Software Heiress Estate (Oracle/Ellison)": "A prominent Bird Streets residence associated with high-profile \"software heiress\" real estate transactions in one of LA's most expensive enclaves.",
-        "Whisky a Go Go": "The definitive rock venue; birthplace of the go-go dancer and launchpad for L.A.'s most iconic bands."
+        "Whisky a Go Go": "The definitive rock venue; birthplace of the go-go dancer and launchpad for L.A.'s most iconic bands.",
+        "Dennis Hopper\u2019s Former Home": "Former home of Dennis Hopper\u2019s Former Home.",
+        "Richard Simmons former home": "Former home of Richard Simmons former home.",
+        "Home formerly owned by John Krasinksi and Emily Blunt": "Former home of Home formerly owned by John Krasinksi and Emily Blunt."
     },
     "los-angeles-sylmar": {
         "Buffalo Bruce's Mercantile": "Buffalo Bruce\u2019s Mercantile, a local culinary landmark known for its rustic, Western-themed atmosphere and specialized barbecue, serving as a popular neighborhood gathering spot.",
@@ -3172,7 +3217,8 @@ const globalDescriptions = {
         "Van Nuys Iceland (Former Rainbow Rink)": "Historically known as the Rainbow Rink (opened in 1950), this site is famous as a venue where Ritchie Valens performed \"La Bamba\". In 1960, it became Van Nuys Iceland and has operated as an ice skating rink ever since.",
         "Van Nuys Savings and Loan Building": "The Van Nuys Savings and Loan building, an excellent 1954 example of Mid-Century Modern architecture with Googie influences. Designed by notable architect Culver Heaton, the interior is famous for containing a mural by the master artist Millard Sheets.",
         "Van Nuys Woman's Club": "The site of the Van Nuys Woman's Club, built in 1917. It is designated as Los Angeles Historic-Cultural Monument #201 and represents one of the oldest social organizations in the San Fernando Valley.",
-        "Wayne's World House": "This was the location of Wayne Campbell\u2019s (Mike Myers) house in the 1992 film Wayne's World."
+        "Wayne's World House": "This was the location of Wayne Campbell\u2019s (Mike Myers) house in the 1992 film Wayne's World.",
+        "Ulyssess S. Grant High School used as filming location in HBO show \u201cEuphoria\u201d": "Ulyssess S. Grant High School used as filming location in HBO show \u201cEuphoria\u201d"
     },
     "venice": {
         "513 Rose Ave, Venice, CA 90291 \u2014 Venice Flake": "Cereal art covers the walls of this snug cafe offering a creative breakfast & lunch menu.",
@@ -3201,7 +3247,9 @@ const globalDescriptions = {
         "VICE MEDIA": "VICE MEDIA",
         "Westminster Elementary Auditorium": "A vibrant neighborhood school auditorium located on the famous Abbott Kinney strip, often used for community forums.",
         "Winston House": "Winston House. This well-known live music venue and social club is housed in the oldest building in Venice.",
-        "Jim Morrison's Venice Residence": "A site traditionally associated with The Doors frontman during his early years in Venice. This is where he reportedly lived on a rooftop, writing some of the band's most famous songs."
+        "Jim Morrison's Venice Residence": "A site traditionally associated with The Doors frontman during his early years in Venice. This is where he reportedly lived on a rooftop, writing some of the band's most famous songs.",
+        "Margot Robbie\u2019s Venice Beach Cottage": "Margot Robbie\u2019s Venice Beach Cottage",
+        "Dennis Hopper\u2019s last house": "Dennis Hopper\u2019s last house"
     },
     "glendale-verdugo-woodlands": {
         "Verdugo Woodlands Elementary School": "Property Type: Park"
@@ -3526,7 +3574,8 @@ const globalDescriptions = {
         "The Last Oil Well": "A literal oil well hidden in the backyard of a commercial property. A reminder that L.A. was built on 'black gold.'",
         "The Los Angeles Convention Center Area": "A major international landmark that hosts the LA Auto Show and E3, and a cornerstone of the Downtown entertainment district.",
         "Tiny Street": "Quite literally, a street named 'Little Street' that is arguably the smallest in the district.",
-        "Tommy\u2019s Original": "The original 24-hour burger shack. It\u2019s a masterpiece of 'car culture' architecture\u2014minimal, functional, and iconic."
+        "Tommy\u2019s Original": "The original 24-hour burger shack. It\u2019s a masterpiece of 'car culture' architecture\u2014minimal, functional, and iconic.",
+        "The Granada Buildings, home to the Los Angeles Review of Books": "Former home of The Granada Buildings, home to the Los Angeles Review of Books."
     },
     "westmont": {
         "Dallas Drive-In Cleaners": "Features a classic Dallas Fine Cleaners sign.",
@@ -3640,5 +3689,8 @@ const globalDescriptions = {
     },
     "long-beach-zaferia": {
         "Zaferia": "Property Type: Apartment"
+    },
+    "windsor-hills": {
+        "Former home of Ray Charles": "Former home of Former home of Ray Charles."
     }
 };

@@ -641,6 +641,15 @@ const neighborhoodData = [
                 "lng": -118.140476987763,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=3990+Fair+Oaks+Avenue+Altadena,+CA+91001-3911",
                 "original_hood": "Altadena"
+            },
+            {
+                "name": "Step Brothers home/filming location",
+                "type": "landmark",
+                "address": "1987 Midwick Dr, Altadena, CA 91001",
+                "lat": 34.184173002925,
+                "lng": -118.109700986235,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1987%20Midwick%20Dr%2C%20Altadena%2C%20CA%2091001",
+                "original_hood": "Altadena"
             }
         ]
     },
@@ -1757,6 +1766,33 @@ const neighborhoodData = [
                 "lat": 34.093076006553,
                 "lng": -118.444117968177,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1001+Bel+Air+Rd,+Los+Angeles,+CA+90077",
+                "original_hood": "Bel Air"
+            },
+            {
+                "name": "Bennifer bought this home (Ben Affleck and Jennifer Lopez)",
+                "type": "landmark",
+                "address": "10771 Bellagio Rd, Los Angeles, CA 90077",
+                "lat": 34.08035852205,
+                "lng": -118.451080563688,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=10771%20Bellagio%20Rd%2C%20Los%20Angeles%2C%20CA%2090077",
+                "original_hood": "Bel Air"
+            },
+            {
+                "name": "Director Michael Bay\u2019s home",
+                "type": "landmark",
+                "address": "900 Stradella Rd, Los Angeles, CA 90077",
+                "lat": 34.086396970826,
+                "lng": -118.450969335833,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=900%20Stradella%20Rd%2C%20Los%20Angeles%2C%20CA%2090077",
+                "original_hood": "Bel Air"
+            },
+            {
+                "name": "Former home of Chelsea Handler",
+                "type": "landmark",
+                "address": "11011 Anzio Rd, Los Angeles, CA 90077",
+                "lat": 34.093026301867,
+                "lng": -118.463354519784,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=11011%20Anzio%20Rd%2C%20Los%20Angeles%2C%20CA%2090077",
                 "original_hood": "Bel Air"
             }
         ]
@@ -2906,6 +2942,60 @@ const neighborhoodData = [
                 "lng": -118.4038855,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1217253,-118.4038855",
                 "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Emmy Rossum home",
+                "type": "landmark",
+                "address": "9770 San Cir, Beverly Hills, CA 90210",
+                "lat": 34.10609519766,
+                "lng": -118.423667633172,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=9770%20San%20Cir%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Bugsy Siegel \u201cMurder Mansion\u201d",
+                "type": "landmark",
+                "address": "810 N Linden Dr, Beverly Hills, CA 90210",
+                "lat": 34.074864142609,
+                "lng": -118.417959138014,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=810%20N%20Linden%20Dr%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Former home of Marilyn Monroe and Joe DiMaggio",
+                "type": "landmark",
+                "address": "508 N Palm Dr, Beverly Hills, CA 90210",
+                "lat": 34.078289658799,
+                "lng": -118.396161244435,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=508%20N%20Palm%20Dr%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Zoe Saldana home",
+                "type": "landmark",
+                "address": "9551 Lime Orchard Rd, Beverly Hills, CA 90210",
+                "lat": 34.12183150841,
+                "lng": -118.40392162949,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=9551%20Lime%20Orchard%20Rd%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Stevie Wonder home",
+                "type": "landmark",
+                "address": "600 Clinton Pl, Beverly Hills, CA 90210",
+                "lat": 34.108920150487,
+                "lng": -118.395932502298,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=600%20Clinton%20Pl%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Former home of Carrie Fisher",
+                "type": "landmark",
+                "address": "1700 Coldwater Canyon Dr, Beverly Hills, CA 90210",
+                "lat": 34.101762717637,
+                "lng": -118.404977916928,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1700%20Coldwater%20Canyon%20Dr%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
             }
         ]
     },
@@ -3607,6 +3697,33 @@ const neighborhoodData = [
                 "lng": -118.4688,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0665,-118.4688",
                 "original_hood": "Brentwood"
+            },
+            {
+                "name": "Formerly Gwyneth Paltrow\u2019s home",
+                "type": "landmark",
+                "address": "1701 Mandeville Canyon Rd, Los Angeles, CA 90049",
+                "lat": 34.064438857168,
+                "lng": -118.49357228656,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1701%20Mandeville%20Canyon%20Rd%2C%20Los%20Angeles%2C%20CA%2090049",
+                "original_hood": "Brentwood"
+            },
+            {
+                "name": "Once the home of entertainment legend, Garry Shandling, and his renowned basketball game",
+                "type": "landmark",
+                "address": "1745 Correa Way, Los Angeles, CA 90049",
+                "lat": 34.06562125034,
+                "lng": -118.497212379471,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1745%20Correa%20Way%2C%20Los%20Angeles%2C%20CA%2090049",
+                "original_hood": "Brentwood"
+            },
+            {
+                "name": "\"The Golden Girls\" house",
+                "type": "landmark",
+                "address": "245 N Saltair Ave, Los Angeles, CA 90049",
+                "lat": 34.065127681971,
+                "lng": -118.475134697964,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=245%20N%20Saltair%20Ave%2C%20Los%20Angeles%2C%20CA%2090049",
+                "original_hood": "Brentwood"
             }
         ]
     },
@@ -4265,6 +4382,15 @@ const neighborhoodData = [
                 "lng": -118.6641848,
                 "address": "24647 Cordillera Dr, Calabasas, CA 91302, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1466105,-118.6641848",
+                "original_hood": "Calabasas"
+            },
+            {
+                "name": "Will Smith Home",
+                "type": "landmark",
+                "address": "1409 Cold Canyon Rd, Calabasas, CA 91302",
+                "lat": 34.095480732664,
+                "lng": -118.681469829139,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1409%20Cold%20Canyon%20Rd%2C%20Calabasas%2C%20CA%2091302",
                 "original_hood": "Calabasas"
             }
         ]
@@ -4967,6 +5093,15 @@ const neighborhoodData = [
                 "lng": -118.4050503,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0365834,-118.4050503",
                 "original_hood": "Cheviot Hills"
+            },
+            {
+                "name": "For more than half a century it was home to writer Ray Bradbury, demolished 2015",
+                "type": "landmark",
+                "address": "10265 Cheviot Dr, Los Angeles, CA 90064",
+                "lat": 34.036570370214,
+                "lng": -118.407447309423,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=10265%20Cheviot%20Dr%2C%20Los%20Angeles%2C%20CA%2090064",
+                "original_hood": "Cheviot Hills"
             }
         ]
     },
@@ -5623,6 +5758,15 @@ const neighborhoodData = [
                 "lng": -118.2514,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1715+W+Greenleaf+Blvd%2C+Compton%2C+CA",
                 "original_hood": "Compton"
+            },
+            {
+                "name": "Dr. Dre's Childhood Home",
+                "type": "landmark",
+                "address": "2336 E 126th St, Compton, CA 90222",
+                "lat": 33.917890919334,
+                "lng": -118.230827701386,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2336%20E%20126th%20St%2C%20Compton%2C%20CA%2090222",
+                "original_hood": "Compton"
             }
         ]
     },
@@ -6190,6 +6334,15 @@ const neighborhoodData = [
                 "lng": -118.3885597,
                 "address": "Fox Hills, Culver City, CA, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9843627,-118.3885597",
+                "original_hood": "Culver City"
+            },
+            {
+                "name": "\u201cSuperbad\u201d liquor store filming location",
+                "type": "landmark",
+                "address": "4289 Overland Ave, Culver City, CA 90230",
+                "lat": 34.011578272921,
+                "lng": -118.400426877987,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4289%20Overland%20Ave%2C%20Culver%20City%2C%20CA%2090230",
                 "original_hood": "Culver City"
             }
         ]
@@ -9800,6 +9953,15 @@ const neighborhoodData = [
                 "lng": -118.2515888,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0728,-118.2515888",
                 "original_hood": "Echo Park"
+            },
+            {
+                "name": "Home of actress Jenny Slate",
+                "type": "landmark",
+                "address": "1741 Golden Gate Ave, Los Angeles, CA 90026",
+                "lat": 34.092916457026,
+                "lng": -118.273389999882,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1741%20Golden%20Gate%20Ave%2C%20Los%20Angeles%2C%20CA%2090026",
+                "original_hood": "Echo Park"
             }
         ]
     },
@@ -11963,6 +12125,15 @@ const neighborhoodData = [
                 "lng": -118.3292161,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0666625,-118.3292161",
                 "original_hood": "Hancock Park / Rossmore"
+            },
+            {
+                "name": "Kat Von D\u2019s home",
+                "type": "landmark",
+                "address": "357 Lorraine Blvd, Los Angeles, CA 90020",
+                "lat": 34.067367494138,
+                "lng": -118.320419014581,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=357%20Lorraine%20Blvd%2C%20Los%20Angeles%2C%20CA%2090020",
+                "original_hood": "Hancock Park / Rossmore"
             }
         ]
     },
@@ -12228,6 +12399,15 @@ const neighborhoodData = [
                 "lng": -118.3092,
                 "type": "landmark",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0492,-118.3092"
+            },
+            {
+                "name": "\u201cHouse Party\u201d filming location",
+                "type": "landmark",
+                "address": "2895 W 15th St, Los Angeles, CA 90006",
+                "lat": 34.045578317738,
+                "lng": -118.306133150266,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2895%20W%2015th%20St%2C%20Los%20Angeles%2C%20CA%2090006",
+                "original_hood": "Harvard Heights"
             }
         ]
     },
@@ -13719,6 +13899,15 @@ const neighborhoodData = [
                 "lat": 34.1085,
                 "lng": -118.3377,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1085,-118.3377"
+            },
+            {
+                "name": "Filming location in \u201cBarry\u201d HBO show",
+                "type": "landmark",
+                "address": "1436 S Shenandoah St, Los Angeles, CA 90035",
+                "lat": 34.053205346713,
+                "lng": -118.381387301898,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1436%20S%20Shenandoah%20St%2C%20Los%20Angeles%2C%20CA%2090035",
+                "original_hood": "Hollywood"
             }
         ]
     },
@@ -14094,6 +14283,60 @@ const neighborhoodData = [
                 "lng": -118.3421769,
                 "address": "1999 N Sycamore Ave, Los Angeles, CA 90068, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1057395,-118.3421769",
+                "original_hood": "Hollywood Hills"
+            },
+            {
+                "name": "Robert Pattinson home, formerly Beck\u2019s House",
+                "type": "landmark",
+                "address": "5821 Valley Oak Dr, Los Angeles, CA 90068",
+                "lat": 34.109993117913,
+                "lng": -118.316445657199,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=5821%20Valley%20Oak%20Dr%2C%20Los%20Angeles%2C%20CA%2090068",
+                "original_hood": "Hollywood Hills"
+            },
+            {
+                "name": "2003 La Brea Terrace in the Hollywood Hills, Los Angeles, is a storied estate long owned by acclaimed English actor Dame Helen Mirren and her director husband, Taylor Hackford",
+                "type": "landmark",
+                "address": "2003 La Brea Terrace, Los Angeles, CA 90046",
+                "lat": 34.106130820748,
+                "lng": -118.347118645137,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2003%20La%20Brea%20Terrace%2C%20Los%20Angeles%2C%20CA%2090046",
+                "original_hood": "Hollywood Hills"
+            },
+            {
+                "name": "\"Flying Wing\" house, this architecturally significant home was designed by Harry Gesner in 1975.",
+                "type": "landmark",
+                "address": "7000 Macapa Dr, Los Angeles, CA 90068",
+                "lat": 34.116903577986,
+                "lng": -118.342902380201,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=7000%20Macapa%20Dr%2C%20Los%20Angeles%2C%20CA%2090068",
+                "original_hood": "Hollywood Hills"
+            },
+            {
+                "name": "Jason Bateman's former mid-century modern home",
+                "type": "landmark",
+                "address": "8828 Wonderland Park Ave, Los Angeles, CA 90046",
+                "lat": 34.113905413129,
+                "lng": -118.387296040723,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=8828%20Wonderland%20Park%20Ave%2C%20Los%20Angeles%2C%20CA%2090046",
+                "original_hood": "Hollywood Hills"
+            },
+            {
+                "name": "This 1920s Los Angeles Estate Was Once Home to Ava Gardner and Laurence Olivier",
+                "type": "landmark",
+                "address": "3351 N Knoll Drive, Los Angeles, CA 90068",
+                "lat": 34.129607190438,
+                "lng": -118.344762575973,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3351%20N%20Knoll%20Drive%2C%20Los%20Angeles%2C%20CA%2090068",
+                "original_hood": "Hollywood Hills"
+            },
+            {
+                "name": "Carmen Electra\u2019s Former Home",
+                "type": "landmark",
+                "address": "2827 La Castana Dr, Los Angeles, CA 90046",
+                "lat": 34.122352946607,
+                "lng": -118.359528471883,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2827%20La%20Castana%20Dr%2C%20Los%20Angeles%2C%20CA%2090046",
                 "original_hood": "Hollywood Hills"
             }
         ]
@@ -15613,6 +15856,33 @@ const neighborhoodData = [
                 "lng": -118.3375,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0715,-118.3375",
                 "original_hood": "Larchmont Village / Hancock Park Border"
+            },
+            {
+                "name": "Alexandra Daddario home",
+                "type": "landmark",
+                "address": "120 N McCadden Pl, Los Angeles, CA 90004",
+                "lat": 34.074326988344,
+                "lng": -118.336814855382,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=120%20N%20McCadden%20Pl%2C%20Los%20Angeles%2C%20CA%2090004",
+                "original_hood": "Larchmont Village / Hancock Park Border"
+            },
+            {
+                "name": "This stunning Larchmont Arts and Crafts home has an incredible Hollywood pedigree - it is the childhood home of the Arquette family",
+                "type": "landmark",
+                "address": "616 N Gower St, Los Angeles, CA 90004",
+                "lat": 34.082259663419,
+                "lng": -118.322473167592,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=616%20N%20Gower%20St%2C%20Los%20Angeles%2C%20CA%2090004",
+                "original_hood": "Larchmont Village / Hancock Park Border"
+            },
+            {
+                "name": "Judy Greer's Home in the Larchmont Village neighborhood",
+                "type": "landmark",
+                "address": "415 N. Lucerne Blvd, Los Angeles, CA 90004",
+                "lat": 34.077974960244,
+                "lng": -118.325175493176,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=415%20N.%20Lucerne%20Blvd%2C%20Los%20Angeles%2C%20CA%2090004",
+                "original_hood": "Larchmont Village / Hancock Park Border"
             }
         ]
     },
@@ -16565,6 +16835,24 @@ const neighborhoodData = [
                 "lng": -118.1937659,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8043934,-118.1937659",
                 "original_hood": "Long Beach"
+            },
+            {
+                "name": "American Pie house/filming location",
+                "type": "landmark",
+                "address": "4153 Cedar Ave, Long Beach, CA 90807",
+                "lat": 33.831559244465,
+                "lng": -118.196904043759,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4153%20Cedar%20Ave%2C%20Long%20Beach%2C%20CA%2090807",
+                "original_hood": "Long Beach"
+            },
+            {
+                "name": "The Ferris Bueller's Day Off (1986) filming location",
+                "type": "landmark",
+                "address": "4160 Country Club Drive, Long Beach, CA 90807",
+                "lat": 33.831678435128,
+                "lng": -118.198662315588,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4160%20Country%20Club%20Drive%2C%20Long%20Beach%2C%20CA%2090807",
+                "original_hood": "Long Beach"
             }
         ]
     },
@@ -17205,6 +17493,78 @@ const neighborhoodData = [
                 "lat": 34.1114,
                 "lng": -118.2736,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1114,-118.2736"
+            },
+            {
+                "name": "Kumail Nanjiani\u2019s home",
+                "type": "landmark",
+                "address": "1908 Rosalia Rd, Los Angeles, CA 90027",
+                "lat": 34.105755898219,
+                "lng": -118.286074920691,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1908%20Rosalia%20Rd%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Former home of actor Jason Segel (now lives in Ojai) and artist Shepard Fairey, who Segal purchased it from",
+                "type": "landmark",
+                "address": "3656 Lowry Rd, Los Angeles, CA 90027",
+                "lat": 34.11770912079,
+                "lng": -118.277321531566,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3656%20Lowry%20Rd%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Formerly 3301, infamously known as the site of the 1969 Manson Family murders of Leno and Rosemary LaBianca",
+                "type": "landmark",
+                "address": "3311 Waverly Dr, Los Angeles, CA 90027",
+                "lat": 34.113874106721,
+                "lng": -118.273152708203,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3311%20Waverly%20Dr%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "\u201cForgetting Sarah Marshall,\u201d home/filming location",
+                "type": "landmark",
+                "address": "1973 Palmerston Pl, Los Angeles, CA 90027",
+                "lat": 34.107255420698,
+                "lng": -118.298406376642,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1973%20Palmerston%20Pl%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Former Los Feliz home home of Jim Parsons (Big Bang Theory), and former home of Robert Pattinson and Kareem Abdul Jabar before him",
+                "type": "landmark",
+                "address": "2666 Aberdeen Ave, Los Angeles, CA 90027",
+                "lat": 34.117511643152,
+                "lng": -118.290332173132,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2666%20Aberdeen%20Ave%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Home of Musician Finneas",
+                "type": "landmark",
+                "address": "3272 Lowry Rd, Los Angeles, CA 90027",
+                "lat": 34.112214406073,
+                "lng": -118.278994978535,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3272%20Lowry%20Rd%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Jack Black home",
+                "type": "landmark",
+                "address": "4900 Los Feliz Blvd, Los Angeles, CA 90027",
+                "lat": 34.109690992213,
+                "lng": -118.296205959421,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4900%20Los%20Feliz%20Blvd%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Katy Perry And Russell Brand's Former House",
+                "type": "landmark",
+                "address": "4100 Cromwell Avenue, Los Angeles, CA 90027",
+                "lat": 34.115153981426,
+                "lng": -118.281659753193,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4100%20Cromwell%20Avenue%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
             }
         ]
     },
@@ -24332,6 +24692,15 @@ const neighborhoodData = [
                 "lng": -118.1501,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1158,-118.1501",
                 "original_hood": "South Pasadena"
+            },
+            {
+                "name": "Back to the Future Film Location for Lorraine McFly\u2019s home",
+                "type": "landmark",
+                "address": "1727 Bushnell Ave, South Pasadena, CA 91030",
+                "lat": 34.105696009521,
+                "lng": -118.14160779032,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1727%20Bushnell%20Ave%2C%20South%20Pasadena%2C%20CA%2091030",
+                "original_hood": "South Pasadena"
             }
         ]
     },
@@ -24762,6 +25131,15 @@ const neighborhoodData = [
                 "lng": -118.3917404,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1330478,-118.3917404",
                 "original_hood": "Studio City"
+            },
+            {
+                "name": "Former eco-friendly home of actor and environmentalist Ed Begley Jr. in Studio City",
+                "type": "landmark",
+                "address": "3850 Mound View Ave, Studio City, CA 91604",
+                "lat": 34.140733831628,
+                "lng": -118.395101688055,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3850%20Mound%20View%20Ave%2C%20Studio%20City%2C%20CA%2091604",
+                "original_hood": "Studio City"
             }
         ]
     },
@@ -25016,6 +25394,33 @@ const neighborhoodData = [
                 "lat": 34.090724,
                 "lng": -118.38566,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.090724,-118.38566",
+                "original_hood": "Sunset Strip"
+            },
+            {
+                "name": "Dennis Hopper\u2019s Former Home",
+                "type": "landmark",
+                "address": "1712 N Crescent Heights Blvd, Los Angeles, CA 90069",
+                "lat": 34.10219878615,
+                "lng": -118.369136144579,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1712%20N%20Crescent%20Heights%20Blvd%2C%20Los%20Angeles%2C%20CA%2090069",
+                "original_hood": "Sunset Strip"
+            },
+            {
+                "name": "Richard Simmons former home",
+                "type": "landmark",
+                "address": "1346 Belfast Dr, Los Angeles, CA 90069",
+                "lat": 34.095160257467,
+                "lng": -118.381526971465,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1346%20Belfast%20Dr%2C%20Los%20Angeles%2C%20CA%2090069",
+                "original_hood": "Sunset Strip"
+            },
+            {
+                "name": "Home formerly owned by John Krasinksi and Emily Blunt",
+                "type": "landmark",
+                "address": "1650 Marmont Ave, Los Angeles, CA 90069",
+                "lat": 34.100764935883,
+                "lng": -118.37142314686,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1650%20Marmont%20Ave%2C%20Los%20Angeles%2C%20CA%2090069",
                 "original_hood": "Sunset Strip"
             }
         ]
@@ -26270,6 +26675,15 @@ const neighborhoodData = [
                 "address": "7105 Texhoma Avenue, Van Nuys, CA 91406",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=7105+Texhoma+Avenue%2C+Van+Nuys%2C+CA+91406",
                 "original_hood": "Van Nuys"
+            },
+            {
+                "name": "Ulyssess S. Grant High School used as filming location in HBO show \u201cEuphoria\u201d",
+                "type": "landmark",
+                "address": "13000 Oxnard St, Van Nuys, CA 91401",
+                "lat": 34.177840014071,
+                "lng": -118.415299979232,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=13000%20Oxnard%20St%2C%20Van%20Nuys%2C%20CA%2091401",
+                "original_hood": "Van Nuys"
             }
         ]
     },
@@ -26533,6 +26947,24 @@ const neighborhoodData = [
                 "lat": 33.9925,
                 "lng": -118.4712,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=35+2nd+Ave,+Venice,+CA+90291",
+                "original_hood": "Venice"
+            },
+            {
+                "name": "Margot Robbie\u2019s Venice Beach Cottage",
+                "type": "landmark",
+                "address": "650 Sunset Ave, Venice, CA 90291",
+                "lat": 33.998385017737,
+                "lng": -118.468703682753,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=650%20Sunset%20Ave%2C%20Venice%2C%20CA%2090291",
+                "original_hood": "Venice"
+            },
+            {
+                "name": "Dennis Hopper\u2019s last house",
+                "type": "landmark",
+                "address": "330 Indiana Ave, Venice, CA 90291",
+                "lat": 33.994035438632,
+                "lng": -118.473162855242,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=330%20Indiana%20Ave%2C%20Venice%2C%20CA%2090291",
                 "original_hood": "Venice"
             }
         ]
@@ -29167,6 +29599,15 @@ const neighborhoodData = [
                 "lng": -118.276284019591,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2575%20Beverly%20Blvd%2C%20Los%20Angeles%2C%20CA%2090057",
                 "original_hood": "Westlake / MacArthur Park"
+            },
+            {
+                "name": "The Granada Buildings, home to the Los Angeles Review of Books",
+                "type": "landmark",
+                "address": "672 S. La Fayette Park Place, Los Angeles, CA 90057",
+                "lat": 34.060495941998,
+                "lng": -118.283747858999,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=672%20S.%20La%20Fayette%20Park%20Place%2C%20Los%20Angeles%2C%20CA%2090057",
+                "original_hood": "Westlake / MacArthur Park"
             }
         ]
     },
@@ -29819,7 +30260,17 @@ const neighborhoodData = [
         "id": "windsor-hills",
         "name": "Windsor Hills",
         "region": "South L.A.",
-        "locations": []
+        "locations": [
+            {
+                "name": "Former home of Ray Charles",
+                "type": "landmark",
+                "address": "4863 Southridge Ave, Windsor Hills, CA 90043",
+                "lat": 33.998484762385,
+                "lng": -118.353270459153,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4863%20Southridge%20Ave%2C%20Windsor%20Hills%2C%20CA%2090043",
+                "original_hood": "Windsor Hills"
+            }
+        ]
     },
     {
         "id": "windsor-square",
