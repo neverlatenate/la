@@ -281,7 +281,7 @@ const neighborhoodData = [
                 "original_hood": "Agua Dulce"
             },
             {
-                "name": "Halfway House Caf\u00e9",
+                "name": "Halfway House Café",
                 "type": "landmark",
                 "address": "15564 Sierra Hwy, Santa Clarita, CA 91390",
                 "lat": 34.465648375668,
@@ -396,7 +396,7 @@ const neighborhoodData = [
                 "original_hood": "Alhambra"
             },
             {
-                "name": "Fosselman\u2019s Ice Cream Company",
+                "name": "Fosselman’s Ice Cream Company",
                 "type": "landmark",
                 "address": "1824 W Main St, Alhambra, CA 91801",
                 "lat": 34.0912,
@@ -432,7 +432,7 @@ const neighborhoodData = [
                 "original_hood": "Alhambra"
             },
             {
-                "name": "Prominent Art Colony in 30s and 40\u2019s",
+                "name": "Prominent Art Colony in 30s and 40’s",
                 "type": "landmark",
                 "lat": 34.1022429,
                 "lng": -118.114667,
@@ -526,7 +526,7 @@ const neighborhoodData = [
                 "original_hood": "Altadena"
             },
             {
-                "name": "Abolitionist Owen Brown\u2019s Altadena Grave",
+                "name": "Abolitionist Owen Brown’s Altadena Grave",
                 "type": "landmark",
                 "address": "34.2160453083265, -118.16142509080393",
                 "lat": 34.2162622,
@@ -616,6 +616,15 @@ const neighborhoodData = [
                 "original_hood": "Altadena"
             },
             {
+                "name": "Step Brothers home/filming location",
+                "type": "landmark",
+                "address": "1987 Midwick Dr, Altadena, CA 91001",
+                "lat": 34.184173002925,
+                "lng": -118.109700986235,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1987%20Midwick%20Dr%2C%20Altadena%2C%20CA%2091001",
+                "original_hood": "Altadena"
+            },
+            {
                 "name": "The Balian Mansion",
                 "type": "architectural",
                 "address": "1960 Mendocino Ln, Altadena, CA 91001",
@@ -640,15 +649,6 @@ const neighborhoodData = [
                 "lat": 34.211207993427,
                 "lng": -118.140476987763,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=3990+Fair+Oaks+Avenue+Altadena,+CA+91001-3911",
-                "original_hood": "Altadena"
-            },
-            {
-                "name": "Step Brothers home/filming location",
-                "type": "landmark",
-                "address": "1987 Midwick Dr, Altadena, CA 91001",
-                "lat": 34.184173002925,
-                "lng": -118.109700986235,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1987%20Midwick%20Dr%2C%20Altadena%2C%20CA%2091001",
                 "original_hood": "Altadena"
             }
         ]
@@ -743,7 +743,7 @@ const neighborhoodData = [
         "region": "Central L.A.",
         "locations": [
             {
-                "name": "Bob\u2019s Market",
+                "name": "Bob’s Market",
                 "type": "landmark",
                 "address": "1234 Bellevue Avenue, Los Angeles, CA 90026",
                 "lat": 34.0676,
@@ -869,7 +869,7 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "Alex Di Peppe\u2019s",
+                "name": "Alex Di Peppe’s",
                 "type": "landmark",
                 "address": "608 E Live Oak Ave, Arcadia, CA 91006",
                 "lat": 34.108872499368,
@@ -896,7 +896,7 @@ const neighborhoodData = [
                 "original_hood": "Arcadia"
             },
             {
-                "name": "Rod\u2019s Grill",
+                "name": "Rod’s Grill",
                 "type": "landmark",
                 "address": "41 W Huntington Dr, Arcadia, California, 91007",
                 "lat": 34.140174004315,
@@ -1147,6 +1147,15 @@ const neighborhoodData = [
                 "original_hood": "Atwater Village"
             },
             {
+                "name": "Champion Graphics LLC (Geoff McFetridge's Studio)",
+                "type": "landmark",
+                "address": "3003 Glendale Boulevard, Los Angeles, CA 90039",
+                "lat": 34.1156103,
+                "lng": -118.2639369,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3003+Glendale+Boulevard,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
                 "name": "Chevy Chase Recreation Center",
                 "type": "landmark",
                 "address": "4165 Chevy Chase Dr, Los Angeles, CA 90039, USA",
@@ -1165,6 +1174,24 @@ const neighborhoodData = [
                 "original_hood": "Atwater Village"
             },
             {
+                "name": "Dave's Accordion School",
+                "type": "landmark",
+                "address": "3058 Glendale Blvd, Los Angeles, CA 90039",
+                "lat": 34.1156685,
+                "lng": -118.2629116,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3058+Glendale+Blvd,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Fantasy Bungalows on Brunswick",
+                "type": "landmark",
+                "address": "3642 Brunswick Ave, Los Angeles, CA 90039",
+                "lat": 34.1195395,
+                "lng": -118.2614071,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3642+Brunswick+Ave,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
                 "name": "Gladding McBean & Co. Site",
                 "type": "historical",
                 "address": "2901 Los Feliz Blvd, Los Angeles, CA 90039",
@@ -1174,7 +1201,7 @@ const neighborhoodData = [
                 "original_hood": "Atwater Village"
             },
             {
-                "name": "Glendale\u2013Hyperion Bridge",
+                "name": "Glendale–Hyperion Bridge",
                 "type": "landmark",
                 "lat": 34.1134274,
                 "lng": -118.265559,
@@ -1183,12 +1210,12 @@ const neighborhoodData = [
                 "original_hood": "Atwater Village"
             },
             {
-                "name": "The Los Angeles Lietuviu Tuatiniai Namai (American Lithuanian National Center)",
-                "type": "landmark",
-                "address": "3356 Glendale Boulevard, Los Angeles, CA 90039",
-                "lat": 34.1196107,
-                "lng": -118.2586737,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3356+Glendale+Boulevard,+Los+Angeles,+CA+90039",
+                "name": "Kiefer Sutherland's Former Atwater Village Bungalow",
+                "type": "pop-culture",
+                "address": "3720 Valleybrink Rd, Los Angeles, CA 90039",
+                "lat": 34.1169213019079,
+                "lng": -118.26589750360043,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3720+Valleybrink+Rd,+Los+Angeles,+CA+90039",
                 "original_hood": "Atwater Village"
             },
             {
@@ -1198,6 +1225,24 @@ const neighborhoodData = [
                 "lat": 34.130474004955,
                 "lng": -118.272248217031,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=3919+Rigali+Ave,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Pampered Birds' Amazing Mural",
+                "type": "landmark",
+                "address": "3183 Glendale Boulevard, Los Angeles, CA 90039",
+                "lat": 34.1177982,
+                "lng": -118.2616435,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3183+Glendale+Boulevard,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
+                "name": "Ruth Roy Ranch",
+                "type": "landmark",
+                "address": "4014 Verdant St, Los Angeles, CA 90039",
+                "lat": 34.1304269,
+                "lng": -118.2706978,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4014+Verdant+St,+Los+Angeles,+CA+90039",
                 "original_hood": "Atwater Village"
             },
             {
@@ -1218,66 +1263,21 @@ const neighborhoodData = [
                 "original_hood": "Atwater Village"
             },
             {
+                "name": "The Los Angeles Lietuviu Tuatiniai Namai (American Lithuanian National Center)",
+                "type": "landmark",
+                "address": "3356 Glendale Boulevard, Los Angeles, CA 90039",
+                "lat": 34.1196107,
+                "lng": -118.2586737,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3356+Glendale+Boulevard,+Los+Angeles,+CA+90039",
+                "original_hood": "Atwater Village"
+            },
+            {
                 "name": "The Tam O'Shanter",
                 "type": "neighborhood-favorite",
                 "address": "2980 Los Feliz Blvd, Los Angeles, CA 90039",
                 "lat": 34.1252,
                 "lng": -118.2635,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1252,-118.2635",
-                "original_hood": "Atwater Village"
-            },
-            {
-                "name": "Kiefer Sutherland's Former Atwater Village Bungalow",
-                "type": "pop-culture",
-                "address": "3720 Valleybrink Rd, Los Angeles, CA 90039",
-                "lat": 34.1169213019079,
-                "lng": -118.26589750360043,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3720+Valleybrink+Rd,+Los+Angeles,+CA+90039",
-                "original_hood": "Atwater Village"
-            },
-            {
-                "name": "Vintage Foster's Freeze Sign",
-                "type": "landmark",
-                "address": "2760 Fletcher Drive, Los Angeles, CA 90039",
-                "lat": 34.1110639,
-                "lng": -118.2502695,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2760+Fletcher+Drive,+Los+Angeles,+CA+90039",
-                "original_hood": "Atwater Village"
-            },
-            {
-                "name": "Champion Graphics LLC (Geoff McFetridge's Studio)",
-                "type": "landmark",
-                "address": "3003 Glendale Boulevard, Los Angeles, CA 90039",
-                "lat": 34.1156103,
-                "lng": -118.2639369,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3003+Glendale+Boulevard,+Los+Angeles,+CA+90039",
-                "original_hood": "Atwater Village"
-            },
-            {
-                "name": "Dave's Accordion School",
-                "type": "landmark",
-                "address": "3058 Glendale Blvd, Los Angeles, CA 90039",
-                "lat": 34.1156685,
-                "lng": -118.2629116,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3058+Glendale+Blvd,+Los+Angeles,+CA+90039",
-                "original_hood": "Atwater Village"
-            },
-            {
-                "name": "Pampered Birds' Amazing Mural",
-                "type": "landmark",
-                "address": "3183 Glendale Boulevard, Los Angeles, CA 90039",
-                "lat": 34.1177982,
-                "lng": -118.2616435,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3183+Glendale+Boulevard,+Los+Angeles,+CA+90039",
-                "original_hood": "Atwater Village"
-            },
-            {
-                "name": "Fantasy Bungalows on Brunswick",
-                "type": "landmark",
-                "address": "3642 Brunswick Ave, Los Angeles, CA 90039",
-                "lat": 34.1195395,
-                "lng": -118.2614071,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3642+Brunswick+Ave,+Los+Angeles,+CA+90039",
                 "original_hood": "Atwater Village"
             },
             {
@@ -1290,12 +1290,12 @@ const neighborhoodData = [
                 "original_hood": "Atwater Village"
             },
             {
-                "name": "Ruth Roy Ranch",
+                "name": "Vintage Foster's Freeze Sign",
                 "type": "landmark",
-                "address": "4014 Verdant St, Los Angeles, CA 90039",
-                "lat": 34.1304269,
-                "lng": -118.2706978,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4014+Verdant+St,+Los+Angeles,+CA+90039",
+                "address": "2760 Fletcher Drive, Los Angeles, CA 90039",
+                "lat": 34.1110639,
+                "lng": -118.2502695,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2760+Fletcher+Drive,+Los+Angeles,+CA+90039",
                 "original_hood": "Atwater Village"
             }
         ]
@@ -1415,6 +1415,15 @@ const neighborhoodData = [
         "region": "South L.A.",
         "locations": [
             {
+                "name": "Baha'i Community of Los Angeles",
+                "type": "landmark",
+                "address": "5755 Rodeo Rd, Los Angeles, CA 90016",
+                "lat": 34.0220032,
+                "lng": -118.3712827,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=5755+Rodeo+Rd,+Los+Angeles,+CA+90016",
+                "original_hood": "Baldwin Hills"
+            },
+            {
                 "name": "Baldwin Hills Recreation Center",
                 "type": "landmark",
                 "address": "5401 West Highlight Place, 90016, Los Angeles, CA",
@@ -1501,15 +1510,6 @@ const neighborhoodData = [
                 "lng": -118.36231673024,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=5300+Rodeo+Rd,+LA,+CA+90016",
                 "original_hood": "Baldwin Hills"
-            },
-            {
-                "name": "Baha'i Community of Los Angeles",
-                "type": "landmark",
-                "address": "5755 Rodeo Rd, Los Angeles, CA 90016",
-                "lat": 34.0220032,
-                "lng": -118.3712827,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=5755+Rodeo+Rd,+Los+Angeles,+CA+90016",
-                "original_hood": "Baldwin Hills"
             }
         ]
     },
@@ -1558,7 +1558,7 @@ const neighborhoodData = [
     {
         "id": "bassett",
         "name": "Bassett",
-        "region": "San Gabriel Valley -\u00a0Unincorporated",
+        "region": "San Gabriel Valley - Unincorporated",
         "locations": [
             {
                 "name": "Bassett Park",
@@ -1592,6 +1592,15 @@ const neighborhoodData = [
                 "lng": -118.4482,
                 "type": "landmark",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0795,-118.4482"
+            },
+            {
+                "name": "Bennifer bought this home (Ben Affleck and Jennifer Lopez)",
+                "type": "landmark",
+                "address": "10771 Bellagio Rd, Los Angeles, CA 90077",
+                "lat": 34.08035852205,
+                "lng": -118.451080563688,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=10771%20Bellagio%20Rd%2C%20Los%20Angeles%2C%20CA%2090077",
+                "original_hood": "Bel Air"
             },
             {
                 "name": "Beverly Hillbillies Mansion (rumored exterior)",
@@ -1629,12 +1638,30 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0925,-118.4612"
             },
             {
+                "name": "Director Michael Bay’s home",
+                "type": "landmark",
+                "address": "900 Stradella Rd, Los Angeles, CA 90077",
+                "lat": 34.086396970826,
+                "lng": -118.450969335833,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=900%20Stradella%20Rd%2C%20Los%20Angeles%2C%20CA%2090077",
+                "original_hood": "Bel Air"
+            },
+            {
                 "name": "Elizabeth Taylor's Home",
                 "type": "landmark",
                 "address": "800 Nimes Rd, Los Angeles, CA 90077",
                 "lat": 34.08869243883,
                 "lng": -118.44143844137,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=800+Nimes+Rd,+Los+Angeles,+CA+90077",
+                "original_hood": "Bel Air"
+            },
+            {
+                "name": "Former home of Chelsea Handler",
+                "type": "landmark",
+                "address": "11011 Anzio Rd, Los Angeles, CA 90077",
+                "lat": 34.093026301867,
+                "lng": -118.463354519784,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=11011%20Anzio%20Rd%2C%20Los%20Angeles%2C%20CA%2090077",
                 "original_hood": "Bel Air"
             },
             {
@@ -1766,33 +1793,6 @@ const neighborhoodData = [
                 "lat": 34.093076006553,
                 "lng": -118.444117968177,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1001+Bel+Air+Rd,+Los+Angeles,+CA+90077",
-                "original_hood": "Bel Air"
-            },
-            {
-                "name": "Bennifer bought this home (Ben Affleck and Jennifer Lopez)",
-                "type": "landmark",
-                "address": "10771 Bellagio Rd, Los Angeles, CA 90077",
-                "lat": 34.08035852205,
-                "lng": -118.451080563688,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=10771%20Bellagio%20Rd%2C%20Los%20Angeles%2C%20CA%2090077",
-                "original_hood": "Bel Air"
-            },
-            {
-                "name": "Director Michael Bay\u2019s home",
-                "type": "landmark",
-                "address": "900 Stradella Rd, Los Angeles, CA 90077",
-                "lat": 34.086396970826,
-                "lng": -118.450969335833,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=900%20Stradella%20Rd%2C%20Los%20Angeles%2C%20CA%2090077",
-                "original_hood": "Bel Air"
-            },
-            {
-                "name": "Former home of Chelsea Handler",
-                "type": "landmark",
-                "address": "11011 Anzio Rd, Los Angeles, CA 90077",
-                "lat": 34.093026301867,
-                "lng": -118.463354519784,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=11011%20Anzio%20Rd%2C%20Los%20Angeles%2C%20CA%2090077",
                 "original_hood": "Bel Air"
             }
         ]
@@ -2306,6 +2306,15 @@ const neighborhoodData = [
                 "original_hood": "Beverly Hills"
             },
             {
+                "name": "Bugsy Siegel “Murder Mansion”",
+                "type": "landmark",
+                "address": "810 N Linden Dr, Beverly Hills, CA 90210",
+                "lat": 34.074864142609,
+                "lng": -118.417959138014,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=810%20N%20Linden%20Dr%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
+            },
+            {
                 "name": "Carl Reiner Residence",
                 "type": "landmark",
                 "address": "714 N Linden Dr, Beverly Hills, CA 90210",
@@ -2432,6 +2441,15 @@ const neighborhoodData = [
                 "original_hood": "Beverly Hills"
             },
             {
+                "name": "Emmy Rossum home",
+                "type": "landmark",
+                "address": "9770 San Cir, Beverly Hills, CA 90210",
+                "lat": 34.10609519766,
+                "lng": -118.423667633172,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=9770%20San%20Cir%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
+            },
+            {
                 "name": "Falcon Lair (Rudolph Valentino House)",
                 "type": "historical",
                 "address": "1436 Bella Drive, Beverly Hills, CA 90210",
@@ -2450,12 +2468,30 @@ const neighborhoodData = [
                 "original_hood": "Beverly Hills"
             },
             {
+                "name": "Former home of Carrie Fisher",
+                "type": "landmark",
+                "address": "1700 Coldwater Canyon Dr, Beverly Hills, CA 90210",
+                "lat": 34.101762717637,
+                "lng": -118.404977916928,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1700%20Coldwater%20Canyon%20Dr%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
+            },
+            {
                 "name": "Former home of many Hollywood legends",
                 "type": "landmark",
                 "address": "2850 Benedict Canyon Dr, Beverly Hills, California, 90210",
                 "lat": 34.123200943751,
                 "lng": -118.435908061655,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.123200943751,-118.435908061655",
+                "original_hood": "Beverly Hills"
+            },
+            {
+                "name": "Former home of Marilyn Monroe and Joe DiMaggio",
+                "type": "landmark",
+                "address": "508 N Palm Dr, Beverly Hills, CA 90210",
+                "lat": 34.078289658799,
+                "lng": -118.396161244435,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=508%20N%20Palm%20Dr%2C%20Beverly%20Hills%2C%20CA%2090210",
                 "original_hood": "Beverly Hills"
             },
             {
@@ -2774,6 +2810,15 @@ const neighborhoodData = [
                 "original_hood": "Beverly Hills"
             },
             {
+                "name": "Stevie Wonder home",
+                "type": "landmark",
+                "address": "600 Clinton Pl, Beverly Hills, CA 90210",
+                "lat": 34.108920150487,
+                "lng": -118.395932502298,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=600%20Clinton%20Pl%2C%20Beverly%20Hills%2C%20CA%2090210",
+                "original_hood": "Beverly Hills"
+            },
+            {
                 "name": "Stiles O. Clements Residence",
                 "address": "708 North Linden Avenue, Beverly Hills, CA 90210",
                 "lat": 34.0785,
@@ -2944,57 +2989,12 @@ const neighborhoodData = [
                 "original_hood": "Beverly Hills"
             },
             {
-                "name": "Emmy Rossum home",
-                "type": "landmark",
-                "address": "9770 San Cir, Beverly Hills, CA 90210",
-                "lat": 34.10609519766,
-                "lng": -118.423667633172,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=9770%20San%20Cir%2C%20Beverly%20Hills%2C%20CA%2090210",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "Bugsy Siegel \u201cMurder Mansion\u201d",
-                "type": "landmark",
-                "address": "810 N Linden Dr, Beverly Hills, CA 90210",
-                "lat": 34.074864142609,
-                "lng": -118.417959138014,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=810%20N%20Linden%20Dr%2C%20Beverly%20Hills%2C%20CA%2090210",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "Former home of Marilyn Monroe and Joe DiMaggio",
-                "type": "landmark",
-                "address": "508 N Palm Dr, Beverly Hills, CA 90210",
-                "lat": 34.078289658799,
-                "lng": -118.396161244435,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=508%20N%20Palm%20Dr%2C%20Beverly%20Hills%2C%20CA%2090210",
-                "original_hood": "Beverly Hills"
-            },
-            {
                 "name": "Zoe Saldana home",
                 "type": "landmark",
                 "address": "9551 Lime Orchard Rd, Beverly Hills, CA 90210",
                 "lat": 34.12183150841,
                 "lng": -118.40392162949,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=9551%20Lime%20Orchard%20Rd%2C%20Beverly%20Hills%2C%20CA%2090210",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "Stevie Wonder home",
-                "type": "landmark",
-                "address": "600 Clinton Pl, Beverly Hills, CA 90210",
-                "lat": 34.108920150487,
-                "lng": -118.395932502298,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=600%20Clinton%20Pl%2C%20Beverly%20Hills%2C%20CA%2090210",
-                "original_hood": "Beverly Hills"
-            },
-            {
-                "name": "Former home of Carrie Fisher",
-                "type": "landmark",
-                "address": "1700 Coldwater Canyon Dr, Beverly Hills, CA 90210",
-                "lat": 34.101762717637,
-                "lng": -118.404977916928,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1700%20Coldwater%20Canyon%20Dr%2C%20Beverly%20Hills%2C%20CA%2090210",
                 "original_hood": "Beverly Hills"
             }
         ]
@@ -3069,7 +3069,7 @@ const neighborhoodData = [
         "region": "Eastside",
         "locations": [
             {
-                "name": "\"Pared\u00f3n Blanco\"",
+                "name": "\"Paredón Blanco\"",
                 "type": "landmark",
                 "address": "",
                 "lat": 34.0339,
@@ -3222,6 +3222,15 @@ const neighborhoodData = [
                 "original_hood": "Boyle Heights"
             },
             {
+                "name": "El Mercado (Googie Font Landmark)",
+                "type": "landmark",
+                "address": "3425 E 1st St, Los Angeles, CA 90063",
+                "lat": 34.0385,
+                "lng": -118.1882,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3425+E+1st+St,+Los+Angeles,+CA+90063",
+                "original_hood": "Boyle Heights"
+            },
+            {
                 "name": "El Tepeyac Cafe",
                 "type": "landmark",
                 "address": "812 N Evergreen Ave, Los Angeles, CA 90033, USA",
@@ -3348,7 +3357,7 @@ const neighborhoodData = [
                 "original_hood": "Boyle Heights"
             },
             {
-                "name": "Pared\u00f3n Blanco (Historic)",
+                "name": "Paredón Blanco (Historic)",
                 "type": "sub-neighborhood",
                 "lat": 34.0406351,
                 "lng": -118.2117726,
@@ -3436,15 +3445,6 @@ const neighborhoodData = [
                 "lng": -118.203919026164,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2708+E+Cesar+E+Chavez+Ave,+Los+Angeles,+CA+90033",
                 "original_hood": "Boyle Heights"
-            },
-            {
-                "name": "El Mercado (Googie Font Landmark)",
-                "type": "landmark",
-                "address": "3425 E 1st St, Los Angeles, CA 90063",
-                "lat": 34.0385,
-                "lng": -118.1882,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3425+E+1st+St,+Los+Angeles,+CA+90063",
-                "original_hood": "Boyle Heights"
             }
         ]
     },
@@ -3511,6 +3511,15 @@ const neighborhoodData = [
         "region": "Westside",
         "locations": [
             {
+                "name": "\"The Golden Girls\" house",
+                "type": "landmark",
+                "address": "245 N Saltair Ave, Los Angeles, CA 90049",
+                "lat": 34.065127681971,
+                "lng": -118.475134697964,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=245%20N%20Saltair%20Ave%2C%20Los%20Angeles%2C%20CA%2090049",
+                "original_hood": "Brentwood"
+            },
+            {
                 "name": "Arnold Schwarzenegger Residence",
                 "type": "landmark",
                 "address": "",
@@ -3564,6 +3573,15 @@ const neighborhoodData = [
                 "original_hood": "Brentwood"
             },
             {
+                "name": "Formerly Gwyneth Paltrow’s home",
+                "type": "landmark",
+                "address": "1701 Mandeville Canyon Rd, Los Angeles, CA 90049",
+                "lat": 34.064438857168,
+                "lng": -118.49357228656,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1701%20Mandeville%20Canyon%20Rd%2C%20Los%20Angeles%2C%20CA%2090049",
+                "original_hood": "Brentwood"
+            },
+            {
                 "name": "Gwyneth Paltrow's Former Estate",
                 "type": "landmark",
                 "address": "1701 Westridge Rd, Los Angeles, CA 90049, USA",
@@ -3609,7 +3627,7 @@ const neighborhoodData = [
                 "original_hood": "Brentwood"
             },
             {
-                "name": "Larry David\u2019s house in Curb Your Enthusiasm",
+                "name": "Larry David’s house in Curb Your Enthusiasm",
                 "type": "landmark",
                 "address": "585 Moreno Ave, Los Angeles, CA 90049, USA",
                 "lat": 34.0452205,
@@ -3645,6 +3663,15 @@ const neighborhoodData = [
                 "original_hood": "Brentwood"
             },
             {
+                "name": "Once the home of entertainment legend, Garry Shandling, and his renowned basketball game",
+                "type": "landmark",
+                "address": "1745 Correa Way, Los Angeles, CA 90049",
+                "lat": 34.06562125034,
+                "lng": -118.497212379471,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1745%20Correa%20Way%2C%20Los%20Angeles%2C%20CA%2090049",
+                "original_hood": "Brentwood"
+            },
+            {
                 "name": "Schnabel House by Frank Gehry",
                 "type": "landmark",
                 "address": "526 N Carmelina Ave, Los Angeles, CA 90049",
@@ -3663,7 +3690,7 @@ const neighborhoodData = [
                 "original_hood": "Brentwood"
             },
             {
-                "name": "The Banks Mansion \u2014 The Fresh Prince of Bel-Air",
+                "name": "The Banks Mansion — The Fresh Prince of Bel-Air",
                 "type": "landmark",
                 "address": "4117 Logan Ln",
                 "lat": 34.0762,
@@ -3690,39 +3717,12 @@ const neighborhoodData = [
                 "original_hood": "Brentwood"
             },
             {
-                "name": "The Golden Girls House \u2014 The Golden Girls",
+                "name": "The Golden Girls House — The Golden Girls",
                 "type": "landmark",
                 "address": "245 N. Saltair Ave",
                 "lat": 34.0665,
                 "lng": -118.4688,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0665,-118.4688",
-                "original_hood": "Brentwood"
-            },
-            {
-                "name": "Formerly Gwyneth Paltrow\u2019s home",
-                "type": "landmark",
-                "address": "1701 Mandeville Canyon Rd, Los Angeles, CA 90049",
-                "lat": 34.064438857168,
-                "lng": -118.49357228656,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1701%20Mandeville%20Canyon%20Rd%2C%20Los%20Angeles%2C%20CA%2090049",
-                "original_hood": "Brentwood"
-            },
-            {
-                "name": "Once the home of entertainment legend, Garry Shandling, and his renowned basketball game",
-                "type": "landmark",
-                "address": "1745 Correa Way, Los Angeles, CA 90049",
-                "lat": 34.06562125034,
-                "lng": -118.497212379471,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1745%20Correa%20Way%2C%20Los%20Angeles%2C%20CA%2090049",
-                "original_hood": "Brentwood"
-            },
-            {
-                "name": "\"The Golden Girls\" house",
-                "type": "landmark",
-                "address": "245 N Saltair Ave, Los Angeles, CA 90049",
-                "lat": 34.065127681971,
-                "lng": -118.475134697964,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=245%20N%20Saltair%20Ave%2C%20Los%20Angeles%2C%20CA%2090049",
                 "original_hood": "Brentwood"
             }
         ]
@@ -3742,21 +3742,21 @@ const neighborhoodData = [
                 "original_hood": "Broadway-Manchester"
             },
             {
-                "name": "Samuel Gompers Middle School",
-                "type": "landmark",
-                "address": "234 E 112th St, Los Angeles, CA 90061",
-                "lat": 33.93281908889,
-                "lng": -118.270427416205,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=234+E+112th+St,+Los+Angeles,+CA+90061",
-                "original_hood": "Broadway-Manchester"
-            },
-            {
                 "name": "Roi Le Autel",
                 "type": "landmark",
                 "address": "256 W 117th St, Los Angeles, CA 90061",
                 "lat": 33.9282,
                 "lng": -118.2785,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=256+W+117th+St,+Los+Angeles,+CA+90061",
+                "original_hood": "Broadway-Manchester"
+            },
+            {
+                "name": "Samuel Gompers Middle School",
+                "type": "landmark",
+                "address": "234 E 112th St, Los Angeles, CA 90061",
+                "lat": 33.93281908889,
+                "lng": -118.270427416205,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=234+E+112th+St,+Los+Angeles,+CA+90061",
                 "original_hood": "Broadway-Manchester"
             }
         ]
@@ -4006,7 +4006,7 @@ const neighborhoodData = [
                 "original_hood": "Burbank"
             },
             {
-                "name": "Jim Henson\u2019s Creature Shop",
+                "name": "Jim Henson’s Creature Shop",
                 "address": "3701 W Alameda Ave, Burbank, CA 91505, USA",
                 "type": "landmark",
                 "lat": 34.1541493,
@@ -4024,7 +4024,7 @@ const neighborhoodData = [
                 "original_hood": "Burbank"
             },
             {
-                "name": "Larry\u2019s Chili Dog",
+                "name": "Larry’s Chili Dog",
                 "address": "1220 W Riverside Dr, Burbank, CA 91506, USA",
                 "type": "landmark",
                 "lat": 34.1588953,
@@ -4407,7 +4407,7 @@ const neighborhoodData = [
         "region": "San Fernando Valley",
         "locations": [
             {
-                "name": "20914 Roscoe Blvd (De Soto Pharmacy / Jerry\u2019s Soda Shoppe)",
+                "name": "20914 Roscoe Blvd (De Soto Pharmacy / Jerry’s Soda Shoppe)",
                 "type": "landmark",
                 "address": "20914 Roscoe Blvd, Canoga Park, California, 91304",
                 "lat": 34.219689264065,
@@ -4452,7 +4452,7 @@ const neighborhoodData = [
                 "original_hood": "Canoga Park"
             },
             {
-                "name": "Crown City Pawn Shop \u2014 Pulp Fiction",
+                "name": "Crown City Pawn Shop — Pulp Fiction",
                 "type": "landmark",
                 "address": "20933 Roscoe Blvd",
                 "lat": 34.2212,
@@ -4841,7 +4841,7 @@ const neighborhoodData = [
     {
         "id": "century-cove",
         "name": "Century Cove",
-        "region": "069. Century Cove\u2028\u2028070. Century Palms",
+        "region": "069. Century Cove  070. Century Palms",
         "locations": []
     },
     {
@@ -5077,6 +5077,15 @@ const neighborhoodData = [
                 "original_hood": "Cheviot Hills"
             },
             {
+                "name": "For more than half a century it was home to writer Ray Bradbury, demolished 2015",
+                "type": "landmark",
+                "address": "10265 Cheviot Dr, Los Angeles, CA 90064",
+                "lat": 34.036570370214,
+                "lng": -118.407447309423,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=10265%20Cheviot%20Dr%2C%20Los%20Angeles%2C%20CA%2090064",
+                "original_hood": "Cheviot Hills"
+            },
+            {
                 "name": "Strauss-Lewis House",
                 "type": "landmark",
                 "address": "3131 Queensbury Dr, Los Angeles, CA 90064",
@@ -5093,21 +5102,12 @@ const neighborhoodData = [
                 "lng": -118.4050503,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0365834,-118.4050503",
                 "original_hood": "Cheviot Hills"
-            },
-            {
-                "name": "For more than half a century it was home to writer Ray Bradbury, demolished 2015",
-                "type": "landmark",
-                "address": "10265 Cheviot Dr, Los Angeles, CA 90064",
-                "lat": 34.036570370214,
-                "lng": -118.407447309423,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=10265%20Cheviot%20Dr%2C%20Los%20Angeles%2C%20CA%2090064",
-                "original_hood": "Cheviot Hills"
             }
         ]
     },
     {
         "id": "chinatown",
-        "name": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )",
+        "name": "Chinatown (唐人街 洛杉矶 )",
         "region": "Central L.A.",
         "locations": [
             {
@@ -5117,7 +5117,7 @@ const neighborhoodData = [
                 "lat": 34.063636709034,
                 "lng": -118.237318814843,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=850+N+Broadway,+Los+Angeles,+CA+90012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Bruce Lee's Martial Arts Studio",
@@ -5126,7 +5126,7 @@ const neighborhoodData = [
                 "lat": 34.065135686689,
                 "lng": -118.241023532227,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=628%20W%20College%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Central Plaza",
@@ -5135,7 +5135,7 @@ const neighborhoodData = [
                 "lat": 34.065173824348,
                 "lng": -118.237070542871,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=943%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Chinatown West Gate (HCM #825)",
@@ -5144,7 +5144,7 @@ const neighborhoodData = [
                 "lat": 34.065791402974,
                 "lng": -118.23786271654,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=954+N+Hill+St,+Los+Angeles,+CA+90012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Chinese American Museum",
@@ -5153,7 +5153,7 @@ const neighborhoodData = [
                 "lat": 34.055826242108,
                 "lng": -118.239106926247,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=425%20N%20Los%20Angeles%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Chinese Historical Society of Southern California",
@@ -5162,7 +5162,7 @@ const neighborhoodData = [
                 "lat": 34.067135944062,
                 "lng": -118.23647676885,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=415%20Bernard%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Christine's House (Drag Me To Hell)",
@@ -5171,7 +5171,7 @@ const neighborhoodData = [
                 "lat": 34.070659193243,
                 "lng": -118.248620805446,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1031%20Everett%20St%2C%20Los%20Angeles%2C%20CA%2090026",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Cottage Home Gallery (Human Resources)",
@@ -5180,7 +5180,7 @@ const neighborhoodData = [
                 "lat": 34.067536835027,
                 "lng": -118.235643458262,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=410%20Cottage%20Home%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "E. Dogtown Studio",
@@ -5189,7 +5189,7 @@ const neighborhoodData = [
                 "lat": 34.064986279265,
                 "lng": -118.231315611969,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1401%20N%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Eastside Market Italian Deli",
@@ -5198,7 +5198,7 @@ const neighborhoodData = [
                 "lat": 34.065169046663,
                 "lng": -118.246643346849,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1013%20Alpine%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "First Cemetery of Los Angeles (Site of)",
@@ -5207,7 +5207,7 @@ const neighborhoodData = [
                 "lat": 34.0563931,
                 "lng": -118.2396486,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=521+North+Main+Street%2C+Los+Angeles%2C+CA+90012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Fun On Foods Inc.",
@@ -5216,7 +5216,7 @@ const neighborhoodData = [
                 "lat": 34.065470250354,
                 "lng": -118.233415194896,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1200%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Grandview Gardens Sign",
@@ -5225,7 +5225,7 @@ const neighborhoodData = [
                 "lat": 34.0655,
                 "lng": -118.2385,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0655,-118.2385",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Homegirl Cafe",
@@ -5234,7 +5234,7 @@ const neighborhoodData = [
                 "lat": 34.062387763552,
                 "lng": -118.23570018552,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=130%20Bruno%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Hong Kong Cafe (Site of)",
@@ -5243,7 +5243,7 @@ const neighborhoodData = [
                 "lat": 34.065581897304,
                 "lng": -118.237139609753,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=425%20Gin%20Ling%20Way%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "LAX-C (Thai Costco)",
@@ -5252,7 +5252,7 @@ const neighborhoodData = [
                 "lat": 34.063044569484,
                 "lng": -118.232618243542,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1100%20N%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Little Italy (Historic District)",
@@ -5261,7 +5261,7 @@ const neighborhoodData = [
                 "lat": 34.060338304406,
                 "lng": -118.239324268996,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bounded+by+Sunset+Blvd%2C+Yale+St%2C+Broadway%2C+and+Ord+St",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Little Joe's Italian Restaurant (Site of)",
@@ -5270,7 +5270,7 @@ const neighborhoodData = [
                 "lat": 34.064085392311,
                 "lng": -118.237271037995,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=900%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Los Angeles Plaza Park",
@@ -5279,7 +5279,7 @@ const neighborhoodData = [
                 "lat": 34.05,
                 "lng": -118.25,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=125+Paseo+de+la+Plaza%2C+Los+Angeles%2C+CA+90012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Madame Wong's (Site of)",
@@ -5288,7 +5288,7 @@ const neighborhoodData = [
                 "lat": 34.065348885645,
                 "lng": -118.236881291614,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=949%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "My Dung Sandwich Shop",
@@ -5297,7 +5297,7 @@ const neighborhoodData = [
                 "lat": 34.060143006062,
                 "lng": -118.239112961217,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=314%20Ord%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Naud Junction (Historic Name)",
@@ -5306,7 +5306,7 @@ const neighborhoodData = [
                 "lat": 34.063497192256,
                 "lng": -118.235679230762,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=N%20Spring%20St%20%26%20W%20College%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Nick's Cafe",
@@ -5315,16 +5315,16 @@ const neighborhoodData = [
                 "lat": 34.066107274995,
                 "lng": -118.23317589156,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1300%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
-                "name": "Nuestra Se\u00f1ora la Reina de Los Angeles (Plaza Church)",
+                "name": "Nuestra Señora la Reina de Los Angeles (Plaza Church)",
                 "type": "landmark",
                 "address": "535 North Main Street, Los Angeles, CA 90012",
                 "lat": 34.0571561,
                 "lng": -118.2397573,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=535+North+Main+Street%2C+Los+Angeles%2C+CA+90012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Old Chinatown Entrance",
@@ -5349,7 +5349,7 @@ const neighborhoodData = [
                 "lat": 34.065968764045,
                 "lng": -118.236731578706,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=969%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "River Station Area",
@@ -5358,7 +5358,7 @@ const neighborhoodData = [
                 "lat": 34.0651508,
                 "lng": -118.2350162,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1231+North+Spring+Street%2C+Los+Angeles%2C+CA+90012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Sonoratown (Historic District)",
@@ -5367,7 +5367,7 @@ const neighborhoodData = [
                 "lat": 34.055294625421,
                 "lng": -118.243943827467,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=North+of+the+Plaza%2C+roughly+centered+near+N+Broadway",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "St. Anthony's Croatian Catholic Church",
@@ -5376,7 +5376,7 @@ const neighborhoodData = [
                 "lat": 34.063008024387,
                 "lng": -118.243272899763,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=712%20N%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Sunny's Market",
@@ -5385,7 +5385,7 @@ const neighborhoodData = [
                 "lat": 34.064126393972,
                 "lng": -118.232339694039,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1222%20N%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Superior Poultry Co.",
@@ -5394,7 +5394,7 @@ const neighborhoodData = [
                 "lat": 34.061674463591,
                 "lng": -118.238319446444,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=750%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Tak Shing Hong",
@@ -5403,7 +5403,7 @@ const neighborhoodData = [
                 "lat": 34.063534701273,
                 "lng": -118.237979476451,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=841%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Ten Ren's Tea Time",
@@ -5412,7 +5412,7 @@ const neighborhoodData = [
                 "lat": 34.061685498908,
                 "lng": -118.240178569576,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=727%20N%20Hill%20St%20%23136%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Thien Hau Temple",
@@ -5421,7 +5421,7 @@ const neighborhoodData = [
                 "lat": 34.062578870944,
                 "lng": -118.240959997401,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=756%20Yale%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Victorian Heights",
@@ -5446,7 +5446,7 @@ const neighborhoodData = [
                 "lat": 34.062943567551,
                 "lng": -118.230482618432,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1300%20Cardinal%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             },
             {
                 "name": "Woman's Building (Historic Site)",
@@ -5455,7 +5455,7 @@ const neighborhoodData = [
                 "lat": 34.070091528851,
                 "lng": -118.226551673481,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1727%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-                "original_hood": "Chinatown (\u5510\u4eba\u8857 \u6d1b\u6749\u77f6 )"
+                "original_hood": "Chinatown (唐人街 洛杉矶 )"
             }
         ]
     },
@@ -5528,7 +5528,7 @@ const neighborhoodData = [
                 "original_hood": "Commerce"
             },
             {
-                "name": "The Citadel Outlets \u2014 one of LA's most architecturally distinctive buildings.",
+                "name": "The Citadel Outlets — one of LA's most architecturally distinctive buildings.",
                 "type": "landmark",
                 "address": "5675 Telegraph Rd, Commerce, California, 90040",
                 "lat": 34.006671995859,
@@ -5595,6 +5595,15 @@ const neighborhoodData = [
                 "lat": 33.8662843,
                 "lng": -118.2168433,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8662843,-118.2168433",
+                "original_hood": "Compton"
+            },
+            {
+                "name": "Dr. Dre's Childhood Home",
+                "type": "landmark",
+                "address": "2336 E 126th St, Compton, CA 90222",
+                "lat": 33.917890919334,
+                "lng": -118.230827701386,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2336%20E%20126th%20St%2C%20Compton%2C%20CA%2090222",
                 "original_hood": "Compton"
             },
             {
@@ -5733,7 +5742,7 @@ const neighborhoodData = [
                 "original_hood": "Compton"
             },
             {
-                "name": "Serena and Venus Williams\u2019 childhood home",
+                "name": "Serena and Venus Williams’ childhood home",
                 "type": "landmark",
                 "address": "1117 E Stockton St, Compton, CA 90221",
                 "lat": 33.9097482,
@@ -5757,15 +5766,6 @@ const neighborhoodData = [
                 "lat": 33.8778,
                 "lng": -118.2514,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1715+W+Greenleaf+Blvd%2C+Compton%2C+CA",
-                "original_hood": "Compton"
-            },
-            {
-                "name": "Dr. Dre's Childhood Home",
-                "type": "landmark",
-                "address": "2336 E 126th St, Compton, CA 90222",
-                "lat": 33.917890919334,
-                "lng": -118.230827701386,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2336%20E%20126th%20St%2C%20Compton%2C%20CA%2090222",
                 "original_hood": "Compton"
             }
         ]
@@ -5883,64 +5883,6 @@ const neighborhoodData = [
         "name": "Cudahy",
         "region": "Southeast",
         "locations": []
-    },
-    {
-        "id": "little-tokyo-chinatown",
-        "name": "Cultural Enclaves (LT & CT)",
-        "region": "Central LA",
-        "locations": [
-            {
-                "name": "Department of Water and Power (DWP) Building",
-                "address": "111 N. Hope St Los Angeles, CA 90012",
-                "lat": 34.0585,
-                "lng": -118.2482,
-                "type": "landmark",
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0585,-118.2482"
-            },
-            {
-                "name": "Fugetsu-Do Bakery",
-                "type": "historical",
-                "address": "315 E 1st St, Los Angeles, CA 90012",
-                "lat": 34.0501863,
-                "lng": -118.240384,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=315+E+1st+St%2C+Los+Angeles%2C+CA+90012",
-                "original_hood": "Cultural Enclaves (LT & CT)"
-            },
-            {
-                "name": "LAPD Headquarters (Police Administration Building)",
-                "address": "100 West First Street Los Angeles, CA 90012",
-                "lat": 34.0515,
-                "lng": -118.2439,
-                "type": "landmark",
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0515,-118.2439"
-            },
-            {
-                "name": "Little Tokyo Branch Library",
-                "type": "landmark",
-                "address": "203 S. Los Angeles Street, Los Angeles, CA 90012",
-                "lat": 34.050071,
-                "lng": -118.2438831,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=203+S.+Los+Angeles+Street%2C+Los+Angeles%2C+CA+90012",
-                "original_hood": "Cultural Enclaves (LT & CT)"
-            },
-            {
-                "name": "Los Angeles Union Station",
-                "type": "historical",
-                "address": "800 N Alameda St, Los Angeles, CA 90012",
-                "lat": 34.0562,
-                "lng": -118.2365,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0562,-118.2365",
-                "original_hood": "Cultural Enclaves (LT & CT)"
-            },
-            {
-                "name": "The Clara Shortridge Foltz Criminal Justice Center",
-                "address": "100 Center St Los Angeles, CA 90012",
-                "lat": 34.0552,
-                "lng": -118.2435,
-                "type": "landmark",
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0552,-118.2435"
-            }
-        ]
     },
     {
         "id": "culver-city",
@@ -6337,7 +6279,7 @@ const neighborhoodData = [
                 "original_hood": "Culver City"
             },
             {
-                "name": "\u201cSuperbad\u201d liquor store filming location",
+                "name": "“Superbad” liquor store filming location",
                 "type": "landmark",
                 "address": "4289 Overland Ave, Culver City, CA 90230",
                 "lat": 34.011578272921,
@@ -6469,7 +6411,7 @@ const neighborhoodData = [
     {
         "id": "la-canada-flintridge-descanso-gardens",
         "name": "Descanso Gardens Area",
-        "region": "La Ca\u00f1ada Flintridge",
+        "region": "La Cañada Flintridge",
         "locations": []
     },
     {
@@ -6613,7 +6555,7 @@ const neighborhoodData = [
                 "original_hood": "Downey"
             },
             {
-                "name": "The Oldest McDonald\u2019s (10207 Lakewood Blvd)",
+                "name": "The Oldest McDonald’s (10207 Lakewood Blvd)",
                 "type": "landmark",
                 "address": "10207 Lakewood Blvd, Downey, California, 90241",
                 "lat": 33.945968995777,
@@ -6726,7 +6668,7 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
-                "name": "Am\u00e9rica Tropical",
+                "name": "América Tropical",
                 "type": "landmark",
                 "address": "125 Paseo de la Plz, Los Angeles, CA 90012, USA",
                 "lat": 34.0566268,
@@ -6965,7 +6907,7 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
-                "name": "Casey\u2019s Irish Pub",
+                "name": "Casey’s Irish Pub",
                 "type": "landmark",
                 "address": "613 S Grand Ave, Los Angeles, CA 90017",
                 "lat": 34.048423764318,
@@ -7035,7 +6977,16 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
-                "name": "Downtown - Little Tokyo (also known as J-Town, \u5c0f\u6771\u4eac )",
+                "name": "Department of Water and Power (DWP) Building",
+                "address": "111 N. Hope St Los Angeles, CA 90012",
+                "lat": 34.0585,
+                "lng": -118.2482,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0585,-118.2482",
+                "original_hood": "Downtown LA"
+            },
+            {
+                "name": "Downtown - Little Tokyo (also known as J-Town, 小東京 )",
                 "type": "sub-neighborhood",
                 "address": "319 E 2nd St, Los Angeles, CA 90012",
                 "lat": 34.049397406191,
@@ -7053,7 +7004,7 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
-                "name": "East City Hall Controller\u2019s Room",
+                "name": "East City Hall Controller’s Room",
                 "type": "landmark",
                 "address": "200 N. Main Street, Los Angeles, CA 90012",
                 "lat": 34.0523908,
@@ -7181,6 +7132,15 @@ const neighborhoodData = [
                 "lat": 34.04471766392,
                 "lng": -118.256475235455,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=416+W+8th+St,+Los+Angeles,+CA+90014",
+                "original_hood": "Downtown LA"
+            },
+            {
+                "name": "Fugetsu-Do Bakery",
+                "type": "historical",
+                "address": "315 E 1st St, Los Angeles, CA 90012",
+                "lat": 34.0501863,
+                "lng": -118.240384,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=315+E+1st+St%2C+Los+Angeles%2C+CA+90012",
                 "original_hood": "Downtown LA"
             },
             {
@@ -7379,6 +7339,14 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "L.A. Central Library (HCM #46)",
+                "type": "landmark",
+                "address": "630 W 5th St, Los Angeles, CA 90071",
+                "lat": 34.0504,
+                "lng": -118.2551,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0504,-118.2551"
+            },
+            {
                 "name": "L.A. County Law Library",
                 "type": "landmark",
                 "address": "301 W 1st St, Los Angeles, CA 90012",
@@ -7406,6 +7374,15 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
+                "name": "LAPD Headquarters (Police Administration Building)",
+                "address": "100 West First Street Los Angeles, CA 90012",
+                "lat": 34.0515,
+                "lng": -118.2439,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0515,-118.2439",
+                "original_hood": "Downtown LA"
+            },
+            {
                 "name": "LAPD Police Administration Building",
                 "type": "landmark",
                 "address": "100 West First Street, Los Angeles, CA 90012",
@@ -7421,6 +7398,15 @@ const neighborhoodData = [
                 "lng": -118.2395052,
                 "address": "Little Tokyo, Los Angeles, CA, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0523392,-118.2395052",
+                "original_hood": "Downtown LA"
+            },
+            {
+                "name": "Little Tokyo Branch Library",
+                "type": "landmark",
+                "address": "203 S. Los Angeles Street, Los Angeles, CA 90012",
+                "lat": 34.050071,
+                "lng": -118.2438831,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=203+S.+Los+Angeles+Street%2C+Los+Angeles%2C+CA+90012",
                 "original_hood": "Downtown LA"
             },
             {
@@ -7493,6 +7479,15 @@ const neighborhoodData = [
                 "lng": -118.2526685,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0464536,-118.2526685",
                 "year_built": "1931",
+                "original_hood": "Downtown LA"
+            },
+            {
+                "name": "Los Angeles Union Station",
+                "type": "historical",
+                "address": "800 N Alameda St, Los Angeles, CA 90012",
+                "lat": 34.0562,
+                "lng": -118.2365,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0562,-118.2365",
                 "original_hood": "Downtown LA"
             },
             {
@@ -7627,7 +7622,7 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
-                "name": "Original Pantry Caf\u00e9",
+                "name": "Original Pantry Café",
                 "type": "landmark",
                 "address": "877 S Figueroa St, Los Angeles, CA 90017",
                 "lat": 34.0507779,
@@ -7674,7 +7669,7 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
-                "name": "Paul\u2019s Kitchen",
+                "name": "Paul’s Kitchen",
                 "type": "landmark",
                 "address": "1012 S San Pedro St, Los Angeles, CA 90015",
                 "lat": 34.035351809131,
@@ -7718,7 +7713,7 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
-                "name": "Pi\u00f1ata District",
+                "name": "Piñata District",
                 "type": "sub-neighborhood",
                 "address": "1248 E. Olympic Blvd, Los Angeles, CA 90021",
                 "lat": 34.0240268,
@@ -7892,7 +7887,7 @@ const neighborhoodData = [
                 "original_hood": "Downtown LA"
             },
             {
-                "name": "The Bradbury Building \u2014 Blade Runner / 500 Days of Summer",
+                "name": "The Bradbury Building — Blade Runner / 500 Days of Summer",
                 "type": "landmark",
                 "address": "304 S. Broadway",
                 "lat": 34.0505,
@@ -7921,6 +7916,15 @@ const neighborhoodData = [
                 "lat": 34.0442058,
                 "lng": -118.250538,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0442058,-118.250538",
+                "original_hood": "Downtown LA"
+            },
+            {
+                "name": "The Clara Shortridge Foltz Criminal Justice Center",
+                "address": "100 Center St Los Angeles, CA 90012",
+                "lat": 34.0552,
+                "lng": -118.2435,
+                "type": "landmark",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0552,-118.2435",
                 "original_hood": "Downtown LA"
             },
             {
@@ -8176,14 +8180,6 @@ const neighborhoodData = [
                 "lng": -118.2361371,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=123+South+Hewitt+St%2C+Los+Angeles%2C+CA+90012",
                 "original_hood": "Downtown LA"
-            },
-            {
-                "name": "L.A. Central Library (HCM #46)",
-                "type": "landmark",
-                "address": "630 W 5th St, Los Angeles, CA 90071",
-                "lat": 34.0504,
-                "lng": -118.2551,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0504,-118.2551"
             }
         ]
     },
@@ -8933,6 +8929,15 @@ const neighborhoodData = [
         "region": "East Hollywood",
         "locations": [
             {
+                "name": "East Hollywood - Hel-Mel",
+                "address": "Melrose Ave & Heliotrope Dr, Los Angeles, CA 90029, USA",
+                "lat": 34.0835927,
+                "lng": -118.2949682,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0835927,-118.2949682",
+                "type": "neighborhood",
+                "original_hood": "East Hollywood - Hel-Mel"
+            },
+            {
                 "name": "Bar Keeper",
                 "address": "614 N. Hoover St, Los Angeles, CA 90004",
                 "lat": 34.082,
@@ -8963,15 +8968,6 @@ const neighborhoodData = [
                 "lng": -118.2895,
                 "type": "landmark",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0895,-118.2895"
-            },
-            {
-                "name": "East Hollywood - Hel-Mel",
-                "address": "Melrose Ave & Heliotrope Dr, Los Angeles, CA 90029, USA",
-                "lat": 34.0835927,
-                "lng": -118.2949682,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0835927,-118.2949682",
-                "type": "neighborhood",
-                "original_hood": "East Hollywood - Hel-Mel"
             },
             {
                 "name": "Fountain Avenue Bungalow Court",
@@ -9285,6 +9281,15 @@ const neighborhoodData = [
                 "original_hood": "East Los Angeles"
             },
             {
+                "name": "King Taco (The \"Most Famous\" One)",
+                "type": "landmark",
+                "address": "4504 E 3rd St, Los Angeles, CA 90022",
+                "lat": 34.0325,
+                "lng": -118.1582,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4504+E+3rd+St,+Los+Angeles,+CA+90022",
+                "original_hood": "East Los Angeles"
+            },
+            {
                 "name": "King Taco (The Original Location)",
                 "type": "landmark",
                 "lat": 34.0330312,
@@ -9321,7 +9326,7 @@ const neighborhoodData = [
                 "original_hood": "East Los Angeles"
             },
             {
-                "name": "Lupe\u2019s Taco Stand (Lupe\u2019s Burritos)",
+                "name": "Lupe’s Taco Stand (Lupe’s Burritos)",
                 "type": "landmark",
                 "lat": 34.0331029,
                 "lng": -118.1654521,
@@ -9411,7 +9416,7 @@ const neighborhoodData = [
                 "original_hood": "East Los Angeles"
             },
             {
-                "name": "Tony\u2019s Transmissions (Muffler Man)",
+                "name": "Tony’s Transmissions (Muffler Man)",
                 "type": "landmark",
                 "address": "4327 E. Cesar Chavez Ave, Los Angeles, CA 90022",
                 "lat": 34.03,
@@ -9426,15 +9431,6 @@ const neighborhoodData = [
                 "lat": 33.9015477,
                 "lng": -118.414555,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9015477,-118.414555",
-                "original_hood": "East Los Angeles"
-            },
-            {
-                "name": "King Taco (The \"Most Famous\" One)",
-                "type": "landmark",
-                "address": "4504 E 3rd St, Los Angeles, CA 90022",
-                "lat": 34.0325,
-                "lng": -118.1582,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4504+E+3rd+St,+Los+Angeles,+CA+90022",
                 "original_hood": "East Los Angeles"
             }
         ]
@@ -9704,6 +9700,15 @@ const neighborhoodData = [
                 "original_hood": "Echo Park"
             },
             {
+                "name": "Home of actress Jenny Slate",
+                "type": "landmark",
+                "address": "1741 Golden Gate Ave, Los Angeles, CA 90026",
+                "lat": 34.092916457026,
+                "lng": -118.273389999882,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1741%20Golden%20Gate%20Ave%2C%20Los%20Angeles%2C%20CA%2090026",
+                "original_hood": "Echo Park"
+            },
+            {
                 "name": "House of Spirits",
                 "type": "historical",
                 "address": "1314 Echo Park Ave, Los Angeles, CA 90026",
@@ -9722,7 +9727,7 @@ const neighborhoodData = [
                 "original_hood": "Echo Park"
             },
             {
-                "name": "Jensen\u2019s Recreation Center",
+                "name": "Jensen’s Recreation Center",
                 "type": "landmark",
                 "address": "1706 Sunset Blvd, Los Angeles, CA",
                 "lat": 34.0795457,
@@ -9821,7 +9826,7 @@ const neighborhoodData = [
                 "original_hood": "Echo Park"
             },
             {
-                "name": "Ross House (1938) \u2014 HCM #964",
+                "name": "Ross House (1938) — HCM #964",
                 "type": "landmark",
                 "address": "2123 Valentine St, Los Angeles, CA 90026",
                 "lat": 34.0892161,
@@ -9848,7 +9853,7 @@ const neighborhoodData = [
                 "original_hood": "Echo Park"
             },
             {
-                "name": "St. Anne\u2019s",
+                "name": "St. Anne’s",
                 "type": "landmark",
                 "address": "155 N. Occidental Blvd. #236, Los Angeles, CA 90026",
                 "lat": 34.05,
@@ -9953,15 +9958,6 @@ const neighborhoodData = [
                 "lng": -118.2515888,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0728,-118.2515888",
                 "original_hood": "Echo Park"
-            },
-            {
-                "name": "Home of actress Jenny Slate",
-                "type": "landmark",
-                "address": "1741 Golden Gate Ave, Los Angeles, CA 90026",
-                "lat": 34.092916457026,
-                "lng": -118.273389999882,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1741%20Golden%20Gate%20Ave%2C%20Los%20Angeles%2C%20CA%2090026",
-                "original_hood": "Echo Park"
             }
         ]
     },
@@ -10056,7 +10052,7 @@ const neighborhoodData = [
                 "original_hood": "El Monte"
             },
             {
-                "name": "Gay\u2019s Lion Farm (Western Edge)",
+                "name": "Gay’s Lion Farm (Western Edge)",
                 "type": "landmark",
                 "address": "10029 Valley Blvd, El Monte, CA 91731",
                 "lat": 34.0754,
@@ -10194,7 +10190,7 @@ const neighborhoodData = [
                 "original_hood": "El Sereno"
             },
             {
-                "name": "El Sereno \u2013 Berkshire HPOZ",
+                "name": "El Sereno – Berkshire HPOZ",
                 "type": "landmark",
                 "address": "",
                 "lat": 34.08199,
@@ -10457,6 +10453,15 @@ const neighborhoodData = [
                 "original_hood": "Elysian Valley (locally known as Frogtown)"
             },
             {
+                "name": "Just What I Kneaded",
+                "address": "2029 Blake Ave #104, Los Angeles, CA 90039, USA",
+                "type": "landmark",
+                "lat": 34.1025069,
+                "lng": -118.2435712,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1025069,-118.2435712",
+                "original_hood": "Elysian Valley"
+            },
+            {
                 "name": "La Colombe Cafe (Frogtown)",
                 "address": "2828 Newell St #4, Los Angeles, CA 90039, USA",
                 "type": "landmark",
@@ -10572,15 +10577,6 @@ const neighborhoodData = [
                 "lng": -118.2547508,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1071961,-118.2547508",
                 "original_hood": "Elysian Valley (locally known as Frogtown)"
-            },
-            {
-                "name": "Just What I Kneaded",
-                "address": "2029 Blake Ave #104, Los Angeles, CA 90039, USA",
-                "type": "landmark",
-                "lat": 34.1025069,
-                "lng": -118.2435712,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1025069,-118.2435712",
-                "original_hood": "Elysian Valley"
             }
         ]
     },
@@ -10974,7 +10970,7 @@ const neighborhoodData = [
         "region": "South L.A.",
         "locations": [
             {
-                "name": "B&R\u2019s Old-Fashioned Burgers",
+                "name": "B&R’s Old-Fashioned Burgers",
                 "type": "landmark",
                 "address": "3512 W Rosecrans Ave",
                 "lat": 33.9016,
@@ -11211,7 +11207,7 @@ const neighborhoodData = [
                 "original_hood": "Gardena"
             },
             {
-                "name": "Steve\u2019s Market (Site from 'Friday')",
+                "name": "Steve’s Market (Site from 'Friday')",
                 "type": "landmark",
                 "address": "1208 W 135th St, Gardena, CA 90247",
                 "lat": 33.9090852,
@@ -11341,6 +11337,15 @@ const neighborhoodData = [
                 "original_hood": "Glassell Park"
             },
             {
+                "name": "Van de Kamp's Holland Dutch Bakers",
+                "type": "landmark",
+                "address": "2930 Fletcher Dr, Los Angeles, CA 90065",
+                "lat": 34.1139119,
+                "lng": -118.2466544,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2930+Fletcher+Dr,+Los+Angeles,+CA+90065",
+                "original_hood": "Glassell Park"
+            },
+            {
                 "name": "Verdugo Bar",
                 "type": "landmark",
                 "lat": 34.1138537,
@@ -11365,15 +11370,6 @@ const neighborhoodData = [
                 "lat": 34.1058146,
                 "lng": -118.2398811,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1058146,-118.2398811",
-                "original_hood": "Glassell Park"
-            },
-            {
-                "name": "Van de Kamp's Holland Dutch Bakers",
-                "type": "landmark",
-                "address": "2930 Fletcher Dr, Los Angeles, CA 90065",
-                "lat": 34.1139119,
-                "lng": -118.2466544,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2930+Fletcher+Dr,+Los+Angeles,+CA+90065",
                 "original_hood": "Glassell Park"
             }
         ]
@@ -11436,6 +11432,22 @@ const neighborhoodData = [
                 "lng": -118.2393879,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1335148,-118.2393879",
                 "original_hood": "Glendale"
+            },
+            {
+                "name": "Armenian American Museum",
+                "type": "landmark",
+                "address": "116 N Artsakh Ave, Glendale, CA 91206",
+                "lat": 34.14332,
+                "lng": -118.25456,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.14332,-118.25456"
+            },
+            {
+                "name": "Armenian Brotherhood Church",
+                "type": "landmark",
+                "address": "1130 Ruberta Ave, Glendale, CA 91201",
+                "lat": 34.16857,
+                "lng": -118.28584,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.16857,-118.28584"
             },
             {
                 "name": "Brand Cemetery (1601 W Mountain St)",
@@ -11735,7 +11747,7 @@ const neighborhoodData = [
                 "original_hood": "Granada Hills"
             },
             {
-                "name": "Elliott\u2019s House (E.T. the Extra-Terrestrial)",
+                "name": "Elliott’s House (E.T. the Extra-Terrestrial)",
                 "type": "landmark",
                 "address": "12847 Jimeno Ave, Granada Hills, California, 91344",
                 "lat": 34.2755,
@@ -11744,7 +11756,7 @@ const neighborhoodData = [
                 "original_hood": "Granada Hills"
             },
             {
-                "name": "Gary\u2019s House (Weird Science)",
+                "name": "Gary’s House (Weird Science)",
                 "type": "landmark",
                 "address": "17111 Nanette St",
                 "lat": 34.2692,
@@ -11796,7 +11808,7 @@ const neighborhoodData = [
                 "original_hood": "Granada Hills"
             },
             {
-                "name": "O\u2019Melveny Park & Bee Canyon Stream",
+                "name": "O’Melveny Park & Bee Canyon Stream",
                 "type": "landmark",
                 "address": "17301 Sesnon Boulevard, 91344, Los Angeles, CA",
                 "lat": 34.3036724,
@@ -11949,7 +11961,7 @@ const neighborhoodData = [
         "region": "Central L.A.",
         "locations": [
             {
-                "name": "Blane\u2019s Mansion (Pretty in Pink)",
+                "name": "Blane’s Mansion (Pretty in Pink)",
                 "type": "landmark",
                 "address": "366 S. June St",
                 "lat": 34.0655,
@@ -12037,6 +12049,15 @@ const neighborhoodData = [
                 "original_hood": "Hancock Park / Rossmore"
             },
             {
+                "name": "Kat Von D’s home",
+                "type": "landmark",
+                "address": "357 Lorraine Blvd, Los Angeles, CA 90020",
+                "lat": 34.067367494138,
+                "lng": -118.320419014581,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=357%20Lorraine%20Blvd%2C%20Los%20Angeles%2C%20CA%2090020",
+                "original_hood": "Hancock Park / Rossmore"
+            },
+            {
                 "name": "Mindy Kaling Residence",
                 "address": "401 N McCadden Pl, Los Angeles, CA 90004, USA",
                 "type": "landmark",
@@ -12055,7 +12076,7 @@ const neighborhoodData = [
                 "original_hood": "Hancock Park / Rossmore"
             },
             {
-                "name": "R\u00e9publique",
+                "name": "République",
                 "address": "624 S La Brea Ave, Los Angeles, CA 90036, USA",
                 "type": "landmark",
                 "lat": 34.0641419,
@@ -12125,15 +12146,6 @@ const neighborhoodData = [
                 "lng": -118.3292161,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0666625,-118.3292161",
                 "original_hood": "Hancock Park / Rossmore"
-            },
-            {
-                "name": "Kat Von D\u2019s home",
-                "type": "landmark",
-                "address": "357 Lorraine Blvd, Los Angeles, CA 90020",
-                "lat": 34.067367494138,
-                "lng": -118.320419014581,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=357%20Lorraine%20Blvd%2C%20Los%20Angeles%2C%20CA%2090020",
-                "original_hood": "Hancock Park / Rossmore"
             }
         ]
     },
@@ -12199,7 +12211,7 @@ const neighborhoodData = [
                 "original_hood": "Harbor Gateway"
             },
             {
-                "name": "Steve\u2019s Market (from the film Friday)",
+                "name": "Steve’s Market (from the film Friday)",
                 "address": "13500 S Figueroa St, Los Angeles, CA 90061, USA",
                 "type": "landmark",
                 "lat": 33.9085682,
@@ -12401,7 +12413,7 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0492,-118.3092"
             },
             {
-                "name": "\u201cHouse Party\u201d filming location",
+                "name": "“House Party” filming location",
                 "type": "landmark",
                 "address": "2895 W 15th St, Los Angeles, CA 90006",
                 "lat": 34.045578317738,
@@ -12737,7 +12749,7 @@ const neighborhoodData = [
                 "original_hood": "Highland Park"
             },
             {
-                "name": "Galco\u2019s Soda Pop Stop",
+                "name": "Galco’s Soda Pop Stop",
                 "type": "landmark",
                 "address": "5702 York Blvd, Los Angeles, CA 90042",
                 "lat": 34.118669267799,
@@ -12926,6 +12938,14 @@ const neighborhoodData = [
                 "original_hood": "Historic Filipinotown"
             },
             {
+                "name": "ARRAY HQ",
+                "type": "landmark",
+                "address": "180 Glendale Blvd, Los Angeles, CA 90026",
+                "lat": 34.06385,
+                "lng": -118.25845,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.06385,-118.25845"
+            },
+            {
                 "name": "Bahay Kubo (Kubo Restaurant)",
                 "type": "landmark",
                 "address": "2330 W. Temple Street, Los Angeles, CA 90026",
@@ -12962,6 +12982,14 @@ const neighborhoodData = [
                 "original_hood": "Historic Filipinotown"
             },
             {
+                "name": "Doubting Thomas",
+                "type": "landmark",
+                "address": "2510 W Temple St, Los Angeles, CA 90026",
+                "lat": 34.07054,
+                "lng": -118.27425,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.07054,-118.27425"
+            },
+            {
                 "name": "Filipino American Community of Los Angeles (FACLA) & PANA",
                 "type": "landmark",
                 "address": "1740 W. Temple Street, Los Angeles, CA 90026",
@@ -12978,6 +13006,14 @@ const neighborhoodData = [
                 "lng": -118.2636071,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0694226,-118.2636071",
                 "original_hood": "Historic Filipinotown"
+            },
+            {
+                "name": "Filipino Bagnet Restaurant",
+                "type": "landmark",
+                "address": "3253 Beverly Blvd, Los Angeles, CA 90057",
+                "lat": 34.07456,
+                "lng": -118.28985,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.07456,-118.28985"
             },
             {
                 "name": "Filipino Christian Church",
@@ -12998,7 +13034,7 @@ const neighborhoodData = [
                 "original_hood": "Historic Filipinotown"
             },
             {
-                "name": "Gigi's Bakery & Caf\u00e9",
+                "name": "Gigi's Bakery & Café",
                 "type": "landmark",
                 "address": "2200 W. Temple Street, Los Angeles, CA 90026",
                 "lat": 34.0662995,
@@ -13042,6 +13078,14 @@ const neighborhoodData = [
                 "original_hood": "Historic Filipinotown"
             },
             {
+                "name": "Kubo Restaurant (Bahay Kubo)",
+                "type": "landmark",
+                "address": "2330 W Temple St, Los Angeles, CA 90026",
+                "lat": 34.06894,
+                "lng": -118.27054,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.06894,-118.27054"
+            },
+            {
                 "name": "Lake Street Community Center Park",
                 "type": "landmark",
                 "address": "227 North Lake Street, 90026, Los Angeles, CA",
@@ -13051,6 +13095,14 @@ const neighborhoodData = [
                 "original_hood": "Historic Filipinotown"
             },
             {
+                "name": "Larry Itliong Village",
+                "type": "landmark",
+                "address": "153 Glendale Blvd, Los Angeles, CA 90026",
+                "lat": 34.06245,
+                "lng": -118.25812,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.06245,-118.25812"
+            },
+            {
                 "name": "Little Ongpin",
                 "type": "landmark",
                 "address": "1700 Beverly Boulevard, Los Angeles, CA 90026",
@@ -13058,6 +13110,30 @@ const neighborhoodData = [
                 "lng": -118.2632584,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0634947,-118.2632584",
                 "original_hood": "Historic Filipinotown"
+            },
+            {
+                "name": "My Mom's BakeShop",
+                "type": "landmark",
+                "address": "2530 W Temple St, Los Angeles, CA 90026",
+                "lat": 34.07071,
+                "lng": -118.27485,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.07071,-118.27485"
+            },
+            {
+                "name": "Original Tommy's",
+                "type": "landmark",
+                "address": "2575 Beverly Blvd, Los Angeles, CA 90057",
+                "lat": 34.06953,
+                "lng": -118.27622,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.06953,-118.27622"
+            },
+            {
+                "name": "Search To Involve Pilipino Am.",
+                "type": "landmark",
+                "address": "3200 W Temple St, Los Angeles, CA 90026",
+                "lat": 34.07612,
+                "lng": -118.28845,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.07612,-118.28845"
             },
             {
                 "name": "St. Anne Medical Clinic",
@@ -13123,6 +13199,14 @@ const neighborhoodData = [
                 "original_hood": "Historic Filipinotown"
             },
             {
+                "name": "The Park's Finest",
+                "type": "landmark",
+                "address": "1267 W Temple St, Los Angeles, CA 90026",
+                "lat": 34.06325,
+                "lng": -118.25485,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.06325,-118.25485"
+            },
+            {
                 "name": "The Secret Victorians of Rockwood",
                 "type": "historical",
                 "address": "1526 Rockwood St, Los Angeles, CA 90026",
@@ -13141,6 +13225,14 @@ const neighborhoodData = [
                 "original_hood": "Historic Filipinotown"
             },
             {
+                "name": "Unidad Park",
+                "type": "landmark",
+                "address": "1644 Beverly Blvd, Los Angeles, CA 90026",
+                "lat": 34.06256,
+                "lng": -118.26145,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.06256,-118.26145"
+            },
+            {
                 "name": "Unidad Park & Community Garden",
                 "type": "landmark",
                 "address": "1644 Beverly Boulevard, Los Angeles, CA 90026",
@@ -13148,6 +13240,14 @@ const neighborhoodData = [
                 "lng": -118.2632584,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0634947,-118.2632584",
                 "original_hood": "Historic Filipinotown"
+            },
+            {
+                "name": "Woon",
+                "type": "landmark",
+                "address": "2920 W Temple St, Los Angeles, CA 90026",
+                "lat": 34.07354,
+                "lng": -118.28285,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.07354,-118.28285"
             }
         ]
     },
@@ -13574,9 +13674,9 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
-                "name": "Charles Bukowski Apartment (5124-5126\u00bd De Longpre Ave)",
+                "name": "Charles Bukowski Apartment (5124-5126½ De Longpre Ave)",
                 "type": "landmark",
-                "address": "5124-5126\u00bd West De Longpre Avenue, Hollywood, CA 90027",
+                "address": "5124-5126½ West De Longpre Avenue, Hollywood, CA 90027",
                 "lat": 34.0976,
                 "lng": -118.3095,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=5124+West+De+Longpre+Avenue,+Hollywood,+CA+90027",
@@ -13616,6 +13716,15 @@ const neighborhoodData = [
                 "lat": 34.1022,
                 "lng": -118.3365,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1022,-118.3365",
+                "original_hood": "Hollywood"
+            },
+            {
+                "name": "Filming location in “Barry” HBO show",
+                "type": "landmark",
+                "address": "1436 S Shenandoah St, Los Angeles, CA 90035",
+                "lat": 34.053205346713,
+                "lng": -118.381387301898,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1436%20S%20Shenandoah%20St%2C%20Los%20Angeles%2C%20CA%2090035",
                 "original_hood": "Hollywood"
             },
             {
@@ -13718,6 +13827,14 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
+                "name": "John Storer House (HCM #96)",
+                "type": "landmark",
+                "address": "8161 Hollywood Blvd, Los Angeles, CA 90069",
+                "lat": 34.10086,
+                "lng": -118.36714,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10086,-118.36714"
+            },
+            {
                 "name": "Las Palmas Senior Citizen Center",
                 "type": "landmark",
                 "address": "1820 North Las Palmas Avenue, 90028, Los Angeles, CA",
@@ -13727,7 +13844,7 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
-                "name": "Little Armenia (\u0553\u0578\u0584\u0580\u056b\u056f \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576)",
+                "name": "Little Armenia (Փոքրիկ Հայաստան)",
                 "type": "sub-neighborhood",
                 "address": "Little Armenia, Los Angeles, CA, USA",
                 "lat": 34.0981274,
@@ -13736,7 +13853,7 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
-                "name": "Miceli\u2019s",
+                "name": "Miceli’s",
                 "type": "landmark",
                 "address": "1646 N Las Palmas Ave, Los Angeles, CA 90028, USA",
                 "lat": 34.1013446,
@@ -13778,6 +13895,14 @@ const neighborhoodData = [
                 "lng": -118.3301911,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0836485,-118.3301911",
                 "original_hood": "Hollywood"
+            },
+            {
+                "name": "Samuel Freeman House (HCM #247)",
+                "type": "landmark",
+                "address": "1962 Glencoe Way, Los Angeles, CA 90068",
+                "lat": 34.1085,
+                "lng": -118.3377,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1085,-118.3377"
             },
             {
                 "name": "Saul Bass former studio",
@@ -13824,13 +13949,21 @@ const neighborhoodData = [
                 "original_hood": "Hollywood"
             },
             {
-                "name": "The Ennis House \u2014 Blade Runner / House on Haunted Hill",
+                "name": "The Ennis House — Blade Runner / House on Haunted Hill",
                 "type": "landmark",
                 "address": "2100 Castilian Dr",
                 "lat": 34.1162,
                 "lng": -118.3385,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1162,-118.3385",
                 "original_hood": "Hollywood"
+            },
+            {
+                "name": "The Henry O. Bollman House",
+                "type": "landmark",
+                "address": "1530 N. Ogden Drive, Los Angeles, CA 90046",
+                "lat": 34.0988,
+                "lng": -118.35825,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0988,-118.35825"
             },
             {
                 "name": "The Hollywood Knickerbocker Hotel",
@@ -13875,39 +14008,6 @@ const neighborhoodData = [
                 "lng": -118.3267173,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1037863,-118.3267173",
                 "original_hood": "Hollywood"
-            },
-            {
-                "name": "The Henry O. Bollman House",
-                "type": "landmark",
-                "address": "1530 N. Ogden Drive, Los Angeles, CA 90046",
-                "lat": 34.0988,
-                "lng": -118.35825,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0988,-118.35825"
-            },
-            {
-                "name": "John Storer House (HCM #96)",
-                "type": "landmark",
-                "address": "8161 Hollywood Blvd, Los Angeles, CA 90069",
-                "lat": 34.10086,
-                "lng": -118.36714,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10086,-118.36714"
-            },
-            {
-                "name": "Samuel Freeman House (HCM #247)",
-                "type": "landmark",
-                "address": "1962 Glencoe Way, Los Angeles, CA 90068",
-                "lat": 34.1085,
-                "lng": -118.3377,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1085,-118.3377"
-            },
-            {
-                "name": "Filming location in \u201cBarry\u201d HBO show",
-                "type": "landmark",
-                "address": "1436 S Shenandoah St, Los Angeles, CA 90035",
-                "lat": 34.053205346713,
-                "lng": -118.381387301898,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1436%20S%20Shenandoah%20St%2C%20Los%20Angeles%2C%20CA%2090035",
-                "original_hood": "Hollywood"
             }
         ]
     },
@@ -13916,6 +14016,24 @@ const neighborhoodData = [
         "name": "Hollywood Hills",
         "region": "Central L.A.",
         "locations": [
+            {
+                "name": "\"Flying Wing\" house, this architecturally significant home was designed by Harry Gesner in 1975.",
+                "type": "landmark",
+                "address": "7000 Macapa Dr, Los Angeles, CA 90068",
+                "lat": 34.116903577986,
+                "lng": -118.342902380201,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=7000%20Macapa%20Dr%2C%20Los%20Angeles%2C%20CA%2090068",
+                "original_hood": "Hollywood Hills"
+            },
+            {
+                "name": "2003 La Brea Terrace in the Hollywood Hills, Los Angeles, is a storied estate long owned by acclaimed English actor Dame Helen Mirren and her director husband, Taylor Hackford",
+                "type": "landmark",
+                "address": "2003 La Brea Terrace, Los Angeles, CA 90046",
+                "lat": 34.106130820748,
+                "lng": -118.347118645137,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2003%20La%20Brea%20Terrace%2C%20Los%20Angeles%2C%20CA%2090046",
+                "original_hood": "Hollywood Hills"
+            },
             {
                 "name": "Angela Lansbury",
                 "type": "landmark",
@@ -13941,6 +14059,15 @@ const neighborhoodData = [
                 "lat": 34.1229694,
                 "lng": -118.3155101,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1229694,-118.3155101",
+                "original_hood": "Hollywood Hills"
+            },
+            {
+                "name": "Carmen Electra’s Former Home",
+                "type": "landmark",
+                "address": "2827 La Castana Dr, Los Angeles, CA 90046",
+                "lat": 34.122352946607,
+                "lng": -118.359528471883,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2827%20La%20Castana%20Dr%2C%20Los%20Angeles%2C%20CA%2090046",
                 "original_hood": "Hollywood Hills"
             },
             {
@@ -14052,6 +14179,15 @@ const neighborhoodData = [
                 "original_hood": "Hollywood Hills"
             },
             {
+                "name": "Jason Bateman's former mid-century modern home",
+                "type": "landmark",
+                "address": "8828 Wonderland Park Ave, Los Angeles, CA 90046",
+                "lat": 34.113905413129,
+                "lng": -118.387296040723,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=8828%20Wonderland%20Park%20Ave%2C%20Los%20Angeles%2C%20CA%2090046",
+                "original_hood": "Hollywood Hills"
+            },
+            {
                 "name": "Joni Mitchell's Home (Historic Site)",
                 "type": "landmark",
                 "address": "8217 Lookout Mountain Ave, Los Angeles, CA 90046",
@@ -14079,7 +14215,7 @@ const neighborhoodData = [
                 "original_hood": "Hollywood Hills"
             },
             {
-                "name": "Kurt Cobain\u2019s former house",
+                "name": "Kurt Cobain’s former house",
                 "type": "landmark",
                 "address": "6881 Alta Loma Terrace, Los Angeles, CA 90068, USA",
                 "lat": 34.109949,
@@ -14124,6 +14260,15 @@ const neighborhoodData = [
                 "original_hood": "Hollywood Hills"
             },
             {
+                "name": "Robert Pattinson home, formerly Beck’s House",
+                "type": "landmark",
+                "address": "5821 Valley Oak Dr, Los Angeles, CA 90068",
+                "lat": 34.109993117913,
+                "lng": -118.316445657199,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=5821%20Valley%20Oak%20Dr%2C%20Los%20Angeles%2C%20CA%2090068",
+                "original_hood": "Hollywood Hills"
+            },
+            {
                 "name": "Runyon Canyon Park",
                 "type": "landmark",
                 "address": "2000 N Fuller Ave, Los Angeles, CA 90046, USA",
@@ -14142,7 +14287,7 @@ const neighborhoodData = [
                 "original_hood": "Hollywood Hills"
             },
             {
-                "name": "Shulman House (1950) \u2014 HCM #325",
+                "name": "Shulman House (1950) — HCM #325",
                 "type": "landmark",
                 "address": "7875 Woodrow Wilson Dr, Los Angeles, CA 90046",
                 "lat": 34.1225228,
@@ -14250,6 +14395,15 @@ const neighborhoodData = [
                 "original_hood": "Hollywood Hills"
             },
             {
+                "name": "This 1920s Los Angeles Estate Was Once Home to Ava Gardner and Laurence Olivier",
+                "type": "landmark",
+                "address": "3351 N Knoll Drive, Los Angeles, CA 90068",
+                "lat": 34.129607190438,
+                "lng": -118.344762575973,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3351%20N%20Knoll%20Drive%2C%20Los%20Angeles%2C%20CA%2090068",
+                "original_hood": "Hollywood Hills"
+            },
+            {
                 "name": "Viewpoint (Bullock House)",
                 "type": "landmark",
                 "address": "2000 N Fuller Ave, Los Angeles, CA 90046",
@@ -14284,60 +14438,6 @@ const neighborhoodData = [
                 "address": "1999 N Sycamore Ave, Los Angeles, CA 90068, USA",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1057395,-118.3421769",
                 "original_hood": "Hollywood Hills"
-            },
-            {
-                "name": "Robert Pattinson home, formerly Beck\u2019s House",
-                "type": "landmark",
-                "address": "5821 Valley Oak Dr, Los Angeles, CA 90068",
-                "lat": 34.109993117913,
-                "lng": -118.316445657199,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=5821%20Valley%20Oak%20Dr%2C%20Los%20Angeles%2C%20CA%2090068",
-                "original_hood": "Hollywood Hills"
-            },
-            {
-                "name": "2003 La Brea Terrace in the Hollywood Hills, Los Angeles, is a storied estate long owned by acclaimed English actor Dame Helen Mirren and her director husband, Taylor Hackford",
-                "type": "landmark",
-                "address": "2003 La Brea Terrace, Los Angeles, CA 90046",
-                "lat": 34.106130820748,
-                "lng": -118.347118645137,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2003%20La%20Brea%20Terrace%2C%20Los%20Angeles%2C%20CA%2090046",
-                "original_hood": "Hollywood Hills"
-            },
-            {
-                "name": "\"Flying Wing\" house, this architecturally significant home was designed by Harry Gesner in 1975.",
-                "type": "landmark",
-                "address": "7000 Macapa Dr, Los Angeles, CA 90068",
-                "lat": 34.116903577986,
-                "lng": -118.342902380201,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=7000%20Macapa%20Dr%2C%20Los%20Angeles%2C%20CA%2090068",
-                "original_hood": "Hollywood Hills"
-            },
-            {
-                "name": "Jason Bateman's former mid-century modern home",
-                "type": "landmark",
-                "address": "8828 Wonderland Park Ave, Los Angeles, CA 90046",
-                "lat": 34.113905413129,
-                "lng": -118.387296040723,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=8828%20Wonderland%20Park%20Ave%2C%20Los%20Angeles%2C%20CA%2090046",
-                "original_hood": "Hollywood Hills"
-            },
-            {
-                "name": "This 1920s Los Angeles Estate Was Once Home to Ava Gardner and Laurence Olivier",
-                "type": "landmark",
-                "address": "3351 N Knoll Drive, Los Angeles, CA 90068",
-                "lat": 34.129607190438,
-                "lng": -118.344762575973,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3351%20N%20Knoll%20Drive%2C%20Los%20Angeles%2C%20CA%2090068",
-                "original_hood": "Hollywood Hills"
-            },
-            {
-                "name": "Carmen Electra\u2019s Former Home",
-                "type": "landmark",
-                "address": "2827 La Castana Dr, Los Angeles, CA 90046",
-                "lat": 34.122352946607,
-                "lng": -118.359528471883,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2827%20La%20Castana%20Dr%2C%20Los%20Angeles%2C%20CA%2090046",
-                "original_hood": "Hollywood Hills"
             }
         ]
     },
@@ -14363,6 +14463,15 @@ const neighborhoodData = [
         "region": "Hollywood Hills",
         "locations": [
             {
+                "name": "Hollywood Hills - Beachwood Canyon",
+                "address": "2751 Westshire Dr, Los Angeles, CA 90068, USA",
+                "lat": 34.1203575,
+                "lng": -118.3197538,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1203575,-118.3197538",
+                "type": "neighborhood",
+                "original_hood": "Hollywood Hills - Beachwood Canyon"
+            },
+            {
                 "name": "Beachwood Canyon Stairs (Upper & Lower)",
                 "type": "landmark",
                 "address": "2050 Beachwood Dr, Los Angeles, CA 90068, USA",
@@ -14378,15 +14487,6 @@ const neighborhoodData = [
                 "lat": 34.1171666,
                 "lng": -118.3214273,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2560+N+Beachwood+Dr%2C+Los+Angeles%2C+CA+90068",
-                "original_hood": "Hollywood Hills - Beachwood Canyon"
-            },
-            {
-                "name": "Hollywood Hills - Beachwood Canyon",
-                "address": "2751 Westshire Dr, Los Angeles, CA 90068, USA",
-                "lat": 34.1203575,
-                "lng": -118.3197538,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1203575,-118.3197538",
-                "type": "neighborhood",
                 "original_hood": "Hollywood Hills - Beachwood Canyon"
             },
             {
@@ -14408,7 +14508,7 @@ const neighborhoodData = [
                 "original_hood": "Hollywood Hills - Beachwood Canyon"
             },
             {
-                "name": "Wolf\u2019s Lair (Durand Castle)",
+                "name": "Wolf’s Lair (Durand Castle)",
                 "type": "landmark",
                 "address": "2869 Durand Dr, Los Angeles, CA 90068",
                 "lat": 34.1203997,
@@ -14850,7 +14950,7 @@ const neighborhoodData = [
                 "original_hood": "Inglewood"
             },
             {
-                "name": "Dulan\u2019s Soul Food Kitchen",
+                "name": "Dulan’s Soul Food Kitchen",
                 "type": "landmark",
                 "address": "202 E Manchester Blvd, Inglewood, CA 90301",
                 "lat": 33.961563903821,
@@ -14913,7 +15013,7 @@ const neighborhoodData = [
                 "original_hood": "Inglewood"
             },
             {
-                "name": "Randy\u2019s Donuts (Iconic Programmatic Architecture)",
+                "name": "Randy’s Donuts (Iconic Programmatic Architecture)",
                 "type": "landmark",
                 "address": "1310 N La Brea Ave, Inglewood, California, 90302",
                 "lat": 33.9772,
@@ -15254,6 +15354,15 @@ const neighborhoodData = [
                 "original_hood": "Koreatown"
             },
             {
+                "name": "Nightcrawler / Chinatown Express Site",
+                "type": "pop-culture",
+                "address": "252 S Western Ave, Los Angeles, CA 90004",
+                "lat": 34.0685,
+                "lng": -118.3092,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=252+S+Western+Ave,+Los+Angeles,+CA+90004",
+                "original_hood": "Koreatown"
+            },
+            {
                 "name": "Olympic Community Police Station",
                 "type": "landmark",
                 "address": "1130 South Vermont Avenue, Los Angeles, CA 90006",
@@ -15369,15 +15478,6 @@ const neighborhoodData = [
                 "lng": -118.310083457413,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=3828+Wilshire+Blvd%2C+Los+Angeles%2C+CA+90010",
                 "original_hood": "Koreatown"
-            },
-            {
-                "name": "Nightcrawler / Chinatown Express Site",
-                "type": "pop-culture",
-                "address": "252 S Western Ave, Los Angeles, CA 90004",
-                "lat": 34.0685,
-                "lng": -118.3092,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=252+S+Western+Ave,+Los+Angeles,+CA+90004",
-                "original_hood": "Koreatown"
             }
         ]
     },
@@ -15407,7 +15507,7 @@ const neighborhoodData = [
     },
     {
         "id": "la-ca-ada-flintridge",
-        "name": "La Ca\u00f1ada Flintridge",
+        "name": "La Cañada Flintridge",
         "region": "Verdugos",
         "locations": [
             {
@@ -15417,7 +15517,7 @@ const neighborhoodData = [
                 "lat": 34.2015125,
                 "lng": -118.1729785,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2015125,-118.1729785",
-                "original_hood": "La Ca\u00f1ada Flintridge"
+                "original_hood": "La Cañada Flintridge"
             },
             {
                 "name": "Lanman House",
@@ -15426,7 +15526,7 @@ const neighborhoodData = [
                 "lat": 34.1998302,
                 "lng": -118.2005236,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1998302,-118.2005236",
-                "original_hood": "La Ca\u00f1ada Flintridge"
+                "original_hood": "La Cañada Flintridge"
             },
             {
                 "name": "The Boddy House (Descanso Gardens)",
@@ -15435,7 +15535,7 @@ const neighborhoodData = [
                 "lat": 34.2009106,
                 "lng": -118.2064323,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.2009106,-118.2064323",
-                "original_hood": "La Ca\u00f1ada Flintridge"
+                "original_hood": "La Cañada Flintridge"
             }
         ]
     },
@@ -15849,21 +15949,21 @@ const neighborhoodData = [
         "region": "Mid-City",
         "locations": [
             {
-                "name": "Whatever Happened to Baby Jane House",
-                "type": "pop-culture",
-                "address": "172 S McCadden Pl, Los Angeles, CA 90004",
-                "lat": 34.0715,
-                "lng": -118.3375,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0715,-118.3375",
-                "original_hood": "Larchmont Village / Hancock Park Border"
-            },
-            {
                 "name": "Alexandra Daddario home",
                 "type": "landmark",
                 "address": "120 N McCadden Pl, Los Angeles, CA 90004",
                 "lat": 34.074326988344,
                 "lng": -118.336814855382,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=120%20N%20McCadden%20Pl%2C%20Los%20Angeles%2C%20CA%2090004",
+                "original_hood": "Larchmont Village / Hancock Park Border"
+            },
+            {
+                "name": "Judy Greer's Home in the Larchmont Village neighborhood",
+                "type": "landmark",
+                "address": "415 N. Lucerne Blvd, Los Angeles, CA 90004",
+                "lat": 34.077974960244,
+                "lng": -118.325175493176,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=415%20N.%20Lucerne%20Blvd%2C%20Los%20Angeles%2C%20CA%2090004",
                 "original_hood": "Larchmont Village / Hancock Park Border"
             },
             {
@@ -15876,12 +15976,12 @@ const neighborhoodData = [
                 "original_hood": "Larchmont Village / Hancock Park Border"
             },
             {
-                "name": "Judy Greer's Home in the Larchmont Village neighborhood",
-                "type": "landmark",
-                "address": "415 N. Lucerne Blvd, Los Angeles, CA 90004",
-                "lat": 34.077974960244,
-                "lng": -118.325175493176,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=415%20N.%20Lucerne%20Blvd%2C%20Los%20Angeles%2C%20CA%2090004",
+                "name": "Whatever Happened to Baby Jane House",
+                "type": "pop-culture",
+                "address": "172 S McCadden Pl, Los Angeles, CA 90004",
+                "lat": 34.0715,
+                "lng": -118.3375,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0715,-118.3375",
                 "original_hood": "Larchmont Village / Hancock Park Border"
             }
         ]
@@ -15941,6 +16041,15 @@ const neighborhoodData = [
                 "original_hood": "Leimert Park"
             },
             {
+                "name": "Jerry's Flying Fox",
+                "type": "landmark",
+                "address": "3724 W Martin Luther King Blvd, Los Angeles, CA 90008",
+                "lat": 34.0123597,
+                "lng": -118.3389809,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3724+W+Martin+Luther+King+Blvd,+Los+Angeles,+CA+90008",
+                "original_hood": "Leimert Park"
+            },
+            {
                 "name": "Leimert Plaza Park",
                 "type": "landmark",
                 "address": "4395 Leimert Blvd, Los Angeles, CA 90008",
@@ -15965,15 +16074,6 @@ const neighborhoodData = [
                 "lat": 34.005289,
                 "lng": -118.331691,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.005289,-118.331691",
-                "original_hood": "Leimert Park"
-            },
-            {
-                "name": "Jerry's Flying Fox",
-                "type": "landmark",
-                "address": "3724 W Martin Luther King Blvd, Los Angeles, CA 90008",
-                "lat": 34.0123597,
-                "lng": -118.3389809,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3724+W+Martin+Luther+King+Blvd,+Los+Angeles,+CA+90008",
                 "original_hood": "Leimert Park"
             }
         ]
@@ -16017,7 +16117,7 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9352,-118.3621"
             },
             {
-                "name": "St. Margaret\u2019s Center Mural",
+                "name": "St. Margaret’s Center Mural",
                 "address": "10217 S Inglewood Ave Inglewood, CA 90304",
                 "lat": 33.9431,
                 "lng": -118.3615,
@@ -16056,7 +16156,7 @@ const neighborhoodData = [
                 "original_hood": "Lincoln Heights"
             },
             {
-                "name": "2740 Prewett St \u2014 Amazing View",
+                "name": "2740 Prewett St — Amazing View",
                 "type": "landmark",
                 "address": "2740 Prewett St, Los Angeles, CA 90031",
                 "lat": 34.0780976,
@@ -16089,6 +16189,15 @@ const neighborhoodData = [
                 "lat": 34.07385986488,
                 "lng": -118.217652942155,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2205+N+Broadway,+Los+Angeles,+CA+90031",
+                "original_hood": "Lincoln Heights"
+            },
+            {
+                "name": "Champion Donuts Mural",
+                "type": "landmark",
+                "address": "3209 N Broadway, Los Angeles, CA 90031",
+                "lat": 34.0752,
+                "lng": -118.2012,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3209+N+Broadway,+Los+Angeles,+CA+90031",
                 "original_hood": "Lincoln Heights"
             },
             {
@@ -16315,21 +16424,12 @@ const neighborhoodData = [
                 "original_hood": "Lincoln Heights"
             },
             {
-                "name": "\u201cFlat Top\u201d in \u201cHappy Valley\u201d",
+                "name": "“Flat Top” in “Happy Valley”",
                 "type": "landmark",
                 "address": "2801 Prewett St, Los Angeles, CA 90031, USA",
                 "lat": 34.078687099999996,
                 "lng": -118.2077314,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.078687099999996,-118.2077314",
-                "original_hood": "Lincoln Heights"
-            },
-            {
-                "name": "Champion Donuts Mural",
-                "type": "landmark",
-                "address": "3209 N Broadway, Los Angeles, CA 90031",
-                "lat": 34.0752,
-                "lng": -118.2012,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3209+N+Broadway,+Los+Angeles,+CA+90031",
                 "original_hood": "Lincoln Heights"
             }
         ]
@@ -16342,9 +16442,138 @@ const neighborhoodData = [
     },
     {
         "id": "little-armenia",
-        "name": "Little Armenia (\u0553\u0578\u0584\u0580\u056b\u056f \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576)",
+        "name": "Little Armenia (Փոքրիկ Հայաստան)",
         "region": "Central L.A.",
-        "locations": []
+        "locations": [
+            {
+                "name": "Arbat Grocery & Deli",
+                "type": "landmark",
+                "address": "5001 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10196,
+                "lng": -118.29858,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10196,-118.29858"
+            },
+            {
+                "name": "Armenian Evangelical Church",
+                "type": "landmark",
+                "address": "4950 Franklin Ave, Los Angeles, CA 90027",
+                "lat": 34.10543,
+                "lng": -118.29742,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10543,-118.29742"
+            },
+            {
+                "name": "Carousel Restaurant",
+                "type": "landmark",
+                "address": "5112 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10185,
+                "lng": -118.30154,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10185,-118.30154"
+            },
+            {
+                "name": "Falafel Arax®",
+                "type": "landmark",
+                "address": "5101 Santa Monica Blvd, Los Angeles, CA 90029",
+                "lat": 34.09091,
+                "lng": -118.30085,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09091,-118.30085"
+            },
+            {
+                "name": "Hatsatoun",
+                "type": "landmark",
+                "address": "5110 Sunset Blvd, Los Angeles, CA 90027",
+                "lat": 34.09794,
+                "lng": -118.30091,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09794,-118.30091"
+            },
+            {
+                "name": "Horizon Armenian TV",
+                "type": "landmark",
+                "address": "1203 N Vermont Ave, Los Angeles, CA 90029",
+                "lat": 34.09348,
+                "lng": -118.29175,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09348,-118.29175"
+            },
+            {
+                "name": "Karabagh Meat Market",
+                "type": "landmark",
+                "address": "5363 Santa Monica Blvd, Los Angeles, CA 90029",
+                "lat": 34.09081,
+                "lng": -118.30756,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09081,-118.30756"
+            },
+            {
+                "name": "Kavar Catering",
+                "type": "landmark",
+                "address": "4777 Santa Monica Blvd, Los Angeles, CA 90029",
+                "lat": 34.09095,
+                "lng": -118.29342,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09095,-118.29342"
+            },
+            {
+                "name": "Kavkaz",
+                "type": "landmark",
+                "address": "5341 Santa Monica Blvd, Los Angeles, CA 90029",
+                "lat": 34.09085,
+                "lng": -118.30712,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09085,-118.30712"
+            },
+            {
+                "name": "Mush Bakery",
+                "type": "landmark",
+                "address": "5224 Sunset Blvd, Los Angeles, CA 90027",
+                "lat": 34.09782,
+                "lng": -118.30456,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09782,-118.30456"
+            },
+            {
+                "name": "Papillon Int. Bakery",
+                "type": "landmark",
+                "address": "5019 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10165,
+                "lng": -118.29912,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10165,-118.29912"
+            },
+            {
+                "name": "Saffy's on Fountain",
+                "type": "landmark",
+                "address": "4845 Fountain Ave, Los Angeles, CA 90029",
+                "lat": 34.09544,
+                "lng": -118.29491,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09544,-118.29491"
+            },
+            {
+                "name": "Sasoun Bakery",
+                "type": "landmark",
+                "address": "5114 Santa Monica Blvd, Los Angeles, CA 90029",
+                "lat": 34.09092,
+                "lng": -118.30134,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09092,-118.30134"
+            },
+            {
+                "name": "St Garabed Armenian Church",
+                "type": "landmark",
+                "address": "1614 N Alexandria Ave, Los Angeles, CA 90027",
+                "lat": 34.10015,
+                "lng": -118.29845,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10015,-118.29845"
+            },
+            {
+                "name": "St Kevork Armenian Church",
+                "type": "landmark",
+                "address": "1610 N Alexandria Ave, Los Angeles, CA 90027",
+                "lat": 34.10009,
+                "lng": -118.29841,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10009,-118.29841"
+            },
+            {
+                "name": "Zankou Chicken",
+                "type": "landmark",
+                "address": "5065 Sunset Blvd, Los Angeles, CA 90027",
+                "lat": 34.09781,
+                "lng": -118.30022,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09781,-118.30022"
+            }
+        ]
     },
     {
         "id": "little-bangladesh",
@@ -16492,6 +16721,15 @@ const neighborhoodData = [
                 "original_hood": "Long Beach"
             },
             {
+                "name": "American Pie house/filming location",
+                "type": "landmark",
+                "address": "4153 Cedar Ave, Long Beach, CA 90807",
+                "lat": 33.831559244465,
+                "lng": -118.196904043759,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4153%20Cedar%20Ave%2C%20Long%20Beach%2C%20CA%2090807",
+                "original_hood": "Long Beach"
+            },
+            {
                 "name": "Anchorman Filming Location",
                 "type": "landmark",
                 "address": "Queens Way Bridge, Long Beach, CA 90802",
@@ -16612,7 +16850,7 @@ const neighborhoodData = [
                 "original_hood": "Long Beach"
             },
             {
-                "name": "Curley\u2019s Cafe (Est. 1932)",
+                "name": "Curley’s Cafe (Est. 1932)",
                 "type": "landmark",
                 "address": "1106 E Wardlow Rd, Long Beach, California, 90807",
                 "lat": 33.8185,
@@ -16664,7 +16902,7 @@ const neighborhoodData = [
                 "original_hood": "Long Beach"
             },
             {
-                "name": "Ferris Bueller\u2019s House (Ferris Bueller's Day Off)",
+                "name": "Ferris Bueller’s House (Ferris Bueller's Day Off)",
                 "type": "landmark",
                 "address": "4160 Country Club Dr, Long Beach, California, 90807",
                 "lat": 33.8325,
@@ -16691,7 +16929,7 @@ const neighborhoodData = [
                 "original_hood": "Long Beach"
             },
             {
-                "name": "Joe Jost\u2019s (Oldest Bar in Long Beach)",
+                "name": "Joe Jost’s (Oldest Bar in Long Beach)",
                 "type": "landmark",
                 "address": "2400 E 7th St, Long Beach, California, 90804",
                 "lat": 33.7752,
@@ -16700,7 +16938,7 @@ const neighborhoodData = [
                 "original_hood": "Long Beach"
             },
             {
-                "name": "Keith\u2019s House (Some Kind of Wonderful)",
+                "name": "Keith’s House (Some Kind of Wonderful)",
                 "type": "landmark",
                 "address": "1330 E. 2nd St",
                 "lat": 33.7665,
@@ -16803,6 +17041,15 @@ const neighborhoodData = [
                 "original_hood": "Long Beach"
             },
             {
+                "name": "The Ferris Bueller's Day Off (1986) filming location",
+                "type": "landmark",
+                "address": "4160 Country Club Drive, Long Beach, CA 90807",
+                "lat": 33.831678435128,
+                "lng": -118.198662315588,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4160%20Country%20Club%20Drive%2C%20Long%20Beach%2C%20CA%2090807",
+                "original_hood": "Long Beach"
+            },
+            {
                 "name": "The Queen Mary",
                 "type": "landmark",
                 "address": "1126 Queens Hwy, Long Beach, CA 90802",
@@ -16834,24 +17081,6 @@ const neighborhoodData = [
                 "lat": 33.8043934,
                 "lng": -118.1937659,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.8043934,-118.1937659",
-                "original_hood": "Long Beach"
-            },
-            {
-                "name": "American Pie house/filming location",
-                "type": "landmark",
-                "address": "4153 Cedar Ave, Long Beach, CA 90807",
-                "lat": 33.831559244465,
-                "lng": -118.196904043759,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4153%20Cedar%20Ave%2C%20Long%20Beach%2C%20CA%2090807",
-                "original_hood": "Long Beach"
-            },
-            {
-                "name": "The Ferris Bueller's Day Off (1986) filming location",
-                "type": "landmark",
-                "address": "4160 Country Club Drive, Long Beach, CA 90807",
-                "lat": 33.831678435128,
-                "lng": -118.198662315588,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4160%20Country%20Club%20Drive%2C%20Long%20Beach%2C%20CA%2090807",
                 "original_hood": "Long Beach"
             }
         ]
@@ -17014,12 +17243,39 @@ const neighborhoodData = [
                 "original_hood": "Los Feliz"
             },
             {
+                "name": "Former home of actor Jason Segel (now lives in Ojai) and artist Shepard Fairey, who Segal purchased it from",
+                "type": "landmark",
+                "address": "3656 Lowry Rd, Los Angeles, CA 90027",
+                "lat": 34.11770912079,
+                "lng": -118.277321531566,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3656%20Lowry%20Rd%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Former Los Feliz home home of Jim Parsons (Big Bang Theory), and former home of Robert Pattinson and Kareem Abdul Jabar before him",
+                "type": "landmark",
+                "address": "2666 Aberdeen Ave, Los Angeles, CA 90027",
+                "lat": 34.117511643152,
+                "lng": -118.290332173132,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2666%20Aberdeen%20Ave%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
                 "name": "Former Walt Disney Studio Lot (Hyperion Ave)",
                 "type": "landmark",
                 "address": "2719 Hyperion Ave, Los Angeles, CA",
                 "lat": 34.107345358519,
                 "lng": -118.272354415745,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2719+Hyperion+Ave,+Los+Angeles,+CA",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Formerly 3301, infamously known as the site of the 1969 Manson Family murders of Leno and Rosemary LaBianca",
+                "type": "landmark",
+                "address": "3311 Waverly Dr, Los Angeles, CA 90027",
+                "lat": 34.113874106721,
+                "lng": -118.273152708203,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3311%20Waverly%20Dr%2C%20Los%20Angeles%2C%20CA%2090027",
                 "original_hood": "Los Feliz"
             },
             {
@@ -17095,12 +17351,30 @@ const neighborhoodData = [
                 "original_hood": "Los Feliz"
             },
             {
+                "name": "Home of Musician Finneas",
+                "type": "landmark",
+                "address": "3272 Lowry Rd, Los Angeles, CA 90027",
+                "lat": 34.112214406073,
+                "lng": -118.278994978535,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3272%20Lowry%20Rd%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
                 "name": "Il Capriccio",
                 "address": "1757 N Vermont Ave, Los Angeles, CA 90027, USA",
                 "type": "landmark",
                 "lat": 34.1030339,
                 "lng": -118.2920758,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1030339,-118.2920758",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Jack Black home",
+                "type": "landmark",
+                "address": "4900 Los Feliz Blvd, Los Angeles, CA 90027",
+                "lat": 34.109690992213,
+                "lng": -118.296205959421,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4900%20Los%20Feliz%20Blvd%2C%20Los%20Angeles%2C%20CA%2090027",
                 "original_hood": "Los Feliz"
             },
             {
@@ -17128,6 +17402,24 @@ const neighborhoodData = [
                 "lat": 34.115272962542,
                 "lng": -118.312944955338,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2475+Park+Oak+Dr,+Los+Angeles,+CA",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Katy Perry And Russell Brand's Former House",
+                "type": "landmark",
+                "address": "4100 Cromwell Avenue, Los Angeles, CA 90027",
+                "lat": 34.115153981426,
+                "lng": -118.281659753193,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4100%20Cromwell%20Avenue%2C%20Los%20Angeles%2C%20CA%2090027",
+                "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Kumail Nanjiani’s home",
+                "type": "landmark",
+                "address": "1908 Rosalia Rd, Los Angeles, CA 90027",
+                "lat": 34.105755898219,
+                "lng": -118.286074920691,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1908%20Rosalia%20Rd%2C%20Los%20Angeles%2C%20CA%2090027",
                 "original_hood": "Los Feliz"
             },
             {
@@ -17239,6 +17531,14 @@ const neighborhoodData = [
                 "original_hood": "Los Feliz"
             },
             {
+                "name": "Philosophical Research Society (HCM #592)",
+                "type": "landmark",
+                "address": "3910 Los Feliz Blvd, Los Angeles, CA 90027",
+                "lat": 34.1114,
+                "lng": -118.2736,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1114,-118.2736"
+            },
+            {
                 "name": "Riverside Rancho (Former Honky Tonk)",
                 "type": "landmark",
                 "address": "3213 Riverside Dr, Los Angeles, CA 90027",
@@ -17255,6 +17555,14 @@ const neighborhoodData = [
                 "lng": -118.295390819337,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=4822+Glencairn+Rd,+Los+Angeles,+CA",
                 "original_hood": "Los Feliz"
+            },
+            {
+                "name": "Samuel-Novarro House (HCM #130)",
+                "type": "landmark",
+                "address": "5609 Valley Oak Dr, Los Angeles, CA 90068",
+                "lat": 34.11111,
+                "lng": -118.31194,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.11111,-118.31194"
             },
             {
                 "name": "Sarno's Pizza Di Napoli",
@@ -17479,91 +17787,12 @@ const neighborhoodData = [
                 "original_hood": "Los Feliz"
             },
             {
-                "name": "Samuel-Novarro House (HCM #130)",
-                "type": "landmark",
-                "address": "5609 Valley Oak Dr, Los Angeles, CA 90068",
-                "lat": 34.11111,
-                "lng": -118.31194,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.11111,-118.31194"
-            },
-            {
-                "name": "Philosophical Research Society (HCM #592)",
-                "type": "landmark",
-                "address": "3910 Los Feliz Blvd, Los Angeles, CA 90027",
-                "lat": 34.1114,
-                "lng": -118.2736,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1114,-118.2736"
-            },
-            {
-                "name": "Kumail Nanjiani\u2019s home",
-                "type": "landmark",
-                "address": "1908 Rosalia Rd, Los Angeles, CA 90027",
-                "lat": 34.105755898219,
-                "lng": -118.286074920691,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1908%20Rosalia%20Rd%2C%20Los%20Angeles%2C%20CA%2090027",
-                "original_hood": "Los Feliz"
-            },
-            {
-                "name": "Former home of actor Jason Segel (now lives in Ojai) and artist Shepard Fairey, who Segal purchased it from",
-                "type": "landmark",
-                "address": "3656 Lowry Rd, Los Angeles, CA 90027",
-                "lat": 34.11770912079,
-                "lng": -118.277321531566,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3656%20Lowry%20Rd%2C%20Los%20Angeles%2C%20CA%2090027",
-                "original_hood": "Los Feliz"
-            },
-            {
-                "name": "Formerly 3301, infamously known as the site of the 1969 Manson Family murders of Leno and Rosemary LaBianca",
-                "type": "landmark",
-                "address": "3311 Waverly Dr, Los Angeles, CA 90027",
-                "lat": 34.113874106721,
-                "lng": -118.273152708203,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3311%20Waverly%20Dr%2C%20Los%20Angeles%2C%20CA%2090027",
-                "original_hood": "Los Feliz"
-            },
-            {
-                "name": "\u201cForgetting Sarah Marshall,\u201d home/filming location",
+                "name": "“Forgetting Sarah Marshall,” home/filming location",
                 "type": "landmark",
                 "address": "1973 Palmerston Pl, Los Angeles, CA 90027",
                 "lat": 34.107255420698,
                 "lng": -118.298406376642,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1973%20Palmerston%20Pl%2C%20Los%20Angeles%2C%20CA%2090027",
-                "original_hood": "Los Feliz"
-            },
-            {
-                "name": "Former Los Feliz home home of Jim Parsons (Big Bang Theory), and former home of Robert Pattinson and Kareem Abdul Jabar before him",
-                "type": "landmark",
-                "address": "2666 Aberdeen Ave, Los Angeles, CA 90027",
-                "lat": 34.117511643152,
-                "lng": -118.290332173132,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2666%20Aberdeen%20Ave%2C%20Los%20Angeles%2C%20CA%2090027",
-                "original_hood": "Los Feliz"
-            },
-            {
-                "name": "Home of Musician Finneas",
-                "type": "landmark",
-                "address": "3272 Lowry Rd, Los Angeles, CA 90027",
-                "lat": 34.112214406073,
-                "lng": -118.278994978535,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3272%20Lowry%20Rd%2C%20Los%20Angeles%2C%20CA%2090027",
-                "original_hood": "Los Feliz"
-            },
-            {
-                "name": "Jack Black home",
-                "type": "landmark",
-                "address": "4900 Los Feliz Blvd, Los Angeles, CA 90027",
-                "lat": 34.109690992213,
-                "lng": -118.296205959421,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4900%20Los%20Feliz%20Blvd%2C%20Los%20Angeles%2C%20CA%2090027",
-                "original_hood": "Los Feliz"
-            },
-            {
-                "name": "Katy Perry And Russell Brand's Former House",
-                "type": "landmark",
-                "address": "4100 Cromwell Avenue, Los Angeles, CA 90027",
-                "lat": 34.115153981426,
-                "lng": -118.281659753193,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=4100%20Cromwell%20Avenue%2C%20Los%20Angeles%2C%20CA%2090027",
                 "original_hood": "Los Feliz"
             }
         ]
@@ -17582,7 +17811,7 @@ const neighborhoodData = [
     },
     {
         "id": "arcadia-lucky-baldwins-cottage",
-        "name": "Lucky Baldwin\u2019s Queen Anne Cottage",
+        "name": "Lucky Baldwin’s Queen Anne Cottage",
         "region": "Arcadia",
         "locations": []
     },
@@ -17592,7 +17821,7 @@ const neighborhoodData = [
         "region": "Southeast",
         "locations": [
             {
-                "name": "Adriana\u2019s Insurance Office",
+                "name": "Adriana’s Insurance Office",
                 "type": "landmark",
                 "address": "11400 Long Beach Blvd, Lynwood, CA 90262",
                 "lat": 33.9320248,
@@ -18278,7 +18507,7 @@ const neighborhoodData = [
                 "original_hood": "Mid-City"
             },
             {
-                "name": "The Murder House \u2014 American Horror Story (Rosenheim Mansion)",
+                "name": "The Murder House — American Horror Story (Rosenheim Mansion)",
                 "type": "landmark",
                 "address": "1120 Westchester Pl, Los Angeles, CA 90019",
                 "lat": 34.050084,
@@ -18563,7 +18792,7 @@ const neighborhoodData = [
                 "original_hood": "Miracle Mile"
             },
             {
-                "name": "Johnie\u2019s Coffee Shop \u2014 The Big Lebowski / Reservoir Dogs",
+                "name": "Johnie’s Coffee Shop — The Big Lebowski / Reservoir Dogs",
                 "type": "landmark",
                 "address": "6101 Wilshire Blvd, Los Angeles",
                 "lat": 34.0628,
@@ -18572,7 +18801,7 @@ const neighborhoodData = [
                 "original_hood": "Miracle Mile"
             },
             {
-                "name": "Johnie\u2019s Coffee Shop \u2014 The Big Lebowski / Reservoir Dogs",
+                "name": "Johnie’s Coffee Shop — The Big Lebowski / Reservoir Dogs",
                 "type": "architectural",
                 "address": "6101 Wilshire Blvd, Los Angeles, CA 90048",
                 "lat": 34.0628,
@@ -18616,7 +18845,7 @@ const neighborhoodData = [
                 "original_hood": "Miracle Mile"
             },
             {
-                "name": "Spr\u00fcth Magers Art Gallery",
+                "name": "Sprüth Magers Art Gallery",
                 "type": "landmark",
                 "address": "5900 Wilshire Boulevard, Los Angeles, CA 90036",
                 "lat": 34.0621185,
@@ -18634,7 +18863,7 @@ const neighborhoodData = [
                 "original_hood": "Miracle Mile"
             },
             {
-                "name": "Tom Bergin\u2019s",
+                "name": "Tom Bergin’s",
                 "type": "landmark",
                 "address": "840 S Fairfax Ave, Los Angeles, CA 90036",
                 "lat": 34.060036011068,
@@ -18721,7 +18950,7 @@ const neighborhoodData = [
                 "original_hood": "Mission Hills"
             },
             {
-                "name": "San Fernando Rey de Espa\u00f1a Mission (Site of)",
+                "name": "San Fernando Rey de España Mission (Site of)",
                 "type": "landmark",
                 "address": "15151 San Fernando Mission Boulevard, Mission Hills, CA 91345",
                 "lat": 34.2733055,
@@ -18923,7 +19152,7 @@ const neighborhoodData = [
             {
                 "name": "Monterey Hills Elementary School",
                 "type": "landmark",
-                "address": "1624 V\u00eda Del Rey, South Pasadena, CA 91030, USA",
+                "address": "1624 Vía Del Rey, South Pasadena, CA 91030, USA",
                 "lat": 34.1039425,
                 "lng": -118.1645863,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1039425,-118.1645863",
@@ -19008,7 +19237,7 @@ const neighborhoodData = [
                 "original_hood": "Monterey Park"
             },
             {
-                "name": "\u201cEl Paradiso\u201d (1964) \u2014 HCM #638",
+                "name": "“El Paradiso” (1964) — HCM #638",
                 "type": "landmark",
                 "address": "802 N. Moore Ave, Monterey Park, CA 91754",
                 "lat": 34.066146,
@@ -19383,7 +19612,7 @@ const neighborhoodData = [
                 "original_hood": "North Hollywood"
             },
             {
-                "name": "Deer\u2019s Restaurant",
+                "name": "Deer’s Restaurant",
                 "type": "landmark",
                 "address": "13108 Sherman Way, North Hollywood, California, 91605",
                 "lat": 34.200801986363,
@@ -19445,7 +19674,7 @@ const neighborhoodData = [
                 "original_hood": "North Hollywood"
             },
             {
-                "name": "Mr. Miyagi\u2019s House Site \u2014 The Karate Kid",
+                "name": "Mr. Miyagi’s House Site — The Karate Kid",
                 "type": "landmark",
                 "address": "12859 Gault St",
                 "lat": 34.1925,
@@ -19461,6 +19690,14 @@ const neighborhoodData = [
                 "lng": -118.358099441211,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.172346347092,-118.358099441211",
                 "original_hood": "North Hollywood"
+            },
+            {
+                "name": "No. Hollywood Masonic Temple (HCM #1066)",
+                "type": "landmark",
+                "address": "5122 Tujunga Ave, North Hollywood, CA 91601",
+                "lat": 34.16421,
+                "lng": -118.37915,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.16421,-118.37915"
             },
             {
                 "name": "NoHo Arts District",
@@ -19684,14 +19921,6 @@ const neighborhoodData = [
                 "lng": -118.4008089,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1918489,-118.4008089",
                 "original_hood": "North Hollywood"
-            },
-            {
-                "name": "No. Hollywood Masonic Temple (HCM #1066)",
-                "type": "landmark",
-                "address": "5122 Tujunga Ave, North Hollywood, CA 91601",
-                "lat": 34.16421,
-                "lng": -118.37915,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.16421,-118.37915"
             }
         ]
     },
@@ -19889,7 +20118,7 @@ const neighborhoodData = [
                 "original_hood": "Northridge"
             },
             {
-                "name": "Northridge Woman\u2019s Club",
+                "name": "Northridge Woman’s Club",
                 "type": "landmark",
                 "address": "18401 Lassen Street, Northridge, CA 91325",
                 "lat": 34.250092,
@@ -20441,7 +20670,7 @@ const neighborhoodData = [
                 "original_hood": "Pacoima"
             },
             {
-                "name": "Danny Trejo\u2019s Family Home",
+                "name": "Danny Trejo’s Family Home",
                 "type": "landmark",
                 "address": "13118 Branford Street, Pacoima, CA 91331",
                 "lat": 34.251858,
@@ -20502,7 +20731,7 @@ const neighborhoodData = [
             {
                 "name": "Richie Havens Mural",
                 "type": "landmark",
-                "address": "34\u00b015'56\"N, 118\u00b026'18\"W",
+                "address": "34°15'56\"N, 118°26'18\"W",
                 "lat": 34.2656792,
                 "lng": -118.4386224,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34%C2%B015%2756%22N%2C+118%C2%B026%2718%22W",
@@ -20728,7 +20957,7 @@ const neighborhoodData = [
                 "original_hood": "Panorama City"
             },
             {
-                "name": "Mia\u2019s Apartment (La La Land)",
+                "name": "Mia’s Apartment (La La Land)",
                 "type": "landmark",
                 "address": "8404 Willis Ave, Panorama City, California, 91402",
                 "lat": 34.2235,
@@ -20947,7 +21176,7 @@ const neighborhoodData = [
                 "original_hood": "Pasadena"
             },
             {
-                "name": "Barack Obama\u2019s Former Residence",
+                "name": "Barack Obama’s Former Residence",
                 "type": "landmark",
                 "address": "253 E Glenarm St, Pasadena, CA 91106",
                 "lat": 34.1278376,
@@ -21026,7 +21255,7 @@ const neighborhoodData = [
                 "original_hood": "Pasadena"
             },
             {
-                "name": "La Miniatura (Millard House) \u2014 Frank Lloyd Wright",
+                "name": "La Miniatura (Millard House) — Frank Lloyd Wright",
                 "type": "landmark",
                 "address": "645 Prospect Crescent, Pasadena, CA 91103, USA",
                 "lat": 34.155444,
@@ -21035,7 +21264,7 @@ const neighborhoodData = [
                 "original_hood": "Pasadena"
             },
             {
-                "name": "Lee\u2019s Hoagie House",
+                "name": "Lee’s Hoagie House",
                 "type": "landmark",
                 "address": "2269 E Colorado Blvd, Pasadena, CA 91107",
                 "lat": 34.146317017333,
@@ -21240,7 +21469,7 @@ const neighborhoodData = [
     },
     {
         "id": "pecks-grand-view-tract",
-        "name": "Peck\u2019s Grand View Tract",
+        "name": "Peck’s Grand View Tract",
         "region": "Los Angeles",
         "locations": []
     },
@@ -21252,7 +21481,7 @@ const neighborhoodData = [
     },
     {
         "id": "persian-square",
-        "name": "Persian Square  (also known as \u201cTehrangeles,\u201d  \u201cLittle Tehran,\u201d  or\u201cLittle Persia\u201d)",
+        "name": "Persian Square  (also known as “Tehrangeles,”  “Little Tehran,”  or“Little Persia”)",
         "region": "Westside",
         "locations": []
     },
@@ -21352,7 +21581,7 @@ const neighborhoodData = [
                 "original_hood": "Pico Rivera"
             },
             {
-                "name": "P\u00edo Pico State Historic Park",
+                "name": "Pío Pico State Historic Park",
                 "type": "historical",
                 "address": "6003 Pioneer Blvd, Whittier, CA 90606",
                 "lat": 33.9936457,
@@ -21361,7 +21590,7 @@ const neighborhoodData = [
                 "original_hood": "Pico Rivera"
             },
             {
-                "name": "Se\u00f1or G's & B",
+                "name": "Señor G's & B",
                 "type": "landmark",
                 "address": "4923 Rosemead Blvd, Pico Rivera, California, 90660",
                 "lat": 34.00221802015,
@@ -21543,7 +21772,7 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0481,-118.28"
             },
             {
-                "name": "Plaza Centroamericana Francisco Moraz\u00e1n",
+                "name": "Plaza Centroamericana Francisco Morazán",
                 "type": "landmark",
                 "address": "1425 W 8th St, Los Angeles, CA 90017",
                 "lat": 34.0506467,
@@ -21920,7 +22149,7 @@ const neighborhoodData = [
         "region": "San Fernando Valley",
         "locations": [
             {
-                "name": "Dirk Diggler\u2019s House (Boogie Nights)",
+                "name": "Dirk Diggler’s House (Boogie Nights)",
                 "type": "landmark",
                 "address": "17761 Saticoy St, Reseda, California, 91335",
                 "lat": 34.2082,
@@ -22222,7 +22451,7 @@ const neighborhoodData = [
                 "original_hood": "San Gabriel"
             },
             {
-                "name": "Clearman\u2019s Northwoods Inn",
+                "name": "Clearman’s Northwoods Inn",
                 "type": "landmark",
                 "address": "7247 Rosemead Blvd, San Gabriel, CA 91775, USA",
                 "lat": 34.1291373,
@@ -22240,7 +22469,7 @@ const neighborhoodData = [
                 "original_hood": "San Gabriel"
             },
             {
-                "name": "Mission San Gabriel Arc\u00e1ngel",
+                "name": "Mission San Gabriel Arcángel",
                 "type": "landmark",
                 "address": "428 S. Mission Dr, San Gabriel, CA 91776",
                 "lat": 34.0967,
@@ -22315,7 +22544,7 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1201,-118.1125"
             },
             {
-                "name": "Tony\u2019s Pizza",
+                "name": "Tony’s Pizza",
                 "type": "landmark",
                 "address": "2555 Huntington Dr, San Marino, CA 91108",
                 "lat": 34.12437139271,
@@ -22681,7 +22910,7 @@ const neighborhoodData = [
         "region": "Northwest County",
         "locations": [
             {
-                "name": "Original Saugus Caf\u00e9",
+                "name": "Original Saugus Café",
                 "type": "historical",
                 "address": "25861 Railroad Ave, Santa Clarita, CA 91350",
                 "lat": 34.3917,
@@ -22749,7 +22978,7 @@ const neighborhoodData = [
                 "original_hood": "Santa Monica"
             },
             {
-                "name": "5th St LA, CA 90020 - Co\u0302te D'Azur Apartment 3725 ...",
+                "name": "5th St LA, CA 90020 - Côte D'Azur Apartment 3725 ...",
                 "type": "landmark",
                 "address": "5th St, Santa Monica, California, 90405",
                 "lat": 34.006419709781,
@@ -22829,7 +23058,7 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0215,-118.5032"
             },
             {
-                "name": "Mrs. Robinson\u2019s House (The Graduate)",
+                "name": "Mrs. Robinson’s House (The Graduate)",
                 "type": "landmark",
                 "address": "201 Entrada Dr, Santa Monica, California, 90402",
                 "lat": 34.0295,
@@ -22838,7 +23067,7 @@ const neighborhoodData = [
                 "original_hood": "Santa Monica"
             },
             {
-                "name": "The Dude\u2019s Apartment (The Big Lebowski)",
+                "name": "The Dude’s Apartment (The Big Lebowski)",
                 "type": "landmark",
                 "address": "140 Hollister Ave, Santa Monica, California, 90405",
                 "lat": 34.0042,
@@ -23621,15 +23850,6 @@ const neighborhoodData = [
                 "original_hood": "Silver Lake"
             },
             {
-                "name": "The Mattachine Society House (Harry Hay Residence)",
-                "type": "landmark",
-                "address": "2328 Cove Ave, Los Angeles, CA 90039",
-                "lat": 34.0915,
-                "lng": -118.2612,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2328+Cove+Ave,+Los+Angeles,+CA+90039",
-                "original_hood": "Silver Lake"
-            },
-            {
                 "name": "Harry Koblick House (Richard Neutra)",
                 "type": "landmark",
                 "address": "1818 Silverwood Terrace, Los Angeles, CA",
@@ -24177,6 +24397,24 @@ const neighborhoodData = [
                 "original_hood": "Silver Lake"
             },
             {
+                "name": "The Mattachine Society House (Harry Hay Residence)",
+                "type": "landmark",
+                "address": "2328 Cove Ave, Los Angeles, CA 90039",
+                "lat": 34.0915,
+                "lng": -118.2612,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=2328+Cove+Ave,+Los+Angeles,+CA+90039",
+                "original_hood": "Silver Lake"
+            },
+            {
+                "name": "The Red Lion Tavern (Silver Lake)",
+                "address": "2366 Glendale Blvd, Los Angeles, CA 90039, USA",
+                "type": "landmark",
+                "lat": 34.0992198,
+                "lng": -118.258945,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0992198,-118.258945",
+                "original_hood": "Atwater Village"
+            },
+            {
                 "name": "Tiki-Ti",
                 "type": "landmark",
                 "address": "4427 Sunset Blvd, Los Angeles, CA 90027",
@@ -24229,15 +24467,6 @@ const neighborhoodData = [
                 "lng": -118.273545811204,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1257+Westerly+Terrace,+Los+Angeles,+CA",
                 "original_hood": "Silver Lake"
-            },
-            {
-                "name": "The Red Lion Tavern (Silver Lake)",
-                "address": "2366 Glendale Blvd, Los Angeles, CA 90039, USA",
-                "type": "landmark",
-                "lat": 34.0992198,
-                "lng": -118.258945,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0992198,-118.258945",
-                "original_hood": "Atwater Village"
             }
         ]
     },
@@ -24285,7 +24514,7 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "34\u00b0 3' 29.67\" N 118\u00b0 3' 50.93\" W - osemead Blvd, S...",
+                "name": "34° 3' 29.67\" N 118° 3' 50.93\" W - osemead Blvd, S...",
                 "type": "landmark",
                 "address": "South El Monte, California",
                 "lat": 34.043996,
@@ -24346,7 +24575,7 @@ const neighborhoodData = [
                 "original_hood": "South Gate"
             },
             {
-                "name": "KIPP Coraz\u00f3n Academy",
+                "name": "KIPP Corazón Academy",
                 "type": "landmark",
                 "address": "9325 Long Beach Blvd, South Gate, California, 90280",
                 "lat": 33.950907319761,
@@ -24466,7 +24695,7 @@ const neighborhoodData = [
         "region": "San Gabriel Valley",
         "locations": [
             {
-                "name": "Andie\u2019s House (Pretty in Pink)",
+                "name": "Andie’s House (Pretty in Pink)",
                 "type": "landmark",
                 "address": "1015 E. Hope St",
                 "lat": 34.1132,
@@ -24481,6 +24710,15 @@ const neighborhoodData = [
                 "lng": -118.1612,
                 "type": "landmark",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1115,-118.1612"
+            },
+            {
+                "name": "Back to the Future Film Location for Lorraine McFly’s home",
+                "type": "landmark",
+                "address": "1727 Bushnell Ave, South Pasadena, CA 91030",
+                "lat": 34.105696009521,
+                "lng": -118.14160779032,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1727%20Bushnell%20Ave%2C%20South%20Pasadena%2C%20CA%2091030",
+                "original_hood": "South Pasadena"
             },
             {
                 "name": "Camille DePedrini",
@@ -24615,7 +24853,7 @@ const neighborhoodData = [
                 "original_hood": "South Pasadena"
             },
             {
-                "name": "Steff\u2019s House from Pretty in Pink",
+                "name": "Steff’s House from Pretty in Pink",
                 "address": "1010 Hope Street South Pasadena, CA 91030",
                 "lat": 34.1165,
                 "lng": -118.1502,
@@ -24691,15 +24929,6 @@ const neighborhoodData = [
                 "lat": 34.1158,
                 "lng": -118.1501,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1158,-118.1501",
-                "original_hood": "South Pasadena"
-            },
-            {
-                "name": "Back to the Future Film Location for Lorraine McFly\u2019s home",
-                "type": "landmark",
-                "address": "1727 Bushnell Ave, South Pasadena, CA 91030",
-                "lat": 34.105696009521,
-                "lng": -118.14160779032,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1727%20Bushnell%20Ave%2C%20South%20Pasadena%2C%20CA%2091030",
                 "original_hood": "South Pasadena"
             }
         ]
@@ -24936,6 +25165,15 @@ const neighborhoodData = [
                 "original_hood": "Studio City"
             },
             {
+                "name": "Former eco-friendly home of actor and environmentalist Ed Begley Jr. in Studio City",
+                "type": "landmark",
+                "address": "3850 Mound View Ave, Studio City, CA 91604",
+                "lat": 34.140733831628,
+                "lng": -118.395101688055,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3850%20Mound%20View%20Ave%2C%20Studio%20City%2C%20CA%2091604",
+                "original_hood": "Studio City"
+            },
+            {
                 "name": "Former Site of Hanna-Barbera Studios",
                 "type": "landmark",
                 "address": "3400 Cahuenga Blvd, Studio City, CA 91604",
@@ -24971,7 +25209,7 @@ const neighborhoodData = [
                 "original_hood": "Studio City"
             },
             {
-                "name": "Oil Can Harry\u2019s (Former Site)",
+                "name": "Oil Can Harry’s (Former Site)",
                 "type": "landmark",
                 "address": "11502 Ventura Blvd, Studio City, CA 91604",
                 "lat": 34.139505882812,
@@ -25131,15 +25369,6 @@ const neighborhoodData = [
                 "lng": -118.3917404,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.1330478,-118.3917404",
                 "original_hood": "Studio City"
-            },
-            {
-                "name": "Former eco-friendly home of actor and environmentalist Ed Begley Jr. in Studio City",
-                "type": "landmark",
-                "address": "3850 Mound View Ave, Studio City, CA 91604",
-                "lat": 34.140733831628,
-                "lng": -118.395101688055,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=3850%20Mound%20View%20Ave%2C%20Studio%20City%2C%20CA%2091604",
-                "original_hood": "Studio City"
             }
         ]
     },
@@ -25199,7 +25428,7 @@ const neighborhoodData = [
                 "original_hood": "Sun Valley"
             },
             {
-                "name": "The Pink Motel \u2014 Drive / GLOW / Stranger Things",
+                "name": "The Pink Motel — Drive / GLOW / Stranger Things",
                 "type": "landmark",
                 "address": "9459 Sunland Blvd",
                 "lat": 34.2422,
@@ -25355,6 +25584,15 @@ const neighborhoodData = [
                 "original_hood": "Sunset Strip"
             },
             {
+                "name": "Dennis Hopper’s Former Home",
+                "type": "landmark",
+                "address": "1712 N Crescent Heights Blvd, Los Angeles, CA 90069",
+                "lat": 34.10219878615,
+                "lng": -118.369136144579,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1712%20N%20Crescent%20Heights%20Blvd%2C%20Los%20Angeles%2C%20CA%2090069",
+                "original_hood": "Sunset Strip"
+            },
+            {
                 "name": "Elvis Presley's Former Home",
                 "address": "1174 N. Hillcrest Road Beverly Hills, CA 90210",
                 "lat": 34.0985,
@@ -25363,12 +25601,30 @@ const neighborhoodData = [
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0985,-118.3962"
             },
             {
+                "name": "Home formerly owned by John Krasinksi and Emily Blunt",
+                "type": "landmark",
+                "address": "1650 Marmont Ave, Los Angeles, CA 90069",
+                "lat": 34.100764935883,
+                "lng": -118.37142314686,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1650%20Marmont%20Ave%2C%20Los%20Angeles%2C%20CA%2090069",
+                "original_hood": "Sunset Strip"
+            },
+            {
                 "name": "Rainbow Bar & Grill",
                 "type": "neighborhood-favorite",
                 "address": "9015 Sunset Blvd, West Hollywood, CA 90069",
                 "lat": 34.0909258,
                 "lng": -118.3882177,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.0909258,-118.3882177",
+                "original_hood": "Sunset Strip"
+            },
+            {
+                "name": "Richard Simmons former home",
+                "type": "landmark",
+                "address": "1346 Belfast Dr, Los Angeles, CA 90069",
+                "lat": 34.095160257467,
+                "lng": -118.381526971465,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1346%20Belfast%20Dr%2C%20Los%20Angeles%2C%20CA%2090069",
                 "original_hood": "Sunset Strip"
             },
             {
@@ -25394,33 +25650,6 @@ const neighborhoodData = [
                 "lat": 34.090724,
                 "lng": -118.38566,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.090724,-118.38566",
-                "original_hood": "Sunset Strip"
-            },
-            {
-                "name": "Dennis Hopper\u2019s Former Home",
-                "type": "landmark",
-                "address": "1712 N Crescent Heights Blvd, Los Angeles, CA 90069",
-                "lat": 34.10219878615,
-                "lng": -118.369136144579,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1712%20N%20Crescent%20Heights%20Blvd%2C%20Los%20Angeles%2C%20CA%2090069",
-                "original_hood": "Sunset Strip"
-            },
-            {
-                "name": "Richard Simmons former home",
-                "type": "landmark",
-                "address": "1346 Belfast Dr, Los Angeles, CA 90069",
-                "lat": 34.095160257467,
-                "lng": -118.381526971465,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1346%20Belfast%20Dr%2C%20Los%20Angeles%2C%20CA%2090069",
-                "original_hood": "Sunset Strip"
-            },
-            {
-                "name": "Home formerly owned by John Krasinksi and Emily Blunt",
-                "type": "landmark",
-                "address": "1650 Marmont Ave, Los Angeles, CA 90069",
-                "lat": 34.100764935883,
-                "lng": -118.37142314686,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=1650%20Marmont%20Ave%2C%20Los%20Angeles%2C%20CA%2090069",
                 "original_hood": "Sunset Strip"
             }
         ]
@@ -25710,9 +25939,138 @@ const neighborhoodData = [
     },
     {
         "id": "thai-town",
-        "name": "Thai Town  (\u0e44\u0e17\u0e22\u0e17\u0e32\u0e27\u0e19\u0e4c)",
+        "name": "Thai Town  (ไทยทาวน์)",
         "region": "Central L.A.",
-        "locations": []
+        "locations": [
+            {
+                "name": "Chuan Chim Thai Cafe",
+                "type": "landmark",
+                "address": "5644 Hollywood Blvd, Los Angeles, CA 90028",
+                "lat": 34.10171,
+                "lng": -118.31285,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10171,-118.31285"
+            },
+            {
+                "name": "Crispy Pork Gang",
+                "type": "landmark",
+                "address": "5253 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10175,
+                "lng": -118.30491,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10175,-118.30491"
+            },
+            {
+                "name": "Hollywood Thai Restaurant",
+                "type": "landmark",
+                "address": "5241 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10176,
+                "lng": -118.30454,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10176,-118.30454"
+            },
+            {
+                "name": "Jitlada Restaurant",
+                "type": "landmark",
+                "address": "5233 W Sunset Blvd, Los Angeles, CA 90027",
+                "lat": 34.09785,
+                "lng": -118.30485,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09785,-118.30485"
+            },
+            {
+                "name": "Kruang Tedd",
+                "type": "landmark",
+                "address": "5151 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10182,
+                "lng": -118.30256,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10182,-118.30256"
+            },
+            {
+                "name": "Lacha Somtum",
+                "type": "landmark",
+                "address": "5171 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10181,
+                "lng": -118.30285,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10181,-118.30285"
+            },
+            {
+                "name": "Northern Thai Food Club",
+                "type": "landmark",
+                "address": "5301 Sunset Blvd #11, Los Angeles, CA 90027",
+                "lat": 34.09795,
+                "lng": -118.30612,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09795,-118.30612"
+            },
+            {
+                "name": "NUAD ROYAL THAI SPA",
+                "type": "landmark",
+                "address": "5300 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10145,
+                "lng": -118.30585,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10145,-118.30585"
+            },
+            {
+                "name": "Original Hoy-Ka Thai Noodle",
+                "type": "landmark",
+                "address": "5908 Sunset Blvd, Los Angeles, CA 90028",
+                "lat": 34.09802,
+                "lng": -118.31845,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09802,-118.31845"
+            },
+            {
+                "name": "Pa Ord Noodle",
+                "type": "landmark",
+                "address": "5269 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10174,
+                "lng": -118.30525,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10174,-118.30525"
+            },
+            {
+                "name": "Pailin Thai Cuisine",
+                "type": "landmark",
+                "address": "5621 Hollywood Blvd, Los Angeles, CA 90028",
+                "lat": 34.10168,
+                "lng": -118.31215,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10168,-118.31215"
+            },
+            {
+                "name": "Palms Thai Restaurant",
+                "type": "landmark",
+                "address": "5900 Hollywood Blvd, Los Angeles, CA 90028",
+                "lat": 34.10182,
+                "lng": -118.31821,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10182,-118.31821"
+            },
+            {
+                "name": "Salaya Plant-Based Kitchen",
+                "type": "landmark",
+                "address": "5185 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10178,
+                "lng": -118.30325,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10178,-118.30325"
+            },
+            {
+                "name": "Siam Sunset",
+                "type": "landmark",
+                "address": "5265 Sunset Blvd, Los Angeles, CA 90027",
+                "lat": 34.09778,
+                "lng": -118.30541,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.09778,-118.30541"
+            },
+            {
+                "name": "Thai Patio",
+                "type": "landmark",
+                "address": "5273 Hollywood Blvd, Los Angeles, CA 90027",
+                "lat": 34.10172,
+                "lng": -118.30541,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10172,-118.30541"
+            },
+            {
+                "name": "Torung Restaurant",
+                "type": "landmark",
+                "address": "5657 Hollywood Blvd, Los Angeles, CA 90028",
+                "lat": 34.10165,
+                "lng": -118.31295,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.10165,-118.31295"
+            }
+        ]
     },
     {
         "id": "three-points",
@@ -25860,7 +26218,7 @@ const neighborhoodData = [
                 "original_hood": "Topanga"
             },
             {
-                "name": "Will Geer\u2019s Theatricum Botanicum",
+                "name": "Will Geer’s Theatricum Botanicum",
                 "address": "106 S Topanga Canyon Blvd Topanga, CA 90290",
                 "lat": 34.0895,
                 "lng": -118.6015,
@@ -26192,7 +26550,7 @@ const neighborhoodData = [
                 "original_hood": "University Park"
             },
             {
-                "name": "Glen Lukens Home and Studio (1940) \u2014 HCM #866",
+                "name": "Glen Lukens Home and Studio (1940) — HCM #866",
                 "type": "landmark",
                 "address": "3400 S Hope St, Los Angeles, CA 90007",
                 "lat": 34.0219506,
@@ -26494,7 +26852,7 @@ const neighborhoodData = [
                 "original_hood": "Van Nuys"
             },
             {
-                "name": "Bill\u2019s Burgers (Bill's Drive-In)",
+                "name": "Bill’s Burgers (Bill's Drive-In)",
                 "type": "landmark",
                 "address": "14742 Oxnard St, Sherman Oaks, CA 91411, USA",
                 "lat": 34.1792754,
@@ -26625,6 +26983,15 @@ const neighborhoodData = [
                 "original_hood": "Van Nuys"
             },
             {
+                "name": "Ulyssess S. Grant High School used as filming location in HBO show “Euphoria”",
+                "type": "landmark",
+                "address": "13000 Oxnard St, Van Nuys, CA 91401",
+                "lat": 34.177840014071,
+                "lng": -118.415299979232,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=13000%20Oxnard%20St%2C%20Van%20Nuys%2C%20CA%2091401",
+                "original_hood": "Van Nuys"
+            },
+            {
                 "name": "Van Nuys Civic Center",
                 "type": "architectural",
                 "address": "14410 Sylvan St, Van Nuys, CA 91401",
@@ -26675,15 +27042,6 @@ const neighborhoodData = [
                 "address": "7105 Texhoma Avenue, Van Nuys, CA 91406",
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=7105+Texhoma+Avenue%2C+Van+Nuys%2C+CA+91406",
                 "original_hood": "Van Nuys"
-            },
-            {
-                "name": "Ulyssess S. Grant High School used as filming location in HBO show \u201cEuphoria\u201d",
-                "type": "landmark",
-                "address": "13000 Oxnard St, Van Nuys, CA 91401",
-                "lat": 34.177840014071,
-                "lng": -118.415299979232,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=13000%20Oxnard%20St%2C%20Van%20Nuys%2C%20CA%2091401",
-                "original_hood": "Van Nuys"
             }
         ]
     },
@@ -26708,7 +27066,7 @@ const neighborhoodData = [
                 "original_hood": "Venice"
             },
             {
-                "name": "513 Rose Ave, Venice, CA 90291 \u2014 Venice Flake",
+                "name": "513 Rose Ave, Venice, CA 90291 — Venice Flake",
                 "type": "landmark",
                 "address": "513 Rose Ave, Venice, California, 90291",
                 "lat": 33.998402033,
@@ -26750,6 +27108,15 @@ const neighborhoodData = [
                 "lat": 33.9915,
                 "lng": -118.4715,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9915,-118.4715",
+                "original_hood": "Venice"
+            },
+            {
+                "name": "Dennis Hopper’s last house",
+                "type": "landmark",
+                "address": "330 Indiana Ave, Venice, CA 90291",
+                "lat": 33.994035438632,
+                "lng": -118.473162855242,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=330%20Indiana%20Ave%2C%20Venice%2C%20CA%2090291",
                 "original_hood": "Venice"
             },
             {
@@ -26807,12 +27174,30 @@ const neighborhoodData = [
                 "original_hood": "Venice"
             },
             {
-                "name": "John Baldessari\u2019s former Venice studio",
+                "name": "Jim Morrison's Venice Residence",
+                "type": "pop-culture",
+                "address": "35 2nd Ave, Venice, CA 90291",
+                "lat": 33.9925,
+                "lng": -118.4712,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=35+2nd+Ave,+Venice,+CA+90291",
+                "original_hood": "Venice"
+            },
+            {
+                "name": "John Baldessari’s former Venice studio",
                 "type": "landmark",
                 "address": "702 6th Ave, Venice, CA 90291, USA",
                 "lat": 33.99689499999999,
                 "lng": -118.46959,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.99689499999999,-118.46959",
+                "original_hood": "Venice"
+            },
+            {
+                "name": "Margot Robbie’s Venice Beach Cottage",
+                "type": "landmark",
+                "address": "650 Sunset Ave, Venice, CA 90291",
+                "lat": 33.998385017737,
+                "lng": -118.468703682753,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=650%20Sunset%20Ave%2C%20Venice%2C%20CA%2090291",
                 "original_hood": "Venice"
             },
             {
@@ -26938,33 +27323,6 @@ const neighborhoodData = [
                 "lat": 33.9873429,
                 "lng": -118.4733295,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.9873429,-118.4733295",
-                "original_hood": "Venice"
-            },
-            {
-                "name": "Jim Morrison's Venice Residence",
-                "type": "pop-culture",
-                "address": "35 2nd Ave, Venice, CA 90291",
-                "lat": 33.9925,
-                "lng": -118.4712,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=35+2nd+Ave,+Venice,+CA+90291",
-                "original_hood": "Venice"
-            },
-            {
-                "name": "Margot Robbie\u2019s Venice Beach Cottage",
-                "type": "landmark",
-                "address": "650 Sunset Ave, Venice, CA 90291",
-                "lat": 33.998385017737,
-                "lng": -118.468703682753,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=650%20Sunset%20Ave%2C%20Venice%2C%20CA%2090291",
-                "original_hood": "Venice"
-            },
-            {
-                "name": "Dennis Hopper\u2019s last house",
-                "type": "landmark",
-                "address": "330 Indiana Ave, Venice, CA 90291",
-                "lat": 33.994035438632,
-                "lng": -118.473162855242,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=330%20Indiana%20Ave%2C%20Venice%2C%20CA%2090291",
                 "original_hood": "Venice"
             }
         ]
@@ -27265,7 +27623,7 @@ const neighborhoodData = [
                 "original_hood": "Vernon"
             },
             {
-                "name": "Tapat\u00edo Hot Sauce Headquarters",
+                "name": "Tapatío Hot Sauce Headquarters",
                 "type": "landmark",
                 "address": "4685 District Blvd, Vernon, California, 90058",
                 "lat": 33.999982859939,
@@ -27487,6 +27845,14 @@ const neighborhoodData = [
                 "original_hood": "Watts"
             },
             {
+                "name": "Watts Towers (HCM #15)",
+                "type": "landmark",
+                "address": "1717 E 107th St, Los Angeles, CA 90002",
+                "lat": 33.93874,
+                "lng": -118.24105,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.93874,-118.24105"
+            },
+            {
                 "name": "Watts Towers (Simon Rodia)",
                 "type": "landmark",
                 "address": "1765 East 107th Street, Los Angeles, CA 90002",
@@ -27494,14 +27860,6 @@ const neighborhoodData = [
                 "lng": -118.2414658,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=1765+East+107th+Street%2C+Los+Angeles%2C+CA+90002",
                 "original_hood": "Watts"
-            },
-            {
-                "name": "Watts Towers (HCM #15)",
-                "type": "landmark",
-                "address": "1717 E 107th St, Los Angeles, CA 90002",
-                "lat": 33.93874,
-                "lng": -118.24105,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=33.93874,-118.24105"
             }
         ]
     },
@@ -28348,7 +28706,7 @@ const neighborhoodData = [
                 "original_hood": "West Hollywood"
             },
             {
-                "name": "Nancy Thompson's House \u2014 A Nightmare on Elm Street",
+                "name": "Nancy Thompson's House — A Nightmare on Elm Street",
                 "type": "landmark",
                 "address": "1428 N Genesee Ave, Los Angeles, CA 90046",
                 "lat": 34.097089,
@@ -28356,7 +28714,7 @@ const neighborhoodData = [
                 "original_hood": "West Hollywood"
             },
             {
-                "name": "Nancy\u2019s House (A Nightmare on Elm Street)",
+                "name": "Nancy’s House (A Nightmare on Elm Street)",
                 "type": "landmark",
                 "address": "1106 N Genesee Ave, West Hollywood, California, 90046",
                 "lat": 34.0915,
@@ -29400,7 +29758,7 @@ const neighborhoodData = [
                 "original_hood": "Westlake / MacArthur Park"
             },
             {
-                "name": "Kike\u2019s Tacos",
+                "name": "Kike’s Tacos",
                 "type": "landmark",
                 "address": "W 2nd St & Beaudry Ave, Los Angeles, CA 90012",
                 "lat": 34.057957089533,
@@ -29409,7 +29767,7 @@ const neighborhoodData = [
                 "original_hood": "Westlake / MacArthur Park"
             },
             {
-                "name": "Langer\u2019s Deli",
+                "name": "Langer’s Deli",
                 "type": "landmark",
                 "address": "704 S Alvarado St, Los Angeles, CA 90057",
                 "lat": 34.056095217381,
@@ -29557,6 +29915,15 @@ const neighborhoodData = [
                 "original_hood": "Westlake / MacArthur Park"
             },
             {
+                "name": "The Granada Buildings, home to the Los Angeles Review of Books",
+                "type": "landmark",
+                "address": "672 S. La Fayette Park Place, Los Angeles, CA 90057",
+                "lat": 34.060495941998,
+                "lng": -118.283747858999,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=672%20S.%20La%20Fayette%20Park%20Place%2C%20Los%20Angeles%2C%20CA%2090057",
+                "original_hood": "Westlake / MacArthur Park"
+            },
+            {
                 "name": "The Hite Building / Aardvark Letterpress",
                 "type": "landmark",
                 "address": "2500 W 7th St, Los Angeles, CA 90057",
@@ -29592,21 +29959,12 @@ const neighborhoodData = [
                 "original_hood": "Westlake / MacArthur Park"
             },
             {
-                "name": "Tommy\u2019s Original",
+                "name": "Tommy’s Original",
                 "type": "landmark",
                 "address": "2575 Beverly Blvd, Los Angeles, CA 90057",
                 "lat": 34.069572898592,
                 "lng": -118.276284019591,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=2575%20Beverly%20Blvd%2C%20Los%20Angeles%2C%20CA%2090057",
-                "original_hood": "Westlake / MacArthur Park"
-            },
-            {
-                "name": "The Granada Buildings, home to the Los Angeles Review of Books",
-                "type": "landmark",
-                "address": "672 S. La Fayette Park Place, Los Angeles, CA 90057",
-                "lat": 34.060495941998,
-                "lng": -118.283747858999,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=672%20S.%20La%20Fayette%20Park%20Place%2C%20Los%20Angeles%2C%20CA%2090057",
                 "original_hood": "Westlake / MacArthur Park"
             }
         ]
@@ -30036,6 +30394,14 @@ const neighborhoodData = [
                 "original_hood": "Wilshire Center"
             },
             {
+                "name": "Bullocks Wilshire (HCM #56)",
+                "type": "landmark",
+                "address": "3050 Wilshire Blvd, Los Angeles, CA 90010",
+                "lat": 34.06161,
+                "lng": -118.28827,
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.06161,-118.28827"
+            },
+            {
                 "name": "Caribbean Apartments Sign",
                 "type": "landmark",
                 "address": "141 S Normandie Ave, Los Angeles, CA",
@@ -30223,14 +30589,6 @@ const neighborhoodData = [
                 "lng": -118.2994588,
                 "mapUrl": "https://www.google.com/maps/search/?api=1&query=3461+Wilshire+Blvd%2C+Los+Angeles%2C+CA+90010",
                 "original_hood": "Wilshire Center"
-            },
-            {
-                "name": "Bullocks Wilshire (HCM #56)",
-                "type": "landmark",
-                "address": "3050 Wilshire Blvd, Los Angeles, CA 90010",
-                "lat": 34.06161,
-                "lng": -118.28827,
-                "mapUrl": "https://www.google.com/maps/search/?api=1&query=34.06161,-118.28827"
             }
         ]
     },
@@ -30441,7 +30799,7 @@ const neighborhoodData = [
                 "original_hood": "Woodland Hills"
             },
             {
-                "name": "Neal Page\u2019s House (Planes, Trains and Automobiles)",
+                "name": "Neal Page’s House (Planes, Trains and Automobiles)",
                 "type": "landmark",
                 "address": "22770 Cass Ave",
                 "lat": 34.1595,
