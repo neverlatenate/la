@@ -36,13 +36,15 @@
 
     <style>
         :root {
-            --bg-color: #d6e8f7;
-            --surface: #c2d9ef;
-            --text-main: #0d1b2a;
-            --text-secondary: #3a5a7a;
-            --primary: #1a4b8c;
-            --accent: #1e6eb5;
-            --border: rgba(13, 27, 42, 0.15);
+            --bg-color: #FFF4DF;
+            --surface: #ffffff;
+            --text-main: #5A6870;
+            --text-secondary: rgba(90, 104, 112, 0.7);
+            --primary: #38C9BD;
+            --accent: #FFAC2F;
+            --highlight: #FF9EC2;
+            --secondary: #DDA4E9;
+            --border: rgba(90, 104, 112, 0.15);
         }
 
         /* Accessible focus styles */
@@ -82,14 +84,14 @@
         #map {
             flex-grow: 1;
             height: 100vh;
-            background: #c0d5eb;
+            background: var(--bg-color);
         }
 
         /* --- Sidebar Styles --- */
         .sidebar-header {
             padding: 1.5rem 1.5rem 1rem 1.5rem;
             border-bottom: 1px solid var(--border);
-            background: rgba(214, 232, 247, 0.97);
+            background: rgba(255, 244, 223, 0.97);
         }
 
         .logo {
@@ -198,13 +200,13 @@
 
         .location-item:hover {
             border-color: var(--border);
-            background: rgba(30, 110, 181, 0.12);
+            background: rgba(56, 201, 189, 0.12);
             transform: translateX(4px);
         }
 
         .location-item.active {
             border-color: var(--primary);
-            background: rgba(26, 75, 140, 0.15);
+            background: rgba(56, 201, 189, 0.15);
         }
 
         .loc-name {
@@ -451,75 +453,85 @@
         let allLocations = [];
         let markerMap = new Map();
 
-        // Light blue + navy map style (matching NRK-inspired palette)
-        const darkMapStyle = [
-            { elementType: "geometry", stylers: [{ color: "#cfe0f0" }] },
-            { elementType: "labels.text.stroke", stylers: [{ color: "#d6e8f7" }] },
-            { elementType: "labels.text.fill", stylers: [{ color: "#1a4b8c" }] },
+        // Custom map style using the vibrant pastel palette
+        const customMapStyle = [
+            { elementType: "geometry", stylers: [{ color: "#FFF4DF" }] },
+            { elementType: "labels.text.stroke", stylers: [{ color: "#ffffff" }] },
+            { elementType: "labels.text.fill", stylers: [{ color: "#5A6870" }] },
             {
                 featureType: "administrative.locality",
                 elementType: "labels.text.fill",
-                stylers: [{ color: "#0d1b2a" }],
+                stylers: [{ color: "#5A6870" }],
             },
             {
                 featureType: "poi",
                 elementType: "labels.text.fill",
-                stylers: [{ color: "#1e6eb5" }],
+                stylers: [{ color: "#FF9EC2" }],
             },
             {
                 featureType: "poi.park",
                 elementType: "geometry",
-                stylers: [{ color: "#b8d4e8" }],
+                stylers: [{ color: "#DDA4E9" }],
             },
             {
                 featureType: "poi.park",
                 elementType: "labels.text.fill",
-                stylers: [{ color: "#2d6a4f" }],
+                stylers: [{ color: "#ffffff" }],
+            },
+            {
+                featureType: "poi.park",
+                elementType: "labels.text.stroke",
+                stylers: [{ color: "#DDA4E9" }],
             },
             {
                 featureType: "road",
                 elementType: "geometry",
-                stylers: [{ color: "#b0c8df" }],
+                stylers: [{ color: "#ffffff" }],
             },
             {
                 featureType: "road",
                 elementType: "geometry.stroke",
-                stylers: [{ color: "#9ab8d0" }],
+                stylers: [{ color: "#FFF4DF" }],
             },
             {
                 featureType: "road",
                 elementType: "labels.text.fill",
-                stylers: [{ color: "#3a5a7a" }],
+                stylers: [{ color: "#5A6870" }],
             },
             {
                 featureType: "road.highway",
                 elementType: "geometry",
-                stylers: [{ color: "#a8c4d8" }],
+                stylers: [{ color: "#FFAC2F" }],
             },
             {
                 featureType: "road.highway",
                 elementType: "geometry.stroke",
-                stylers: [{ color: "#8fb1c8" }],
+                stylers: [{ color: "#ffffff" }],
             },
             {
                 featureType: "road.highway",
                 elementType: "labels.text.fill",
-                stylers: [{ color: "#0d1b2a" }],
+                stylers: [{ color: "#ffffff" }],
+            },
+            {
+                featureType: "road.highway",
+                elementType: "labels.text.stroke",
+                stylers: [{ color: "#FFAC2F" }],
             },
             {
                 featureType: "water",
                 elementType: "geometry",
-                stylers: [{ color: "#4a90c4" }],
+                stylers: [{ color: "#38C9BD" }],
             },
             {
                 featureType: "water",
                 elementType: "labels.text.fill",
-                stylers: [{ color: "#1a4b8c" }],
+                stylers: [{ color: "#ffffff" }],
             },
             {
                 featureType: "water",
                 elementType: "labels.text.stroke",
-                stylers: [{ color: "#3a78b5" }],
+                stylers: [{ color: "#38C9BD" }],
             },
             // ── Hide all Google POI icons & labels so custom pins dominate ──
             {
@@ -576,7 +588,7 @@
             map = new google.maps.Map(document.getElementById('map'), {
                 zoom: 11,
                 center: { lat: 34.0522, lng: -118.2437 },
-                styles: darkMapStyle,
+                styles: customMapStyle,
                 mapTypeControl: false,
                 streetViewControl: false,
                 fullscreenControl: false
@@ -630,8 +642,12 @@
                         const cleanType = (loc.type || 'landmark').toLowerCase();
                         const typeClass = cleanType.includes('sub') ? 'type-subhood' : 'type-landmark';
 
-                        // Cyan/Blue for sub-hoods, Green for Landmarks
-                        const pinColor = cleanType.includes('sub') ? 'blue-dot.png' : 'green-dot.png';
+                        // Inline SVG markers using the exact hex codes
+                        const getSvgMarker = (color) => {
+                            const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 36" width="24" height="36"><path fill="${color}" d="M12 0C5.373 0 0 5.373 0 12c0 9 12 24 12 24s12-15 12-24c0-6.627-5.373-12-12-12zm0 17.5c-3.038 0-5.5-2.462-5.5-5.5S8.962 6.5 12 6.5s5.5 2.462 5.5 5.5-2.462 5.5-5.5 5.5z"/></svg>`;
+                            return 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(svg);
+                        };
+                        const markerIcon = cleanType.includes('sub') ? getSvgMarker('#38C9BD') : getSvgMarker('#FFAC2F');
 
                         hoodHTML += `
                             <div class="location-item" id="sidebar-${locId}"
@@ -671,7 +687,7 @@
                         if (loc.lat && loc.lng) {
                             const marker = new google.maps.Marker({
                                 position: { lat: loc.lat, lng: loc.lng },
-                                icon: iconBase + pinColor,
+                                icon: markerIcon,
                                 title: loc.name
                             });
 
