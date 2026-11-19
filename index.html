@@ -1815,6 +1815,27 @@
   .then a:hover {
     text-decoration-thickness: 2px
   }
+
+  /* ---------- the guided tour: a captioned video with chapter links */
+  .tour { padding-block: 36px 40px; border-bottom: 1px solid var(--rule); display: grid; grid-template-columns: minmax(0, 1fr); gap: 18px 40px }
+  @media (min-width:860px) { .tour { grid-template-columns: minmax(0, 2.1fr) minmax(0, .9fr); align-items: start } }
+  .tour-head { grid-column: 1 / -1; display: flex; flex-direction: column; gap: 8px }
+  .tour h2 { font-family: var(--display); font-weight: 600; color: var(--cover); font-size: clamp(1.8rem, 3.6vw, 2.5rem); line-height: 1.1; margin: 0; text-wrap: balance }
+  .tour-lede { margin: 0; font-size: 1.15rem; line-height: 1.5; max-width: 40rem }
+  .tour video { display: block; width: 100%; aspect-ratio: 16 / 9; height: auto; background: #fff; border: 1px solid var(--rule); border-radius: 6px }
+  .tour video::cue { font-family: var(--sans); line-height: 1.35 }
+  .chapters h3 { margin: 0 0 8px; font-family: var(--sans); font-weight: 600; font-size: .86rem; letter-spacing: .16em; text-transform: uppercase; color: var(--muted) }
+  .chapters ol { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; border-top: 1px solid var(--rule) }
+  .chapters li { border-bottom: 1px solid var(--rule) }
+  .chapters button { width: 100%; display: flex; gap: 14px; align-items: baseline; text-align: left; background: none; border: 0; padding: 10px 6px; cursor: pointer;
+    font-family: var(--serif); font-size: 1.12rem; line-height: 1.3; color: var(--ink) }
+  .chapters button:hover { background: var(--label-wash) }
+  .chapters .t { font-family: var(--sans); font-weight: 600; font-size: .92rem; color: var(--muted); font-variant-numeric: tabular-nums; min-width: 2.8em }
+  .chapters button[aria-current="true"] { font-weight: 650 }
+  .chapters button[aria-current="true"] .t { color: var(--label) }
+  .chapters button[aria-current="true"]::after { content: "Now playing"; margin-left: auto; font-family: var(--sans); font-weight: 700; font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: var(--label); white-space: nowrap }
+  .tour-more { margin: 14px 0 0; font-family: var(--sans); font-size: .95rem }
+  .tour-more a { font-weight: 600; text-underline-offset: 3px }
 </style>
 <nav class="util" aria-label="Parts of the book">
   <div class="in">
@@ -1847,6 +1868,31 @@
       <p id="editionText"></p>
     </div>
   </header>
+  <section class="tour" aria-labelledby="tourH">
+    <div class="tour-head">
+      <p class="runhead">A guided tour · 6½ minutes</p>
+      <h2 id="tourH">How to find your way around the A to Z</h2>
+      <p class="tour-lede">A short video tour of the book: how to search, browse by letter, move between Part One and Part Two, and read an entry. Captions are on; choose a chapter to jump to it.</p>
+    </div>
+    <video id="tourV" controls preload="metadata" playsinline poster="la-tutorial-poster.jpg" aria-describedby="tourH">
+      <source src="la-tutorial.mp4" type="video/mp4">
+      <track kind="captions" src="la-tutorial.en.vtt" srclang="en" label="English" default>
+      <track kind="chapters" src="la-tutorial.chapters.vtt" srclang="en" label="Chapters">
+      <p>Your browser can’t play this video. You can <a href="la-tutorial.mp4">download it</a> or <a href="la-tutorial-transcript.txt">read the transcript</a>.</p>
+    </video>
+    <nav class="chapters" aria-label="Video chapters">
+      <h3>Chapters</h3>
+      <ol>
+          <li><button type="button" data-t="7.07"><span class="t">0:07</span><span>Welcome</span></button></li>
+          <li><button type="button" data-t="48.73"><span class="t">0:48</span><span>The opening screen</span></button></li>
+          <li><button type="button" data-t="99.93"><span class="t">1:39</span><span>Part One: The A to Z of Placenames</span></button></li>
+          <li><button type="button" data-t="174.17"><span class="t">2:54</span><span>Part Two: The A to Z of Places</span></button></li>
+          <li><button type="button" data-t="244.13"><span class="t">4:04</span><span>Reading an entry</span></button></li>
+          <li><button type="button" data-t="325.9"><span class="t">5:25</span><span>Getting around, and accessibility</span></button></li>
+      </ol>
+      <p class="tour-more"><a href="la-tutorial-transcript.txt">Read the transcript</a></p>
+    </nav>
+  </section>
   <section class="intro" aria-labelledby="introH">
     <div class="intro-top">
       <div>
@@ -2489,5 +2535,28 @@
     }
     addEventListener('scroll', () => { if (!queued) { queued = true; requestAnimationFrame(spy); } }, { passive: true });
     spy();
+  })();
+</script>
+
+<script>
+  /* Guided tour: captions start on; chapter buttons jump the video and mark the chapter now playing */
+  (function () {
+    const v = document.getElementById('tourV'); if (!v) return;
+    const btns = [...document.querySelectorAll('.chapters button[data-t]')];
+    function captionsOn() { const t = [...v.textTracks].find(t => t.kind === 'captions' || t.kind === 'subtitles'); if (t && t.mode !== 'showing') t.mode = 'showing'; }
+    let started = false;   // turn captions on once; after that the viewer's own choice stands
+    v.addEventListener('loadedmetadata', () => { if (!started) captionsOn(); });
+    v.addEventListener('play', () => { if (!started) { started = true; captionsOn(); } });
+    btns.forEach(b => b.addEventListener('click', () => {
+      v.currentTime = +b.dataset.t;
+      const p = v.play(); if (p && p.catch) p.catch(() => {});
+      v.focus({ preventScroll: true });
+    }));
+    function mark() {
+      let cur = null; btns.forEach(b => { if (v.currentTime + 0.25 >= +b.dataset.t) cur = b; });
+      if (v.currentTime < 1 && v.paused) cur = null;
+      btns.forEach(b => { if (b === cur) b.setAttribute('aria-current', 'true'); else b.removeAttribute('aria-current'); });
+    }
+    v.addEventListener('timeupdate', mark); v.addEventListener('seeked', mark);
   })();
 </script>

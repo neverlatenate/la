@@ -1,0 +1,81 @@
+L.A. Lasts A Lifetime — a guided tour
+Transcript of the video tutorial
+https://neverlatenate.github.io/la/
+
+Welcome to L.A. Lasts A Lifetime. This short tour shows you how to find your way around it.
+
+
+[0:07] WELCOME TO L.A. LASTS A LIFETIME
+
+L.A. Lasts A Lifetime is an A to Z encyclopedia of Los Angeles County, from Acton to Zuma. It describes 4,900 places: landmarks, buildings, restaurants, shops, murals, homes and more. It's organized like a reference book, in two parts. Part One, the A to Z of Placenames, lists the names of areas: neighborhoods, cities, unincorporated communities, historic districts, and Historic Preservation Overlay Zones.
+
+Part Two, the A to Z of Places, is the main directory of individual places. In both parts, you can browse alphabetically or search for something specific.
+
+
+[0:48] EXPLORE THE OPENING SCREEN
+
+Let's start at the top. Beside the big number, the name of a featured place keeps changing. Point at it, and it holds still. Click it to read about that place.
+
+A preview card shows the place's name, its neighborhood, its book number, and a short account. Below is a sample of names from the book. Choose any one, and its preview appears in the card. To read the whole entry, select See it in the book.
+
+The site opens Part Two at that entry and briefly highlights it. To come back, use the round arrow button in the lower right corner. It returns you to the top of the page. Not sure where to start?
+
+Try the Surprise me button. Each press introduces a different place from the collection. Show 200 more names deals out a fresh sample of names. And Start at A takes you to the beginning of Part Two.
+
+
+[1:39] PART ONE: THE A TO Z OF PLACENAMES
+
+To reach Part One, select Part one in the bar at the top of the screen. Part One has six lists: the full A to Z of area names, L.A. City neighborhoods, incorporated cities, unincorporated areas, historic districts, and HPOZs. The number on each button tells you how many names are in that list. Select a button to switch lists.
+
+Here are the county's 88 incorporated cities. The line under the letters confirms the count. The row of letters jumps straight to a letter. Letters in light gray have nothing listed under them.
+
+Under each name, capital letters tell you what kind of place it is, and which region of the county it's in. To find a particular area, type in the search box. I'll type Echo Park. Echo Park isn't a city, so nothing matches in this list.
+
+But the number on each button shows where it can be found. I'll select the A to Z. Now look beside the name: a number and an arrow. That's how many places in Part Two belong to this area: 119 for Echo Park.
+
+Select it, and you jump straight to Part Two, showing only those places. Find an area in Part One, then explore what's there in Part Two.
+
+
+[2:54] PART TWO: THE A TO Z OF PLACES
+
+At the top, a chip shows the filter you're using, and the line beneath it says how many places were found. To remove a filter, select the small x on its chip. Now the whole directory is back: all 4,900 places. To search by name, type in the search box.
+
+Results update as you type. If nothing matches, the site tells you. Check the spelling, or try fewer words. Watts has two t's.
+
+Now we've found Watts Towers. Reset filters clears everything and returns you to the full directory. The letter bar works here, too. Select Z to jump to the places at the end of the alphabet.
+
+To see one neighborhood or city, use the box marked All areas. It lists every area, with its number of places. Start typing to narrow the choices. I'll type K, O, R.
+
+Use the arrow keys or the mouse to pick an area, then press Enter. Here is Koreatown, with 94 places. You can combine a search with an area. Typing Wilshire finds the places whose address or description mentions Wilshire.
+
+Fourteen places in Koreatown match.
+
+
+[4:04] UNDERSTANDING AN INDIVIDUAL ENTRY
+
+Let's read one entry closely: the Ambassador Hotel. First comes the name. Below it, in orange capitals, is the neighborhood: Koreatown. On the right is the entry's book number, A-092.
+
+Next is a short account of the place and why it matters. Then comes the street address. Select it, and the location opens in Google Maps, in a new tab. A small slanted arrow after a link means it leaves this website.
+
+This label says Demolished: the hotel is gone. The note that begins with Now, in italics, tells you what stands on the site today. Some entries have a See it then link. It opens a historical photograph on Martin Turnbull's website, also in a new tab.
+
+At the bottom is the category: here, Historic Site. Other labels you'll see include Closed, Probably closed, Partly closed, Site only, Renamed, Moved, New use, and Damaged or Lost in the 2025 fires. Each one is spelled out in words. A place with no label isn't guaranteed to be open, so it's worth checking before you visit.
+
+Some addresses are marked Locator. They give cross streets or a general location, not an exact street number. A few addresses are marked unverified, and the street addresses of some private homes are deliberately left out.
+
+
+[5:25] NAVIGATION AND ACCESSIBILITY
+
+As you scroll, a bar stays at the top of the screen. The underline shows which part you're in. Beside it are the number of places showing, and a Reset filters button. In the letter bar, a dark square marks the letter you're reading.
+
+Everything also works from the keyboard. Press Tab to move from one control to the next. A dark outline shows where you are. In the area box, the up and down arrow keys move through the list.
+
+Escape closes it. Type a few letters, and Enter chooses an area. On a phone, the page rearranges itself into a single column with larger text. The search box, the area box, and the letter bar sit together at the top, so you can search and browse with your thumb.
+
+If your device is set to reduce motion, the site respects that. The opening number doesn't count up, the featured name stays still, and jumps happen instantly, without gliding. And if your device uses dark mode, the site follows it.
+
+
+[6:25] CLOSING
+
+From Acton to Zuma, there's a lot to discover. Start exploring L.A. Lasts A Lifetime.
+
