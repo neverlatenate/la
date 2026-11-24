@@ -412,6 +412,18 @@ body.util-on .util{transform:none;visibility:visible;transition:transform .18s e
 .mtools button{width:42px;height:42px;border-radius:8px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);font:700 1.25rem/1 var(--sans);cursor:pointer;box-shadow:0 1px 6px rgba(0,0,0,.14);padding:0}
 .mtools #mFit{font-size:.78rem;letter-spacing:.06em;text-transform:uppercase}
 .mtools button:hover{border-color:var(--ink)}
+/* full screen (2026-11-24): the map fills the screen; the browser's own full screen where allowed, otherwise pinned over the page */
+.mtools .mfs svg{display:block;margin:auto}
+.mapbox.mfull{position:fixed;inset:0;z-index:50;height:auto!important;width:auto;max-width:none;margin:0;border:0;border-radius:0}
+.mapbox.mfull canvas{touch-action:none!important}
+.mapbox.mfull canvas:focus-visible{border-radius:0}
+.mapbox.mfull .mtools{top:calc(10px + env(safe-area-inset-top,0px));right:calc(10px + env(safe-area-inset-right,0px))}
+.mapbox.mfull .mpop{bottom:calc(10px + env(safe-area-inset-bottom,0px));left:calc(10px + env(safe-area-inset-left,0px))}
+.mapbox.mfull .mcard{position:absolute;z-index:3;left:calc(10px + env(safe-area-inset-left,0px));right:calc(10px + env(safe-area-inset-right,0px));bottom:calc(10px + env(safe-area-inset-bottom,0px));max-height:46%;min-height:0;overflow:auto;border:1px solid var(--rule);box-shadow:0 8px 28px rgba(0,0,0,.24)}
+@media (min-width:600px){.mapbox.mfull .mcard{right:auto;width:min(380px,calc(100% - 20px))}}
+.mapbox.mfull .mcard:has(.mhint){display:none}
+.mapbox:fullscreen{width:100%;height:100%}
+html.mfs-on,html.mfs-on body{overflow:hidden}
 .mtip{position:absolute;z-index:2;pointer-events:none;max-width:min(300px,80%);background:var(--ink);color:var(--paper);font:600 .82rem/1.3 var(--sans);padding:5px 9px;border-radius:5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .mtip small{font-weight:500;opacity:.8;margin-left:6px;letter-spacing:.06em;text-transform:uppercase;font-size:.68rem}
 .mside{display:flex;flex-direction:column;gap:14px;min-width:0}
@@ -459,6 +471,7 @@ body.util-on .util{transform:none;visibility:visible;transition:transform .18s e
           <button type="button" id="iZoomIn" aria-label="Zoom in">+</button>
           <button type="button" id="iZoomOut" aria-label="Zoom out">&minus;</button>
           <button type="button" id="iFit" class="mfit" aria-label="Bring the map back to the crowded middle of the county">Reset</button>
+          <button type="button" id="iFull" class="mfs" aria-pressed="false" aria-label="Show the map full screen" title="Full screen"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
         </div>
         <div class="mtip" id="iTip" hidden></div>
         <div class="pick mpop" id="iPop" hidden></div>
@@ -586,6 +599,7 @@ body.util-on .util{transform:none;visibility:visible;transition:transform .18s e
           <button type="button" id="mZoomIn" aria-label="Zoom in">+</button>
           <button type="button" id="mZoomOut" aria-label="Zoom out">&minus;</button>
           <button type="button" id="mFit" aria-label="Fit the map to the places shown">Fit</button>
+          <button type="button" id="mFull" class="mfs" aria-pressed="false" aria-label="Show the map full screen" title="Full screen"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
         </div>
         <div class="mtip" id="mTip" hidden></div>
       </div>
@@ -1554,6 +1568,37 @@ body.util-on .util{transform:none;visibility:visible;transition:transform .18s e
   function mapRefresh(n, instant){ pm.refresh(n, instant); }
   const im = makeMap({follow: false, cv: $('iMapCv'), box: $('iMapBox'), tip: $('iTip'), say: $('iSay'), pop: $('iPop'), zin: $('iZoomIn'), zout: $('iZoomOut'), fit: $('iFit'), reveal: 2400});
   im.start();
+  // Full screen (2026-11-24): a button on each map. Where the browser allows it the map uses real full screen; where it does not
+  // (iPhone, some app views) the map is pinned over the whole window instead. The same button, or Esc, brings it back.
+  // The Part Two map's place card moves onto the map while it is full screen, then back beside it.
+  function fsMap(box, btn, card){
+    const icon = btn.innerHTML, iconOff = icon.replace('M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5', 'M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5');
+    const cardHome = card && card.parentNode, cardNext = card && card.nextSibling;
+    let on = false, api = false;
+    function set(v){
+      if (v === on) return; on = v;
+      box.classList.toggle('mfull', on); document.documentElement.classList.toggle('mfs-on', on);
+      btn.setAttribute('aria-pressed', String(on)); btn.setAttribute('aria-label', on ? 'Exit full screen' : 'Show the map full screen');
+      btn.title = on ? 'Exit full screen' : 'Full screen'; btn.innerHTML = on ? iconOff : icon;
+      if (card) { if (on) box.appendChild(card); else cardHome.insertBefore(card, cardNext); }
+      if (on) { const c = box.querySelector('canvas'); if (c) c.focus({preventScroll: true}); }
+    }
+    function leave(){
+      const was = api; api = false;
+      if (was && document.fullscreenElement) { try { document.exitFullscreen().catch(() => {}); } catch (_) {} }
+      set(false); btn.focus({preventScroll: true});
+    }
+    btn.addEventListener('click', () => {
+      if (on) return leave();
+      set(true);
+      try { const r = box.requestFullscreen && box.requestFullscreen(); if (r && r.then) r.then(() => { api = true; }, () => {}); } catch (_) {}
+    });
+    document.addEventListener('fullscreenchange', () => { if (api && !document.fullscreenElement) { api = false; set(false); } });
+    document.addEventListener('keydown', e => { if (on && e.key === 'Escape' && !e.defaultPrevented) { e.preventDefault(); leave(); } });
+    box.addEventListener('click', e => { if (on && e.target.closest('#mGo, .pgo')) leave(); }, true);   // going to the entry closes full screen first
+  }
+  fsMap($('iMapBox'), $('iFull'));
+  fsMap($('mapBox'), $('mFull'), $('mCard'));
   { const kc = [0, 0, 0]; MP.forEach(x => { kc[x.mc]++; }); [0, 1, 2].forEach(i => { $('iKey' + i).textContent = fmt(kc[i]); }); }
 
   render();
