@@ -2,7 +2,7 @@
 
 **Landmark & Address Index · Los Angeles County, A to Z**
 
-L.A. Lasts A Lifetime is an alphabetical index of exactly 4,900 places in Los Angeles County: landmarks, neighborhoods, businesses, and houses both famous and ordinary. Each entry gives the place's name, where it is, and a short account of why it matters. It runs from A to Zuma Beach.
+L.A. Lasts A Lifetime is an alphabetical index of exactly 5,555 places in Los Angeles County: landmarks, neighborhoods, businesses, and houses both famous and ordinary. Each entry gives the place's name, where it is, and a short account of why it matters. It runs from A to Zuma Beach.
 
 Los Angeles is often called "72 suburbs in search of a city." This index doesn't try to settle that argument. It writes down the addresses.
 
