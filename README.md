@@ -10,36 +10,33 @@ Los Angeles is often called "72 suburbs in search of a city." This index doesn't
 
 > This is a working draft. The full A–Z is being prepared for launch, and the pages here are still in progress.
 
----
+**1. Purpose & Core Flows**
+L.A. Lasts A Lifetime is a searchable, map-backed digital gazetteer of 5,555 places across Los Angeles County, spanning Acton to Zuma. Its user experience is structured like a two-part reference book with interactive wayfinding:
+Cover & Front Matter (header.cover, section.intro, section.howto): Pairs an interstate-sign hero title block (.bigsign) with an interactive county-wide dot map (#iMapCv) over 270 L.A. Times Mapping L.A. boundaries, a cycling place spotlight (#flick), a featured random-entry card (#pick), a clickable wall of ~200 place names (#names), and a visual reading legend.
 
-## How the index works
+Part One — The A to Z of Placenames (#viewAreas): An index of L.A. County neighborhoods, cities, unincorporated communities, historic districts, and HPOZs. Users filter by category pills (#atabs), search (#aq), jump via an A–Z letter rail (#arail), expand collapsible neighborhood profiles (details.pf), or download a 11-page PDF companion (la_regional_directory.pdf).
 
-- **4,900 places, A to Z.** The count is fixed, and Zuma Beach is the last entry.
-- **Filing.** Names that begin with "The" file under the word that follows. There is no # section; every place files under a letter.
-- **Addresses.** Homes of living people are included without a street address. Noteable private homes are listed with their street addresses, if a well-known person once lived there, the house is a landmark, or it is simply a house worth knowing, but with a caveat. The caveat for private homes is do not knock on their doors, trespass on their property, or do anything else that might disturb the residents. 
-- **See it then.** Where a vintage photograph exists, the entry links to it on [Martin Turnbull's](https://martinturnbull.com) site of historic Hollywood and Los Angeles images.
-- **Sourcing.** Entries are checked claim by claim. When a source contradicts an entry, the entry is corrected. Some details are still unconfirmed and are being checked.
+Part Two — The A to Z of Places (#viewPlaces): The primary 5,555-entry gazetteer. A sticky filter bar (div.finder) combines full-text search (#q), a custom ARIA combobox for filtering by area (#areaBox / #areaList), a List/Map segmented switch (#vseg), an A–Z jump rail (#rail), and removable filter chips (#chips). Users browse either a two-column editorial spread (main#book) or an interactive dot map (section#mapView) with status-coded markers and preset topic pills (#mtry).
 
-## Corrections
+Persistent Wayfinding & Back Matter: A scroll-triggered fixed utility bar (nav.util) and back-to-top button (#totop) provide quick part switching and filter resets, leading down to the colophon (section.about) and Terms of Service (section.tos).
 
-Los Angeles is a lot of city. If you spot a wrong address, a wrong date, or a place that has closed, please [open an issue](https://github.com/neverlatenate/la/issues) with the entry name and, if you have one, a source.
 
-## Under the hood
+**2. Technical Architecture**
+Stack: Zero-dependency, single-file architecture (index.html) combining semantic HTML, inline CSS, embedded JSON datasets (<script type="application/json" id="areas"> and #data), and vanilla ES6+ JavaScript.
 
-Plain HTML, CSS, and JavaScript with no build step, hosted on GitHub Pages.
+CSS Strategy: Driven by semantic CSS custom properties (--paper, --ink, --muted, --label, status tokens --gone / --shift / --maybe, --sign, and map tokens --m0–--m2). Supports automatic OS dark mode via @media (prefers-color-scheme: dark) plus manual [data-theme="light"|"dark"] overrides, fluid clamp() typography, and env(safe-area-inset-*) notch padding.
 
-- `neighborhoods_data.js`: places grouped by neighborhood, with name, type, address, coordinates, and a Google Maps link
-- `neighborhoods_descriptions.js`: entry text, keyed by neighborhood and place
-- `neighborhoods.min.js` and `descriptions.min.js`: compressed copies of the two data files; these are what the pages load, so edits to the readable files need to be re-minified before they show up on the site
-- `index2.html`: interactive map of the places (draft)
+Layout & Rendering: Uses CSS Grid for the cover, intro, and map views; Flexbox for toolbars and rails; CSS multi-column layout (columns: 2 at 700px, columns: 3 at 1100px) for print-like book spreads; and custom HTML5 <canvas> rendering for both dot maps.
 
-## Credits
+
+**3. Existing Visual Voice**
+Editorial Book Meets Caltrans Freeway Signage: The visual identity juxtaposes classic reference-book typography with Southern California highway wayfinding.
+
+Typography: Newsreader (an optical-size editorial serif) sets display titles and entry prose; Overpass (modeled on FHWA Highway Gothic) sets neighborhood headers, addresses, tags, and A–Z rails; Overpass Mono sets tabular entry IDs (A-001) and large counters (5,555).
+
+Palette & Rhythm: Crisp white/newsprint ground (#ffffff / #f5f2ed), warm charcoal ink (#24211e), burnt-terracotta index accents (#b5472a), and interstate green (#0f6440) reserved for the cover plaque, intro hero card, and PDF badge. High-density print conventions—dotted tab leaders (.lead), 65ch reading measures, tabular numerals, and hanging punctuation—give the app unmistakable character.## Credits
 
 Compiled by **Jeremy Nathan Schulman**, educator and design historian · [nateschulman.com](https://nateschulman.com)
-
-"See it then" photographs: [Martin Turnbull](https://martinturnbull.com)
-
-
 
 📌 Project Overview
 Los Angeles is often described as "72 suburbs in search of a city." This project seeks to categorize that search. By documenting everything from the high-desert enclaves of the Antelope Valley to the historic HPOZs of South L.A., the Gazetteer provides a standardized, accessible resource for historians, designers, and urban explorers.
